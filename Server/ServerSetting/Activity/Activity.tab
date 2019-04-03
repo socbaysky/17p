@@ -1,0 +1,297 @@
+OpenServerDay	StartDateTime	EndDateTime	KeyName	Type	Desc	TimeFrameLimitGE	TimeFrameLimitLE	Param1	Param2	Param3	Param4	Param5	Param6	Param7	Param8	Param9	Param10	version_tx	version_vn	version_hk	version_xm	version_en	version_kor	version_th
+	2018-06-16-04-00-00	2030-06-19-04-00-00	DuanWuJie	DuanWuJie	端午节活动													1	1	1	1			
+	2016-06-25-03-59-59	2016-06-26-23-59-59	RechargeCardAct	RechargeCardAct														1	1	1	1			
+	2016-07-12-04-00-00	2016-07-16-23-59-59	DomainBattleAct	DomainBattleAct														1	1	1	1			
+	2016-07-17-04-00-00	2016-07-23-23-59-59	DomainBattleAct2	DomainBattleAct2														1	1	1	1			
+	2016-07-18-04-00-00	2016-08-05-23-59-59	ServerVipeExChange	ServerVipeExChange														1	1	1	1			
+	2016-08-09-00-00-00	2016-08-15-23-59-59	Qixi	Qixi														1	1	1	1			
+	2016-08-02-04-00-00	2016-08-11-23-59-59	VipAwardBoxExchange	VipAwardBoxExchange														1	1	1	1			
+OpenLevel49|1;OpenLevel49|3			GatherBox1	GatherBox	帮派庆典活动			49										1	1	1	1			
+OpenLevel59|1;OpenLevel59|3			GatherBox2	GatherBox	帮派庆典活动			59										1	1	1	1			
+OpenLevel69|1;OpenLevel69|3			GatherBox3	GatherBox	帮派庆典活动			69										1	1	1	1			
+OpenLevel79|1;OpenLevel79|3			GatherBox4	GatherBox	帮派庆典活动			79										1	1	1	1			
+OpenLevel89|1;OpenLevel89|3			GatherBox5	GatherBox	帮派庆典活动			89										1	1	1	1			
+OpenLevel99|1;OpenLevel99|3			GatherBox6	GatherBox	帮派庆典活动			99										1	1	1	1			
+OpenLevel109|1;OpenLevel109|3			GatherBox7	GatherBox	帮派庆典活动			109										1	1	1	1			
+OpenLevel119|1;OpenLevel119|3			GatherBox8	GatherBox	帮派庆典活动			119										1	1	1	1			
+OpenLevel129|1;OpenLevel129|3			GatherBox9	GatherBox	帮派庆典活动			129										1	1	1	1			
+OpenLevel139|1;OpenLevel139|3			GatherBox10	GatherBox	帮派庆典活动			139										1	1	1	1			
+OpenLevel149|1;OpenLevel149|3			GatherBox11	GatherBox	帮派庆典活动			149										1	1	1	1			
+OpenLevel159|1;OpenLevel159|3			GatherBox12	GatherBox	帮派庆典活动			159										1	1	1	1			
+	2016-12-11-00-00-00	2016-12-11-23-59-59	RechargeSumAct	RechargeSumAct	累计储值活动			Setting/Activity/RechargeSumActAward1.tab											1	1	1			
+	2016-12-14-00-00-00	2016-12-14-23-59-59	RechargeSumAct	RechargeSumAct	累计储值活动			Setting/Activity/RechargeSumActAward1.tab											1	1	1			
+	2016-12-18-00-00-00	2016-12-20-23-59-59	RechargeSumAct	RechargeSumAct	累计储值活动			Setting/Activity/RechargeSumActAward2.tab											1	1	1			
+	2016-07-18-04-00-00	2016-07-25-23-59-59	ConsumeSumAct	ConsumeSumAct	累计消耗活动													1	1	1	1			
+	2017-10-04-04-00-00	2017-10-06-23-59-59	ZhongQiuJie	ZhongQiuJie														1	1	1	1			
+	2016-09-24-00-01-00	2016-09-25-23-59-59	KinGatherBossHigh	KinGatherBossHigh														1	1	1	1			
+	2016-11-01-00-00-00	2016-11-01-23-59-59	RechargeCardActExt	RechargeCardActExt				100	100									1	1	1	1			
+	2018-4-12-00-00-00	2018-5-20-23-59-59	NewServerPrivilege	NewServerPrivilege	老玩家回归			2018/4/12										1	1	1	1			
+	2018-2-12-04-00-00	2018-3-2-23-59-59	ChouJiang	ChouJiang	抽奖活动													1	1	1	1			
+	2016-09-28-00-01-00	2016-09-28-23-59-59	KinGatherBossHigh	KinGatherBossHigh														1	1	1	1			
+	2016-9-30-04-00-00	2016-10-10-00-00-00	JinXiuShanHe	JinXiuShanHe														1	1	1	1			
+	2016-10-01-00-00-00	2030-10-02-04-00-00	SendBlessAct	SendBlessAct														1	1	1	1			
+	2016-10-04-00-00-00	2030-10-05-04-00-00	SendBlessAct	SendBlessAct														1	1	1	1			
+	2016-10-07-00-00-00	2030-10-08-04-00-00	SendBlessAct	SendBlessAct														1	1	1	1			
+	2017-4-29-04-00-00	2017-5-02-04-00-00	WeekendQuestion	WeekendQuestion	乱点鸳鸯谱													1	1	1	1			
+	2016-11-19-04-00-00	2016-11-21-04-00-00	IdiomsAct	IdiomsAct				Setting/Activity/Idioms/Award1.tab										1	1	1	1			
+	2016-12-12-04-00-00	2016-12-16-04-00-00	IdiomsAct	IdiomsAct				Setting/Activity/Idioms/Award1.tab												1				
+	2016-11-24-00-00-00	2016-12-01-23-59-59	ContinualRechargeAct	ContinualRechargeAct	连续储值活动															1				
+	2016-11-24-04-00-00	2016-11-29-04-00-00	GanEnAct	DuanWuJie	感恩节活动（港台）															1				
+	2016-11-24-04-00-00	2016-12-04-04-00-00	RechargeResetDou	RechargeResetDou																1				
+	2017-4-29-04-00-00	2030-5-02-04-00-00	DefendAct	DefendAct	缘定长相守													1	1	1	1			
+	2016-11-25-00-00-00	2016-11-25-23-59-59	CardPickReplaceSSAct1	CardPickReplaceSSAct				OpenDay52	20											1				
+	2016-11-26-00-00-00	2016-11-26-23-59-59	CardPickReplaceSSAct2	CardPickReplaceSSAct				OpenDay52	21											1				
+	2016-11-27-00-00-00	2016-11-27-23-59-59	CardPickReplaceSSAct3	CardPickReplaceSSAct				OpenDay52	22											1				
+	2017-12-25-04-00-00	2018-1-4-23-59-59	ChristmasGift	ChristmasGift	圣诞礼物													1	1	1	1			
+	2016-12-19-00-00-00	2016-12-19-23-59-59	CardPickReplaceSSAct1	CardPickReplaceSSAct		OpenLevel39|1	OpenDay720|3	OpenDay52	20											1				
+	2016-12-20-00-00-00	2016-12-20-23-59-59	CardPickReplaceSSAct2	CardPickReplaceSSAct		OpenLevel39|1	OpenDay720|3	OpenDay52	21											1				
+	2016-12-21-00-00-00	2016-12-21-23-59-59	CardPickReplaceSSAct3	CardPickReplaceSSAct		OpenLevel39|1	OpenDay720|3	OpenDay52	22											1				
+	2017-12-25-04-00-00	2018-1-4-23-59-59	NYSnowmanAct	NYSnowmanAct	元旦雪人													1	1	1	1			
+	2017-12-25-04-00-00	2018-1-4-23-59-59	NewYearChris	NewYearChris	许愿+礼盒													1						
+	2016-12-16-04-00-00	2016-12-17-04-00-00	RechargeAllDayCardAct	RechargeAllDayCardAct	每日礼包加码送活动			item|786|3;item|222|5												1				
+	2016-12-18-04-00-00	2016-12-19-04-00-00	RechargeAllDayCardAct	RechargeAllDayCardAct	每日礼包加码送活动			item|786|3;item|222|5												1				
+	2016-12-21-04-00-00	2016-12-22-04-00-00	RechargeAllDayCardAct	RechargeAllDayCardAct	每日礼包加码送活动			item|786|3;item|222|5												1				
+	2016-12-08-04-00-00	2016-12-09-04-00-00	YuanQi	DuanWuJie	元气礼包（港台）															1				
+	2016-12-12-04-00-00	2016-12-13-04-00-00	YuanQi	DuanWuJie	元气礼包（港台）															1				
+	2016-12-15-04-00-00	2016-12-16-04-00-00	YuanQi	DuanWuJie	元气礼包（港台）															1				
+	2016-12-19-04-00-00	2016-12-20-04-00-00	YuanQi	DuanWuJie	元气礼包（港台）															1				
+	2016-12-24-04-00-00	2017-1-3-23-59-59	DaXueZhang	DaXueZhang	打雪仗活动													1	1	1	1			
+	2018-9-04-04-00-00	2018-9-06-24-00-00	ServerCelebration3	GatherBox	全区全服庆典活动															1				
+	2018-9-4-04-00-00	2030-9-6-03-59-59	EverydayTarget1	DuanWuJie	每日目标额外奖励													1		1				
+	2016-12-21-04-00-00	2030-12-22-04-03-00	WinterAct	WinterAct	冬至活动													1						
+	2017-1-3-19-20-00	2017-1-3-19-35-00	LabaMessenger	LabaMessenger	腊八：刷新赏善罚恶使													1						
+	2017-1-3-00-00-00	2017-1-5-23-59-59	LabaRobber	LabaRobber	腊八：盗贼													1						
+	2018-1-24-04-00-00	2018-1-27-23-59-59	LabaFuben	LabaFuben	腊八：副本													1						
+	2018-1-23-04-00-00	2018-1-28-23-59-59	LabaAct	LabaAct	腊八：腊八粥													1						
+	2018-9-04-04-00-00	2018-9-21-24-00-00	RechargeResetDou	RechargeResetDou	重置首次储值双倍															1				
+	2017-3-11-00-00-00	2017-3-22-23-59-59	WishAct	WishAct	腊八节许愿树													1						
+	2017-11-16-10-00-00	2030-12-3-21-30-00	BiWuZhaoQin	BiWuZhaoQin	比武招亲	OpenLevel69|1	OpenDay720|3											1						
+	2017-1-21-00-00-00	2017-1-30-23-59-59	RechargeResetDou	RechargeResetDou	重置首次储值双倍														1					
+	2017-1-12-00-00-00	2017-1-12-23-59-59	CardPickReplaceSSAct1	CardPickReplaceSSAct				OpenDay52	21												1			
+	2017-1-13-00-00-00	2017-1-13-23-59-59	CardPickReplaceSSAct2	CardPickReplaceSSAct				OpenDay52	22												1			
+	2017-1-14-00-00-00	2017-1-14-23-59-59	CardPickReplaceSSAct3	CardPickReplaceSSAct				OpenDay52	20												1			
+	2018-2-11-04-00-00	2030-2-21-04-00-00	MonsterNianAct1	MonsterNianAct	新年:驱逐年兽													1	1	1	1			
+	2018-6-1-04-00-00	2018-6-16-03-59-59	NewYearLoginAct	NewYearLoginAct	登录领奖活动			Setting/Activity/LoginAwardsAct.tab										1	1	1	1			
+	2017-9-6-04-00-00	2017-9-21-03-59-59	NewYearLoginAct	NewYearLoginAct	登录领奖活动（TH）			Setting/Activity/LoginAwardsAct.tab																1
+	2017-9-8-04-00-00	2017-9-23-03-59-59	NewYearLoginAct	NewYearLoginAct	登入领奖活动（HK）			Setting/Activity/LoginAwardsAct.tab												1				
+	2018-2-12-04-00-00	2018-2-27-03-59-59	ReduceFatigueAct	ReduceFatigueAct	降低疲劳活动													1	1	1	1			
+	2017-1-28-00-00-00	2017-1-29-04-00-00	SendBlessActWord	SendBlessActWord	新年：祝福活动													1	1	1	1			
+	2017-2-1-00-00-00	2017-2-2-04-00-00	SendBlessActWord	SendBlessActWord	新年：祝福活动													1	1	1	1			
+	2017-2-5-00-00-00	2017-2-6-04-00-00	SendBlessActWord	SendBlessActWord	新年：祝福活动													1	1	1	1			
+	2017-1-25-04-00-00	2030-2-8-23-59-59	ShopAct	ShopAct	新年：特惠商品			ServerSetting/Activity/ShopActWares.tab										1	1	1	1			
+	2017-1-25-04-00-00	2030-2-8-23-59-59	RechargeNewyearGrowInvest	RechargeNewyearGrowInvest	新年：一本万利													1	1	1	1			
+	2017-1-25-04-00-00	2017-2-8-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	新年：新年大礼包（3级魂石任选）	OpenLevel39|1	OpenDay720|3	tbFirstAward										1	1	1	1			
+	2017-1-25-04-00-00	2017-2-8-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	新年：新年大礼包（4级魂石任选）			tbAward										1	1	1	1			
+	2018-2-13-04-00-00	2030-2-16-03-59-59	QingRenJie	QingRenJie	情人节活动													1	1	1	1			
+	2017-3-8-00-00-00	2017-3-8-23-59-59	CardPickReplaceSSAct10	CardPickReplaceSSAct				OpenDay128	18											1				
+	2017-3-9-00-00-00	2017-3-9-23-59-59	CardPickReplaceSSAct11	CardPickReplaceSSAct				OpenDay128	19											1				
+	2017-3-10-00-00-00	2017-3-10-23-59-59	CardPickReplaceSSAct12	CardPickReplaceSSAct				OpenDay128	17											1				
+	2017-3-8-00-00-00	2017-3-8-23-59-59	CardPickReplaceSSAct13	CardPickReplaceSSAct				OpenDay52	22											1				
+	2017-3-9-00-00-00	2017-3-9-23-59-59	CardPickReplaceSSAct14	CardPickReplaceSSAct				OpenDay52	20											1				
+	2017-3-10-00-00-00	2017-3-10-23-59-59	CardPickReplaceSSAct15	CardPickReplaceSSAct				OpenDay52	21											1				
+	2018-3-8-04-00-00	2018-3-11-03-59-59	WomensDay	WomensDay	武林知己印象签活动①②				1									1	1	1	1			
+	2018-3-8-04-00-00	2018-6-8-3-59-59	WomanAct	WomanAct	武林知己印象签活动③													1	1	1	1			
+	2018-3-8-04-00-00	2018-3-11-03-59-59	WomenDayFubenAct	WomenDayFubenAct	妇女节副本													1						
+	2017-5-19-00-00-00	2017-5-21-23-59-59	ArborDayCure	ArborDayCure	植树节 节流													1	1	1	1			
+	2017-4-2-04-00-00	2017-4-5-03-59-59	QingMingAct	QingMingAct	清明节													1						
+	2017-4-12-04-00-00	2017-5-12-04-00-00	RechargeResetDou	RechargeResetDou	重置首次储值双倍（开服满1周的伺服器可以参与活动）													1						
+	2017-4-18-04-00-00	2017-4-24-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	半年庆礼包（橙水晶）			tbAward													1			
+	2017-4-18-04-00-00	2017-4-24-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	半年庆礼包（紫水晶）			tbFirstAward													1			
+	2017-4-18-04-00-00	2017-4-24-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	半年庆礼包（蓝水晶）			tbThirdAward													1			
+	2017-5-5-00-00-00	2017-5-15-23-59-59	RechargeResetDou	RechargeResetDou	重置首次储值双倍（HK）															1				
+	2017-5-24-04-00-00	2030-5-31-04-00-00	ShopAct	ShopAct	越南：限时商品			ServerSetting/Activity/ShopActWares_VN.tab											1					
+	2017-5-24-04-00-00	2017-5-31-04-00-00	RechargeResetDou	RechargeResetDou	重置首次储值双倍（VN）														1					
+	2018-1-10-04-00-00	2030-2-11-23-59-59	ShopAct	ShopAct	XM：限时商品			ServerSetting/Activity/ShopActWares_XM.tab													1			
+	2017-5-26-04-00-00	2017-6-04-04-00-00	RechargeResetDou	RechargeResetDou	重置首次储值双倍（XM）																1			
+	2017-5-19-04-00-00	2030-5-22-04-00-00	LoverRecallAct	LoverRecallAct	往日情缘活动													1						
+	2017-6-16-12-00-00	2017-7-07-23-59-59	BeautyPageant	BeautyPageant	武林第一美女评选（开放59级时间轴的伺服器参与活动）													1						
+	2017-5-29-04-00-00	2017-6-11-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	周年庆礼包	OpenLevel39|1	OpenDay720|3	tbAward										1						
+	2017-5-29-04-00-00	2017-6-11-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	周年庆礼包			tbFirstAward										1						
+	2017-5-29-04-00-00	2017-6-11-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	周年庆礼包			tbThirdAward										1						
+	2017-5-29-04-00-00	2017-6-11-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	周年庆礼包			szFourthAward										1						
+	2017-6-18-20-30-00	2017-6-18-21-30-00	NpcBiWuZhaoQin	NpcBiWuZhaoQin	代言人比武招亲			2										1						
+	2017-6-11-20-30-00	2017-6-11-21-30-00	NpcBiWuZhaoQin	NpcBiWuZhaoQin	代言人比武招亲			1										1						
+	2017-6-2-00-00-00	2017-6-30-23-59-59	DaiYanRenAct	DaiYanRenAct	代言人活动			6020	6037									1						
+	2017-6-22-04-00-00	2017-6-30-23-59-59	RechargeResetDou	RechargeResetDou	重置首次储值双倍（开服满1周的伺服器可以参与活动）																			1
+	2017-6-22-04-00-00	2030-6-30-23-59-59	ShopAct	ShopAct	TH：限时商品			ServerSetting/Activity/ShopActWares_TH.tab																1
+	2017-6-16-00-00-00	2017-6-18-23-59-59	FathersDay	FathersDay	父亲节													1	1	1	1			
+	2018-9-4-04-00-00	2018-9-30-23-59-59	ShopAct	ShopAct	风动苍澜外装、天剑令			ServerSetting/Activity/ShopActWares_HK.tab												1				
+	2018-10-1-04-00-00	2018-10-5-23-59-59	ShopAct	ShopAct	浮光若梦外装上架			ServerSetting/Activity/ShopActWares_HK.tab												1				
+	2017-6-28-16-30-00	2017-7-8-23-59-59	RechargeResetDou	RechargeResetDou	重置首次储值双倍（HK）															1				
+	2019-1-28-04-00-00	2019-2-1-03-59-59	WuLinDaHuiActYuGao	WuLinDaHuiActYuGao	武林大会-预告	OpenLevel69|1	OpenDay720|999														1			
+	2019-2-1-04-00-00	2019-2-3-03-59-59	WuLinDaHuiActBaoMing	WuLinDaHuiActBaoMing	武林大会-报名	OpenLevel69|3	OpenDay720|999														1			
+	2019-2-3-04-00-00	2019-2-11-23-59-59	WuLinDaHuiAct	WuLinDaHuiAct	武林大会-正赛	OpenLevel69|5	OpenDay720|999														1			
+	2018-6-5-04-00-00	2018-6-11-23-59-59	CloseActBLBoss	CloseActBLBoss	关闭跨服名将													1						
+	2017-7-7-04-00-00	2030-7-12-23-59-59	ShopAct	ShopAct	园艺武器外装打折			ServerSetting/Activity/ShopActWares.tab	0	限时限购	Dress							1						
+	2017-7-14-04-00-00	2017-7-20-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏狂欢礼包（未开启69）	OpenLevel39|1	OpenDay720|3	tbAward										1						
+	2017-7-14-04-00-00	2017-7-20-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏狂欢礼包（开启69）			tbFirstAward										1						
+	2017-7-14-04-00-00	2017-7-20-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏狂欢礼包（开启89）			tbThirdAward										1						
+	2017-7-14-04-00-00	2017-7-20-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏庆典礼包（未开启69）	OpenLevel39|1	OpenDay720|3	tbAward										1						
+	2017-7-14-04-00-00	2017-7-20-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏庆典礼包（开启69）			tbFirstAward										1						
+	2017-7-14-04-00-00	2017-7-20-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏庆典礼包（开启89）			tbThirdAward										1						
+	2017-7-20-04-00-00	2017-7-27-23-59-59	RechargeNewyearGrowInvest	RechargeNewyearGrowInvest	盛夏：一本万利													1						
+	2017-9-15-04-00-00	2017-9-23-23-59-59	RechargeNewyearGrowInvest	RechargeNewyearGrowInvest	盛夏：一本万利（VN）														1					
+	2018-1-1-04-00-00	2018-1-7-23-59-59	RechargeNewyearGrowInvest	RechargeNewyearGrowInvest	一本万利·元旦													1						
+	2018-10-1-04-00-00	2018-10-7-23-59-59	RechargeNewyearGrowInvest	RechargeNewyearGrowInvest	一本万利·通宝													1		1				
+	2018-6-21-04-00-00	2018-6-27-23-59-59	RechargeNewyearGrowInvest	RechargeNewyearGrowInvest	一本万利·仲夏													1						
+	2017-7-13-04-00-00	2017-7-24-3-59-59	HouseDefend	HouseDefend	代言人家园活跃活动													1						
+	2017-7-27-04-00-00	2020-8-25-23-59-59	ShopAct	ShopAct	限时商品（天剑令打折）			ServerSetting/Activity/ShopActWares.tab										1						
+	2017-9-29-04-00-00	2017-10-6-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	神州大地礼包（未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward										1						
+	2017-9-29-04-00-00	2017-10-6-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	神州大地礼包（开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward										1						
+	2017-9-29-04-00-00	2017-10-6-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	神州大地礼包（开启89）	OpenLevel89|1	OpenDay720|3	tbThirdAward										1						
+	2017-9-29-04-00-00	2017-10-6-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	华夏风光礼包（未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward										1						
+	2017-9-29-04-00-00	2017-10-6-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	华夏风光礼包（开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward										1						
+	2017-9-29-04-00-00	2017-10-6-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	华夏风光礼包（开启89）	OpenLevel89|1	OpenDay720|3	tbThirdAward										1						
+	2017-9-29-04-00-00	2017-10-6-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	锦绣山河礼包（未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward										1						
+	2017-9-29-04-00-00	2017-10-6-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	锦绣山河礼包（开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward										1						
+	2017-9-29-04-00-00	2017-10-6-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	锦绣山河礼包（开启89）	OpenLevel89|1	OpenDay720|3	tbThirdAward										1						
+	2017-9-29-04-00-00	2017-10-6-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	如画江山礼包（未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward										1						
+	2017-9-29-04-00-00	2017-10-6-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	如画江山礼包（开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward										1						
+	2017-9-29-04-00-00	2017-10-6-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	如画江山礼包（开启89）	OpenLevel89|1	OpenDay720|3	tbThirdAward										1						
+	2017-9-15-04-00-00	2017-9-28-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏骄阳礼包（VN/未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward											1					
+	2017-9-15-04-00-00	2017-9-28-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏骄阳礼包（VN/开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward											1					
+	2017-9-15-04-00-00	2017-9-28-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏骄阳礼包（VN/开启89）	OpenLevel89|1	OpenLevel139|777	tbThirdAward											1					
+	2017-9-15-04-00-00	2017-9-28-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏苍翠礼包（VN/未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward											1					
+	2017-9-15-04-00-00	2017-9-28-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏苍翠礼包（VN/开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward											1					
+	2017-9-15-04-00-00	2017-9-28-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏苍翠礼包（VN/开启89）	OpenLevel89|1	OpenLevel139|777	tbThirdAward											1					
+	2017-9-15-04-00-00	2017-9-28-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏莲碧礼包（VN/未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward											1					
+	2017-9-15-04-00-00	2017-9-28-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏莲碧礼包（VN/开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward											1					
+	2017-9-15-04-00-00	2017-9-28-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏莲碧礼包（VN/开启89）	OpenLevel89|1	OpenLevel139|777	tbThirdAward											1					
+	2017-9-15-04-00-00	2017-9-28-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏蝉鸣礼包（VN/未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward											1					
+	2017-9-15-04-00-00	2017-9-28-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏蝉鸣礼包（VN/开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward											1					
+	2017-9-15-04-00-00	2017-9-28-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	盛夏蝉鸣礼包（VN/开启89）	OpenLevel89|1	OpenLevel139|777	tbThirdAward											1					
+OpenLevel39|1;OpenLevel39|30			HonorLevelRank1	HonorLevelRank	开服潜龙头衔冲榜活动			1										1						
+OpenLevel69|1;OpenLevel69|30			HonorLevelRank2	HonorLevelRank	开服倚天头衔冲榜活动			2										1						
+OpenLevel39|1;OpenLevel39|30			HonorLevelRank1	HonorLevelRank	开服潜龙头衔冲榜活动（VN）			1											1					
+OpenLevel69|1;OpenLevel69|30			HonorLevelRank2	HonorLevelRank	开服倚天头衔冲榜活动（VN）			2											1					
+OpenLevel39|1;OpenLevel39|30			HonorLevelRank1	HonorLevelRank	开服潜龙头衔冲榜活动（XM）			1													1			
+OpenLevel69|1;OpenLevel69|30			HonorLevelRank2	HonorLevelRank	开服倚天头衔冲榜活动（XM）			2													1			
+	2017-8-10-10-00-00	2017-8-16-10-00-00	RechargeNewYearBuyGift	RechargeNewYearBuyGift	母亲节礼包549（未开启69/TH）			tbAward																1
+	2017-8-10-10-00-00	2017-8-16-10-00-00	RechargeNewYearBuyGift	RechargeNewYearBuyGift	母亲节礼包549（开启69/TH）			tbFirstAward																1
+	2017-8-10-10-00-00	2017-8-16-10-00-00	RechargeNewYearBuyGift	RechargeNewYearBuyGift	母亲节礼包549（开启89/TH）			tbThirdAward																1
+	2017-8-10-10-00-00	2017-8-16-10-00-00	RechargeNewYearBuyGift	RechargeNewYearBuyGift	母亲节礼包169（未开启69/TH）	OpenLevel39|1	OpenDay720|3	tbAward																1
+	2017-8-10-10-00-00	2017-8-16-10-00-00	RechargeNewYearBuyGift	RechargeNewYearBuyGift	母亲节礼包169（开启69/TH）			tbFirstAward																1
+	2017-8-10-10-00-00	2017-8-16-10-00-00	RechargeNewYearBuyGift	RechargeNewYearBuyGift	母亲节礼包169（开启89/TH）			tbThirdAward																1
+	2017-8-25-10-00-00	2017-8-31-10-00-00	RechargeNewYearBuyGift	RechargeNewYearBuyGift	母亲节礼包549（未开启69/TH）	OpenLevel39|1	OpenDay720|3	tbAward																1
+	2017-8-25-10-00-00	2017-8-31-10-00-00	RechargeNewYearBuyGift	RechargeNewYearBuyGift	母亲节礼包549（开启69/TH）			tbFirstAward																1
+	2017-8-25-10-00-00	2017-8-31-10-00-00	RechargeNewYearBuyGift	RechargeNewYearBuyGift	母亲节礼包549（开启89/TH）			tbThirdAward																1
+	2017-8-25-10-00-00	2017-8-31-10-00-00	RechargeNewYearBuyGift	RechargeNewYearBuyGift	母亲节礼包169（未开启69/TH）	OpenLevel39|1	OpenDay720|3	tbAward																1
+	2017-8-25-10-00-00	2017-8-31-10-00-00	RechargeNewYearBuyGift	RechargeNewYearBuyGift	母亲节礼包169（开启69/TH）			tbFirstAward																1
+	2017-8-25-10-00-00	2017-8-31-10-00-00	RechargeNewYearBuyGift	RechargeNewYearBuyGift	母亲节礼包169（开启89/TH）			tbThirdAward																1
+	2017-8-28-04-00-00	2017-8-31-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	欣欣向荣礼包（开放99级/XM）			tbAward																
+	2017-8-28-04-00-00	2017-8-31-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	欣欣向荣礼包（开放69-89级/XM）			tbFirstAward																
+	2017-8-28-04-00-00	2017-8-31-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	一见倾心礼包（开放99级/XM）			tbAward																
+	2017-8-28-04-00-00	2017-8-31-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	一见倾心礼包（开放69-89级/XM）			tbFirstAward																
+	2017-8-27-04-00-00	2017-9-3-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	七夕节礼包（未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward										1	1	1	1	1	1	1
+	2017-8-27-04-00-00	2017-9-3-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	七夕节礼包（开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward										1	1	1	1	1	1	1
+	2017-8-27-04-00-00	2017-9-3-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	七夕节礼包（开启89）	OpenLevel89|1	OpenDay720|3	tbThirdAward										1	1	1	1	1	1	1
+	2017-8-27-04-00-00	2030-9-3-23-59-59	ShopAct	ShopAct	限时商品（武器外装打折）			ServerSetting/Activity/ShopActWares_1.tab										1						
+	2017-9-15-04-00-00	2017-9-23-04-00-00	RechargeResetDou	RechargeResetDou	重置首次储值双倍（VN）														1					
+	2018-3-11-04-00-00	2018-3-17-23-59-59	ShopAct	ShopAct	越南：新年外装和小白犬			ServerSetting/Activity/ShopActWares_VN.tab											1					
+	2018-4-1-04-00-00	2018-4-6-23-59-59	ShopAct	ShopAct	越南：丝路流纱染色谱			ServerSetting/Activity/ShopActWares_VN.tab											1					
+	2017-10-1-04-00-00	2017-10-8-23-59-59	ChangeFactionTime	ChangeFactionTime	特批转职（VN）														1					
+	2018-1-1-04-00-00	2017-1-7-23-59-59	ChangeFactionTime	ChangeFactionTime	特批转职（HK）	OpenLevel69|1	OpenDay720|3													1				
+	2017-9-19-04-00-00	2030-10-20-23-59-59	ShopAct	ShopAct	XM：限时商品			ServerSetting/Activity/ShopActWares_XM.tab													1			
+	2017-9-19-04-00-00	2017-10-2-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	情窦初开礼包（XM）			tbAward													1			
+	2017-9-19-04-00-00	2017-10-2-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	一见锺情礼包（XM）			tbAward													1			
+	2017-9-19-04-00-00	2017-10-2-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	情意绵绵礼包（XM）			tbAward													1			
+	2017-9-19-04-00-00	2017-10-2-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	百年好合礼包（XM）			tbAward													1			
+	2017-9-26-04-00-00	2017-10-4-04-00-00	RechargeResetDou	RechargeResetDou	重置首次储值双倍（TH）																			1
+	2017-9-10-04-00-00	2017-9-14-23-59-59	TeachersDayAct	TeachersDayAct	师徒节活动	OpenLevel59|1	OpenDay720|3											1						
+	2017-9-8-04-00-00	2017-9-15-3-59-59	RechargeResetDou	RechargeResetDou	重置首次储值双倍（HK）															1				
+	2017-9-22-04-00-00	2030-10-12-23-59-59	ShopAct	ShopAct	黑帮外装打折			ServerSetting/Activity/ShopActWares.tab	0	限时限购	Dress							1						
+	2017-10-1-04-00-00	2017-10-7-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	花好月圆礼包（Kor）	OpenLevel59|1	OpenDay720|3	tbAward															1	
+	2017-10-1-04-00-00	2017-10-7-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	月满乾坤礼包（Kor）	OpenLevel59|1	OpenDay720|3	tbAward															1	
+	2017-10-1-04-00-00	2017-10-7-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	和和美美礼包（Kor）	OpenLevel59|1	OpenDay720|3	tbAward															1	
+	2017-10-1-04-00-00	2017-10-7-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	春花秋月礼包（Kor）	OpenLevel59|1	OpenDay720|3	tbAward															1	
+	2018-2-7-10-00-00	2030-3-4-23-59-59	WeddingAct	WeddingAct	结婚系统限时开放													1						
+	2017-10-17-04-00-00	2030-11-15-23-59-59	ShopAct	ShopAct	限时商品（TH）			ServerSetting/Activity/ShopActWares_TH.tab																1
+	2017-10-1-04-00-00	2017-10-7-23-59-59	CollectAndRobClue	CollectAndRobClue	国庆日相关活动													1						
+	2017-10-14-04-00-00	2030-10-29-23-59-59	JiziAct	JiziAct	江湖盛典-集字活动			2017.10.21 23:59:59	2017.10.14 4:00:00-2017.10.29 23:59:59									1						
+	2017-11-3-00-00-00	2030-12-3-23-59-59	WeddingAct	WeddingAct	结婚系统限时开放（VN）														1					
+	2017-10-17-04-00-00	2017-10-29-23-59-59	ShopAct	ShopAct	浮光若梦外装上架（VN）			ServerSetting/Activity/ShopActWares.tab											1					
+	2018-3-15-04-00-00	2030-3-22-23-59-59	ShopAct	ShopAct	限时商品（KO）			ServerSetting/Activity/ShopActWares_KO.tab															1	
+	2017-10-23-00-00-00	2030-11-23-23-59-59	WeddingAct	WeddingAct	结婚系统限时开放（XM）																1			
+	2018-4-12-00-00-00	2030-5-13-23-59-59	WeddingAct	WeddingAct	结婚系统限时开放（HK）															1				
+	2018-5-23-04-00-00	2030-6-24-23-59-59	WeddingAct	WeddingAct	结婚系统限时开放（KO）																		1	
+	2017-10-22-04-00-00	2017-10-29-03-59-59	ShengDianLoginAct	ShengDianLoginAct	盛典活动登入领奖													1						
+	2017-11-03-04-00-00	2017-12-3-23-59-59	NewServerFirstLoginAward	NewServerFirstLoginAward	新服创建角色奖励	OpenLevel39|1	OpenLevel39|2											1						
+	2017-11-12-04-00-00	2017-11-12-23-59-59	ActLotteryDraw	ActLotteryDraw	抽奖系统													1						
+	2017-11-11-04-00-00	2017-11-19-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	双11礼包（未开启69）	OpenLevel39|1	OpenLevel69|-1	tbAward										1						
+	2017-11-11-04-00-00	2017-11-19-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	双11礼包（开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward										1						
+	2017-11-11-04-00-00	2017-11-19-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	双11礼包（开启89）	OpenLevel89|1	OpenLevel109|-1	tbThirdAward										1						
+	2017-11-11-04-00-00	2017-11-19-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	双11礼包（开启109）	OpenLevel109|1	OpenDay720|3	szFourthAward										1						
+	2018-4-13-04-00-00	2018-4-20-23-59-59	ShopAct	ShopAct	苍澜花间外装销售			ServerSetting/Activity/ShopActWares.tab										1						
+	2017-12-22-04-00-01	2017-12-23-03-59-59	DongzhiGather	GatherBox	冬至庆典													1						
+	2017-12-22-04-00-01	2017-12-23-03-59-59	CommerceTaskAct	CommerceTaskAct	商会活动													1						
+	2017-12-22-04-00-01	2017-12-23-03-59-59	DongZhiAct	DongZhiAct	2017冬至活动													1						
+	2018-2-28-00-00-01	2018-3-4-23-59-59	ShopAct	ShopAct	元宵礼盒与外装返场			ServerSetting/Activity/ShopActWares.tab										1						
+	2018-2-10-04-00-01	2020-2-28-23-59-59	ShopAct	ShopAct	新年特惠活动、新年外装	OpenLevel39|1	OpenLevel49|-1	ServerSetting/Activity/ShopNewyearWares.tab		迎夏特惠								1	1	1	1	1	1	1
+	2018-2-10-04-00-01	2018-2-28-23-59-59	ShopAct	ShopAct	新年特惠活动、新年外装	OpenLevel49|1	OpenLevel59|-1	ServerSetting/Activity/ShopNewyearWares_lv49.tab		迎夏特惠								1	1					
+	2018-2-10-04-00-01	2018-2-28-23-59-59	ShopAct	ShopAct	新年特惠活动、新年外装	OpenLevel59|1	OpenLevel69|-1	ServerSetting/Activity/ShopNewyearWares_lv59.tab		迎夏特惠								1	1					
+	2018-2-10-04-00-01	2018-2-28-23-59-59	ShopAct	ShopAct	新年特惠活动、新年外装	OpenLevel69|1	OpenLevel79|-1	ServerSetting/Activity/ShopNewyearWares_lv69.tab		迎夏特惠								1	1					
+	2018-2-10-04-00-01	2018-2-28-23-59-59	ShopAct	ShopAct	新年特惠活动、新年外装	OpenLevel79|1	OpenLevel109|-1	ServerSetting/Activity/ShopNewyearWares_lv79.tab		迎夏特惠								1	1					
+	2018-2-10-04-00-01	2018-2-28-23-59-59	ShopAct	ShopAct	新年特惠活动、新年外装	OpenLevel109|1	OpenDay720|3	ServerSetting/Activity/ShopNewyearWares_lv109.tab		迎夏特惠								1	1					
+	2018-2-13-04-00-00	2018-2-22-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	迎夏礼包（未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward										1						
+	2018-2-13-04-00-00	2018-2-22-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	迎夏礼包（开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward										1						
+	2018-2-13-04-00-00	2018-2-22-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	迎夏礼包（开启89）	OpenLevel89|1	OpenLevel109|-1	tbThirdAward										1						
+	2018-2-13-04-00-00	2018-2-22-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	迎夏礼包（开启109）	OpenLevel109|1	OpenDay720|3	szFourthAward										1						
+OpenLevel39|1;OpenLevel59|1			PowerRankAct	PowerRankAct														1		1				
+	2018-2-11-04-00-00	2018-2-21-3-59-59	NewYearQAAct	NewYearQAAct	新年礼盒的考验													1						
+	2018-2-12-04-00-01	2020-2-26-23-59-59	ShopAct	ShopAct	新年特惠活动(VN)	OpenLevel39|1	OpenLevel49|-1	ServerSetting/Activity/ShopNewyearWares.tab		迎夏特惠								1	1	1	1	1	1	1
+	2018-2-12-04-00-01	2018-2-26-23-59-59	ShopAct	ShopAct	新年特惠活动(VN)	OpenLevel49|1	OpenLevel59|-1	ServerSetting/Activity/ShopNewyearWares_lv49.tab		迎夏特惠									1					
+	2018-2-12-04-00-01	2018-2-26-23-59-59	ShopAct	ShopAct	新年特惠活动(VN)	OpenLevel59|1	OpenLevel69|-1	ServerSetting/Activity/ShopNewyearWares_lv59.tab		迎夏特惠									1					
+	2018-2-12-04-00-01	2018-2-26-23-59-59	ShopAct	ShopAct	新年特惠活动(VN)	OpenLevel69|1	OpenLevel79|-1	ServerSetting/Activity/ShopNewyearWares_lv69.tab		迎夏特惠									1					
+	2018-2-12-04-00-01	2018-2-26-23-59-59	ShopAct	ShopAct	新年特惠活动(VN)	OpenLevel79|1	OpenLevel109|-1	ServerSetting/Activity/ShopNewyearWares_lv79.tab		迎夏特惠									1					
+	2018-2-12-04-00-01	2018-2-26-23-59-59	ShopAct	ShopAct	新年特惠活动(VN)	OpenLevel109|1	OpenDay720|3	ServerSetting/Activity/ShopNewyearWares_lv109.tab		迎夏特惠									1					
+	2018-2-13-04-00-00	2018-2-22-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	新年礼包（未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward											1					
+	2018-2-13-04-00-00	2018-2-22-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	新年礼包（开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward											1					
+	2018-2-13-04-00-00	2018-2-22-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	新年礼包（开启89）	OpenLevel89|1	OpenLevel109|-1	tbThirdAward											1					
+	2018-2-13-04-00-00	2018-2-22-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	新年礼包（开启109）	OpenLevel109|1	OpenDay720|3	szFourthAward											1					
+	2018-2-12-04-00-01	2020-2-26-23-59-59	ShopAct	ShopAct	新年特惠活动（XM）	OpenLevel39|1	OpenLevel49|-1	ServerSetting/Activity/ShopNewyearWares.tab		迎夏特惠								1	1	1	1	1	1	1
+	2018-2-12-04-00-01	2018-2-26-23-59-59	ShopAct	ShopAct	新年特惠活动（XM）	OpenLevel49|1	OpenLevel59|-1	ServerSetting/Activity/ShopNewyearWares_lv49.tab		迎夏特惠											1			
+	2018-2-12-04-00-01	2018-2-26-23-59-59	ShopAct	ShopAct	新年特惠活动（XM）	OpenLevel59|1	OpenLevel69|-1	ServerSetting/Activity/ShopNewyearWares_lv59.tab		迎夏特惠											1			
+	2018-2-12-04-00-01	2018-2-26-23-59-59	ShopAct	ShopAct	新年特惠活动（XM）	OpenLevel69|1	OpenLevel79|-1	ServerSetting/Activity/ShopNewyearWares_lv69.tab		迎夏特惠											1			
+	2018-2-12-04-00-01	2018-2-26-23-59-59	ShopAct	ShopAct	新年特惠活动（XM）	OpenLevel79|1	OpenLevel109|-1	ServerSetting/Activity/ShopNewyearWares_lv79.tab		迎夏特惠											1			
+	2018-2-12-04-00-01	2018-2-26-23-59-59	ShopAct	ShopAct	新年特惠活动（XM）	OpenLevel109|1	OpenDay720|3	ServerSetting/Activity/ShopNewyearWares_lv109.tab		迎夏特惠											1			
+	2018-2-16-04-00-00	2018-2-28-23-59-59	RechargeNewyearGrowInvest	RechargeNewyearGrowInvest	新年：一本万利（XM）																1			
+OpenLevel39|1;OpenLevel39|2			CrossEachServerAct	CrossEachServerAct	互通服最新消息													1						
+	2018-3-22-04-00-00	2018-3-31-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	三月礼包（未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward										1						
+	2018-3-22-04-00-00	2018-3-31-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	三月礼包（开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward										1						
+	2018-3-22-04-00-00	2018-3-31-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	三月礼包（开启89）	OpenLevel89|1	OpenLevel109|-1	tbThirdAward										1						
+	2018-3-22-04-00-00	2018-3-31-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	三月礼包（开启109）	OpenLevel109|1	OpenDay720|3	szFourthAward										1						
+	2018-9-4-04-00-00	2018-9-10-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	四月礼包（未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward										1		1				
+	2018-9-4-04-00-00	2018-9-10-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	四月礼包（开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward										1		1				
+	2018-9-4-04-00-00	2018-9-10-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	四月礼包（开启89）	OpenLevel89|1	OpenLevel109|-1	tbThirdAward										1		1				
+	2018-9-4-04-00-00	2018-9-10-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	四月礼包（开启109）	OpenLevel109|1	OpenDay720|3	szFourthAward										1		1				
+	2018-5-20-04-00-00	2018-5-27-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	暑假祝福礼包（未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward										1						
+	2018-5-20-04-00-00	2018-5-27-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	暑假祝福礼包（开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward										1						
+	2018-5-20-04-00-00	2018-5-27-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	暑假盛典礼包（开启89）	OpenLevel89|1	OpenLevel109|-1	tbThirdAward										1						
+	2018-5-20-04-00-00	2018-5-27-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	暑假狂欢礼包（开启109）	OpenLevel109|1	OpenDay720|3	szFourthAward										1						
+	2018-4-27-12-00-00	2018-5-30-23-59-59	GoodVoice	GoodVoice	好声音活动													1						
+	2018-9-4-04-00-00	2018-9-06-23-59-59	AuctionDealerAct	AuctionDealerAct	西域行商			7673|5|1												1				
+	2018-4-29-04-00-00	2018-5-4-03-59-59	LaoDongJie	LaoDongJie	劳动节													1						
+	2018-4-29-04-00-00	2018-5-4-03-59-59	MedalFightAct	MedalFightAct	奖章争夺战													1						
+	2018-4-29-04-00-00	2018-5-4-03-59-59	PlantCureHelpAct	PlantCureHelpAct	协助额外奖励													1						
+	2018-6-1-04-00-00	2020-6-4-23-59-59	ShopAct	ShopAct	周年庆特惠（未开49）	OpenLevel39|1	OpenLevel49|-1	ServerSetting/Activity/ShopNewyearWares.tab		周年庆特惠							1	1	1	1	1	1	1	1
+	2018-6-1-04-00-00	2018-6-4-23-59-59	ShopAct	ShopAct	周年庆特惠（开启49）	OpenLevel49|1	OpenLevel59|-1	ServerSetting/Activity/ShopNewyearWares_lv49.tab		周年庆特惠								1						
+	2018-6-1-04-00-00	2018-6-4-23-59-59	ShopAct	ShopAct	周年庆特惠（开启59）	OpenLevel59|1	OpenLevel69|-1	ServerSetting/Activity/ShopNewyearWares_lv59.tab		周年庆特惠								1						
+	2018-6-1-04-00-00	2018-6-4-23-59-59	ShopAct	ShopAct	周年庆特惠（开启69）	OpenLevel69|1	OpenLevel79|-1	ServerSetting/Activity/ShopNewyearWares_lv69.tab		周年庆特惠								1						
+	2018-6-1-04-00-00	2018-6-4-23-59-59	ShopAct	ShopAct	周年庆特惠（开启79）	OpenLevel79|1	OpenLevel109|-1	ServerSetting/Activity/ShopNewyearWares_lv79.tab		周年庆特惠								1						
+	2018-6-1-04-00-00	2018-6-4-23-59-59	ShopAct	ShopAct	周年庆特惠（开启109）	OpenLevel109|1	OpenDay720|999	ServerSetting/Activity/ShopNewyearWares_lv109.tab		周年庆特惠								1						
+	2018-6-1-04-00-00	2018-6-8-03-59-59	RechargeCardAct	RechargeCardAct	周年庆周月卡奖励加成50%			50	周年庆									1						
+	2018-6-1-04-00-00	2018-6-10-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	周年庆礼包（未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward										1						
+	2018-6-1-04-00-00	2018-6-10-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	周年庆礼包（开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward										1						
+	2018-6-1-04-00-00	2018-6-10-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	周年庆礼包（开启89）	OpenLevel89|1	OpenLevel109|-1	tbThirdAward										1						
+	2018-6-1-04-00-00	2018-6-10-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	周年庆礼包（开启109）	OpenLevel109|1	OpenDay720|999	szFourthAward										1						
+	2018-6-1-04-00-00	2018-6-10-23-59-59	AnniversaryQAAct	NewYearQAAct	周年礼盒的考验													1						
+	2018-6-1-04-00-00	2018-6-16-3-59-59	ZhouNianQing2	ZhouNianQing2	周年庆主介面图示													1						
+	2018-6-1-04-00-00	2018-6-7-23-59-59	DanceAct	DanceAct	舞动江湖													1						
+	2018-6-14-04-00-00	2018-7-17-0-0-0	WorldCupAct	WorldCupAct	世界盃收集活动													1						
+	2018-6-15-04-00-00	2018-6-24-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	端午礼包（未开69上限）	OpenLevel39|1	OpenLevel69|-1	tbAward										1						
+	2018-6-15-04-00-00	2018-6-24-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	端午礼包（开启69）	OpenLevel69|1	OpenLevel89|-1	tbFirstAward										1						
+	2018-6-15-04-00-00	2018-6-24-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	端午礼包（开启89）	OpenLevel89|1	OpenLevel109|-1	tbThirdAward										1						
+	2018-6-15-04-00-00	2018-6-24-23-59-59	RechargeNewYearBuyGift	RechargeNewYearBuyGift	端午礼包（开启109）	OpenLevel109|1	OpenDay720|999	szFourthAward										1						
+	2018-6-23-04-00-00	2018-6-24-16-29-59	JueDiAct	JueDiAct	绝地试炼	OpenDay118|1												1						
+	2018-6-29-04-00-00	2018-7-17-0-0-0	WorldCupGuessAct	WorldCupGuessAct	世界盃竞猜活动													1						
+	2018-7-5-04-00-00	2018-7-25-3-59-59	FinishCommerceTaskAct	FinishCommerceTaskAct	残缺的票券收集													1						

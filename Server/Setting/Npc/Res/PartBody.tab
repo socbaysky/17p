@@ -1,0 +1,1097 @@
+ResId	ResFile	ResAttribID	ResSlot	Desc	Desc2	Desc3	Scale	IsOrgColorValue	MinCastValue	SlotName1	SlotGray1	SlotMinCast1	Slot1Color1	Slot1Light1	Slot1Color2	Slot1Light2	Slot1Color3	Slot1Light3	SlotName2	SlotGray2	SlotMinCast2	Slot2Color1	Slot2Light1	Slot2Color2	Slot2Light2	Slot2Color3	Slot2Light3	SlotName3	SlotGray3	SlotMinCast3	Slot3Color1	Slot3Light1	Slot3Color2	Slot3Light2	Slot3Color3	Slot3Light3
+1	Player/Characters/M2/Prefab/M2_TW002_Body.prefab		B_Hs	天王新手-男																																
+2	Player/Characters/F2/Prefab/F2_EM001_Body.prefab		B_Hs	天王新手-女（暂无）																																
+3	Player/Characters/M1/Prefab/M1_XY001_Body.prefab		B_Hs	峨眉新手-男（暂无）																																
+4	Player/Characters/F2/Prefab/F2_EM001_Body.prefab		B_Hs	峨眉新手-女																																
+5	Player/Characters/M1/Prefab/M1_XY001_Body.prefab		B_Hs	桃花新手-男（暂无）																																
+6	Player/Characters/F1/Prefab/F1_TH001_Body.prefab		B_Hs	桃花新手-女																																
+7	Player/Characters/M1/Prefab/M1_XY001_Body.prefab		B_Hs	逍遥新手-男																																
+8	Player/Characters/F2/Prefab/F2_EM001_Body.prefab		B_Hs	逍遥新手-女（暂无）																																
+9	Player/Characters/M1/Prefab/M1_WD002_Body.prefab		B_Hs	武当新手-男																																
+10	Player/Characters/F2/Prefab/F2_WD002_Body.prefab		B_Hs	武当新手-女																																
+11	Player/Characters/M1/Prefab/M1_WD001_Body.prefab		B_Hs	天忍新手-男（暂无）																																
+12	Player/Characters/F2/Prefab/F2_EM001_Body.prefab		B_Hs	天忍新手-女																																
+13	Player/Characters/M2/Prefab/M2_SL001_Body.prefab		B_Hs	少林新手-男																																
+14	Player/Characters/F2/Prefab/F2_EM001_Body.prefab		B_Hs	少林新手-女（暂无）																																
+15	Player/Characters/M1/Prefab/M1_WD001_Body.prefab		B_Hs	翠烟新手-男（暂无）																																
+16	Player/Characters/F2/Prefab/F2_CY001_Body.prefab		B_Hs	翠烟新手-女																																
+17	Player/Characters/M1/Prefab/M1_TM002_Body.prefab		B_Hs	唐门新手-男																																
+18	Player/Characters/F2/Prefab/F2_EM001_Body.prefab		B_Hs	唐门新手-女（暂无）																																
+19	Player/Characters/M1/Prefab/M1_TM002_Body.prefab		B_Hs	昆仑新手-男（暂无）																																
+20	Player/Characters/F2/Prefab/F2_KL001_Body.prefab		B_Hs	昆仑新手-女																																
+21	Player/Characters/M2/Prefab/M2_GB001_Body.prefab		B_Hs	丐帮新手-男																																
+22	Player/Characters/F2/Prefab/F2_KL001_Body.prefab		B_Hs	丐帮新手-女（暂无）																																
+23	Player/Characters/M1/Prefab/M1_TM002_Body.prefab		B_Hs	五毒新手-男（暂无）																																
+24	Player/Characters/F1/Prefab/F1_WD001_Body.prefab		B_Hs	五毒新手-女																																
+25	Player/Characters/M1/Prefab/M1_XY001_Body.prefab		B_Hs	藏剑新手-男																																
+26	Player/Characters/F2/Prefab/F2_CY001_Body.prefab		B_Hs	藏剑新手-女（暂无）																																
+27	Player/Characters/M1/Prefab/M1_XY001_Body.prefab		B_Hs	长歌新手-男（暂无）																																
+28	Player/Characters/F2/Prefab/F2_EM001_Body.prefab		B_Hs	长歌新手-女																																
+29	Player/Characters/M1/Prefab/M1_TS003_Body.prefab		B_Hs	天山新手-男																																
+30	Player/Characters/F2/Prefab/F2_TS003_Body.prefab		B_Hs	天山新手-女																																
+31	Player/Characters/M2/Prefab/M2_BD001_Body.prefab		B_Hs	霸刀新手-男																																
+32	Player/Characters/F1/Prefab/F1_BD001_Body.prefab		B_Hs	霸刀新手-女																																
+1001	Player/Characters/M1/Prefab/M1_D001_Body.prefab	51001	B_Hs	M1标男等级装T1																																
+1002	Player/Characters/M1/Prefab/M1_D004_Body.prefab	51002	B_Hs	M1标男等级装T2																																
+1003	Player/Characters/M1/Prefab/M1_D003_Body.prefab	51003	B_Hs	M1标男等级装T3																																
+1004	Player/Characters/M1/Prefab/M1_D006_Body.prefab	51004	B_Hs	M1标男等级装T4																																
+1005	Player/Characters/M1/Prefab/M1_D011_Body.prefab	51005	B_Hs	M1标男等级装T5																																
+1006	Player/Characters/M1/Prefab/M1_D010_Body.prefab	51006	B_Hs	M1标男等级装T6																																
+1007	Player/Characters/M1/Prefab/M1_D009_Body.prefab	51007	B_Hs	M1标男等级装T7																																
+1008	Player/Characters/M1/Prefab/M1_D005_Body.prefab	51008	B_Hs	M1标男等级装T8																																
+1009	Player/Characters/M1/Prefab/M1_D012_Body.prefab	51009	B_Hs	M1标男等级装T9																																
+1010	Player/Characters/M1/Prefab/M1_D008_Body.prefab	51010	B_Hs	M1标男等级装T10																																
+1011	Player/Characters/M1/Prefab/M1_D002_Body.prefab	51011	B_Hs	M1标男等级装T11																																
+1012	Player/Characters/M1/Prefab/M1_D007_Body.prefab	51012	B_Hs	M1标男等级装T12																																
+1013	Player/Characters/M1/Prefab/M1_D013_Body.prefab	51013	B_Hs	M1标男等级装T13																																
+1014	Player/Characters/M1/Prefab/M1_D014_Body.prefab		B_Hs	M1标男等级装T14				1		M1_D014_Body	0		255|231|181|131	1	208|228|234|15	1	63|183|255|0	1																		
+1015	Player/Characters/M1/Prefab/M1_D015_Body.prefab		B_Hs	M1标男等级装T15				1		M1_D015_Body	0		255|234|168|153	1	251|210|210|92	1	255|255|255|16	1																		
+1101	Player/Characters/M1/Prefab/M1_D010_Body.prefab	51101	B_Hs	M1标男等级装T6·黄金装																																
+1102	Player/Characters/M1/Prefab/M1_D009_Body.prefab	51102	B_Hs	M1标男等级装T7·黄金装																																
+1103	Player/Characters/M1/Prefab/M1_D005_Body.prefab	51103	B_Hs	M1标男等级装T8·黄金装																																
+1104	Player/Characters/M1/Prefab/M1_D012_Body.prefab	51104	B_Hs	M1标男等级装T9·黄金装																																
+1105	Player/Characters/M1/Prefab/M1_D008_Body.prefab	51105	B_Hs	M1标男等级装T10·黄金装																																
+1106	Player/Characters/M1/Prefab/M1_D002_Body.prefab	51106	B_Hs	M1标男等级装T11·黄金装																																
+1107	Player/Characters/M1/Prefab/M1_D007_Body.prefab	51107	B_Hs	M1标男等级装T12·黄金装																																
+1108	Player/Characters/M1/Prefab/M1_D013_Body.prefab	51108	B_Hs	M1标男等级装T13·黄金装																																
+1109	Player/Characters/M1/Prefab/M1_D014_Body.prefab		B_Hs	M1标男等级装T14·黄金装						M1_D014_Body	1		73|73|73|123	1.21	179|145|0|77	1.12	159|138|112|0	1.19																		
+1110	Player/Characters/M1/Prefab/M1_D015_Body.prefab		B_Hs	M1标男等级装T15·黄金装						M1_D015_Body	1		255|220|26|142	1	74|69|69|48	2.12	255|184|0|15	1																		
+1201	Player/Characters/M1/Prefab/M1_D001_Body.prefab	51201	B_Hs	M1标男等级装T1·偏色1																																
+1202	Player/Characters/M1/Prefab/M1_D001_Body.prefab	51202	B_Hs	M1标男等级装T1·偏色2																																
+1203	Player/Characters/M1/Prefab/M1_D001_Body.prefab	51203	B_Hs	M1标男等级装T1·偏色3																																
+1204	Player/Characters/M1/Prefab/M1_D004_Body.prefab	51204	B_Hs	M1标男等级装T2·偏色1																																
+1205	Player/Characters/M1/Prefab/M1_D004_Body.prefab	51205	B_Hs	M1标男等级装T2·偏色2																																
+1206	Player/Characters/M1/Prefab/M1_D004_Body.prefab	51206	B_Hs	M1标男等级装T2·偏色3																																
+1207	Player/Characters/M1/Prefab/M1_D003_Body.prefab	51207	B_Hs	M1标男等级装T3·偏色1																																
+1208	Player/Characters/M1/Prefab/M1_D003_Body.prefab	51208	B_Hs	M1标男等级装T3·偏色2																																
+1209	Player/Characters/M1/Prefab/M1_D003_Body.prefab	51209	B_Hs	M1标男等级装T3·偏色3																																
+1210	Player/Characters/M1/Prefab/M1_D006_Body.prefab	51210	B_Hs	M1标男等级装T4·偏色1																																
+1211	Player/Characters/M1/Prefab/M1_D006_Body.prefab	51211	B_Hs	M1标男等级装T4·偏色2																																
+1212	Player/Characters/M1/Prefab/M1_D006_Body.prefab	51212	B_Hs	M1标男等级装T4·偏色3																																
+1213	Player/Characters/M1/Prefab/M1_D011_Body.prefab	51213	B_Hs	M1标男等级装T5·偏色1																																
+1214	Player/Characters/M1/Prefab/M1_D011_Body.prefab	51214	B_Hs	M1标男等级装T5·偏色2																																
+1215	Player/Characters/M1/Prefab/M1_D011_Body.prefab	51215	B_Hs	M1标男等级装T5·偏色3																																
+1216	Player/Characters/M1/Prefab/M1_D010_Body.prefab	51216	B_Hs	M1标男等级装T6·偏色1																																
+1217	Player/Characters/M1/Prefab/M1_D010_Body.prefab	51217	B_Hs	M1标男等级装T6·偏色2																																
+1218	Player/Characters/M1/Prefab/M1_D010_Body.prefab	51218	B_Hs	M1标男等级装T6·偏色3																																
+1219	Player/Characters/M1/Prefab/M1_D009_Body.prefab	51219	B_Hs	M1标男等级装T7·偏色1																																
+1220	Player/Characters/M1/Prefab/M1_D009_Body.prefab	51220	B_Hs	M1标男等级装T7·偏色2																																
+1221	Player/Characters/M1/Prefab/M1_D009_Body.prefab	51221	B_Hs	M1标男等级装T7·偏色3																																
+1222	Player/Characters/M1/Prefab/M1_D005_Body.prefab	51222	B_Hs	M1标男等级装T8·偏色1																																
+1223	Player/Characters/M1/Prefab/M1_D005_Body.prefab	51223	B_Hs	M1标男等级装T8·偏色2																																
+1224	Player/Characters/M1/Prefab/M1_D005_Body.prefab	51224	B_Hs	M1标男等级装T8·偏色3																																
+1225	Player/Characters/M1/Prefab/M1_D012_Body.prefab	51225	B_Hs	M1标男等级装T9·偏色1																																
+1226	Player/Characters/M1/Prefab/M1_D012_Body.prefab	51226	B_Hs	M1标男等级装T9·偏色2																																
+1227	Player/Characters/M1/Prefab/M1_D012_Body.prefab	51227	B_Hs	M1标男等级装T9·偏色3																																
+1228	Player/Characters/M1/Prefab/M1_D008_Body.prefab	51228	B_Hs	M1标男等级装T10·偏色1																																
+1229	Player/Characters/M1/Prefab/M1_D008_Body.prefab	51229	B_Hs	M1标男等级装T10·偏色2																																
+1230	Player/Characters/M1/Prefab/M1_D008_Body.prefab	51230	B_Hs	M1标男等级装T10·偏色3																																
+1231	Player/Characters/M1/Prefab/M1_D002_Body.prefab	51231	B_Hs	M1标男等级装T11·偏色1																																
+1232	Player/Characters/M1/Prefab/M1_D002_Body.prefab	51232	B_Hs	M1标男等级装T11·偏色2																																
+1233	Player/Characters/M1/Prefab/M1_D002_Body.prefab	51233	B_Hs	M1标男等级装T11·偏色3																																
+1234	Player/Characters/M1/Prefab/M1_D007_Body.prefab	51234	B_Hs	M1标男等级装T12·偏色1																																
+1235	Player/Characters/M1/Prefab/M1_D007_Body.prefab	51235	B_Hs	M1标男等级装T12·偏色2																																
+1236	Player/Characters/M1/Prefab/M1_D007_Body.prefab	51236	B_Hs	M1标男等级装T12·偏色3																																
+1237	Player/Characters/M1/Prefab/M1_D013_Body.prefab	51237	B_Hs	M1标男等级装T13·偏色1																																
+1238	Player/Characters/M1/Prefab/M1_D013_Body.prefab	51238	B_Hs	M1标男等级装T13·偏色2																																
+1239	Player/Characters/M1/Prefab/M1_D013_Body.prefab	51239	B_Hs	M1标男等级装T13·偏色3																																
+1241	Player/Characters/M1/Prefab/M1_D001_Body.prefab	51241	B_Hs	M1标男等级装T1·偏色4																																
+1242	Player/Characters/M1/Prefab/M1_D004_Body.prefab	51242	B_Hs	M1标男等级装T2·偏色4																																
+1243	Player/Characters/M1/Prefab/M1_D003_Body.prefab	51243	B_Hs	M1标男等级装T3·偏色4																																
+1244	Player/Characters/M1/Prefab/M1_D006_Body.prefab	51244	B_Hs	M1标男等级装T4·偏色4																																
+1245	Player/Characters/M1/Prefab/M1_D011_Body.prefab	51245	B_Hs	M1标男等级装T5·偏色4																																
+1246	Player/Characters/M1/Prefab/M1_D010_Body.prefab	51246	B_Hs	M1标男等级装T6·偏色4																																
+1247	Player/Characters/M1/Prefab/M1_D009_Body.prefab	51247	B_Hs	M1标男等级装T7·偏色4																																
+1248	Player/Characters/M1/Prefab/M1_D005_Body.prefab	51248	B_Hs	M1标男等级装T8·偏色4																																
+1249	Player/Characters/M1/Prefab/M1_D012_Body.prefab	51249	B_Hs	M1标男等级装T9·偏色4																																
+1250	Player/Characters/M1/Prefab/M1_D008_Body.prefab	51250	B_Hs	M1标男等级装T10·偏色4																																
+1251	Player/Characters/M1/Prefab/M1_D002_Body.prefab	51251	B_Hs	M1标男等级装T11·偏色4																																
+1252	Player/Characters/M1/Prefab/M1_D007_Body.prefab	51252	B_Hs	M1标男等级装T12·偏色4																																
+1253	Player/Characters/M1/Prefab/M1_D013_Body.prefab	51253	B_Hs	M1标男等级装T13·偏色4																																
+1261	Player/Characters/M1/Prefab/M1_D014_Body.prefab		B_Hs	M1标男等级装T14·偏色1						M1_D014_Body	1		253|201|122|64	1.21	56|56|56|59	1.12	135|34|36|0	1.36																		
+1262	Player/Characters/M1/Prefab/M1_D014_Body.prefab		B_Hs	M1标男等级装T14·偏色2						M1_D014_Body	1		255|176|116|53	1.21	219|216|216|31	1	50|50|50|0	0.86																		
+1263	Player/Characters/M1/Prefab/M1_D014_Body.prefab		B_Hs	M1标男等级装T14·偏色3						M1_D014_Body	1		229|229|251|53	1.21	107|108|215|21	1.12	232|232|232|0	1.22																		
+1264	Player/Characters/M1/Prefab/M1_D015_Body.prefab		B_Hs	M1标男等级装T15·偏色1						M1_D015_Body	1		240|182|97|255	1	146|146|146|69	1	223|220|216|8	1.21																		
+1265	Player/Characters/M1/Prefab/M1_D015_Body.prefab		B_Hs	M1标男等级装T15·偏色2						M1_D015_Body	1		241|229|126|255	1	40|202|142|69	1	217|211|201|8	1.21																		
+1266	Player/Characters/M1/Prefab/M1_D015_Body.prefab		B_Hs	M1标男等级装T15·偏色3						M1_D015_Body	1		196|218|223|255	1	255|195|104|27	2.12	44|40|35|24	1.21																		
+2001	Player/Characters/M2/Prefab/M2_D011_Body.prefab	52001	B_Hs	M2壮男等级装T1																																
+2002	Player/Characters/M2/Prefab/M2_D004_Body.prefab	52002	B_Hs	M2壮男等级装T2																																
+2003	Player/Characters/M2/Prefab/M2_D010_Body.prefab	52003	B_Hs	M2壮男等级装T3																																
+2004	Player/Characters/M2/Prefab/M2_D002_Body.prefab	52004	B_Hs	M2壮男等级装T4																																
+2005	Player/Characters/M2/Prefab/M2_D007_Body.prefab	52005	B_Hs	M2壮男等级装T5																																
+2006	Player/Characters/M2/Prefab/M2_D001_Body.prefab	52006	B_Hs	M2壮男等级装T6																																
+2007	Player/Characters/M2/Prefab/M2_D005_Body.prefab	52007	B_Hs	M2壮男等级装T7																																
+2008	Player/Characters/M2/Prefab/M2_D003_Body.prefab	52008	B_Hs	M2壮男等级装T8																																
+2009	Player/Characters/M2/Prefab/M2_D012_Body.prefab	52009	B_Hs	M2壮男等级装T9																																
+2010	Player/Characters/M2/Prefab/M2_D006_Body.prefab	52010	B_Hs	M2壮男等级装T10																																
+2011	Player/Characters/M2/Prefab/M2_D009_Body.prefab	52011	B_Hs	M2壮男等级装T11																																
+2012	Player/Characters/M2/Prefab/M2_D013_Body.prefab	52012	B_Hs	M2壮男等级装T12																																
+2013	Player/Characters/M2/Prefab/M2_D008_Body.prefab	52013	B_Hs	M2壮男等级装T13																																
+2014	Player/Characters/M2/Prefab/M2_D014_Body.prefab		B_Hs	M2壮男等级装T14				1		M2_D014_Body	0		255|255|255|125	1.22	255|255|255|132	1	255|255|255|157	1																		
+2015	Player/Characters/M2/Prefab/M2_D015_Body.prefab		B_Hs	M2壮男等级装T15				1		M2_D015_Body	0		255|255|255|255	1	255|255|255|255	1	255|255|255|255	1																		
+2101	Player/Characters/M2/Prefab/M2_D001_Body.prefab	52101	B_Hs	M2壮男等级装T6·黄金装																																
+2102	Player/Characters/M2/Prefab/M2_D005_Body.prefab	52102	B_Hs	M2壮男等级装T7·黄金装																																
+2103	Player/Characters/M2/Prefab/M2_D003_Body.prefab	52103	B_Hs	M2壮男等级装T8·黄金装																																
+2104	Player/Characters/M2/Prefab/M2_D012_Body.prefab	52104	B_Hs	M2壮男等级装T9·黄金装																																
+2105	Player/Characters/M2/Prefab/M2_D006_Body.prefab	52105	B_Hs	M2壮男等级装T10·黄金装																																
+2106	Player/Characters/M2/Prefab/M2_D009_Body.prefab	52106	B_Hs	M2壮男等级装T11·黄金装																																
+2107	Player/Characters/M2/Prefab/M2_D013_Body.prefab	52107	B_Hs	M2壮男等级装T12·黄金装																																
+2108	Player/Characters/M2/Prefab/M2_D008_Body.prefab	52108	B_Hs	M2壮男等级装T13·黄金装																																
+2109	Player/Characters/M2/Prefab/M2_D014_Body.prefab		B_Hs	M2壮男等级装T14·黄金装						M2_D014_Body	1		52|52|52|255	1.74	255|228|141|132	1	255|177|39|255	3.54																		
+2110	Player/Characters/M2/Prefab/M2_D015_Body.prefab		B_Hs	M2壮男等级装T15·黄金装						M2_D015_Body	1		71|71|71|221	3.05	255|226|0|141	2.16	255|184|0|164	5																		
+2201	Player/Characters/M2/Prefab/M2_D011_Body.prefab	52201	B_Hs	M2壮男等级装T1·偏色1																																
+2202	Player/Characters/M2/Prefab/M2_D011_Body.prefab	52202	B_Hs	M2壮男等级装T1·偏色2																																
+2203	Player/Characters/M2/Prefab/M2_D011_Body.prefab	52203	B_Hs	M2壮男等级装T1·偏色3																																
+2204	Player/Characters/M2/Prefab/M2_D004_Body.prefab	52204	B_Hs	M2壮男等级装T2·偏色1																																
+2205	Player/Characters/M2/Prefab/M2_D004_Body.prefab	52205	B_Hs	M2壮男等级装T2·偏色2																																
+2206	Player/Characters/M2/Prefab/M2_D004_Body.prefab	52206	B_Hs	M2壮男等级装T2·偏色3																																
+2207	Player/Characters/M2/Prefab/M2_D010_Body.prefab	52207	B_Hs	M2壮男等级装T3·偏色1																																
+2208	Player/Characters/M2/Prefab/M2_D010_Body.prefab	52208	B_Hs	M2壮男等级装T3·偏色2																																
+2209	Player/Characters/M2/Prefab/M2_D010_Body.prefab	52209	B_Hs	M2壮男等级装T3·偏色3																																
+2210	Player/Characters/M2/Prefab/M2_D002_Body.prefab	52210	B_Hs	M2壮男等级装T4·偏色1																																
+2211	Player/Characters/M2/Prefab/M2_D002_Body.prefab	52211	B_Hs	M2壮男等级装T4·偏色2																																
+2212	Player/Characters/M2/Prefab/M2_D002_Body.prefab	52212	B_Hs	M2壮男等级装T4·偏色3																																
+2213	Player/Characters/M2/Prefab/M2_D007_Body.prefab	52213	B_Hs	M2壮男等级装T5·偏色1																																
+2214	Player/Characters/M2/Prefab/M2_D007_Body.prefab	52214	B_Hs	M2壮男等级装T5·偏色2																																
+2215	Player/Characters/M2/Prefab/M2_D007_Body.prefab	52215	B_Hs	M2壮男等级装T5·偏色3																																
+2216	Player/Characters/M2/Prefab/M2_D001_Body.prefab	52216	B_Hs	M2壮男等级装T6·偏色1																																
+2217	Player/Characters/M2/Prefab/M2_D001_Body.prefab	52217	B_Hs	M2壮男等级装T6·偏色2																																
+2218	Player/Characters/M2/Prefab/M2_D001_Body.prefab	52218	B_Hs	M2壮男等级装T6·偏色3																																
+2219	Player/Characters/M2/Prefab/M2_D005_Body.prefab	52219	B_Hs	M2壮男等级装T7·偏色1																																
+2220	Player/Characters/M2/Prefab/M2_D005_Body.prefab	52220	B_Hs	M2壮男等级装T7·偏色2																																
+2221	Player/Characters/M2/Prefab/M2_D005_Body.prefab	52221	B_Hs	M2壮男等级装T7·偏色3																																
+2222	Player/Characters/M2/Prefab/M2_D003_Body.prefab	52222	B_Hs	M2壮男等级装T8·偏色1																																
+2223	Player/Characters/M2/Prefab/M2_D003_Body.prefab	52223	B_Hs	M2壮男等级装T8·偏色2																																
+2224	Player/Characters/M2/Prefab/M2_D003_Body.prefab	52224	B_Hs	M2壮男等级装T8·偏色3																																
+2225	Player/Characters/M2/Prefab/M2_D012_Body.prefab	52225	B_Hs	M2壮男等级装T9·偏色1																																
+2226	Player/Characters/M2/Prefab/M2_D012_Body.prefab	52226	B_Hs	M2壮男等级装T9·偏色2																																
+2227	Player/Characters/M2/Prefab/M2_D012_Body.prefab	52227	B_Hs	M2壮男等级装T9·偏色3																																
+2228	Player/Characters/M2/Prefab/M2_D006_Body.prefab	52228	B_Hs	M2壮男等级装T10·偏色1																																
+2229	Player/Characters/M2/Prefab/M2_D006_Body.prefab	52229	B_Hs	M2壮男等级装T10·偏色2																																
+2230	Player/Characters/M2/Prefab/M2_D006_Body.prefab	52230	B_Hs	M2壮男等级装T10·偏色3																																
+2231	Player/Characters/M2/Prefab/M2_D009_Body.prefab	52231	B_Hs	M2壮男等级装T11·偏色1																																
+2232	Player/Characters/M2/Prefab/M2_D009_Body.prefab	52232	B_Hs	M2壮男等级装T11·偏色2																																
+2233	Player/Characters/M2/Prefab/M2_D009_Body.prefab	52233	B_Hs	M2壮男等级装T11·偏色3																																
+2234	Player/Characters/M2/Prefab/M2_D013_Body.prefab	52234	B_Hs	M2壮男等级装T12·偏色1																																
+2235	Player/Characters/M2/Prefab/M2_D013_Body.prefab	52235	B_Hs	M2壮男等级装T12·偏色2																																
+2236	Player/Characters/M2/Prefab/M2_D013_Body.prefab	52236	B_Hs	M2壮男等级装T12·偏色3																																
+2237	Player/Characters/M2/Prefab/M2_D008_Body.prefab	52237	B_Hs	M2壮男等级装T13·偏色1																																
+2238	Player/Characters/M2/Prefab/M2_D008_Body.prefab	52238	B_Hs	M2壮男等级装T13·偏色2																																
+2239	Player/Characters/M2/Prefab/M2_D008_Body.prefab	52239	B_Hs	M2壮男等级装T13·偏色3																																
+2241	Player/Characters/M2/Prefab/M2_D011_Body.prefab	52241	B_Hs	M2壮男等级装T1·偏色4																																
+2242	Player/Characters/M2/Prefab/M2_D004_Body.prefab	52242	B_Hs	M2壮男等级装T2·偏色4																																
+2243	Player/Characters/M2/Prefab/M2_D010_Body.prefab	52243	B_Hs	M2壮男等级装T3·偏色4																																
+2244	Player/Characters/M2/Prefab/M2_D002_Body.prefab	52244	B_Hs	M2壮男等级装T4·偏色4																																
+2245	Player/Characters/M2/Prefab/M2_D007_Body.prefab	52245	B_Hs	M2壮男等级装T5·偏色4																																
+2246	Player/Characters/M2/Prefab/M2_D001_Body.prefab	52246	B_Hs	M2壮男等级装T6·偏色4																																
+2247	Player/Characters/M2/Prefab/M2_D005_Body.prefab	52247	B_Hs	M2壮男等级装T7·偏色4																																
+2248	Player/Characters/M2/Prefab/M2_D003_Body.prefab	52248	B_Hs	M2壮男等级装T8·偏色4																																
+2249	Player/Characters/M2/Prefab/M2_D012_Body.prefab	52249	B_Hs	M2壮男等级装T9·偏色4																																
+2250	Player/Characters/M2/Prefab/M2_D006_Body.prefab	52250	B_Hs	M2壮男等级装T10·偏色4																																
+2251	Player/Characters/M2/Prefab/M2_D009_Body.prefab	52251	B_Hs	M2壮男等级装T11·偏色4																																
+2252	Player/Characters/M2/Prefab/M2_D013_Body.prefab	52252	B_Hs	M2壮男等级装T12·偏色4																																
+2253	Player/Characters/M2/Prefab/M2_D008_Body.prefab	52253	B_Hs	M2壮男等级装T13·偏色4																																
+2261	Player/Characters/M2/Prefab/M2_D014_Body.prefab		B_Hs	M2壮男等级装T14·偏色1						M2_D014_Body	1		179|51|112|161	1.68	68|68|68|173	1	244|123|251|255	1																		
+2262	Player/Characters/M2/Prefab/M2_D014_Body.prefab		B_Hs	M2壮男等级装T14·偏色2						M2_D014_Body	1		255|255|255|118	1.74	141|208|255|132	1	255|255|255|133	3.54																		
+2263	Player/Characters/M2/Prefab/M2_D014_Body.prefab		B_Hs	M2壮男等级装T14·偏色3						M2_D014_Body	1		50|50|50|255	1.74	255|37|37|132	0.84	63|63|63|255	3.54																		
+2264	Player/Characters/M2/Prefab/M2_D015_Body.prefab		B_Hs	M2壮男等级装T15·偏色1						M2_D015_Body	1		255|75|116|255	1.96	148|148|148|255	1.28	208|118|255|107	1																		
+2265	Player/Characters/M2/Prefab/M2_D015_Body.prefab		B_Hs	M2壮男等级装T15·偏色2				1		M2_D015_Body	0		255|206|76|221	2.26	255|88|88|255	1.28	255|60|112|96	1																		
+2266	Player/Characters/M2/Prefab/M2_D015_Body.prefab		B_Hs	M2壮男等级装T15·偏色3						M2_D015_Body	1		127|76|255|221	2.55	255|255|255|255	1.74	255|59|59|96	1																		
+3001	Player/Characters/F1/Prefab/F1_D005_Body.prefab	53001	B_Hs	F1萝莉等级装T1																																
+3002	Player/Characters/F1/Prefab/F1_D009_Body.prefab	53002	B_Hs	F1萝莉等级装T2																																
+3003	Player/Characters/F1/Prefab/F1_D008_Body.prefab	53003	B_Hs	F1萝莉等级装T3																																
+3004	Player/Characters/F1/Prefab/F1_D012_Body.prefab	53004	B_Hs	F1萝莉等级装T4																																
+3005	Player/Characters/F1/Prefab/F1_D006_Body.prefab	53005	B_Hs	F1萝莉等级装T5																																
+3006	Player/Characters/F1/Prefab/F1_D011_Body.prefab	53006	B_Hs	F1萝莉等级装T6																																
+3007	Player/Characters/F1/Prefab/F1_D003_Body.prefab	53007	B_Hs	F1萝莉等级装T7																																
+3008	Player/Characters/F1/Prefab/F1_D007_Body.prefab	53008	B_Hs	F1萝莉等级装T8																																
+3009	Player/Characters/F1/Prefab/F1_D010_Body.prefab	53009	B_Hs	F1萝莉等级装T9																																
+3010	Player/Characters/F1/Prefab/F1_D004_Body.prefab	53010	B_Hs	F1萝莉等级装T10																																
+3011	Player/Characters/F1/Prefab/F1_D002_Body.prefab	53011	B_Hs	F1萝莉等级装T11																																
+3012	Player/Characters/F1/Prefab/F1_D013_Body.prefab	53012	B_Hs	F1萝莉等级装T12																																
+3013	Player/Characters/F1/Prefab/F1_D001_Body.prefab	53013	B_Hs	F1萝莉等级装T13																																
+3014	Player/Characters/F1/Prefab/F1_D014_Body.prefab		B_Hs	F1萝莉等级装T14				1		F1_D014_Body	0		255|255|255|123	1	255|255|255|104	1	255|255|255|91	1																		
+3015	Player/Characters/F1/Prefab/F1_D015_Body.prefab		B_Hs	F1萝莉等级装T15				1		F1_D015_Body	0		255|255|255|118	1	255|255|255|90	1	255|255|255|86	1																		
+3101	Player/Characters/F1/Prefab/F1_D011_Body.prefab	53101	B_Hs	F1萝莉等级装T6·黄金装																																
+3102	Player/Characters/F1/Prefab/F1_D003_Body.prefab	53102	B_Hs	F1萝莉等级装T7·黄金装																																
+3103	Player/Characters/F1/Prefab/F1_D007_Body.prefab	53103	B_Hs	F1萝莉等级装T8·黄金装																																
+3104	Player/Characters/F1/Prefab/F1_D010_Body.prefab	53104	B_Hs	F1萝莉等级装T9·黄金装																																
+3105	Player/Characters/F1/Prefab/F1_D004_Body.prefab	53105	B_Hs	F1萝莉等级装T10·黄金装																																
+3106	Player/Characters/F1/Prefab/F1_D002_Body.prefab	53106	B_Hs	F1萝莉等级装T11·黄金装																																
+3107	Player/Characters/F1/Prefab/F1_D013_Body.prefab	53107	B_Hs	F1萝莉等级装T12·黄金装																																
+3108	Player/Characters/F1/Prefab/F1_D001_Body.prefab	53108	B_Hs	F1萝莉等级装T13·黄金装																																
+3109	Player/Characters/F1/Prefab/F1_D014_Body.prefab		B_Hs	F1萝莉等级装T14·黄金装						F1_D014_Body	1		255|255|255|123	1.25	255|255|255|35	1	255|174|0|163	2.1																		
+3110	Player/Characters/F1/Prefab/F1_D015_Body.prefab		B_Hs	F1萝莉等级装T15·黄金装						F1_D015_Body	1		242|255|26|118	1	255|195|0|90	1.82	255|255|255|39	1																		
+3201	Player/Characters/F1/Prefab/F1_D005_Body.prefab	53201	B_Hs	F1萝莉等级装T1·偏色1																																
+3202	Player/Characters/F1/Prefab/F1_D005_Body.prefab	53202	B_Hs	F1萝莉等级装T1·偏色2																																
+3203	Player/Characters/F1/Prefab/F1_D005_Body.prefab	53203	B_Hs	F1萝莉等级装T1·偏色3																																
+3204	Player/Characters/F1/Prefab/F1_D009_Body.prefab	53204	B_Hs	F1萝莉等级装T2·偏色1																																
+3205	Player/Characters/F1/Prefab/F1_D009_Body.prefab	53205	B_Hs	F1萝莉等级装T2·偏色2																																
+3206	Player/Characters/F1/Prefab/F1_D009_Body.prefab	53206	B_Hs	F1萝莉等级装T2·偏色3																																
+3207	Player/Characters/F1/Prefab/F1_D008_Body.prefab	53207	B_Hs	F1萝莉等级装T3·偏色1																																
+3208	Player/Characters/F1/Prefab/F1_D008_Body.prefab	53208	B_Hs	F1萝莉等级装T3·偏色2																																
+3209	Player/Characters/F1/Prefab/F1_D008_Body.prefab	53209	B_Hs	F1萝莉等级装T3·偏色3																																
+3210	Player/Characters/F1/Prefab/F1_D012_Body.prefab	53210	B_Hs	F1萝莉等级装T4·偏色1																																
+3211	Player/Characters/F1/Prefab/F1_D012_Body.prefab	53211	B_Hs	F1萝莉等级装T4·偏色2																																
+3212	Player/Characters/F1/Prefab/F1_D012_Body.prefab	53212	B_Hs	F1萝莉等级装T4·偏色3																																
+3213	Player/Characters/F1/Prefab/F1_D006_Body.prefab	53213	B_Hs	F1萝莉等级装T5·偏色1																																
+3214	Player/Characters/F1/Prefab/F1_D006_Body.prefab	53214	B_Hs	F1萝莉等级装T5·偏色2																																
+3215	Player/Characters/F1/Prefab/F1_D006_Body.prefab	53215	B_Hs	F1萝莉等级装T5·偏色3																																
+3216	Player/Characters/F1/Prefab/F1_D011_Body.prefab	53216	B_Hs	F1萝莉等级装T6·偏色1																																
+3217	Player/Characters/F1/Prefab/F1_D011_Body.prefab	53217	B_Hs	F1萝莉等级装T6·偏色2																																
+3218	Player/Characters/F1/Prefab/F1_D011_Body.prefab	53218	B_Hs	F1萝莉等级装T6·偏色3																																
+3219	Player/Characters/F1/Prefab/F1_D003_Body.prefab	53219	B_Hs	F1萝莉等级装T7·偏色1																																
+3220	Player/Characters/F1/Prefab/F1_D003_Body.prefab	53220	B_Hs	F1萝莉等级装T7·偏色2																																
+3221	Player/Characters/F1/Prefab/F1_D003_Body.prefab	53221	B_Hs	F1萝莉等级装T7·偏色3																																
+3222	Player/Characters/F1/Prefab/F1_D007_Body.prefab	53222	B_Hs	F1萝莉等级装T8·偏色1																																
+3223	Player/Characters/F1/Prefab/F1_D007_Body.prefab	53223	B_Hs	F1萝莉等级装T8·偏色2																																
+3224	Player/Characters/F1/Prefab/F1_D007_Body.prefab	53224	B_Hs	F1萝莉等级装T8·偏色3																																
+3225	Player/Characters/F1/Prefab/F1_D010_Body.prefab	53225	B_Hs	F1萝莉等级装T9·偏色1																																
+3226	Player/Characters/F1/Prefab/F1_D010_Body.prefab	53226	B_Hs	F1萝莉等级装T9·偏色2																																
+3227	Player/Characters/F1/Prefab/F1_D010_Body.prefab	53227	B_Hs	F1萝莉等级装T9·偏色3																																
+3228	Player/Characters/F1/Prefab/F1_D004_Body.prefab	53228	B_Hs	F1萝莉等级装T10·偏色1																																
+3229	Player/Characters/F1/Prefab/F1_D004_Body.prefab	53229	B_Hs	F1萝莉等级装T10·偏色2																																
+3230	Player/Characters/F1/Prefab/F1_D004_Body.prefab	53230	B_Hs	F1萝莉等级装T10·偏色3																																
+3231	Player/Characters/F1/Prefab/F1_D002_Body.prefab	53231	B_Hs	F1萝莉等级装T11·偏色1																																
+3232	Player/Characters/F1/Prefab/F1_D002_Body.prefab	53232	B_Hs	F1萝莉等级装T11·偏色2																																
+3233	Player/Characters/F1/Prefab/F1_D002_Body.prefab	53233	B_Hs	F1萝莉等级装T11·偏色3																																
+3234	Player/Characters/F1/Prefab/F1_D013_Body.prefab	53234	B_Hs	F1萝莉等级装T12·偏色1																																
+3235	Player/Characters/F1/Prefab/F1_D013_Body.prefab	53235	B_Hs	F1萝莉等级装T12·偏色2																																
+3236	Player/Characters/F1/Prefab/F1_D013_Body.prefab	53236	B_Hs	F1萝莉等级装T12·偏色3																																
+3237	Player/Characters/F1/Prefab/F1_D001_Body.prefab	53237	B_Hs	F1萝莉等级装T13·偏色1																																
+3238	Player/Characters/F1/Prefab/F1_D001_Body.prefab	53238	B_Hs	F1萝莉等级装T13·偏色2																																
+3239	Player/Characters/F1/Prefab/F1_D001_Body.prefab	53239	B_Hs	F1萝莉等级装T13·偏色3																																
+3241	Player/Characters/F1/Prefab/F1_D005_Body.prefab	53241	B_Hs	F1萝莉等级装T1·偏色4																																
+3242	Player/Characters/F1/Prefab/F1_D009_Body.prefab	53242	B_Hs	F1萝莉等级装T2·偏色4																																
+3243	Player/Characters/F1/Prefab/F1_D008_Body.prefab	53243	B_Hs	F1萝莉等级装T3·偏色4																																
+3244	Player/Characters/F1/Prefab/F1_D012_Body.prefab	53244	B_Hs	F1萝莉等级装T4·偏色4																																
+3245	Player/Characters/F1/Prefab/F1_D006_Body.prefab	53245	B_Hs	F1萝莉等级装T5·偏色4																																
+3246	Player/Characters/F1/Prefab/F1_D011_Body.prefab	53246	B_Hs	F1萝莉等级装T6·偏色4																																
+3247	Player/Characters/F1/Prefab/F1_D003_Body.prefab	53247	B_Hs	F1萝莉等级装T7·偏色4																																
+3248	Player/Characters/F1/Prefab/F1_D007_Body.prefab	53248	B_Hs	F1萝莉等级装T8·偏色4																																
+3249	Player/Characters/F1/Prefab/F1_D010_Body.prefab	53249	B_Hs	F1萝莉等级装T9·偏色4																																
+3250	Player/Characters/F1/Prefab/F1_D004_Body.prefab	53250	B_Hs	F1萝莉等级装T10·偏色4																																
+3251	Player/Characters/F1/Prefab/F1_D002_Body.prefab	53251	B_Hs	F1萝莉等级装T11·偏色4																																
+3252	Player/Characters/F1/Prefab/F1_D013_Body.prefab	53252	B_Hs	F1萝莉等级装T12·偏色4																																
+3253	Player/Characters/F1/Prefab/F1_D001_Body.prefab	53253	B_Hs	F1萝莉等级装T13·偏色4																																
+3261	Player/Characters/F1/Prefab/F1_D014_Body.prefab		B_Hs	F1萝莉等级装T14·偏色1						F1_D014_Body	1		255|199|99|158	1	208|227|255|117	1.03	83|230|181|91	1.38																		
+3262	Player/Characters/F1/Prefab/F1_D014_Body.prefab		B_Hs	F1萝莉等级装T14·偏色2						F1_D014_Body	1		255|199|99|158	1	215|245|255|117	1.03	21|113|163|121	2.13																		
+3263	Player/Characters/F1/Prefab/F1_D014_Body.prefab		B_Hs	F1萝莉等级装T14·偏色3						F1_D014_Body	1		213|251|255|158	1.27	255|252|215|117	1.03	247|179|58|120	1.68																		
+3264	Player/Characters/F1/Prefab/F1_D015_Body.prefab		B_Hs	F1萝莉等级装T15·偏色1						F1_D015_Body	1		228|250|255|118	1	230|47|58|120	1.47	255|213|213|86	1																		
+3265	Player/Characters/F1/Prefab/F1_D015_Body.prefab		B_Hs	F1萝莉等级装T15·偏色2						F1_D015_Body	1		228|250|255|118	1	42|190|251|120	1.6	219|255|255|86	1																		
+3266	Player/Characters/F1/Prefab/F1_D015_Body.prefab		B_Hs	F1萝莉等级装T15·偏色3						F1_D015_Body	1		228|250|255|118	1	253|194|68|120	1.6	255|243|219|86	1																		
+4001	Player/Characters/F2/Prefab/F2_D013_Body.prefab	54001	B_Hs	F2标女等级装T1																																
+4002	Player/Characters/F2/Prefab/F2_D008_Body.prefab	54002	B_Hs	F2标女等级装T2																																
+4003	Player/Characters/F2/Prefab/F2_D011_Body.prefab	54003	B_Hs	F2标女等级装T3																																
+4004	Player/Characters/F2/Prefab/F2_D012_Body.prefab	54004	B_Hs	F2标女等级装T4																																
+4005	Player/Characters/F2/Prefab/F2_D004_Body.prefab	54005	B_Hs	F2标女等级装T5																																
+4006	Player/Characters/F2/Prefab/F2_D003_Body.prefab	54006	B_Hs	F2标女等级装T6																																
+4007	Player/Characters/F2/Prefab/F2_D009_Body.prefab	54007	B_Hs	F2标女等级装T7																																
+4008	Player/Characters/F2/Prefab/F2_D002_Body.prefab	54008	B_Hs	F2标女等级装T8																																
+4009	Player/Characters/F2/Prefab/F2_D005_Body.prefab	54009	B_Hs	F2标女等级装T9																																
+4010	Player/Characters/F2/Prefab/F2_D007_Body.prefab	54010	B_Hs	F2标女等级装T10																																
+4011	Player/Characters/F2/Prefab/F2_D010_Body.prefab	54011	B_Hs	F2标女等级装T11																																
+4012	Player/Characters/F2/Prefab/F2_D006_Body.prefab	54012	B_Hs	F2标女等级装T12																																
+4013	Player/Characters/F2/Prefab/F2_D001_Body.prefab	54013	B_Hs	F2标女等级装T13																																
+4014	Player/Characters/F2/Prefab/F2_D014_Body.prefab		B_Hs	F2标女等级装T14				1		F2_D014_body	0		255|255|255|58	1	255|255|255|50	1	255|255|255|50	1																		
+4015	Player/Characters/F2/Prefab/F2_D015_Body.prefab		B_Hs	F2标女等级装T15				1		F2_D015_body	0		255|255|255|193	1.05	255|255|255|82	1	255|255|255|29	1																		
+4101	Player/Characters/F2/Prefab/F2_D003_Body.prefab	54101	B_Hs	F2标女等级装T6·黄金装																																
+4102	Player/Characters/F2/Prefab/F2_D009_Body.prefab	54102	B_Hs	F2标女等级装T7·黄金装																																
+4103	Player/Characters/F2/Prefab/F2_D002_Body.prefab	54103	B_Hs	F2标女等级装T8·黄金装																																
+4104	Player/Characters/F2/Prefab/F2_D005_Body.prefab	54104	B_Hs	F2标女等级装T9·黄金装																																
+4105	Player/Characters/F2/Prefab/F2_D007_Body.prefab	54105	B_Hs	F2标女等级装T10·黄金装																																
+4106	Player/Characters/F2/Prefab/F2_D010_Body.prefab	54106	B_Hs	F2标女等级装T11·黄金装																																
+4107	Player/Characters/F2/Prefab/F2_D006_Body.prefab	54107	B_Hs	F2标女等级装T12·黄金装																																
+4108	Player/Characters/F2/Prefab/F2_D001_Body.prefab	54108	B_Hs	F2标女等级装T13·黄金装																																
+4109	Player/Characters/F2/Prefab/F2_D014_Body.prefab		B_Hs	F2标女等级装T14·黄金装						F2_D014_body	1		255|213|104|58	1.28	255|152|0|113	1.25	172|172|172|136	1																		
+4110	Player/Characters/F2/Prefab/F2_D015_Body.prefab		B_Hs	F2标女等级装T15·黄金装						F2_D015_body	1		255|255|255|193	1.2	255|205|0|50	1.38	255|255|255|29	1																		
+4201	Player/Characters/F2/Prefab/F2_D013_Body.prefab	54201	B_Hs	F2标女等级装T1·偏色1																																
+4202	Player/Characters/F2/Prefab/F2_D013_Body.prefab	54202	B_Hs	F2标女等级装T1·偏色2																																
+4203	Player/Characters/F2/Prefab/F2_D013_Body.prefab	54203	B_Hs	F2标女等级装T1·偏色3																																
+4204	Player/Characters/F2/Prefab/F2_D008_Body.prefab	54204	B_Hs	F2标女等级装T2·偏色1																																
+4205	Player/Characters/F2/Prefab/F2_D008_Body.prefab	54205	B_Hs	F2标女等级装T2·偏色2																																
+4206	Player/Characters/F2/Prefab/F2_D008_Body.prefab	54206	B_Hs	F2标女等级装T2·偏色3																																
+4207	Player/Characters/F2/Prefab/F2_D011_Body.prefab	54207	B_Hs	F2标女等级装T3·偏色1																																
+4208	Player/Characters/F2/Prefab/F2_D011_Body.prefab	54208	B_Hs	F2标女等级装T3·偏色2																																
+4209	Player/Characters/F2/Prefab/F2_D011_Body.prefab	54209	B_Hs	F2标女等级装T3·偏色3																																
+4210	Player/Characters/F2/Prefab/F2_D012_Body.prefab	54210	B_Hs	F2标女等级装T4·偏色1																																
+4211	Player/Characters/F2/Prefab/F2_D012_Body.prefab	54211	B_Hs	F2标女等级装T4·偏色2																																
+4212	Player/Characters/F2/Prefab/F2_D012_Body.prefab	54212	B_Hs	F2标女等级装T4·偏色3																																
+4213	Player/Characters/F2/Prefab/F2_D004_Body.prefab	54213	B_Hs	F2标女等级装T5·偏色1																																
+4214	Player/Characters/F2/Prefab/F2_D004_Body.prefab	54214	B_Hs	F2标女等级装T5·偏色2																																
+4215	Player/Characters/F2/Prefab/F2_D004_Body.prefab	54215	B_Hs	F2标女等级装T5·偏色3																																
+4216	Player/Characters/F2/Prefab/F2_D003_Body.prefab	54216	B_Hs	F2标女等级装T6·偏色1																																
+4217	Player/Characters/F2/Prefab/F2_D003_Body.prefab	54217	B_Hs	F2标女等级装T6·偏色2																																
+4218	Player/Characters/F2/Prefab/F2_D003_Body.prefab	54218	B_Hs	F2标女等级装T6·偏色3																																
+4219	Player/Characters/F2/Prefab/F2_D009_Body.prefab	54219	B_Hs	F2标女等级装T7·偏色1																																
+4220	Player/Characters/F2/Prefab/F2_D009_Body.prefab	54220	B_Hs	F2标女等级装T7·偏色2																																
+4221	Player/Characters/F2/Prefab/F2_D009_Body.prefab	54221	B_Hs	F2标女等级装T7·偏色3																																
+4222	Player/Characters/F2/Prefab/F2_D002_Body.prefab	54222	B_Hs	F2标女等级装T8·偏色1																																
+4223	Player/Characters/F2/Prefab/F2_D002_Body.prefab	54223	B_Hs	F2标女等级装T8·偏色2																																
+4224	Player/Characters/F2/Prefab/F2_D002_Body.prefab	54224	B_Hs	F2标女等级装T8·偏色3																																
+4225	Player/Characters/F2/Prefab/F2_D005_Body.prefab	54225	B_Hs	F2标女等级装T9·偏色1																																
+4226	Player/Characters/F2/Prefab/F2_D005_Body.prefab	54226	B_Hs	F2标女等级装T9·偏色2																																
+4227	Player/Characters/F2/Prefab/F2_D005_Body.prefab	54227	B_Hs	F2标女等级装T9·偏色3																																
+4228	Player/Characters/F2/Prefab/F2_D007_Body.prefab	54228	B_Hs	F2标女等级装T10·偏色1																																
+4229	Player/Characters/F2/Prefab/F2_D007_Body.prefab	54229	B_Hs	F2标女等级装T10·偏色2																																
+4230	Player/Characters/F2/Prefab/F2_D007_Body.prefab	54230	B_Hs	F2标女等级装T10·偏色3																																
+4231	Player/Characters/F2/Prefab/F2_D010_Body.prefab	54231	B_Hs	F2标女等级装T11·偏色1																																
+4232	Player/Characters/F2/Prefab/F2_D010_Body.prefab	54232	B_Hs	F2标女等级装T11·偏色2																																
+4233	Player/Characters/F2/Prefab/F2_D010_Body.prefab	54233	B_Hs	F2标女等级装T11·偏色3																																
+4234	Player/Characters/F2/Prefab/F2_D006_Body.prefab	54234	B_Hs	F2标女等级装T12·偏色1																																
+4235	Player/Characters/F2/Prefab/F2_D006_Body.prefab	54235	B_Hs	F2标女等级装T12·偏色2																																
+4236	Player/Characters/F2/Prefab/F2_D006_Body.prefab	54236	B_Hs	F2标女等级装T12·偏色3																																
+4237	Player/Characters/F2/Prefab/F2_D001_Body.prefab	54237	B_Hs	F2标女等级装T13·偏色1																																
+4238	Player/Characters/F2/Prefab/F2_D001_Body.prefab	54238	B_Hs	F2标女等级装T13·偏色2																																
+4239	Player/Characters/F2/Prefab/F2_D001_Body.prefab	54239	B_Hs	F2标女等级装T13·偏色3																																
+4241	Player/Characters/F2/Prefab/F2_D013_Body.prefab	54241	B_Hs	F2标女等级装T1·偏色4																																
+4242	Player/Characters/F2/Prefab/F2_D008_Body.prefab	54242	B_Hs	F2标女等级装T2·偏色4																																
+4243	Player/Characters/F2/Prefab/F2_D011_Body.prefab	54243	B_Hs	F2标女等级装T3·偏色4																																
+4244	Player/Characters/F2/Prefab/F2_D012_Body.prefab	54244	B_Hs	F2标女等级装T4·偏色4																																
+4245	Player/Characters/F2/Prefab/F2_D004_Body.prefab	54245	B_Hs	F2标女等级装T5·偏色4																																
+4246	Player/Characters/F2/Prefab/F2_D003_Body.prefab	54246	B_Hs	F2标女等级装T6·偏色4																																
+4247	Player/Characters/F2/Prefab/F2_D009_Body.prefab	54247	B_Hs	F2标女等级装T7·偏色4																																
+4248	Player/Characters/F2/Prefab/F2_D002_Body.prefab	54248	B_Hs	F2标女等级装T8·偏色4																																
+4249	Player/Characters/F2/Prefab/F2_D005_Body.prefab	54249	B_Hs	F2标女等级装T9·偏色4																																
+4250	Player/Characters/F2/Prefab/F2_D007_Body.prefab	54250	B_Hs	F2标女等级装T10·偏色4																																
+4251	Player/Characters/F2/Prefab/F2_D010_Body.prefab	54251	B_Hs	F2标女等级装T11·偏色4																																
+4252	Player/Characters/F2/Prefab/F2_D006_Body.prefab	54252	B_Hs	F2标女等级装T12·偏色4																																
+4253	Player/Characters/F2/Prefab/F2_D001_Body.prefab	54253	B_Hs	F2标女等级装T13·偏色4																																
+4261	Player/Characters/F2/Prefab/F2_D014_Body.prefab		B_Hs	F2标女等级装T14·偏色1						F2_D014_body	1		255|255|255|58	1	255|195|0|69	1.12	255|205|0|50	2.89																		
+4262	Player/Characters/F2/Prefab/F2_D014_Body.prefab		B_Hs	F2标女等级装T14·偏色2						F2_D014_body	1		255|255|255|58	1.14	193|191|255|69	1.12	127|154|255|50	2.89																		
+4263	Player/Characters/F2/Prefab/F2_D014_Body.prefab		B_Hs	F2标女等级装T14·偏色3						F2_D014_body	1		255|255|255|58	1.14	138|206|255|69	1.12	99|209|255|69	2.89																		
+4264	Player/Characters/F2/Prefab/F2_D015_Body.prefab		B_Hs	F2标女等级装T15·偏色1				1		F2_D015_body	0		255|255|255|193	1.05	118|130|255|121	1.65	217|210|255|50	1.18																		
+4265	Player/Characters/F2/Prefab/F2_D015_Body.prefab		B_Hs	F2标女等级装T15·偏色2						F2_D015_body	1		255|255|255|193	1.05	255|251|114|109	1.14	255|254|225|50	1.1																		
+4266	Player/Characters/F2/Prefab/F2_D015_Body.prefab		B_Hs	F2标女等级装T15·偏色3						F2_D015_body	1		255|255|255|193	1.05	255|123|153|125	1.33	255|234|239|62	1.1																		
+6001	Player/Characters/M1/Prefab/M1_W001_Body.prefab	56001	B_Hs	M1标男外装T1·颜色1		斗笠																														
+6002	Player/Characters/M1/Prefab/M1_W001_Body.prefab	56002	B_Hs	M1标男外装T1·颜色2		斗笠																														
+6003	Player/Characters/M1/Prefab/M1_W001_Body.prefab	56003	B_Hs	M1标男外装T1·颜色3		斗笠																														
+6004	Player/Characters/M1/Prefab/M1_W001_Body.prefab	56004	B_Hs	M1标男外装T1·颜色4		斗笠																														
+6005	Player/Characters/M1/Prefab/M1_W002_Body.prefab	56005	B_Hs	M1标男外装T2·颜色1		学院																														
+6006	Player/Characters/M1/Prefab/M1_W002_Body.prefab	56006	B_Hs	M1标男外装T2·颜色2		学院																														
+6007	Player/Characters/M1/Prefab/M1_W002_Body.prefab	56007	B_Hs	M1标男外装T2·颜色3		学院																														
+6008	Player/Characters/M1/Prefab/M1_W002_Body.prefab	56008	B_Hs	M1标男外装T2·颜色4		学院																														
+6009	Player/Characters/M1/Prefab/M1_W002_Body.prefab	56009	B_Hs	M1标男外装T2·颜色5		学院																														
+6010	Player/Characters/M1/Prefab/M1_W002_Body.prefab	56010	B_Hs	M1标男外装T2·颜色6		学院																														
+6011	Player/Characters/M1/Prefab/M1_W002_Body.prefab	56011	B_Hs	M1标男外装T2·颜色7		学院																														
+6012	Player/Characters/M1/Prefab/M1_W002_Body.prefab	56012	B_Hs	M1标男外装T2·颜色8		学院																														
+6013	Player/Characters/M1/Prefab/M1_W003_Body.prefab	56013	B_Hs	M1标男外装T3·颜色1		新年大衣																														
+6014	Player/Characters/M1/Prefab/M1_W003_Body.prefab	56014	B_Hs	M1标男外装T3·颜色2		新年大衣																														
+6015	Player/Characters/M1/Prefab/M1_W003_Body.prefab	56015	B_Hs	M1标男外装T3·颜色3		新年大衣																														
+6016	Player/Characters/M1/Prefab/M1_W003_Body.prefab	56016	B_Hs	M1标男外装T3·颜色4		新年大衣																														
+6017	Player/Characters/M1/Prefab/M1_W004_Body.prefab	56017	B_Hs	M1标男外装T4·颜色1		八家将																														
+6018	Player/Characters/M1/Prefab/M1_W004_Body.prefab	56018	B_Hs	M1标男外装T4·颜色2		八家将																														
+6019	Player/Characters/M1/Prefab/M1_W004_Body.prefab	56019	B_Hs	M1标男外装T4·颜色3		八家将																														
+6020	Player/Characters/M1/Prefab/M1_W004_Body.prefab	56020	B_Hs	M1标男外装T4·颜色4		八家将																														
+6021	Player/Characters/M1/Prefab/M1_W004_Body.prefab	56021	B_Hs	M1标男外装T4·颜色5		八家将																														
+6022	Player/Characters/M1/Prefab/M1_W005_Body.prefab	56022	B_Hs	M1标男外装T5·颜色1		黑帮																														
+6023	Player/Characters/M1/Prefab/M1_W005_Body.prefab	56023	B_Hs	M1标男外装T5·颜色2		黑帮																														
+6024	Player/Characters/M1/Prefab/M1_W005_Body.prefab	56024	B_Hs	M1标男外装T5·颜色3		黑帮																														
+6025	Player/Characters/M1/Prefab/M1_W005_Body.prefab	56025	B_Hs	M1标男外装T5·颜色4		黑帮																														
+6026	Player/Characters/M1/Prefab/M1_W005_Body.prefab	56026	B_Hs	M1标男外装T5·颜色5		黑帮																														
+6027	Player/Characters/M1/Prefab/M1_W006_Body.prefab	56027	B_Hs	M1标男外装T6·颜色1		佳期																														
+6028	Player/Characters/M1/Prefab/M1_W006_Body.prefab	56028	B_Hs	M1标男外装T6·颜色2		佳期																														
+6029	Player/Characters/M1/Prefab/M1_W006_Body.prefab	56029	B_Hs	M1标男外装T6·颜色3		佳期																														
+6030	Player/Characters/M1/Prefab/M1_W006_Body.prefab	56030	B_Hs	M1标男外装T6·颜色4		佳期																														
+6031	Player/Characters/M1/Prefab/M1_W006_Body.prefab	56031	B_Hs	M1标男外装T6·颜色5		佳期																														
+6032	Player/Characters/M1/Prefab/M1_W007_Body.prefab	56032	B_Hs	M1标男外装T7·颜色1		流光																														
+6033	Player/Characters/M1/Prefab/M1_W007_Body.prefab	56033	B_Hs	M1标男外装T7·颜色2		流光																														
+6034	Player/Characters/M1/Prefab/M1_W007_Body.prefab	56034	B_Hs	M1标男外装T7·颜色3		流光																														
+6035	Player/Characters/M1/Prefab/M1_W007_Body.prefab	56035	B_Hs	M1标男外装T7·颜色4		流光																														
+6036	Player/Characters/M1/Prefab/M1_W008_Body.prefab	56036	B_Hs	M1标男外装T8·颜色1		轻纱																														
+6037	Player/Characters/M1/Prefab/M1_W008_Body.prefab	56037	B_Hs	M1标男外装T8·颜色2		轻纱																														
+6038	Player/Characters/M1/Prefab/M1_W008_Body.prefab	56038	B_Hs	M1标男外装T8·颜色3		轻纱																														
+6039	Player/Characters/M1/Prefab/M1_W008_Body.prefab	56039	B_Hs	M1标男外装T8·颜色4		轻纱																														
+6040	Player/Characters/M1/Prefab/M1_W009_Body.prefab	56040	B_Hs	M1标男外装T9·颜色1		婚礼																														
+6041	Player/Characters/M1/Prefab/M1_W009A_Body.prefab	56041	B_Hs	M1标男外装T9·颜色2		婚礼																														
+6042	Player/Characters/M1/Prefab/M1_W009B_Body.prefab	56042	B_Hs	M1标男外装T9·颜色3		婚礼																														
+6043	Player/Characters/M1/Prefab/M1_W009_Body.prefab	56043	B_Hs	M1标男外装T9·颜色4		婚礼																														
+6044	Player/Characters/M1/Prefab/M1_W001_Body.prefab	56044	B_Hs	M1标男外装T1·颜色5		斗笠																														
+6045	Player/Characters/M1/Prefab/M1_W003_Body.prefab	56045	B_Hs	M1标男外装T3·颜色5		新年大衣																														
+6046	Player/Characters/M1/Prefab/M1_W007_Body.prefab	56046	B_Hs	M1标男外装T7·颜色5		流光																														
+6047	Player/Characters/M1/Prefab/M1_W008_Body.prefab	56047	B_Hs	M1标男外装T8·颜色5		轻纱																														
+6048	Player/Characters/M1/Prefab/M1_W010_Body.prefab	56048	B_Hs	M1成男外装T11·颜色1		新年装																														
+6049	Player/Characters/M1/Prefab/M1_W010_Body.prefab	56049	B_Hs	M1成男外装T11·颜色2		新年装																														
+6050	Player/Characters/M1/Prefab/M1_W010_Body.prefab	56050	B_Hs	M1成男外装T11·颜色3		新年装																														
+6051	Player/Characters/M1/Prefab/M1_W010_Body.prefab	56051	B_Hs	M1成男外装T11·颜色4		新年装																														
+6052	Player/Characters/M1/Prefab/M1_W010_Body.prefab	56052	B_Hs	M1成男外装T11·颜色5		新年装																														
+6053	Player/Characters/M1/Prefab/M1_W010_Body.prefab	56053	B_Hs	M1成男外装T11·颜色6		新年装																														
+6069	Player/Characters/M1/Prefab/M1_W008_Body.prefab	56069	B_Hs	M1标男外装T8·颜色6		轻纱																														
+6070	Player/Characters/M1/Prefab/M1_W011_Body.prefab		B_Hs	M1成男外装T12·颜色1		夏莲（豪华）				M1_W011_Body	1		251|228|133|43	1	66|79|213|53	1.45	68|56|118|39	1																		
+6071	Player/Characters/M1/Prefab/M1_W011_Body.prefab		B_Hs	M1成男外装T12·颜色2		夏莲（豪华）				M1_W011_Body	1		245|215|149|43	1.29	170|166|148|53	1.45	198|198|198|39	1.14																		
+6072	Player/Characters/M1/Prefab/M1_W011_Body.prefab		B_Hs	M1成男外装T12·颜色3		夏莲（豪华）				M1_W011_Body	1		255|255|255|43	1.29	255|184|184|53	1.45	255|111|143|39	1.14																		
+6073	Player/Characters/M1/Prefab/M1_W011_Body.prefab		B_Hs	M1成男外装T12·颜色4		夏莲（豪华）				M1_W011_Body	1		255|178|80|43	1.29	119|0|0|53	1.45	189|0|42|39	1.14																		
+6074	Player/Characters/M1/Prefab/M1_W011_Body.prefab		B_Hs	M1成男外装T12·颜色5		夏莲（豪华）				M1_W011_Body	1		221|208|223|43	1.29	166|179|183|53	1.45	63|165|143|39	1.14																		
+6075	Player/Characters/M1/Prefab/M1_W011_Body.prefab		B_Hs	M1成男外装T12·颜色6		夏莲（豪华）				M1_W011_Body	1		146|123|64|67	1.24	46|46|37|83	1	20|24|18|48	1																		
+6076	Player/Characters/M1/Prefab/M1_W011A_Body.prefab		B_Hs	M1成男外装T12A·颜色1		夏莲（普通）				M1_W011A_Body 	1		243|212|109|70	1.07	75|87|202|35	1.59	83|72|129|39	1																		
+6077	Player/Characters/M1/Prefab/M1_W011A_Body.prefab		B_Hs	M1成男外装T12A·颜色2		夏莲（普通）				M1_W011A_Body 	1		234|193|106|50	1.41	243|233|198|35	1.43	247|241|222|39	1.34																		
+6078	Player/Characters/M1/Prefab/M1_W011A_Body.prefab		B_Hs	M1成男外装T12A·颜色3		夏莲（普通）				M1_W011A_Body 	1		222|213|226|26	1.41	206|218|226|29	1.76	255|146|220|39	1.64																		
+6079	Player/Characters/M1/Prefab/M1_W011A_Body.prefab		B_Hs	M1成男外装T12A·颜色4		夏莲（普通）				M1_W011A_Body 	1		223|189|78|26	1.41	69|69|69|29	1.76	221|19|19|39	1.17																		
+6080	Player/Characters/M1/Prefab/M1_W011A_Body.prefab		B_Hs	M1成男外装T12A·颜色5		夏莲（普通）				M1_W011A_Body 	1		223|189|78|26	1.41	255|255|255|21	1.76	116|255|203|39	1.17																		
+6081	Player/Characters/M1/Prefab/M1_W011A_Body.prefab		B_Hs	M1成男外装T12A·颜色6		夏莲（普通）																														
+6082	Player/Characters/M1/Prefab/M1_W011_Body.prefab		B_Hs	M1成男外装T12·颜色7		夏莲（豪华）				M1_W011_Body	1		255|255|255|15	1.29	238|244|255|0	1.56	240|242|255|8	1.13																		
+6083	Player/Characters/M1/Prefab/M1_W011_Body.prefab		B_Hs	M1成男外装T12·颜色8		夏莲（豪华）				M1_W011_Body	1		146|123|64|67	1.24	185|16|16|83	1	13|11|11|48	1																		
+6088	Player/Characters/M1/Prefab/M1_W012_Body.prefab		B_Hs	M1成男外装T13·颜色1		夏威夷		1		M1_W012_Body	0		255|255|255|23	1.15	255|255|255|113	1.11	255|255|255|51	0.82																		
+6089	Player/Characters/M1/Prefab/M1_W012_Body.prefab		B_Hs	M1成男外装T13·颜色2		夏威夷				M1_W012_Body	1		51|211|185|66	1.15	232|250|255|85	1.43	59|148|253|133	0.82																		
+6090	Player/Characters/M1/Prefab/M1_W012_Body.prefab		B_Hs	M1成男外装T13·颜色3		夏威夷				M1_W012_Body	1		159|31|50|177	1.15	255|191|95|46	1.51	185|92|92|129	1.7																		
+6091	Player/Characters/M1/Prefab/M1_W012_Body.prefab		B_Hs	M1成男外装T13·颜色4		夏威夷				M1_W012_Body	1		38|146|115|171	1.15	255|212|119|255	1.58	40|144|109|255	0.82																		
+7001	Player/Characters/M2/Prefab/M2_W001_Body.prefab	57001	B_Hs	M2壮男外装T1·颜色1		斗笠																														
+7002	Player/Characters/M2/Prefab/M2_W001_Body.prefab	57002	B_Hs	M2壮男外装T1·颜色2		斗笠																														
+7003	Player/Characters/M2/Prefab/M2_W001_Body.prefab	57003	B_Hs	M2壮男外装T1·颜色3		斗笠																														
+7004	Player/Characters/M2/Prefab/M2_W001_Body.prefab	57004	B_Hs	M2壮男外装T1·颜色4		斗笠																														
+7005	Player/Characters/M2/Prefab/M2_W002_Body.prefab	57005	B_Hs	M2壮男外装T2·颜色1		学院																														
+7006	Player/Characters/M2/Prefab/M2_W002_Body.prefab	57006	B_Hs	M2壮男外装T2·颜色2		学院																														
+7007	Player/Characters/M2/Prefab/M2_W002_Body.prefab	57007	B_Hs	M2壮男外装T2·颜色3		学院																														
+7008	Player/Characters/M2/Prefab/M2_W002_Body.prefab	57008	B_Hs	M2壮男外装T2·颜色4		学院																														
+7009	Player/Characters/M2/Prefab/M2_W002_Body.prefab	57009	B_Hs	M2壮男外装T2·颜色5		学院																														
+7010	Player/Characters/M2/Prefab/M2_W002_Body.prefab	57010	B_Hs	M2壮男外装T2·颜色6		学院																														
+7011	Player/Characters/M2/Prefab/M2_W002_Body.prefab	57011	B_Hs	M2壮男外装T2·颜色7		学院																														
+7012	Player/Characters/M2/Prefab/M2_W002_Body.prefab	57012	B_Hs	M2壮男外装T2·颜色8		学院																														
+7013	Player/Characters/M2/Prefab/M2_W003_Body.prefab	57013	B_Hs	M2壮男外装T3·颜色1		新年大衣																														
+7014	Player/Characters/M2/Prefab/M2_W003_Body.prefab	57014	B_Hs	M2壮男外装T3·颜色2		新年大衣																														
+7015	Player/Characters/M2/Prefab/M2_W003_Body.prefab	57015	B_Hs	M2壮男外装T3·颜色3		新年大衣																														
+7016	Player/Characters/M2/Prefab/M2_W003_Body.prefab	57016	B_Hs	M2壮男外装T3·颜色4		新年大衣																														
+7017	Player/Characters/M2/Prefab/M2_W004_Body.prefab	57017	B_Hs	M2壮男外装T4·颜色1		八家将																														
+7018	Player/Characters/M2/Prefab/M2_W004_Body.prefab	57018	B_Hs	M2壮男外装T4·颜色2		八家将																														
+7019	Player/Characters/M2/Prefab/M2_W004_Body.prefab	57019	B_Hs	M2壮男外装T4·颜色3		八家将																														
+7020	Player/Characters/M2/Prefab/M2_W004_Body.prefab	57020	B_Hs	M2壮男外装T4·颜色4		八家将																														
+7021	Player/Characters/M2/Prefab/M2_W004_Body.prefab	57021	B_Hs	M2壮男外装T4·颜色5		八家将																														
+7022	Player/Characters/M2/Prefab/M2_W005_Body.prefab	57022	B_Hs	M2壮男外装T5·颜色1		黑帮																														
+7023	Player/Characters/M2/Prefab/M2_W005_Body.prefab	57023	B_Hs	M2壮男外装T5·颜色2		黑帮																														
+7024	Player/Characters/M2/Prefab/M2_W005_Body.prefab	57024	B_Hs	M2壮男外装T5·颜色3		黑帮																														
+7025	Player/Characters/M2/Prefab/M2_W005_Body.prefab	57025	B_Hs	M2壮男外装T5·颜色4		黑帮																														
+7026	Player/Characters/M2/Prefab/M2_W005_Body.prefab	57026	B_Hs	M2壮男外装T5·颜色5		黑帮																														
+7027	Player/Characters/M2/Prefab/M2_W006_Body.prefab	57027	B_Hs	M2壮男外装T6·颜色1		佳期																														
+7028	Player/Characters/M2/Prefab/M2_W006_Body.prefab	57028	B_Hs	M2壮男外装T6·颜色2		佳期																														
+7029	Player/Characters/M2/Prefab/M2_W006_Body.prefab	57029	B_Hs	M2壮男外装T6·颜色3		佳期																														
+7030	Player/Characters/M2/Prefab/M2_W006_Body.prefab	57030	B_Hs	M2壮男外装T6·颜色4		佳期																														
+7031	Player/Characters/M2/Prefab/M2_W006_Body.prefab	57031	B_Hs	M2壮男外装T6·颜色5		佳期																														
+7032	Player/Characters/M2/Prefab/M2_W007_Body.prefab	57032	B_Hs	M2壮男外装T7·颜色1		流光																														
+7033	Player/Characters/M2/Prefab/M2_W007_Body.prefab	57033	B_Hs	M2壮男外装T7·颜色2		流光																														
+7034	Player/Characters/M2/Prefab/M2_W007_Body.prefab	57034	B_Hs	M2壮男外装T7·颜色3		流光																														
+7035	Player/Characters/M2/Prefab/M2_W007_Body.prefab	57035	B_Hs	M2壮男外装T7·颜色4		流光																														
+7036	Player/Characters/M2/Prefab/M2_W008_Body.prefab	57036	B_Hs	M2壮男外装T8·颜色1		轻纱																														
+7037	Player/Characters/M2/Prefab/M2_W008_Body.prefab	57037	B_Hs	M2壮男外装T8·颜色2		轻纱																														
+7038	Player/Characters/M2/Prefab/M2_W008_Body.prefab	57038	B_Hs	M2壮男外装T8·颜色3		轻纱																														
+7039	Player/Characters/M2/Prefab/M2_W008_Body.prefab	57039	B_Hs	M2壮男外装T8·颜色4		轻纱																														
+7040	Player/Characters/M2/Prefab/M2_W009_Body.prefab	57040	B_Hs	M2壮男外装T9·颜色1		婚礼																														
+7041	Player/Characters/M2/Prefab/M2_W009_Body.prefab	57041	B_Hs	M2壮男外装T9·颜色2		婚礼																														
+7042	Player/Characters/M2/Prefab/M2_W009_Body.prefab	57042	B_Hs	M2壮男外装T9·颜色3		婚礼																														
+7043	Player/Characters/M2/Prefab/M2_W009_Body.prefab	57043	B_Hs	M2壮男外装T9·颜色4		婚礼																														
+7044	Player/Characters/M2/Prefab/M2_W001_Body.prefab	57044	B_Hs	M2壮男外装T1·颜色5		斗笠																														
+7045	Player/Characters/M2/Prefab/M2_W003_Body.prefab	57045	B_Hs	M2壮男外装T3·颜色5		新年大衣																														
+7046	Player/Characters/M2/Prefab/M2_W007_Body.prefab	57046	B_Hs	M2壮男外装T7·颜色5		流光																														
+7047	Player/Characters/M2/Prefab/M2_W008_Body.prefab	57047	B_Hs	M2壮男外装T8·颜色5		轻纱																														
+7048	Player/Characters/M2/Prefab/M2_W010_Body.prefab	57048	B_Hs	M2壮男外装T11·颜色1		新年装																														
+7049	Player/Characters/M2/Prefab/M2_W010_Body.prefab	57049	B_Hs	M2壮男外装T11·颜色2		新年装																														
+7050	Player/Characters/M2/Prefab/M2_W010_Body.prefab	57050	B_Hs	M2壮男外装T11·颜色3		新年装																														
+7051	Player/Characters/M2/Prefab/M2_W010_Body.prefab	57051	B_Hs	M2壮男外装T11·颜色4		新年装																														
+7052	Player/Characters/M2/Prefab/M2_W010_Body.prefab	57052	B_Hs	M2壮男外装T11·颜色5		新年装																														
+7053	Player/Characters/M2/Prefab/M2_W010_Body.prefab	57053	B_Hs	M2壮男外装T11·颜色6		新年装																														
+7069	Player/Characters/M2/Prefab/M2_W008_Body.prefab	57069	B_Hs	M2壮男外装T8·颜色6		轻纱																														
+7070	Player/Characters/M2/Prefab/M2_W011_Body.prefab		B_Hs	M2壮男外装T12·颜色1		夏莲（豪华）		1		M2_W011_Body	0		179|223|255|59	1	149|159|255|70	1	116|116|116|51	0.79																		
+7071	Player/Characters/M2/Prefab/M2_W011_Body.prefab		B_Hs	M2壮男外装T12·颜色2		夏莲（豪华）				M2_W011_Body	1		196|215|234|35	1	174|174|174|55	2	255|201|89|31	1.45																		
+7072	Player/Characters/M2/Prefab/M2_W011_Body.prefab		B_Hs	M2壮男外装T12·颜色3		夏莲（豪华）				M2_W011_Body	1		255|183|183|51	1	255|110|143|35	2.03	255|255|255|59	1.43																		
+7073	Player/Characters/M2/Prefab/M2_W011_Body.prefab		B_Hs	M2壮男外装T12·颜色4		夏莲（豪华）				M2_W011_Body	1		255|223|248|18	1	170|0|0|40	2	144|0|0|46	1.49																		
+7074	Player/Characters/M2/Prefab/M2_W011_Body.prefab		B_Hs	M2壮男外装T12·颜色5		夏莲（豪华）				M2_W011_Body	1		255|255|255|128	1	166|179|184|69	2	63|165|144|16	1.7																		
+7075	Player/Characters/M2/Prefab/M2_W011_Body.prefab		B_Hs	M2壮男外装T12·颜色6		夏莲（豪华）				M2_W011_Body	1		44|40|40|69	1	69|69|53|69	2	37|36|30|16	1.7																		
+7076	Player/Characters/M2/Prefab/M2_W011A_Body.prefab		B_Hs	M2壮男外装T12A·颜色1		夏莲（普通）		1		M2_W011A_Body	0		255|255|255|53	1	216|247|255|78	1.23	89|89|89|88	1.29																		
+7077	Player/Characters/M2/Prefab/M2_W011A_Body.prefab		B_Hs	M2壮男外装T12A·颜色2		夏莲（普通）				M2_W011A_Body	1		191|212|255|126	1.26	255|237|211|64	2.07	255|227|168|177	1.26																		
+7078	Player/Characters/M2/Prefab/M2_W011A_Body.prefab		B_Hs	M2壮男外装T12A·颜色3		夏莲（普通）				M2_W011A_Body	1		207|219|227|126	1.17	255|176|236|64	2.45	207|219|227|163	1.34																		
+7079	Player/Characters/M2/Prefab/M2_W011A_Body.prefab		B_Hs	M2壮男外装T12A·颜色4		夏莲（普通）				M2_W011A_Body	1		59|59|59|126	1.25	255|69|69|64	1.8	69|69|69|163	1.11																		
+7080	Player/Characters/M2/Prefab/M2_W011A_Body.prefab		B_Hs	M2壮男外装T12A·颜色5		夏莲（普通）				M2_W011A_Body	1		230|230|230|126	1.25	151|255|229|64	1.99	243|255|193|80	1.11																		
+7081	Player/Characters/M2/Prefab/M2_W011A_Body.prefab		B_Hs	M2壮男外装T12A·颜色6		夏莲（普通）																														
+7082	Player/Characters/M2/Prefab/M2_W011_Body.prefab		B_Hs	M2壮男外装T12·颜色7		夏莲（豪华）				M2_W011_Body	1		226|226|226|23	1	255|250|240|8	2.12	255|255|255|0	1.85																		
+7083	Player/Characters/M2/Prefab/M2_W011_Body.prefab		B_Hs	M2壮男外装T12·颜色8		夏莲（豪华）				M2_W011_Body	1		37|32|32|69	1	58|54|47|26	1.69	255|0|0|11	1.51																		
+7088	Player/Characters/M2/Prefab/M2_W012_Body.prefab		B_Hs	M2壮男外装T13·颜色1		夏威夷		1		M2_W012_Body	0		249|249|249|51	1	229|227|249|56	0.93	217|214|191|32	0.96																		
+7089	Player/Characters/M2/Prefab/M2_W012_Body.prefab		B_Hs	M2壮男外装T13·颜色2		夏威夷				M2_W012_Body	1		82|228|198|58	1.06	121|16|114|93	1.05	67|104|240|106	1.2																		
+7090	Player/Characters/M2/Prefab/M2_W012_Body.prefab		B_Hs	M2壮男外装T13·颜色3		夏威夷				M2_W012_Body	1		46|46|46|176	1.38	69|147|255|104	1.11	255|73|99|48	1																		
+7091	Player/Characters/M2/Prefab/M2_W012_Body.prefab		B_Hs	M2壮男外装T13·颜色4		夏威夷				M2_W012_Body	1		189|189|189|90	1.22	35|28|30|131	1.59	210|52|52|255	1																		
+8001	Player/Characters/F1/Prefab/F1_W001_Body.prefab	58001	B_Hs	F1萝莉外装T1·颜色1		斗笠																														
+8002	Player/Characters/F1/Prefab/F1_W001_Body.prefab	58002	B_Hs	F1萝莉外装T1·颜色2		斗笠																														
+8003	Player/Characters/F1/Prefab/F1_W001_Body.prefab	58003	B_Hs	F1萝莉外装T1·颜色3		斗笠																														
+8004	Player/Characters/F1/Prefab/F1_W001_Body.prefab	58004	B_Hs	F1萝莉外装T1·颜色4		斗笠																														
+8005	Player/Characters/F1/Prefab/F1_W002_Body.prefab	58005	B_Hs	F1萝莉外装T2·颜色1		学院																														
+8006	Player/Characters/F1/Prefab/F1_W002_Body.prefab	58006	B_Hs	F1萝莉外装T2·颜色2		学院																														
+8007	Player/Characters/F1/Prefab/F1_W002_Body.prefab	58007	B_Hs	F1萝莉外装T2·颜色3		学院																														
+8008	Player/Characters/F1/Prefab/F1_W002_Body.prefab	58008	B_Hs	F1萝莉外装T2·颜色4		学院																														
+8009	Player/Characters/F1/Prefab/F1_W002_Body.prefab	58009	B_Hs	F1萝莉外装T2·颜色5		学院																														
+8010	Player/Characters/F1/Prefab/F1_W002_Body.prefab	58010	B_Hs	F1萝莉外装T2·颜色6		学院																														
+8011	Player/Characters/F1/Prefab/F1_W002_Body.prefab	58011	B_Hs	F1萝莉外装T2·颜色7		学院																														
+8012	Player/Characters/F1/Prefab/F1_W002_Body.prefab	58012	B_Hs	F1萝莉外装T2·颜色8		学院																														
+8013	Player/Characters/F1/Prefab/F1_W003_Body.prefab	58013	B_Hs	F1萝莉外装T3·颜色1		新年大衣																														
+8014	Player/Characters/F1/Prefab/F1_W003_Body.prefab	58014	B_Hs	F1萝莉外装T3·颜色2		新年大衣																														
+8015	Player/Characters/F1/Prefab/F1_W003_Body.prefab	58015	B_Hs	F1萝莉外装T3·颜色3		新年大衣																														
+8016	Player/Characters/F1/Prefab/F1_W003_Body.prefab	58016	B_Hs	F1萝莉外装T3·颜色4		新年大衣																														
+8017	Player/Characters/F1/Prefab/F1_W004_Body.prefab	58017	B_Hs	F1萝莉外装T4·颜色1		八家将																														
+8018	Player/Characters/F1/Prefab/F1_W004_Body.prefab	58018	B_Hs	F1萝莉外装T4·颜色2		八家将																														
+8019	Player/Characters/F1/Prefab/F1_W004_Body.prefab	58019	B_Hs	F1萝莉外装T4·颜色3		八家将																														
+8020	Player/Characters/F1/Prefab/F1_W004_Body.prefab	58020	B_Hs	F1萝莉外装T4·颜色4		八家将																														
+8021	Player/Characters/F1/Prefab/F1_W004_Body.prefab	58021	B_Hs	F1萝莉外装T4·颜色5		八家将																														
+8022	Player/Characters/F1/Prefab/F1_W005_Body.prefab	58022	B_Hs	F1萝莉外装T5·颜色1		黑帮																														
+8023	Player/Characters/F1/Prefab/F1_W005_Body.prefab	58023	B_Hs	F1萝莉外装T5·颜色2		黑帮																														
+8024	Player/Characters/F1/Prefab/F1_W005_Body.prefab	58024	B_Hs	F1萝莉外装T5·颜色3		黑帮																														
+8025	Player/Characters/F1/Prefab/F1_W005_Body.prefab	58025	B_Hs	F1萝莉外装T5·颜色4		黑帮																														
+8026	Player/Characters/F1/Prefab/F1_W005_Body.prefab	58026	B_Hs	F1萝莉外装T5·颜色5		黑帮																														
+8027	Player/Characters/F1/Prefab/F1_W006_Body.prefab	58027	B_Hs	F1萝莉外装T6·颜色1		佳期																														
+8028	Player/Characters/F1/Prefab/F1_W006_Body.prefab	58028	B_Hs	F1萝莉外装T6·颜色2		佳期																														
+8029	Player/Characters/F1/Prefab/F1_W006_Body.prefab	58029	B_Hs	F1萝莉外装T6·颜色3		佳期																														
+8030	Player/Characters/F1/Prefab/F1_W006_Body.prefab	58030	B_Hs	F1萝莉外装T6·颜色4		佳期																														
+8031	Player/Characters/F1/Prefab/F1_W006_Body.prefab	58031	B_Hs	F1萝莉外装T6·颜色5		佳期																														
+8032	Player/Characters/F1/Prefab/F1_W007_Body.prefab	58032	B_Hs	F1萝莉外装T7·颜色1		流光																														
+8033	Player/Characters/F1/Prefab/F1_W007_Body.prefab	58033	B_Hs	F1萝莉外装T7·颜色2		流光																														
+8034	Player/Characters/F1/Prefab/F1_W007_Body.prefab	58034	B_Hs	F1萝莉外装T7·颜色3		流光																														
+8035	Player/Characters/F1/Prefab/F1_W007_Body.prefab	58035	B_Hs	F1萝莉外装T7·颜色4		流光																														
+8036	Player/Characters/F1/Prefab/F1_W008_Body.prefab	58036	B_Hs	F1萝莉外装T8·颜色1		轻纱																														
+8037	Player/Characters/F1/Prefab/F1_W008_Body.prefab	58037	B_Hs	F1萝莉外装T8·颜色2		轻纱																														
+8038	Player/Characters/F1/Prefab/F1_W008_Body.prefab	58038	B_Hs	F1萝莉外装T8·颜色3		轻纱																														
+8039	Player/Characters/F1/Prefab/F1_W008_Body.prefab	58039	B_Hs	F1萝莉外装T8·颜色4		轻纱																														
+8040	Player/Characters/F1/Prefab/F1_W009_Body.prefab	58040	B_Hs	F1萝莉外装T9·颜色1		婚礼																														
+8041	Player/Characters/F1/Prefab/F1_W009A_Body.prefab	58041	B_Hs	F1萝莉外装T9·颜色2		婚礼																														
+8042	Player/Characters/F1/Prefab/F1_W009B_Body.prefab	58042	B_Hs	F1萝莉外装T9·颜色3		婚礼																														
+8043	Player/Characters/F1/Prefab/F1_W009_Body.prefab	58043	B_Hs	F1萝莉外装T9·颜色4		婚礼																														
+8044	Player/Characters/F1/Prefab/F1_W001_Body.prefab	58044	B_Hs	F1萝莉外装T1·颜色5		斗笠																														
+8045	Player/Characters/F1/Prefab/F1_W003_Body.prefab	58045	B_Hs	F1萝莉外装T3·颜色5		新年大衣																														
+8046	Player/Characters/F1/Prefab/F1_W007_Body.prefab	58046	B_Hs	F1萝莉外装T7·颜色5		流光																														
+8047	Player/Characters/F1/Prefab/F1_W008_Body.prefab	58047	B_Hs	F1萝莉外装T8·颜色5		轻纱																														
+8048	Player/Characters/F1/Prefab/F1_W010_Body.prefab	58048	B_Hs	F1萝莉外装T11·颜色1		新年装																														
+8049	Player/Characters/F1/Prefab/F1_W010_Body.prefab	58049	B_Hs	F1萝莉外装T11·颜色2		新年装																														
+8050	Player/Characters/F1/Prefab/F1_W010_Body.prefab	58050	B_Hs	F1萝莉外装T11·颜色3		新年装																														
+8051	Player/Characters/F1/Prefab/F1_W010_Body.prefab	58051	B_Hs	F1萝莉外装T11·颜色4		新年装																														
+8052	Player/Characters/F1/Prefab/F1_W010_Body.prefab	58052	B_Hs	F1萝莉外装T11·颜色5		新年装																														
+8053	Player/Characters/F1/Prefab/F1_W010_Body.prefab	58053	B_Hs	F1萝莉外装T11·颜色6		新年装																														
+8069	Player/Characters/F1/Prefab/F1_W008_Body.prefab	58069	B_Hs	F1萝莉外装T8·颜色6		轻纱																														
+8070	Player/Characters/F1/Prefab/F1_W011_Body.prefab		B_Hs	F1萝莉外装T12·颜色1		夏莲（豪华）		1		F1_W011_Body	0		255|255|255|90	1	255|255|255|21	1	196|233|255|20	1																		
+8071	Player/Characters/F1/Prefab/F1_W011_Body.prefab		B_Hs	F1萝莉外装T12·颜色2		夏莲（豪华）		1		F1_W011_Body	0		255|255|255|90	1	255|205|76|21	1.1	255|255|255|20	1																		
+8072	Player/Characters/F1/Prefab/F1_W011_Body.prefab		B_Hs	F1萝莉外装T12·颜色3		夏莲（豪华）				F1_W011_Body	1		253|193|122|90	1.2	240|38|38|20	1.1	255|255|255|20	1																		
+8073	Player/Characters/F1/Prefab/F1_W011_Body.prefab		B_Hs	F1萝莉外装T12·颜色4		夏莲（豪华）				F1_W011_Body	1		255|203|131|90	1.2	245|255|236|30	1.1	149|246|255|42	1																		
+8074	Player/Characters/F1/Prefab/F1_W011_Body.prefab		B_Hs	F1萝莉外装T12·颜色5		夏莲（豪华）		1		F1_W011_Body	0		255|255|255|90	1	255|255|255|21	1	255|255|255|20	1																		
+8075	Player/Characters/F1/Prefab/F1_W011_Body.prefab		B_Hs	F1萝莉外装T12·颜色6		夏莲（豪华）		1		F1_W011_Body	0		255|255|255|90	1	255|255|255|21	1.2	213|0|0|20	1																		
+8076	Player/Characters/F1/Prefab/F1_W011A_Body.prefab		B_Hs	F1萝莉外装T12A·颜色1		夏莲（普通）		1		F1_W011A_Body	0		255|249|254|49	1	255|255|255|0	1	236|248|255|0	1																		
+8077	Player/Characters/F1/Prefab/F1_W011A_Body.prefab		B_Hs	F1萝莉外装T12A·颜色2		夏莲（普通）		1		F1_W011A_Body	0		255|255|255|20	1	255|195|37|5	1.1	255|255|255|5	1																		
+8078	Player/Characters/F1/Prefab/F1_W011A_Body.prefab		B_Hs	F1萝莉外装T12A·颜色3		夏莲（普通）		1		F1_W011A_Body	0		255|255|255|16	1	204|0|0|15	1.15	255|255|255|5	1																		
+8079	Player/Characters/F1/Prefab/F1_W011A_Body.prefab		B_Hs	F1萝莉外装T12A·颜色4		夏莲（普通）				F1_W011A_Body	1		255|255|255|34	1	255|255|255|11	1.3	142|255|255|11	1																		
+8080	Player/Characters/F1/Prefab/F1_W011A_Body.prefab		B_Hs	F1萝莉外装T12A·颜色5		夏莲（普通）		1		F1_W011A_Body	0		255|255|255|2	1	255|255|255|5	1	255|255|255|5	1																		
+8081	Player/Characters/F1/Prefab/F1_W011A_Body.prefab		B_Hs	F1萝莉外装T12A·颜色6		夏莲（普通）																														
+8082	Player/Characters/F1/Prefab/F1_W011_Body.prefab		B_Hs	F1萝莉外装T12·颜色7		夏莲（豪华）		1		F1_W011_Body	0		255|255|255|90	1	180|136|255|21	1.2	253|253|253|20	1																		
+8083	Player/Characters/F1/Prefab/F1_W011_Body.prefab		B_Hs	F1萝莉外装T12·颜色8		夏莲（豪华）		1		F1_W011_Body	0		255|255|255|90	1	255|255|255|21	1.1	255|86|131|20	1.2																		
+8088	Player/Characters/F1/Prefab/F1_W012_Body.prefab		B_Hs	F1萝莉外装T13·颜色1		夏威夷				F1_W012_Body	1		255|236|236|115	1	255|54|54|161	1.1	255|209|112|51	1.17																		
+8089	Player/Characters/F1/Prefab/F1_W012_Body.prefab		B_Hs	F1萝莉外装T13·颜色2		夏威夷				F1_W012_Body	1		215|250|253|48	1.18	105|238|240|168	1.12	236|180|97|0	1.45																		
+8090	Player/Characters/F1/Prefab/F1_W012_Body.prefab		B_Hs	F1萝莉外装T13·颜色3		夏威夷				F1_W012_Body	1		37|174|230|75	1.23	96|85|232|247	1.74	241|246|255|5	1.17																		
+8091	Player/Characters/F1/Prefab/F1_W012_Body.prefab		B_Hs	F1萝莉外装T13·颜色4		夏威夷		1		F1_W012_Body	0		255|254|234|59	1.14	253|231|184|107	1.19	255|252|247|78	1.12																		
+9001	Player/Characters/F2/Prefab/F2_W001_Body.prefab	59001	B_Hs	F2标女外装T1·颜色1		斗笠																														
+9002	Player/Characters/F2/Prefab/F2_W001_Body.prefab	59002	B_Hs	F2标女外装T1·颜色2		斗笠																														
+9003	Player/Characters/F2/Prefab/F2_W001_Body.prefab	59003	B_Hs	F2标女外装T1·颜色3		斗笠																														
+9004	Player/Characters/F2/Prefab/F2_W001_Body.prefab	59004	B_Hs	F2标女外装T1·颜色4		斗笠																														
+9005	Player/Characters/F2/Prefab/F2_W002_Body.prefab	59005	B_Hs	F2标女外装T2·颜色1		学院																														
+9006	Player/Characters/F2/Prefab/F2_W002_Body.prefab	59006	B_Hs	F2标女外装T2·颜色2		学院																														
+9007	Player/Characters/F2/Prefab/F2_W002_Body.prefab	59007	B_Hs	F2标女外装T2·颜色3		学院																														
+9008	Player/Characters/F2/Prefab/F2_W002_Body.prefab	59008	B_Hs	F2标女外装T2·颜色4		学院																														
+9009	Player/Characters/F2/Prefab/F2_W002_Body.prefab	59009	B_Hs	F2标女外装T2·颜色5		学院																														
+9010	Player/Characters/F2/Prefab/F2_W002_Body.prefab	59010	B_Hs	F2标女外装T2·颜色6		学院																														
+9011	Player/Characters/F2/Prefab/F2_W002_Body.prefab	59011	B_Hs	F2标女外装T2·颜色7		学院																														
+9012	Player/Characters/F2/Prefab/F2_W002_Body.prefab	59012	B_Hs	F2标女外装T2·颜色8		学院																														
+9013	Player/Characters/F2/Prefab/F2_W003_Body.prefab	59013	B_Hs	F2标女外装T3·颜色1		新年大衣																														
+9014	Player/Characters/F2/Prefab/F2_W003_Body.prefab	59014	B_Hs	F2标女外装T3·颜色2		新年大衣																														
+9015	Player/Characters/F2/Prefab/F2_W003_Body.prefab	59015	B_Hs	F2标女外装T3·颜色3		新年大衣																														
+9016	Player/Characters/F2/Prefab/F2_W003_Body.prefab	59016	B_Hs	F2标女外装T3·颜色4		新年大衣																														
+9017	Player/Characters/F2/Prefab/F2_W004_Body.prefab	59017	B_Hs	F2标女外装T4·颜色1		八家将																														
+9018	Player/Characters/F2/Prefab/F2_W004_Body.prefab	59018	B_Hs	F2标女外装T4·颜色2		八家将																														
+9019	Player/Characters/F2/Prefab/F2_W004_Body.prefab	59019	B_Hs	F2标女外装T4·颜色3		八家将																														
+9020	Player/Characters/F2/Prefab/F2_W004_Body.prefab	59020	B_Hs	F2标女外装T4·颜色4		八家将																														
+9021	Player/Characters/F2/Prefab/F2_W004_Body.prefab	59021	B_Hs	F2标女外装T4·颜色5		八家将																														
+9022	Player/Characters/F2/Prefab/F2_W005_Body.prefab	59022	B_Hs	F2标女外装T5·颜色1		黑帮																														
+9023	Player/Characters/F2/Prefab/F2_W005_Body.prefab	59023	B_Hs	F2标女外装T5·颜色2		黑帮																														
+9024	Player/Characters/F2/Prefab/F2_W005_Body.prefab	59024	B_Hs	F2标女外装T5·颜色3		黑帮																														
+9025	Player/Characters/F2/Prefab/F2_W005_Body.prefab	59025	B_Hs	F2标女外装T5·颜色4		黑帮																														
+9026	Player/Characters/F2/Prefab/F2_W005_Body.prefab	59026	B_Hs	F2标女外装T5·颜色5		黑帮																														
+9027	Player/Characters/F2/Prefab/F2_W006_Body.prefab	59027	B_Hs	F2标女外装T6·颜色1		佳期																														
+9028	Player/Characters/F2/Prefab/F2_W006_Body.prefab	59028	B_Hs	F2标女外装T6·颜色2		佳期																														
+9029	Player/Characters/F2/Prefab/F2_W006_Body.prefab	59029	B_Hs	F2标女外装T6·颜色3		佳期																														
+9030	Player/Characters/F2/Prefab/F2_W006_Body.prefab	59030	B_Hs	F2标女外装T6·颜色4		佳期																														
+9031	Player/Characters/F2/Prefab/F2_W006_Body.prefab	59031	B_Hs	F2标女外装T6·颜色5		佳期																														
+9032	Player/Characters/F2/Prefab/F2_W007_Body.prefab	59032	B_Hs	F2标女外装T7·颜色1		流光																														
+9033	Player/Characters/F2/Prefab/F2_W007_Body.prefab	59033	B_Hs	F2标女外装T7·颜色2		流光																														
+9034	Player/Characters/F2/Prefab/F2_W007_Body.prefab	59034	B_Hs	F2标女外装T7·颜色3		流光																														
+9035	Player/Characters/F2/Prefab/F2_W007_Body.prefab	59035	B_Hs	F2标女外装T7·颜色4		流光																														
+9036	Player/Characters/F2/Prefab/F2_W008_Body.prefab	59036	B_Hs	F2标女外装T8·颜色1		轻纱																														
+9037	Player/Characters/F2/Prefab/F2_W008_Body.prefab	59037	B_Hs	F2标女外装T8·颜色2		轻纱																														
+9038	Player/Characters/F2/Prefab/F2_W008_Body.prefab	59038	B_Hs	F2标女外装T8·颜色3		轻纱																														
+9039	Player/Characters/F2/Prefab/F2_W008_Body.prefab	59039	B_Hs	F2标女外装T8·颜色4		轻纱																														
+9040	Player/Characters/F2/Prefab/F2_W009_Body.prefab	59040	B_Hs	F2标女外装T9·颜色1		婚礼																														
+9041	Player/Characters/F2/Prefab/F2_W009A_Body.prefab	59041	B_Hs	F2标女外装T9·颜色2		婚礼																														
+9042	Player/Characters/F2/Prefab/F2_W009B_Body.prefab	59042	B_Hs	F2标女外装T9·颜色3		婚礼																														
+9043	Player/Characters/F2/Prefab/F2_W009_Body.prefab	59043	B_Hs	F2标女外装T9·颜色4		婚礼																														
+9044	Player/Characters/F2/Prefab/F2_W001_Body.prefab	59044	B_Hs	F2标女外装T1·颜色1		斗笠																														
+9045	Player/Characters/F2/Prefab/F2_W003_Body.prefab	59045	B_Hs	F2标女外装T3·颜色1		新年大衣																														
+9046	Player/Characters/F2/Prefab/F2_W007_Body.prefab	59046	B_Hs	F2标女外装T7·颜色1		流光																														
+9047	Player/Characters/F2/Prefab/F2_W008_Body.prefab	59047	B_Hs	F2标女外装T8·颜色1		轻纱																														
+9048	Player/Characters/F2/Prefab/F2_W010_Body.prefab	59048	B_Hs	F2成女外装T11·颜色1		新年装																														
+9049	Player/Characters/F2/Prefab/F2_W010_Body.prefab	59049	B_Hs	F2成女外装T11·颜色2		新年装																														
+9050	Player/Characters/F2/Prefab/F2_W010_Body.prefab	59050	B_Hs	F2成女外装T11·颜色3		新年装																														
+9051	Player/Characters/F2/Prefab/F2_W010_Body.prefab	59051	B_Hs	F2成女外装T11·颜色4		新年装																														
+9052	Player/Characters/F2/Prefab/F2_W010_Body.prefab	59052	B_Hs	F2成女外装T11·颜色5		新年装																														
+9053	Player/Characters/F2/Prefab/F2_W010_Body.prefab	59053	B_Hs	F2成女外装T11·颜色6		新年装																														
+9069	Player/Characters/F2/Prefab/F2_W008_Body.prefab	59069	B_Hs	F2标女外装T8·颜色6		轻纱																														
+9070	Player/Characters/F2/Prefab/F2_W011_Body.prefab		B_Hs	F2标女外装T12·颜色1		夏莲（豪华）		1		F2_W011_Body	0		206|220|255|70	1.05	255|255|255|65	1	255|255|255|30	1																		
+9071	Player/Characters/F2/Prefab/F2_W011_Body.prefab		B_Hs	F2标女外装T12·颜色2		夏莲（豪华）				F2_W011_Body	1		255|244|118|60	1.05	255|252|215|60	1.05	255|255|226|30	1.1																		
+9072	Player/Characters/F2/Prefab/F2_W011_Body.prefab		B_Hs	F2标女外装T12·颜色3		夏莲（豪华）				F2_W011_Body	1		255|127|152|109	1.35	255|221|227|75	1.1	255|191|123|39	1.44																		
+9073	Player/Characters/F2/Prefab/F2_W011_Body.prefab		B_Hs	F2标女外装T12·颜色4		夏莲（豪华）				F2_W011_Body	1		255|95|95|167	1.2	255|219|219|100	1.1	255|182|110|76	1.44																		
+9074	Player/Characters/F2/Prefab/F2_W011_Body.prefab		B_Hs	F2标女外装T12·颜色5		夏莲（豪华）		1		F2_W011_Body	0		176|255|209|65	1.07	228|255|239|62	1.07	255|250|226|17	1.1																		
+9075	Player/Characters/F2/Prefab/F2_W011_Body.prefab		B_Hs	F2标女外装T12·颜色6		夏莲（豪华）		1		F2_W011_Body	0		153|0|0|65	1.07	157|10|10|87	1.07	255|250|226|17	1.1																		
+9076	Player/Characters/F2/Prefab/F2_W011A_Body.prefab		B_Hs	F2标女外装T12A·颜色1		夏莲（普通）		1		F2_W011A_Body	0		255|255|255|0	1	255|230|230|0	1	255|230|178|30	1																		
+9077	Player/Characters/F2/Prefab/F2_W011A_Body.prefab		B_Hs	F2标女外装T12A·颜色2		夏莲（普通）				F2_W011A_Body	1		255|245|121|30	1.15	255|252|219|20	1	255|206|103|74	1.1																		
+9078	Player/Characters/F2/Prefab/F2_W011A_Body.prefab		B_Hs	F2标女外装T12A·颜色3		夏莲（普通）				F2_W011A_Body	1		255|129|149|86	1.39	255|228|232|25	1.1	255|207|121|64	1.15																		
+9079	Player/Characters/F2/Prefab/F2_W011A_Body.prefab		B_Hs	F2标女外装T12A·颜色4		夏莲（普通）				F2_W011A_Body	1		255|95|95|70	1.3	255|225|225|42	1.1	255|202|195|56	1.1																		
+9080	Player/Characters/F2/Prefab/F2_W011A_Body.prefab		B_Hs	F2标女外装T12A·颜色5		夏莲（普通）				F2_W011A_Body	1		144|255|254|28	1.15	230|255|246|30	1	255|200|118|80	1.1																		
+9081	Player/Characters/F2/Prefab/F2_W011A_Body.prefab		B_Hs	F2标女外装T12A·颜色6		夏莲（普通）																														
+9082	Player/Characters/F2/Prefab/F2_W011_Body.prefab		B_Hs	F2标女外装T12·颜色7		夏莲（豪华）				F2_W011_Body	1		255|255|255|20	1.23	255|255|255|53	1.07	255|250|226|29	1.1																		
+9083	Player/Characters/F2/Prefab/F2_W011_Body.prefab		B_Hs	F2标女外装T12·颜色8		夏莲（豪华）				F2_W011_Body	1		166|131|255|70	1.3	238|211|255|65	1.1	255|255|255|30	1																		
+9088	Player/Characters/F2/Prefab/F2_W012_Body.prefab		B_Hs	F2标女外装T13·颜色1		夏威夷				F2_W012_Body	1		251|241|155|156	1.22	178|38|38|237	1.19	173|14|14|143	1																		
+9089	Player/Characters/F2/Prefab/F2_W012_Body.prefab		B_Hs	F2标女外装T13·颜色2		夏威夷				F2_W012_Body	1		251|220|92|70	1.22	90|176|211|102	1.37	249|249|249|19	1																		
+9090	Player/Characters/F2/Prefab/F2_W012_Body.prefab		B_Hs	F2标女外装T13·颜色3		夏威夷				F2_W012_Body	1		255|255|255|156	1.22	243|96|184|203	1.29	255|185|227|142	1																		
+9091	Player/Characters/F2/Prefab/F2_W012_Body.prefab		B_Hs	F2标女外装T13·颜色4		夏威夷				F2_W012_Body	1		255|221|106|156	1.22	255|255|255|62	1.1	255|201|61|142	1																		
+11001	Player/Characters/M2/Prefab/M2_TW002_Body.prefab	61001	B_Hs	天王（男）校服T1·颜色1																																
+11002	Player/Characters/M2/Prefab/M2_TW002_Body.prefab	61002	B_Hs	天王（男）校服T1·颜色2																																
+11003	Player/Characters/M2/Prefab/M2_TW002_Body.prefab	61003	B_Hs	天王（男）校服T1·颜色3																																
+11004	Player/Characters/M2/Prefab/M2_TW002_Body.prefab	61004	B_Hs	天王（男）校服T1·颜色4																																
+11005	Player/Characters/M2/Prefab/M2_TW001_Body.prefab	61005	B_Hs	天王（男）校服T2·颜色1																																
+11006	Player/Characters/M2/Prefab/M2_TW001_Body.prefab	61006	B_Hs	天王（男）校服T2·颜色2																																
+11007	Player/Characters/M2/Prefab/M2_TW001_Body.prefab	61007	B_Hs	天王（男）校服T2·颜色3																																
+11008	Player/Characters/M2/Prefab/M2_TW001_Body.prefab	61008	B_Hs	天王（男）校服T2·颜色4																																
+11009	Player/Characters/M2/Prefab/M2_TW003_Body.prefab	61009	B_Hs	天王（男）校服T3·颜色1																																
+11010	Player/Characters/M2/Prefab/M2_TW003_Body.prefab	61010	B_Hs	天王（男）校服T3·颜色2																																
+11011	Player/Characters/M2/Prefab/M2_TW003_Body.prefab	61011	B_Hs	天王（男）校服T3·颜色3																																
+11012	Player/Characters/M2/Prefab/M2_TW003_Body.prefab	61012	B_Hs	天王（男）校服T3·颜色4																																
+11013	Player/Characters/M2/Prefab/M2_TW002_Body.prefab	61013	B_Hs	天王（男）校服T1·颜色5																																
+11014	Player/Characters/M2/Prefab/M2_TW001_Body.prefab	61014	B_Hs	天王（男）校服T2·颜色5																																
+11015	Player/Characters/M2/Prefab/M2_TW003_Body.prefab	61015	B_Hs	天王（男）校服T3·颜色5																																
+11016	Player/Characters/M2/Prefab/M2_TW004_Body.prefab		B_Hs	天王（男）校服T4·颜色1				1		M2_TW004_Body	0		255|253|178|151	1	66|173|124|121	1.48	255|217|203|230	1																		
+11017	Player/Characters/M2/Prefab/M2_TW004_Body.prefab		B_Hs	天王（男）校服T4·颜色2						M2_TW004_Body	1		233|183|109|115	1.67	129|203|255|56	1.43	208|218|255|230	1.98																		
+11018	Player/Characters/M2/Prefab/M2_TW004_Body.prefab		B_Hs	天王（男）校服T4·颜色3						M2_TW004_Body	1		255|204|159|115	1.67	99|99|99|125	1.43	210|103|103|230	1.98																		
+11019	Player/Characters/M2/Prefab/M2_TW004_Body.prefab		B_Hs	天王（男）校服T4·颜色4						M2_TW004_Body	1		219|215|204|115	1.67	255|50|50|125	1.43	106|106|106|230	1.98																		
+11020	Player/Characters/M2/Prefab/M2_TW004_Body.prefab		B_Hs	天王（男）校服T4·颜色5																																
+12501	Player/Characters/F2/Prefab/F2_EM001_Body.prefab	62501	B_Hs	峨眉（女）校服T1·颜色1																																
+12502	Player/Characters/F2/Prefab/F2_EM001_Body.prefab	62502	B_Hs	峨眉（女）校服T1·颜色2																																
+12503	Player/Characters/F2/Prefab/F2_EM001_Body.prefab	62503	B_Hs	峨眉（女）校服T1·颜色3																																
+12504	Player/Characters/F2/Prefab/F2_EM001_Body.prefab	62504	B_Hs	峨眉（女）校服T1·颜色4																																
+12505	Player/Characters/F2/Prefab/F2_EM002_Body.prefab	62505	B_Hs	峨眉（女）校服T2·颜色1																																
+12506	Player/Characters/F2/Prefab/F2_EM002_Body.prefab	62506	B_Hs	峨眉（女）校服T2·颜色2																																
+12507	Player/Characters/F2/Prefab/F2_EM002_Body.prefab	62507	B_Hs	峨眉（女）校服T2·颜色3																																
+12508	Player/Characters/F2/Prefab/F2_EM002_Body.prefab	62508	B_Hs	峨眉（女）校服T2·颜色4																																
+12509	Player/Characters/F2/Prefab/F2_EM003_Body.prefab	62509	B_Hs	峨眉（女）校服T3·颜色1																																
+12510	Player/Characters/F2/Prefab/F2_EM003_Body.prefab	62510	B_Hs	峨眉（女）校服T3·颜色2																																
+12511	Player/Characters/F2/Prefab/F2_EM003_Body.prefab	62511	B_Hs	峨眉（女）校服T3·颜色3																																
+12512	Player/Characters/F2/Prefab/F2_EM003_Body.prefab	62512	B_Hs	峨眉（女）校服T3·颜色4																																
+12513	Player/Characters/F2/Prefab/F2_EM001_Body.prefab	62513	B_Hs	峨眉（女）校服T1·颜色5																																
+12514	Player/Characters/F2/Prefab/F2_EM002_Body.prefab	62514	B_Hs	峨眉（女）校服T2·颜色5																																
+12515	Player/Characters/F2/Prefab/F2_EM003_Body.prefab	62515	B_Hs	峨眉（女）校服T3·颜色5																																
+12516	Player/Characters/F2/Prefab/F2_EM004_Body.prefab		B_Hs	峨眉（女）校服T4·颜色1				1		F2_EM004_Body	0		255|255|255|35	1	245|255|250|24	1.05	0|255|118|107	1																		
+12517	Player/Characters/F2/Prefab/F2_EM004_Body.prefab		B_Hs	峨眉（女）校服T4·颜色2				1		F2_EM004_Body	0		255|255|255|35	1	228|233|255|24	1.1	0|43|255|107	1																		
+12518	Player/Characters/F2/Prefab/F2_EM004_Body.prefab		B_Hs	峨眉（女）校服T4·颜色3				1		F2_EM004_Body	0		255|255|255|35	1	250|225|255|24	1.1	219|0|255|107	1																		
+12519	Player/Characters/F2/Prefab/F2_EM004_Body.prefab		B_Hs	峨眉（女）校服T4·颜色4				1		F2_EM004_Body	0		255|255|255|35	1	244|240|255|24	1.1	255|216|0|107	1																		
+12520	Player/Characters/F2/Prefab/F2_EM004_Body.prefab		B_Hs	峨眉（女）校服T4·颜色5																																
+13501	Player/Characters/F1/Prefab/F1_TH001_Body.prefab	63501	B_Hs	桃花（女）校服T1·颜色1																																
+13502	Player/Characters/F1/Prefab/F1_TH001_Body.prefab	63502	B_Hs	桃花（女）校服T1·颜色2																																
+13503	Player/Characters/F1/Prefab/F1_TH001_Body.prefab	63503	B_Hs	桃花（女）校服T1·颜色3																																
+13504	Player/Characters/F1/Prefab/F1_TH001_Body.prefab	63504	B_Hs	桃花（女）校服T1·颜色4																																
+13505	Player/Characters/F1/Prefab/F1_TH002_Body.prefab	63505	B_Hs	桃花（女）校服T2·颜色1																																
+13506	Player/Characters/F1/Prefab/F1_TH002_Body.prefab	63506	B_Hs	桃花（女）校服T2·颜色2																																
+13507	Player/Characters/F1/Prefab/F1_TH002_Body.prefab	63507	B_Hs	桃花（女）校服T2·颜色3																																
+13508	Player/Characters/F1/Prefab/F1_TH002_Body.prefab	63508	B_Hs	桃花（女）校服T2·颜色4																																
+13509	Player/Characters/F1/Prefab/F1_TH003_Body.prefab	63509	B_Hs	桃花（女）校服T3·颜色1																																
+13510	Player/Characters/F1/Prefab/F1_TH003_Body.prefab	63510	B_Hs	桃花（女）校服T3·颜色2																																
+13511	Player/Characters/F1/Prefab/F1_TH003_Body.prefab	63511	B_Hs	桃花（女）校服T3·颜色3																																
+13512	Player/Characters/F1/Prefab/F1_TH003_Body.prefab	63512	B_Hs	桃花（女）校服T3·颜色4																																
+13513	Player/Characters/F1/Prefab/F1_TH001_Body.prefab	63513	B_Hs	桃花（女）校服T1·颜色5																																
+13514	Player/Characters/F1/Prefab/F1_TH002_Body.prefab	63514	B_Hs	桃花（女）校服T2·颜色5																																
+13515	Player/Characters/F1/Prefab/F1_TH003_Body.prefab	63515	B_Hs	桃花（女）校服T3·颜色5																																
+13516	Player/Characters/F1/Prefab/F1_TH004_Body.prefab		B_Hs	桃花（女）校服T4·颜色1				1		F1_TH004_Body	0		255|255|255|85	1	255|255|255|195	1	255|255|255|193	1																		
+13517	Player/Characters/F1/Prefab/F1_TH004_Body.prefab		B_Hs	桃花（女）校服T4·颜色2						F1_TH004_Body	1		255|255|255|85	1	255|255|255|195	1	71|255|102|142	1.78																		
+13518	Player/Characters/F1/Prefab/F1_TH004_Body.prefab		B_Hs	桃花（女）校服T4·颜色3						F1_TH004_Body	1		255|255|255|85	1	255|255|255|195	1	0|202|255|187	1.86																		
+13519	Player/Characters/F1/Prefab/F1_TH004_Body.prefab		B_Hs	桃花（女）校服T4·颜色4						F1_TH004_Body	1		255|255|255|85	1	255|255|255|195	1	255|0|0|180	2.11																		
+13520	Player/Characters/F1/Prefab/F1_TH004_Body.prefab		B_Hs	桃花（女）校服T4·颜色5																																
+14001	Player/Characters/M1/Prefab/M1_XY001_Body.prefab	64001	B_Hs	逍遥（男）校服T1·颜色1																																
+14002	Player/Characters/M1/Prefab/M1_XY001_Body.prefab	64002	B_Hs	逍遥（男）校服T1·颜色2																																
+14003	Player/Characters/M1/Prefab/M1_XY001_Body.prefab	64003	B_Hs	逍遥（男）校服T1·颜色3																																
+14004	Player/Characters/M1/Prefab/M1_XY001_Body.prefab	64004	B_Hs	逍遥（男）校服T1·颜色4																																
+14005	Player/Characters/M1/Prefab/M1_XY002_Body.prefab	64005	B_Hs	逍遥（男）校服T2·颜色1																																
+14006	Player/Characters/M1/Prefab/M1_XY002_Body.prefab	64006	B_Hs	逍遥（男）校服T2·颜色2																																
+14007	Player/Characters/M1/Prefab/M1_XY002_Body.prefab	64007	B_Hs	逍遥（男）校服T2·颜色3																																
+14008	Player/Characters/M1/Prefab/M1_XY002_Body.prefab	64008	B_Hs	逍遥（男）校服T2·颜色4																																
+14009	Player/Characters/M1/Prefab/M1_XY003_Body.prefab	64009	B_Hs	逍遥（男）校服T3·颜色1																																
+14010	Player/Characters/M1/Prefab/M1_XY003_Body.prefab	64010	B_Hs	逍遥（男）校服T3·颜色2																																
+14011	Player/Characters/M1/Prefab/M1_XY003_Body.prefab	64011	B_Hs	逍遥（男）校服T3·颜色3																																
+14012	Player/Characters/M1/Prefab/M1_XY003_Body.prefab	64012	B_Hs	逍遥（男）校服T3·颜色4																																
+14013	Player/Characters/M1/Prefab/M1_XY001_Body.prefab	64013	B_Hs	逍遥（男）校服T1·颜色5																																
+14014	Player/Characters/M1/Prefab/M1_XY002_Body.prefab	64014	B_Hs	逍遥（男）校服T2·颜色5																																
+14015	Player/Characters/M1/Prefab/M1_XY003_Body.prefab	64015	B_Hs	逍遥（男）校服T3·颜色5																																
+14016	Player/Characters/M1/Prefab/M1_XY004_Body.prefab		B_Hs	逍遥（男）校服T4·颜色1				1		M1_XY004_Body	0		255|255|255|59	1	253|247|247|31	1	255|255|255|23	1																		
+14017	Player/Characters/M1/Prefab/M1_XY004_Body.prefab		B_Hs	逍遥（男）校服T4·颜色2						M1_XY004_Body	1		236|230|218|153	1	226|220|213|13	1.31	133|12|40|64	1.36																		
+14018	Player/Characters/M1/Prefab/M1_XY004_Body.prefab		B_Hs	逍遥（男）校服T4·颜色3						M1_XY004_Body	1		176|202|211|51	1.52	66|80|225|29	1.55	93|62|138|85	1.36																		
+14019	Player/Characters/M1/Prefab/M1_XY004_Body.prefab		B_Hs	逍遥（男）校服T4·颜色4						M1_XY004_Body	1		189|175|161|51	1.52	46|46|46|46	1.55	131|80|33|85	1.36																		
+14020	Player/Characters/M1/Prefab/M1_XY004_Body.prefab		B_Hs	逍遥（男）校服T4·颜色5																																
+15001	Player/Characters/M1/Prefab/M1_WD002_Body.prefab	65001	B_Hs	武当（男）校服T1·颜色1																																
+15002	Player/Characters/M1/Prefab/M1_WD002_Body.prefab	65002	B_Hs	武当（男）校服T1·颜色2																																
+15003	Player/Characters/M1/Prefab/M1_WD002_Body.prefab	65003	B_Hs	武当（男）校服T1·颜色3																																
+15004	Player/Characters/M1/Prefab/M1_WD002_Body.prefab	65004	B_Hs	武当（男）校服T1·颜色4																																
+15005	Player/Characters/M1/Prefab/M1_WD001_Body.prefab	65005	B_Hs	武当（男）校服T2·颜色1																																
+15006	Player/Characters/M1/Prefab/M1_WD001_Body.prefab	65006	B_Hs	武当（男）校服T2·颜色2																																
+15007	Player/Characters/M1/Prefab/M1_WD001_Body.prefab	65007	B_Hs	武当（男）校服T2·颜色3																																
+15008	Player/Characters/M1/Prefab/M1_WD001_Body.prefab	65008	B_Hs	武当（男）校服T2·颜色4																																
+15009	Player/Characters/M1/Prefab/M1_WD003_Body.prefab	65009	B_Hs	武当（男）校服T3·颜色1																																
+15010	Player/Characters/M1/Prefab/M1_WD003_Body.prefab	65010	B_Hs	武当（男）校服T3·颜色2																																
+15011	Player/Characters/M1/Prefab/M1_WD003_Body.prefab	65011	B_Hs	武当（男）校服T3·颜色3																																
+15012	Player/Characters/M1/Prefab/M1_WD003_Body.prefab	65012	B_Hs	武当（男）校服T3·颜色4																																
+15013	Player/Characters/M1/Prefab/M1_WD002_Body.prefab	65013	B_Hs	武当（男）校服T1·颜色5																																
+15014	Player/Characters/M1/Prefab/M1_WD001_Body.prefab	65014	B_Hs	武当（男）校服T2·颜色5																																
+15015	Player/Characters/M1/Prefab/M1_WD003_Body.prefab	65015	B_Hs	武当（男）校服T3·颜色5																																
+15016	Player/Characters/M1/Prefab/M1_WD004_Body.prefab		B_Hs	武当（男）校服T4·颜色1				1		M1_WD004_Body	0		255|255|255|97	1	82|67|67|94	1.07	255|255|255|7	1																		
+15017	Player/Characters/M1/Prefab/M1_WD004_Body.prefab		B_Hs	武当（男）校服T4·颜色2						M1_WD004_Body	1		179|127|103|93	1.54	21|57|78|86	1.93	96|127|170|64	1.93																		
+15018	Player/Characters/M1/Prefab/M1_WD004_Body.prefab		B_Hs	武当（男）校服T4·颜色3						M1_WD004_Body	1		211|194|186|93	1.54	101|26|30|86	1.93	200|119|106|64	1.93																		
+15019	Player/Characters/M1/Prefab/M1_WD004_Body.prefab		B_Hs	武当（男）校服T4·颜色4						M1_WD004_Body	1		219|203|234|93	1.54	68|62|69|74	1.74	135|56|170|64	1.93																		
+15020	Player/Characters/M1/Prefab/M1_WD004_Body.prefab		B_Hs	武当（男）校服T4·颜色5																																
+15501	Player/Characters/F2/Prefab/F2_WD002_Body.prefab		B_Hs	武当（女）校服T1·颜色1				1		F2_WD002_Body	0		255|255|255|23	1	255|255|255|11	1	208|228|255|27	1																		
+15502	Player/Characters/F2/Prefab/F2_WD002_Body.prefab		B_Hs	武当（女）校服T1·颜色2						F2_WD002_Body	1		255|222|165|23	1	68|71|74|11	1	123|127|138|66	1																		
+15503	Player/Characters/F2/Prefab/F2_WD002_Body.prefab		B_Hs	武当（女）校服T1·颜色3						F2_WD002_Body	1		255|222|165|23	1	217|180|83|11	1.14	138|137|123|66	1																		
+15504	Player/Characters/F2/Prefab/F2_WD002_Body.prefab		B_Hs	武当（女）校服T1·颜色4						F2_WD002_Body	1		255|246|219|23	1.26	140|136|255|11	1	250|232|255|21	3.14																		
+15505	Player/Characters/F2/Prefab/F2_WD001_Body.prefab		B_Hs	武当（女）校服T2·颜色1				1		F2_WD001_Body	0		255|255|255|80	1	255|255|255|7	1	204|203|226|43	1																		
+15506	Player/Characters/F2/Prefab/F2_WD001_Body.prefab		B_Hs	武当（女）校服T2·颜色2						F2_WD001_Body	1		218|234|247|80	1	255|255|255|7	1	198|40|40|62	1.21																		
+15507	Player/Characters/F2/Prefab/F2_WD001_Body.prefab		B_Hs	武当（女）校服T2·颜色3						F2_WD001_Body	1		255|252|217|80	1	255|247|232|7	1	217|150|4|40	1.62																		
+15508	Player/Characters/F2/Prefab/F2_WD001_Body.prefab		B_Hs	武当（女）校服T2·颜色4						F2_WD001_Body	1		255|207|84|80	1	255|255|255|8	1	142|133|122|75	1																		
+15509	Player/Characters/F2/Prefab/F2_WD003_Body.prefab		B_Hs	武当（女）校服T3·颜色1				1		F2_WD003_Body	0		255|255|255|255	1	255|255|255|255	1	255|255|255|255	1																		
+15510	Player/Characters/F2/Prefab/F2_WD003_Body.prefab		B_Hs	武当（女）校服T3·颜色2						F2_WD003_Body	1		255|212|119|58	1.36	255|44|66|18	1.3	69|69|69|133	1.44																		
+15511	Player/Characters/F2/Prefab/F2_WD003_Body.prefab		B_Hs	武当（女）校服T3·颜色3						F2_WD003_Body	1		255|212|119|58	1.36	255|171|44|46	1.3	225|93|21|11	1.44																		
+15512	Player/Characters/F2/Prefab/F2_WD003_Body.prefab		B_Hs	武当（女）校服T3·颜色4						F2_WD003_Body	1		255|230|225|102	1.36	227|174|255|23	1.42	255|97|185|24	1.44																		
+15513	Player/Characters/F2/Prefab/F2_WD002_Body.prefab		B_Hs	武当（女）校服T1·颜色5						F2_WD002_Body	1		255|255|255|23	1.26	123|168|255|18	1.15	47|99|149|21	3.14																		
+15514	Player/Characters/F2/Prefab/F2_WD001_Body.prefab		B_Hs	武当（女）校服T2·颜色5						F2_WD001_Body	1		255|207|84|80	1	255|255|255|8	1	140|116|191|75	1.43																		
+15515	Player/Characters/F2/Prefab/F2_WD003_Body.prefab		B_Hs	武当（女）校服T3·颜色5						F2_WD003_Body	1		255|216|157|58	1.36	176|255|219|15	1.42	185|255|180|145	1.44																		
+15516	Player/Characters/F2/Prefab/F2_WD004_Body.prefab		B_Hs	武当（女）校服T4·颜色1				1		F2_WD004_Body	0		255|222|138|35	1.17	61|61|61|18	1	202|202|202|27	1																		
+15517	Player/Characters/F2/Prefab/F2_WD004_Body.prefab		B_Hs	武当（女）校服T4·颜色2				1		F2_WD004_Body	0		255|223|131|35	1.42	255|195|157|10	1	255|242|146|15	1.1																		
+15518	Player/Characters/F2/Prefab/F2_WD004_Body.prefab		B_Hs	武当（女）校服T4·颜色3				1		F2_WD004_Body	0		255|252|230|35	1.61	255|157|199|7	1.11	255|219|219|10	1.17																		
+15519	Player/Characters/F2/Prefab/F2_WD004_Body.prefab		B_Hs	武当（女）校服T4·颜色4				1		F2_WD004_Body	0		255|212|148|35	1.61	255|35|35|16	1	91|64|64|10	1																		
+15520	Player/Characters/F2/Prefab/F2_WD004_Body.prefab		B_Hs	武当（女）校服T4·颜色5																																
+16501	Player/Characters/F2/Prefab/F2_TR001_Body.prefab	66501	B_Hs	天忍（女）校服T1·颜色1																																
+16502	Player/Characters/F2/Prefab/F2_TR001_Body.prefab	66502	B_Hs	天忍（女）校服T1·颜色2																																
+16503	Player/Characters/F2/Prefab/F2_TR001_Body.prefab	66503	B_Hs	天忍（女）校服T1·颜色3																																
+16504	Player/Characters/F2/Prefab/F2_TR001_Body.prefab	66504	B_Hs	天忍（女）校服T1·颜色4																																
+16505	Player/Characters/F2/Prefab/F2_TR002_Body.prefab	66505	B_Hs	天忍（女）校服T2·颜色1																																
+16506	Player/Characters/F2/Prefab/F2_TR002_Body.prefab	66506	B_Hs	天忍（女）校服T2·颜色2																																
+16507	Player/Characters/F2/Prefab/F2_TR002_Body.prefab	66507	B_Hs	天忍（女）校服T2·颜色3																																
+16508	Player/Characters/F2/Prefab/F2_TR002_Body.prefab	66508	B_Hs	天忍（女）校服T2·颜色4																																
+16509	Player/Characters/F2/Prefab/F2_TR003_Body.prefab	66509	B_Hs	天忍（女）校服T3·颜色1																																
+16510	Player/Characters/F2/Prefab/F2_TR003_Body.prefab	66510	B_Hs	天忍（女）校服T3·颜色2																																
+16511	Player/Characters/F2/Prefab/F2_TR003_Body.prefab	66511	B_Hs	天忍（女）校服T3·颜色3																																
+16512	Player/Characters/F2/Prefab/F2_TR003_Body.prefab	66512	B_Hs	天忍（女）校服T3·颜色4																																
+16513	Player/Characters/F2/Prefab/F2_TR001_Body.prefab	66513	B_Hs	天忍（女）校服T1·颜色5																																
+16514	Player/Characters/F2/Prefab/F2_TR002_Body.prefab	66514	B_Hs	天忍（女）校服T2·颜色5																																
+16515	Player/Characters/F2/Prefab/F2_TR003_Body.prefab	66515	B_Hs	天忍（女）校服T3·颜色5																																
+16516	Player/Characters/F2/Prefab/F2_TR004_Body.prefab		B_Hs	天忍（女）校服T4·颜色1						F2_TR004_Body	1		255|209|110|158	1	58|67|73|188	1	255|50|50|58	1.08																		
+16517	Player/Characters/F2/Prefab/F2_TR004_Body.prefab		B_Hs	天忍（女）校服T4·颜色2				1		F2_TR004_Body	0		255|246|234|35	1	255|255|255|37	1	255|255|255|46	1.24																		
+16518	Player/Characters/F2/Prefab/F2_TR004_Body.prefab		B_Hs	天忍（女）校服T4·颜色3				1		F2_TR004_Body	0		255|246|234|35	1	255|78|78|37	1	179|214|255|46	1.37																		
+16519	Player/Characters/F2/Prefab/F2_TR004_Body.prefab		B_Hs	天忍（女）校服T4·颜色4						F2_TR004_Body	1		99|99|99|148	1	86|86|86|37	1.54	255|250|223|46	1.35																		
+16520	Player/Characters/F2/Prefab/F2_TR004_Body.prefab		B_Hs	天忍（女）校服T4·颜色5																																
+17001	Player/Characters/M2/Prefab/M2_SL001_Body.prefab	67001	B_Hs	少林（男）校服T1·颜色1																																
+17002	Player/Characters/M2/Prefab/M2_SL001_Body.prefab	67002	B_Hs	少林（男）校服T1·颜色2																																
+17003	Player/Characters/M2/Prefab/M2_SL001_Body.prefab	67003	B_Hs	少林（男）校服T1·颜色3																																
+17004	Player/Characters/M2/Prefab/M2_SL001_Body.prefab	67004	B_Hs	少林（男）校服T1·颜色4																																
+17005	Player/Characters/M2/Prefab/M2_SL002_Body.prefab	67005	B_Hs	少林（男）校服T2·颜色1																																
+17006	Player/Characters/M2/Prefab/M2_SL002_Body.prefab	67006	B_Hs	少林（男）校服T2·颜色2																																
+17007	Player/Characters/M2/Prefab/M2_SL002_Body.prefab	67007	B_Hs	少林（男）校服T2·颜色3																																
+17008	Player/Characters/M2/Prefab/M2_SL002_Body.prefab	67008	B_Hs	少林（男）校服T2·颜色4																																
+17009	Player/Characters/M2/Prefab/M2_SL003_Body.prefab	67009	B_Hs	少林（男）校服T3·颜色1																																
+17010	Player/Characters/M2/Prefab/M2_SL003_Body.prefab	67010	B_Hs	少林（男）校服T3·颜色2																																
+17011	Player/Characters/M2/Prefab/M2_SL003_Body.prefab	67011	B_Hs	少林（男）校服T3·颜色3																																
+17012	Player/Characters/M2/Prefab/M2_SL003_Body.prefab	67012	B_Hs	少林（男）校服T3·颜色4																																
+17013	Player/Characters/M2/Prefab/M2_SL001_Body.prefab	67013	B_Hs	少林（男）校服T1·颜色5																																
+17014	Player/Characters/M2/Prefab/M2_SL002_Body.prefab	67014	B_Hs	少林（男）校服T2·颜色5																																
+17015	Player/Characters/M2/Prefab/M2_SL003_Body.prefab	67015	B_Hs	少林（男）校服T3·颜色5																																
+17016	Player/Characters/M2/Prefab/M2_SL004_Body.prefab		B_Hs	少林（男）校服T4·颜色1				1		M2_SL004_Body	0		255|255|255|255	1	68|65|75|255	1.16	253|32|32|208	1																		
+17017	Player/Characters/M2/Prefab/M2_SL004_Body.prefab		B_Hs	少林（男）校服T4·颜色2				1		M2_SL004_Body	0		255|255|255|255	1	255|197|74|86	1.33	255|116|116|208	1																		
+17018	Player/Characters/M2/Prefab/M2_SL004_Body.prefab		B_Hs	少林（男）校服T4·颜色3				1		M2_SL004_Body	0		255|255|255|255	1	255|255|255|86	1.16	255|255|255|208	1																		
+17019	Player/Characters/M2/Prefab/M2_SL004_Body.prefab		B_Hs	少林（男）校服T4·颜色4						M2_SL004_Body	1		255|255|255|255	1.24	78|78|78|86	1.16	223|255|223|93	1.57																		
+17020	Player/Characters/M2/Prefab/M2_SL004_Body.prefab		B_Hs	少林（男）校服T4·颜色5																																
+18501	Player/Characters/F2/Prefab/F2_CY001_Body.prefab	68501	B_Hs	翠烟（女）校服T1·颜色1																																
+18502	Player/Characters/F2/Prefab/F2_CY001_Body.prefab	68502	B_Hs	翠烟（女）校服T1·颜色2																																
+18503	Player/Characters/F2/Prefab/F2_CY001_Body.prefab	68503	B_Hs	翠烟（女）校服T1·颜色3																																
+18504	Player/Characters/F2/Prefab/F2_CY001_Body.prefab	68504	B_Hs	翠烟（女）校服T1·颜色4																																
+18505	Player/Characters/F2/Prefab/F2_CY002_Body.prefab	68505	B_Hs	翠烟（女）校服T2·颜色1																																
+18506	Player/Characters/F2/Prefab/F2_CY002_Body.prefab	68506	B_Hs	翠烟（女）校服T2·颜色2																																
+18507	Player/Characters/F2/Prefab/F2_CY002_Body.prefab	68507	B_Hs	翠烟（女）校服T2·颜色3																																
+18508	Player/Characters/F2/Prefab/F2_CY002_Body.prefab	68508	B_Hs	翠烟（女）校服T2·颜色4																																
+18509	Player/Characters/F2/Prefab/F2_CY003_Body.prefab	68509	B_Hs	翠烟（女）校服T3·颜色1																																
+18510	Player/Characters/F2/Prefab/F2_CY003_Body.prefab	68510	B_Hs	翠烟（女）校服T3·颜色2																																
+18511	Player/Characters/F2/Prefab/F2_CY003_Body.prefab	68511	B_Hs	翠烟（女）校服T3·颜色3																																
+18512	Player/Characters/F2/Prefab/F2_CY003_Body.prefab	68512	B_Hs	翠烟（女）校服T3·颜色4																																
+18513	Player/Characters/F2/Prefab/F2_CY001_Body.prefab	68513	B_Hs	翠烟（女）校服T1·颜色5																																
+18514	Player/Characters/F2/Prefab/F2_CY002_Body.prefab	68514	B_Hs	翠烟（女）校服T2·颜色5																																
+18515	Player/Characters/F2/Prefab/F2_CY003_Body.prefab	68515	B_Hs	翠烟（女）校服T3·颜色5																																
+18516	Player/Characters/F2/Prefab/F2_CY004_Body.prefab		B_Hs	翠烟（女）校服T4·颜色1				1		F2_CY004_Body	0		255|255|255|154	1	203|255|214|37	1	72|191|87|102	1																		
+18517	Player/Characters/F2/Prefab/F2_CY004_Body.prefab		B_Hs	翠烟（女）校服T4·颜色2				1		F2_CY004_Body	0		255|255|255|154	1	176|245|255|37	1.05	0|138|255|102	1																		
+18518	Player/Characters/F2/Prefab/F2_CY004_Body.prefab		B_Hs	翠烟（女）校服T4·颜色3				1		F2_CY004_Body	0		255|255|255|154	1	201|193|255|37	1.1	183|123|255|102	1																		
+18519	Player/Characters/F2/Prefab/F2_CY004_Body.prefab		B_Hs	翠烟（女）校服T4·颜色4				1		F2_CY004_Body	0		255|255|255|154	1	255|189|245|37	1.1	255|118|218|102	1																		
+18520	Player/Characters/F2/Prefab/F2_CY004_Body.prefab		B_Hs	翠烟（女）校服T4·颜色5																																
+19001	Player/Characters/M1/Prefab/M1_TM002_Body.prefab	69001	B_Hs	唐门（男）校服T1·颜色1																																
+19002	Player/Characters/M1/Prefab/M1_TM002_Body.prefab	69002	B_Hs	唐门（男）校服T1·颜色2																																
+19003	Player/Characters/M1/Prefab/M1_TM002_Body.prefab	69003	B_Hs	唐门（男）校服T1·颜色3																																
+19004	Player/Characters/M1/Prefab/M1_TM002_Body.prefab	69004	B_Hs	唐门（男）校服T1·颜色4																																
+19005	Player/Characters/M1/Prefab/M1_TM001_Body.prefab	69005	B_Hs	唐门（男）校服T2·颜色1																																
+19006	Player/Characters/M1/Prefab/M1_TM001_Body.prefab	69006	B_Hs	唐门（男）校服T2·颜色2																																
+19007	Player/Characters/M1/Prefab/M1_TM001_Body.prefab	69007	B_Hs	唐门（男）校服T2·颜色3																																
+19008	Player/Characters/M1/Prefab/M1_TM001_Body.prefab	69008	B_Hs	唐门（男）校服T2·颜色4																																
+19009	Player/Characters/M1/Prefab/M1_TM003_Body.prefab	69009	B_Hs	唐门（男）校服T3·颜色1																																
+19010	Player/Characters/M1/Prefab/M1_TM003_Body.prefab	69010	B_Hs	唐门（男）校服T3·颜色2																																
+19011	Player/Characters/M1/Prefab/M1_TM003_Body.prefab	69011	B_Hs	唐门（男）校服T3·颜色3																																
+19012	Player/Characters/M1/Prefab/M1_TM003_Body.prefab	69012	B_Hs	唐门（男）校服T3·颜色4																																
+19013	Player/Characters/M1/Prefab/M1_TM002_Body.prefab	69013	B_Hs	唐门（男）校服T1·颜色5																																
+19014	Player/Characters/M1/Prefab/M1_TM001_Body.prefab	69014	B_Hs	唐门（男）校服T2·颜色5																																
+19015	Player/Characters/M1/Prefab/M1_TM003_Body.prefab	69015	B_Hs	唐门（男）校服T3·颜色5																																
+19016	Player/Characters/M1/Prefab/M1_TM004_Body.prefab		B_Hs	唐门（男）校服T4·颜色1				1		M1_TM004_Body	0		255|255|255|70	1	255|255|255|50	1	255|255|255|19	1																		
+19017	Player/Characters/M1/Prefab/M1_TM004_Body.prefab		B_Hs	唐门（男）校服T4·颜色2						M1_TM004_Body	1		189|186|153|90	1.29	255|252|236|46	1	232|64|82|43	2.1																		
+19018	Player/Characters/M1/Prefab/M1_TM004_Body.prefab		B_Hs	唐门（男）校服T4·颜色3						M1_TM004_Body	1		240|190|128|90	1.29	125|125|125|82	1.29	127|124|115|74	2.1																		
+19019	Player/Characters/M1/Prefab/M1_TM004_Body.prefab		B_Hs	唐门（男）校服T4·颜色4						M1_TM004_Body	1		198|207|221|45	1.29	236|227|191|29	1.43	97|208|116|37	2.15																		
+19020	Player/Characters/M1/Prefab/M1_TM004_Body.prefab		B_Hs	唐门（男）校服T4·颜色5																																
+20001	Player/Characters/M2/Prefab/M2_KL001_Body.prefab		B_Hs	昆仑（男）校服T1·颜色1				1		M2_KL001_Body	0		255|255|255|39	1	255|255|255|21	1	230|218|241|23	1																		
+20002	Player/Characters/M2/Prefab/M2_KL001_Body.prefab		B_Hs	昆仑（男）校服T1·颜色2						M2_KL001_Body	1		241|192|103|93	1.29	255|255|255|58	1	104|84|65|62	1																		
+20003	Player/Characters/M2/Prefab/M2_KL001_Body.prefab		B_Hs	昆仑（男）校服T1·颜色3						M2_KL001_Body	1		255|239|217|75	1.29	49|152|225|58	1.23	75|73|84|83	1																		
+20004	Player/Characters/M2/Prefab/M2_KL001_Body.prefab		B_Hs	昆仑（男）校服T1·颜色4						M2_KL001_Body	1		241|241|241|50	1.29	211|172|101|48	1.07	71|71|71|109	1																		
+20005	Player/Characters/M2/Prefab/M2_KL002_Body.prefab		B_Hs	昆仑（男）校服T2·颜色1				1		M2_KL002_Body	0		255|255|255|94	1	255|255|255|102	1	255|255|255|39	1																		
+20006	Player/Characters/M2/Prefab/M2_KL002_Body.prefab		B_Hs	昆仑（男）校服T2·颜色2						M2_KL002_Body	1		230|156|108|255	1	255|97|97|96	1	48|48|48|102	1																		
+20007	Player/Characters/M2/Prefab/M2_KL002_Body.prefab		B_Hs	昆仑（男）校服T2·颜色3						M2_KL002_Body	1		245|203|149|88	1	112|86|105|121	1	55|100|144|72	1																		
+20008	Player/Characters/M2/Prefab/M2_KL002_Body.prefab		B_Hs	昆仑（男）校服T2·颜色4						M2_KL002_Body	1		160|240|255|88	1.16	208|93|195|120	1.1	228|227|227|53	1																		
+20009	Player/Characters/M2/Prefab/M2_KL003_Body.prefab		B_Hs	昆仑（男）校服T3·颜色1				1		M2_KL003_body	0		255|255|255|115	1	255|255|255|29	1	170|168|168|166	1																		
+20010	Player/Characters/M2/Prefab/M2_KL003_Body.prefab		B_Hs	昆仑（男）校服T3·颜色2						M2_KL003_body	1		227|242|253|96	1	41|41|41|99	1	157|63|85|166	1																		
+20011	Player/Characters/M2/Prefab/M2_KL003_Body.prefab		B_Hs	昆仑（男）校服T3·颜色3						M2_KL003_body	1		185|255|243|94	1	225|225|225|46	1	71|139|179|55	1.37																		
+20012	Player/Characters/M2/Prefab/M2_KL003_Body.prefab		B_Hs	昆仑（男）校服T3·颜色4						M2_KL003_body	1		255|216|155|94	1.11	40|101|110|94	1	51|70|74|133	1.37																		
+20013	Player/Characters/M2/Prefab/M2_KL001_Body.prefab		B_Hs	昆仑（男）校服T1·颜色5						M2_KL001_Body	1		236|249|251|50	1.29	44|44|44|74	0.99	189|48|80|82	1																		
+20014	Player/Characters/M2/Prefab/M2_KL002_Body.prefab		B_Hs	昆仑（男）校服T2·颜色5						M2_KL002_Body	1		225|170|72|88	1.16	178|178|178|120	1.1	37|37|37|142	1																		
+20015	Player/Characters/M2/Prefab/M2_KL003_Body.prefab		B_Hs	昆仑（男）校服T3·颜色5						M2_KL003_body	1		211|235|255|117	1.11	255|219|144|43	1	116|126|133|99	1.37																		
+20016	Player/Characters/M2/Prefab/M2_KL004_Body.prefab		B_Hs	昆仑（男）校服T4·颜色1				1		M2_KL004_Body	0		255|255|255|48	1	255|255|255|56	1	255|255|255|91	1																		
+20017	Player/Characters/M2/Prefab/M2_KL004_Body.prefab		B_Hs	昆仑（男）校服T4·颜色2						M2_KL004_Body	1		245|173|117|72	1	97|97|97|56	1	155|151|151|91	1																		
+20018	Player/Characters/M2/Prefab/M2_KL004_Body.prefab		B_Hs	昆仑（男）校服T4·颜色3						M2_KL004_Body	1		251|197|147|72	1	42|158|215|42	1	213|213|213|66	1																		
+20019	Player/Characters/M2/Prefab/M2_KL004_Body.prefab		B_Hs	昆仑（男）校服T4·颜色4						M2_KL004_Body	1		255|235|210|72	1	251|210|103|42	1	191|181|181|66	1.24																		
+20020	Player/Characters/M2/Prefab/M2_KL004_Body.prefab		B_Hs	昆仑（男）校服T4·颜色5																																
+20501	Player/Characters/F2/Prefab/F2_KL001_Body.prefab	70501	B_Hs	昆仑（女）校服T1·颜色1																																
+20502	Player/Characters/F2/Prefab/F2_KL001_Body.prefab	70502	B_Hs	昆仑（女）校服T1·颜色2																																
+20503	Player/Characters/F2/Prefab/F2_KL001_Body.prefab	70503	B_Hs	昆仑（女）校服T1·颜色3																																
+20504	Player/Characters/F2/Prefab/F2_KL001_Body.prefab	70504	B_Hs	昆仑（女）校服T1·颜色4																																
+20505	Player/Characters/F2/Prefab/F2_KL002_Body.prefab	70505	B_Hs	昆仑（女）校服T2·颜色1																																
+20506	Player/Characters/F2/Prefab/F2_KL002_Body.prefab	70506	B_Hs	昆仑（女）校服T2·颜色2																																
+20507	Player/Characters/F2/Prefab/F2_KL002_Body.prefab	70507	B_Hs	昆仑（女）校服T2·颜色3																																
+20508	Player/Characters/F2/Prefab/F2_KL002_Body.prefab	70508	B_Hs	昆仑（女）校服T2·颜色4																																
+20509	Player/Characters/F2/Prefab/F2_KL003_Body.prefab	70509	B_Hs	昆仑（女）校服T3·颜色1																																
+20510	Player/Characters/F2/Prefab/F2_KL003_Body.prefab	70510	B_Hs	昆仑（女）校服T3·颜色2																																
+20511	Player/Characters/F2/Prefab/F2_KL003_Body.prefab	70511	B_Hs	昆仑（女）校服T3·颜色3																																
+20512	Player/Characters/F2/Prefab/F2_KL003_Body.prefab	70512	B_Hs	昆仑（女）校服T3·颜色4																																
+20513	Player/Characters/F2/Prefab/F2_KL001_Body.prefab	70513	B_Hs	昆仑（女）校服T1·颜色5																																
+20514	Player/Characters/F2/Prefab/F2_KL002_Body.prefab	70514	B_Hs	昆仑（女）校服T2·颜色5																																
+20515	Player/Characters/F2/Prefab/F2_KL003_Body.prefab	70515	B_Hs	昆仑（女）校服T3·颜色5																																
+20516	Player/Characters/F2/Prefab/F2_KL004_Body.prefab		B_Hs	昆仑（女）校服T4·颜色1				1		F2_KL004_Body	0		255|255|255|137	1	255|255|255|50	1	255|255|255|180	1																		
+20517	Player/Characters/F2/Prefab/F2_KL004_Body.prefab		B_Hs	昆仑（女）校服T4·颜色2				1		F2_KL004_Body	0		255|255|255|137	1	255|255|255|50	1.1	255|59|144|180	1.5																		
+20518	Player/Characters/F2/Prefab/F2_KL004_Body.prefab		B_Hs	昆仑（女）校服T4·颜色3				1		F2_KL004_Body	0		255|255|255|137	1	226|237|255|50	1.21	35|118|255|180	1.5																		
+20519	Player/Characters/F2/Prefab/F2_KL004_Body.prefab		B_Hs	昆仑（女）校服T4·颜色4				1		F2_KL004_Body	0		255|255|255|137	1	253|255|240|50	1.05	233|255|35|180	1.5																		
+20520	Player/Characters/F2/Prefab/F2_KL004_Body.prefab		B_Hs	昆仑（女）校服T4·颜色5																																
+21001	Player/Characters/M2/Prefab/M2_GB001_Body.prefab	71001	B_Hs	丐帮（男）校服T1·颜色1																																
+21002	Player/Characters/M2/Prefab/M2_GB001_Body.prefab	71002	B_Hs	丐帮（男）校服T1·颜色2																																
+21003	Player/Characters/M2/Prefab/M2_GB001_Body.prefab	71003	B_Hs	丐帮（男）校服T1·颜色3																																
+21004	Player/Characters/M2/Prefab/M2_GB001_Body.prefab	71004	B_Hs	丐帮（男）校服T1·颜色4																																
+21005	Player/Characters/M2/Prefab/M2_GB002_Body.prefab	71005	B_Hs	丐帮（男）校服T2·颜色1																																
+21006	Player/Characters/M2/Prefab/M2_GB002_Body.prefab	71006	B_Hs	丐帮（男）校服T2·颜色2																																
+21007	Player/Characters/M2/Prefab/M2_GB002_Body.prefab	71007	B_Hs	丐帮（男）校服T2·颜色3																																
+21008	Player/Characters/M2/Prefab/M2_GB002_Body.prefab	71008	B_Hs	丐帮（男）校服T2·颜色4																																
+21009	Player/Characters/M2/Prefab/M2_GB003_Body.prefab	71009	B_Hs	丐帮（男）校服T3·颜色1																																
+21010	Player/Characters/M2/Prefab/M2_GB003_Body.prefab	71010	B_Hs	丐帮（男）校服T3·颜色2																																
+21011	Player/Characters/M2/Prefab/M2_GB003_Body.prefab	71011	B_Hs	丐帮（男）校服T3·颜色3																																
+21012	Player/Characters/M2/Prefab/M2_GB003_Body.prefab	71012	B_Hs	丐帮（男）校服T3·颜色4																																
+21013	Player/Characters/M2/Prefab/M2_GB001_Body.prefab	71013	B_Hs	丐帮（男）校服T1·颜色5																																
+21014	Player/Characters/M2/Prefab/M2_GB002_Body.prefab	71014	B_Hs	丐帮（男）校服T2·颜色5																																
+21015	Player/Characters/M2/Prefab/M2_GB003_Body.prefab	71015	B_Hs	丐帮（男）校服T3·颜色5																																
+21016	Player/Characters/M2/Prefab/M2_GB004_Body.prefab		B_Hs	丐帮（男）校服T4·颜色1				1		M2_GB004_Body	0		255|255|255|76	1	199|199|199|72	1.17	255|255|255|122	1																		
+21017	Player/Characters/M2/Prefab/M2_GB004_Body.prefab		B_Hs	丐帮（男）校服T4·颜色2				1		M2_GB004_Body	0		255|255|255|255	1	41|42|43|137	1	246|175|223|183	1																		
+21018	Player/Characters/M2/Prefab/M2_GB004_Body.prefab		B_Hs	丐帮（男）校服T4·颜色3				1		M2_GB004_Body	0		239|238|236|255	1	255|197|109|255	1.03	203|203|203|179	1																		
+21019	Player/Characters/M2/Prefab/M2_GB004_Body.prefab		B_Hs	丐帮（男）校服T4·颜色4				1		M2_GB004_Body	0		239|238|236|255	1	255|148|190|255	1.03	255|127|235|179	1																		
+21020	Player/Characters/M2/Prefab/M2_GB004_Body.prefab		B_Hs	丐帮（男）校服T4·颜色5																																
+22501	Player/Characters/F1/Prefab/F1_WD001_Body.prefab	72501	B_Hs	五毒（女）校服T1·颜色1																																
+22502	Player/Characters/F1/Prefab/F1_WD001_Body.prefab	72502	B_Hs	五毒（女）校服T1·颜色2																																
+22503	Player/Characters/F1/Prefab/F1_WD001_Body.prefab	72503	B_Hs	五毒（女）校服T1·颜色3																																
+22504	Player/Characters/F1/Prefab/F1_WD001_Body.prefab	72504	B_Hs	五毒（女）校服T1·颜色4																																
+22505	Player/Characters/F1/Prefab/F1_WD002_Body.prefab	72505	B_Hs	五毒（女）校服T2·颜色1																																
+22506	Player/Characters/F1/Prefab/F1_WD002_Body.prefab	72506	B_Hs	五毒（女）校服T2·颜色2																																
+22507	Player/Characters/F1/Prefab/F1_WD002_Body.prefab	72507	B_Hs	五毒（女）校服T2·颜色3																																
+22508	Player/Characters/F1/Prefab/F1_WD002_Body.prefab	72508	B_Hs	五毒（女）校服T2·颜色4																																
+22509	Player/Characters/F1/Prefab/F1_WD003_Body.prefab	72509	B_Hs	五毒（女）校服T3·颜色1																																
+22510	Player/Characters/F1/Prefab/F1_WD003_Body.prefab	72510	B_Hs	五毒（女）校服T3·颜色2																																
+22511	Player/Characters/F1/Prefab/F1_WD003_Body.prefab	72511	B_Hs	五毒（女）校服T3·颜色3																																
+22512	Player/Characters/F1/Prefab/F1_WD003_Body.prefab	72512	B_Hs	五毒（女）校服T3·颜色4																																
+22513	Player/Characters/F1/Prefab/F1_WD001_Body.prefab	72513	B_Hs	五毒（女）校服T1·颜色5																																
+22514	Player/Characters/F1/Prefab/F1_WD002_Body.prefab	72514	B_Hs	五毒（女）校服T2·颜色5																																
+22515	Player/Characters/F1/Prefab/F1_WD003_Body.prefab	72515	B_Hs	五毒（女）校服T3·颜色5																																
+22516	Player/Characters/F1/Prefab/F1_WD004_Body.prefab		B_Hs	五毒（女）校服T4·颜色1				1		F1_WD004_Body	0		255|255|255|91	1	255|255|255|11	1	255|255|255|34	1																		
+22517	Player/Characters/F1/Prefab/F1_WD004_Body.prefab		B_Hs	五毒（女）校服T4·颜色2						F1_WD004_Body	1		255|212|139|91	1	255|18|18|11	1.45	236|59|255|16	1.43																		
+22518	Player/Characters/F1/Prefab/F1_WD004_Body.prefab		B_Hs	五毒（女）校服T4·颜色3						F1_WD004_Body	1		255|224|172|91	1	114|46|255|11	1.45	236|59|255|16	1.74																		
+22519	Player/Characters/F1/Prefab/F1_WD004_Body.prefab		B_Hs	五毒（女）校服T4·颜色4						F1_WD004_Body	1		255|255|255|32	1.32	206|222|255|11	1.45	254|251|255|16	1.87																		
+22520	Player/Characters/F1/Prefab/F1_WD004_Body.prefab		B_Hs	五毒（女）校服T4·颜色5																																
+23001	Player/Characters/M1/Prefab/M1_CJ001_Body.prefab	73001	B_Hs	藏剑（男）校服T1·颜色1																																
+23002	Player/Characters/M1/Prefab/M1_CJ001_Body.prefab	73002	B_Hs	藏剑（男）校服T1·颜色2																																
+23003	Player/Characters/M1/Prefab/M1_CJ001_Body.prefab	73003	B_Hs	藏剑（男）校服T1·颜色3																																
+23004	Player/Characters/M1/Prefab/M1_CJ001_Body.prefab	73004	B_Hs	藏剑（男）校服T1·颜色4																																
+23005	Player/Characters/M1/Prefab/M1_CJ002_Body.prefab	73005	B_Hs	藏剑（男）校服T2·颜色1																																
+23006	Player/Characters/M1/Prefab/M1_CJ002_Body.prefab	73006	B_Hs	藏剑（男）校服T2·颜色2																																
+23007	Player/Characters/M1/Prefab/M1_CJ002_Body.prefab	73007	B_Hs	藏剑（男）校服T2·颜色3																																
+23008	Player/Characters/M1/Prefab/M1_CJ002_Body.prefab	73008	B_Hs	藏剑（男）校服T2·颜色4																																
+23009	Player/Characters/M1/Prefab/M1_CJ003_Body.prefab	73009	B_Hs	藏剑（男）校服T3·颜色1																																
+23010	Player/Characters/M1/Prefab/M1_CJ003_Body.prefab	73010	B_Hs	藏剑（男）校服T3·颜色2																																
+23011	Player/Characters/M1/Prefab/M1_CJ003_Body.prefab	73011	B_Hs	藏剑（男）校服T3·颜色3																																
+23012	Player/Characters/M1/Prefab/M1_CJ003_Body.prefab	73012	B_Hs	藏剑（男）校服T3·颜色4																																
+23013	Player/Characters/M1/Prefab/M1_CJ001_Body.prefab	73013	B_Hs	藏剑（男）校服T1·颜色5																																
+23014	Player/Characters/M1/Prefab/M1_CJ002_Body.prefab	73014	B_Hs	藏剑（男）校服T2·颜色5																																
+23015	Player/Characters/M1/Prefab/M1_CJ003_Body.prefab	73015	B_Hs	藏剑（男）校服T3·颜色5																																
+23016	Player/Characters/M1/Prefab/M1_CJ004_Body.prefab		B_Hs	藏剑（男）校服T4·颜色1				1		M1_CJ004_Body	0		255|255|255|32	1	255|255|255|28	1	103|96|88|93	1																		
+23017	Player/Characters/M1/Prefab/M1_CJ004_Body.prefab		B_Hs	藏剑（男）校服T4·颜色2						M1_CJ004_Body	1		240|175|125|71	1	191|189|175|28	1.54	88|41|41|88	1.55																		
+23018	Player/Characters/M1/Prefab/M1_CJ004_Body.prefab		B_Hs	藏剑（男）校服T4·颜色3						M1_CJ004_Body	1		225|216|193|71	1	28|46|101|28	1.54	52|54|63|55	1.41																		
+23019	Player/Characters/M1/Prefab/M1_CJ004_Body.prefab		B_Hs	藏剑（男）校服T4·颜色4						M1_CJ004_Body	1		87|164|179|48	1.38	48|48|48|70	1.87	243|238|216|11	1.15																		
+23020	Player/Characters/M1/Prefab/M1_CJ004_Body.prefab		B_Hs	藏剑（男）校服T4·颜色5																																
+24501	Player/Characters/F2/Prefab/F2_CG001_Body.prefab	74501	B_Hs	长歌（女）校服T1·颜色1																																
+24502	Player/Characters/F2/Prefab/F2_CG001_Body.prefab	74502	B_Hs	长歌（女）校服T1·颜色2																																
+24503	Player/Characters/F2/Prefab/F2_CG001_Body.prefab	74503	B_Hs	长歌（女）校服T1·颜色3																																
+24504	Player/Characters/F2/Prefab/F2_CG001_Body.prefab	74504	B_Hs	长歌（女）校服T1·颜色4																																
+24505	Player/Characters/F2/Prefab/F2_CG002_Body.prefab	74505	B_Hs	长歌（女）校服T2·颜色1																																
+24506	Player/Characters/F2/Prefab/F2_CG002_Body.prefab	74506	B_Hs	长歌（女）校服T2·颜色2																																
+24507	Player/Characters/F2/Prefab/F2_CG002_Body.prefab	74507	B_Hs	长歌（女）校服T2·颜色3																																
+24508	Player/Characters/F2/Prefab/F2_CG002_Body.prefab	74508	B_Hs	长歌（女）校服T2·颜色4																																
+24509	Player/Characters/F2/Prefab/F2_CG003_Body.prefab	74509	B_Hs	长歌（女）校服T3·颜色1																																
+24510	Player/Characters/F2/Prefab/F2_CG003_Body.prefab	74510	B_Hs	长歌（女）校服T3·颜色2																																
+24511	Player/Characters/F2/Prefab/F2_CG003_Body.prefab	74511	B_Hs	长歌（女）校服T3·颜色3																																
+24512	Player/Characters/F2/Prefab/F2_CG003_Body.prefab	74512	B_Hs	长歌（女）校服T3·颜色4																																
+24513	Player/Characters/F2/Prefab/F2_CG001_Body.prefab	74513	B_Hs	长歌（女）校服T1·颜色5																																
+24514	Player/Characters/F2/Prefab/F2_CG002_Body.prefab	74514	B_Hs	长歌（女）校服T2·颜色5																																
+24515	Player/Characters/F2/Prefab/F2_CG003_Body.prefab	74515	B_Hs	长歌（女）校服T3·颜色5																																
+24516	Player/Characters/F2/Prefab/F2_CG004_Body.prefab		B_Hs	长歌（女）校服T4·颜色1				1		F2_CG004_body	0		255|255|255|109	1	255|255|255|96	1	255|255|255|115	1																		
+24517	Player/Characters/F2/Prefab/F2_CG004_Body.prefab		B_Hs	长歌（女）校服T4·颜色2				1		F2_CG004_body	0		255|255|255|109	1	255|255|255|96	1	255|69|69|115	1																		
+24518	Player/Characters/F2/Prefab/F2_CG004_Body.prefab		B_Hs	长歌（女）校服T4·颜色3						F2_CG004_body	1		255|255|255|109	1	255|255|255|96	1	93|174|255|137	1.5																		
+24519	Player/Characters/F2/Prefab/F2_CG004_Body.prefab		B_Hs	长歌（女）校服T4·颜色4						F2_CG004_body	1		255|255|255|109	1	255|255|255|96	1	108|255|164|137	1.5																		
+24520	Player/Characters/F2/Prefab/F2_CG004_Body.prefab		B_Hs	长歌（女）校服T4·颜色5																																
+25001	Player/Characters/M1/Prefab/M1_TS003_Body.prefab	75001	B_Hs	天山（男）校服T1·颜色1																																
+25002	Player/Characters/M1/Prefab/M1_TS003_Body.prefab	75002	B_Hs	天山（男）校服T1·颜色2																																
+25003	Player/Characters/M1/Prefab/M1_TS003_Body.prefab	75003	B_Hs	天山（男）校服T1·颜色3																																
+25004	Player/Characters/M1/Prefab/M1_TS003_Body.prefab	75004	B_Hs	天山（男）校服T1·颜色4																																
+25005	Player/Characters/M1/Prefab/M1_TS002_Body.prefab	75005	B_Hs	天山（男）校服T2·颜色1																																
+25006	Player/Characters/M1/Prefab/M1_TS002_Body.prefab	75006	B_Hs	天山（男）校服T2·颜色2																																
+25007	Player/Characters/M1/Prefab/M1_TS002_Body.prefab	75007	B_Hs	天山（男）校服T2·颜色3																																
+25008	Player/Characters/M1/Prefab/M1_TS002_Body.prefab	75008	B_Hs	天山（男）校服T2·颜色4																																
+25009	Player/Characters/M1/Prefab/M1_TS001_Body.prefab	75009	B_Hs	天山（男）校服T3·颜色1																																
+25010	Player/Characters/M1/Prefab/M1_TS001_Body.prefab	75010	B_Hs	天山（男）校服T3·颜色2																																
+25011	Player/Characters/M1/Prefab/M1_TS001_Body.prefab	75011	B_Hs	天山（男）校服T3·颜色3																																
+25012	Player/Characters/M1/Prefab/M1_TS001_Body.prefab	75012	B_Hs	天山（男）校服T3·颜色4																																
+25013	Player/Characters/M1/Prefab/M1_TS003_Body.prefab	75013	B_Hs	天山（男）校服T1·颜色5																																
+25014	Player/Characters/M1/Prefab/M1_TS002_Body.prefab	75014	B_Hs	天山（男）校服T2·颜色5																																
+25015	Player/Characters/M1/Prefab/M1_TS001_Body.prefab	75015	B_Hs	天山（男）校服T3·颜色5																																
+25016	Player/Characters/M1/Prefab/M1_TS004_Body.prefab		B_Hs	天山（男）校服T4·颜色1				1		M1_TS004_Body	0		167|185|195|19	1.79	111|136|185|15	1.31	208|208|208|15	1.24																		
+25017	Player/Characters/M1/Prefab/M1_TS004_Body.prefab		B_Hs	天山（男）校服T4·颜色2				1		M1_TS004_Body	0		255|224|157|19	1.76	12|87|112|29	1.41	142|145|149|15	1.3																		
+25018	Player/Characters/M1/Prefab/M1_TS004_Body.prefab		B_Hs	天山（男）校服T4·颜色3						M1_TS004_Body	1		202|194|186|19	1.87	37|37|36|23	1.54	225|185|114|4	1.2																		
+25019	Player/Characters/M1/Prefab/M1_TS004_Body.prefab		B_Hs	天山（男）校服T4·颜色4						M1_TS004_Body	1		196|193|179|19	1.79	159|59|144|26	1.5	195|177|213|0	1.18																		
+25020	Player/Characters/M1/Prefab/M1_TS004_Body.prefab		B_Hs	天山（男）校服T4·颜色5																																
+25501	Player/Characters/F2/Prefab/F2_TS003_Body.prefab	75501	B_Hs	天山（女）校服T1·颜色1																																
+25502	Player/Characters/F2/Prefab/F2_TS003_Body.prefab	75502	B_Hs	天山（女）校服T1·颜色2																																
+25503	Player/Characters/F2/Prefab/F2_TS003_Body.prefab	75503	B_Hs	天山（女）校服T1·颜色3																																
+25504	Player/Characters/F2/Prefab/F2_TS003_Body.prefab	75504	B_Hs	天山（女）校服T1·颜色4																																
+25505	Player/Characters/F2/Prefab/F2_TS002_Body.prefab	75505	B_Hs	天山（女）校服T2·颜色1																																
+25506	Player/Characters/F2/Prefab/F2_TS002_Body.prefab	75506	B_Hs	天山（女）校服T2·颜色2																																
+25507	Player/Characters/F2/Prefab/F2_TS002_Body.prefab	75507	B_Hs	天山（女）校服T2·颜色3																																
+25508	Player/Characters/F2/Prefab/F2_TS002_Body.prefab	75508	B_Hs	天山（女）校服T2·颜色4																																
+25509	Player/Characters/F2/Prefab/F2_TS001_Body.prefab	75509	B_Hs	天山（女）校服T3·颜色1																																
+25510	Player/Characters/F2/Prefab/F2_TS001_Body.prefab	75510	B_Hs	天山（女）校服T3·颜色2																																
+25511	Player/Characters/F2/Prefab/F2_TS001_Body.prefab	75511	B_Hs	天山（女）校服T3·颜色3																																
+25512	Player/Characters/F2/Prefab/F2_TS001_Body.prefab	75512	B_Hs	天山（女）校服T3·颜色4																																
+25513	Player/Characters/F2/Prefab/F2_TS003_Body.prefab	75513	B_Hs	天山（女）校服T1·颜色5																																
+25514	Player/Characters/F2/Prefab/F2_TS002_Body.prefab	75514	B_Hs	天山（女）校服T2·颜色5																																
+25515	Player/Characters/F2/Prefab/F2_TS001_Body.prefab	75515	B_Hs	天山（女）校服T3·颜色5																																
+25516	Player/Characters/F2/Prefab/F2_TS004_Body.prefab		B_Hs	天山（女）校服T4·颜色1				1		F2_TS004_Body	0		255|220|108|115	1	157|198|255|172	1.31	99|158|255|255	1																		
+25517	Player/Characters/F2/Prefab/F2_TS004_Body.prefab		B_Hs	天山（女）校服T4·颜色2						F2_TS004_Body	1		255|255|255|136	1	255|119|156|133	1.07	210|24|105|113	1																		
+25518	Player/Characters/F2/Prefab/F2_TS004_Body.prefab		B_Hs	天山（女）校服T4·颜色3						F2_TS004_Body	1		223|249|255|136	1	255|215|129|161	1.07	255|176|48|136	1																		
+25519	Player/Characters/F2/Prefab/F2_TS004_Body.prefab		B_Hs	天山（女）校服T4·颜色4						F2_TS004_Body	1		223|249|255|136	1	153|176|208|161	1.07	71|71|71|136	1																		
+25520	Player/Characters/F2/Prefab/F2_TS004_Body.prefab		B_Hs	天山（女）校服T4·颜色5																																
+26001	Player/Characters/M2/Prefab/M2_BD001_Body.prefab		B_Hs	霸刀（男）校服T1·颜色1				1		M2_BD001_Body	0		255|255|255|34	0.99	255|255|255|66	1.18	255|255|255|119	1																		
+26002	Player/Characters/M2/Prefab/M2_BD001_Body.prefab		B_Hs	霸刀（男）校服T1·颜色2						M2_BD001_Body	1		255|245|172|34	0.99	196|0|0|255	2.68	184|181|255|119	1.28																		
+26003	Player/Characters/M2/Prefab/M2_BD001_Body.prefab		B_Hs	霸刀（男）校服T1·颜色3						M2_BD001_Body	1		255|245|172|34	0.99	67|67|67|255	1.8	255|112|112|119	1.28																		
+26004	Player/Characters/M2/Prefab/M2_BD001_Body.prefab		B_Hs	霸刀（男）校服T1·颜色4						M2_BD001_Body	1		255|255|255|147	1.5	255|255|255|255	2.07	114|69|255|255	1.28																		
+26005	Player/Characters/M2/Prefab/M2_BD002_Body.prefab		B_Hs	霸刀（男）校服T2·颜色1				1		M2_BD002_Body	0		22|180|195|46	1	255|255|255|61	1	23|181|195|0	1																		
+26006	Player/Characters/M2/Prefab/M2_BD002_Body.prefab		B_Hs	霸刀（男）校服T2·颜色2						M2_BD002_Body	1		253|255|172|61	1	243|202|255|86	1	195|76|23|0	1																		
+26007	Player/Characters/M2/Prefab/M2_BD002_Body.prefab		B_Hs	霸刀（男）校服T2·颜色3						M2_BD002_Body	1		126|111|210|106	1	202|211|255|86	1	23|81|195|0	1																		
+26008	Player/Characters/M2/Prefab/M2_BD002_Body.prefab		B_Hs	霸刀（男）校服T2·颜色4						M2_BD002_Body	1		165|14|42|106	1	174|211|255|86	1	255|255|255|0	1																		
+26009	Player/Characters/M2/Prefab/M2_BD003_Body.prefab		B_Hs	霸刀（男）校服T3·颜色1				1		M2_BD003_Body	0		249|196|196|172	1	32|121|114|39	2.08	176|90|178|0	1																		
+26010	Player/Characters/M2/Prefab/M2_BD003_Body.prefab		B_Hs	霸刀（男）校服T3·颜色2						M2_BD003_Body	1		255|255|255|173	1.09	104|169|206|61	1.65	149|19|17|0	1																		
+26011	Player/Characters/M2/Prefab/M2_BD003_Body.prefab		B_Hs	霸刀（男）校服T3·颜色3						M2_BD003_Body	1		153|255|204|173	1.09	213|172|84|102	1.65	255|93|93|0	1																		
+26012	Player/Characters/M2/Prefab/M2_BD003_Body.prefab		B_Hs	霸刀（男）校服T3·颜色4						M2_BD003_Body	1		255|176|176|173	1	255|18|18|102	1	149|17|107|0	1																		
+26013	Player/Characters/M2/Prefab/M2_BD001_Body.prefab		B_Hs	霸刀（男）校服T1·颜色5				1		M2_BD001_Body	0		239|255|202|34	1.34	255|210|248|255	1.91	112|125|255|119	1.28																		
+26014	Player/Characters/M2/Prefab/M2_BD002_Body.prefab		B_Hs	霸刀（男）校服T2·颜色5						M2_BD002_Body	1		59|59|59|106	1	255|97|97|29	1	255|22|22|0	1																		
+26015	Player/Characters/M2/Prefab/M2_BD003_Body.prefab		B_Hs	霸刀（男）校服T3·颜色5						M2_BD003_Body	1		255|176|246|173	1	238|220|220|102	1.31	167|155|255|97	1.31																		
+26016	Player/Characters/M2/Prefab/M2_BD004_Body.prefab		B_Hs	霸刀（男）校服T4·颜色1				1		M2_BD004_Body	0		255|255|255|93	1	0|220|240|26	1	255|255|255|85	1																		
+26017	Player/Characters/M2/Prefab/M2_BD004_Body.prefab		B_Hs	霸刀（男）校服T4·颜色2				1		M2_BD004_Body	0		170|170|170|118	1	240|0|0|85	1	153|255|229|255	1																		
+26018	Player/Characters/M2/Prefab/M2_BD004_Body.prefab		B_Hs	霸刀（男）校服T4·颜色3				1		M2_BD004_Body	0		255|202|202|118	1	255|244|155|85	1	101|197|255|255	1																		
+26019	Player/Characters/M2/Prefab/M2_BD004_Body.prefab		B_Hs	霸刀（男）校服T4·颜色4				1		M2_BD004_Body	0		255|153|248|118	1.48	122|96|223|85	1	255|255|255|255	1																		
+26020	Player/Characters/M2/Prefab/M2_BD004_Body.prefab		B_Hs	霸刀（男）校服T4·颜色5																																
+26501	Player/Characters/F1/Prefab/F1_BD001_Body.prefab		B_Hs	霸刀（女）校服T1·颜色1				1		F1_BD001_Body	0		255|255|255|61	1	210|253|255|90	1.05	255|255|255|21	1																		
+26502	Player/Characters/F1/Prefab/F1_BD001_Body.prefab		B_Hs	霸刀（女）校服T1·颜色2						F1_BD001_Body	1		255|212|119|117	1.77	255|74|74|125	1.3	255|255|255|11	1.05																		
+26503	Player/Characters/F1/Prefab/F1_BD001_Body.prefab		B_Hs	霸刀（女）校服T1·颜色3						F1_BD001_Body	1		255|210|80|120	2.09	255|213|104|135	1.3	255|255|255|15	1.05																		
+26504	Player/Characters/F1/Prefab/F1_BD001_Body.prefab		B_Hs	霸刀（女）校服T1·颜色4						F1_BD001_Body	1		255|210|80|120	1.9	255|112|156|158	1.51	255|255|255|15	1.05																		
+26505	Player/Characters/F1/Prefab/F1_BD002_Body.prefab		B_Hs	霸刀（女）校服T2·颜色1				1		F1_BD002_Body	0		255|255|255|93	1	202|244|255|82	1.2	203|245|255|150	1.41																		
+26506	Player/Characters/F1/Prefab/F1_BD002_Body.prefab		B_Hs	霸刀（女）校服T2·颜色2						F1_BD002_Body	1		255|255|255|93	1	255|233|112|117	1.49	255|192|113|150	1.9																		
+26507	Player/Characters/F1/Prefab/F1_BD002_Body.prefab		B_Hs	霸刀（女）校服T2·颜色3						F1_BD002_Body	1		255|255|255|93	1	145|136|255|137	1.5	185|137|255|150	1.9																		
+26508	Player/Characters/F1/Prefab/F1_BD002_Body.prefab		B_Hs	霸刀（女）校服T2·颜色4						F1_BD002_Body	1		255|255|255|93	1	253|139|179|112	1.8	255|121|190|150	3.05																		
+26509	Player/Characters/F1/Prefab/F1_BD003_Body.prefab		B_Hs	霸刀（女）校服T3·颜色1				1		F1_BD003_Body	0		255|255|255|67	1	198|244|255|61	1.2	255|255|255|215	1																		
+26510	Player/Characters/F1/Prefab/F1_BD003_Body.prefab		B_Hs	霸刀（女）校服T3·颜色2				1		F1_BD003_Body	0		255|255|255|67	1	240|148|255|75	1.3	255|149|243|215	1																		
+26511	Player/Characters/F1/Prefab/F1_BD003_Body.prefab		B_Hs	霸刀（女）校服T3·颜色3				1		F1_BD003_Body	0		255|255|255|67	1	148|255|201|102	1.2	124|219|172|215	1.16																		
+26512	Player/Characters/F1/Prefab/F1_BD003_Body.prefab		B_Hs	霸刀（女）校服T3·颜色4						F1_BD003_Body	1		255|255|255|67	1	255|112|112|118	1.4	181|78|78|215	1.16																		
+26513	Player/Characters/F1/Prefab/F1_BD001_Body.prefab		B_Hs	霸刀（女）校服T1·颜色5						F1_BD001_Body	1		255|210|80|144	1.94	125|163|255|174	1.3	255|255|255|13	1.05																		
+26514	Player/Characters/F1/Prefab/F1_BD002_Body.prefab		B_Hs	霸刀（女）校服T2·颜色5						F1_BD002_Body	1		255|255|255|93	1	255|103|103|117	1.5	255|101|101|150	2.19																		
+26515	Player/Characters/F1/Prefab/F1_BD003_Body.prefab		B_Hs	霸刀（女）校服T3·颜色5						F1_BD003_Body	1		255|255|255|67	1	255|136|173|118	1.6	255|95|145|215	1.65																		
+26516	Player/Characters/F1/Prefab/F1_BD004_Body.prefab		B_Hs	霸刀（女）校服T4·颜色1				1		F1_BD004_Body	0		155|240|255|158	1.32	0|194|217|187	1.55	255|255|255|74	1.1																		
+26517	Player/Characters/F1/Prefab/F1_BD004_Body.prefab		B_Hs	霸刀（女）校服T4·颜色2						F1_BD004_Body	1		111|91|255|233	2.07	175|172|255|139	3.27	255|207|84|206	3.24																		
+26518	Player/Characters/F1/Prefab/F1_BD004_Body.prefab		B_Hs	霸刀（女）校服T4·颜色3						F1_BD004_Body	1		192|91|255|233	1.81	216|172|255|139	3.41	255|207|84|206	3.24																		
+26519	Player/Characters/F1/Prefab/F1_BD004_Body.prefab		B_Hs	霸刀（女）校服T4·颜色4						F1_BD004_Body	1		255|110|143|152	2.58	255|76|131|141	3.56	255|193|84|206	3																		
+26520	Player/Characters/F1/Prefab/F1_BD004_Body.prefab		B_Hs	霸刀（女）校服T4·颜色4																																
+27001	Player/Characters/M1/Prefab/M1_HS001_Body.prefab		B_Hs	华山（男）校服T1·颜色1				1		M1_HS001_Body	0		255|255|255|97	1	255|255|255|45	1	255|255|255|32	1																		
+27002	Player/Characters/M1/Prefab/M1_HS001_Body.prefab		B_Hs	华山（男）校服T1·颜色2						M1_HS001_Body	1		251|246|232|66	1.34	123|34|47|142	1.27	232|227|227|11	1.29																		
+27003	Player/Characters/M1/Prefab/M1_HS001_Body.prefab		B_Hs	华山（男）校服T1·颜色3						M1_HS001_Body	1		217|224|230|66	1.34	33|33|33|175	1.27	249|201|97|11	1.29																		
+27004	Player/Characters/M1/Prefab/M1_HS001_Body.prefab		B_Hs	华山（男）校服T1·颜色4						M1_HS001_Body	1		234|204|139|64	1.34	38|122|172|85	1.16	223|223|223|8	1.41																		
+27005	Player/Characters/M1/Prefab/M1_HS002_Body.prefab		B_Hs	华山（男）校服T2·颜色1				1		M1_HS002_Body	0		255|255|255|160	1	255|255|255|64	1	255|255|255|86	1																		
+27006	Player/Characters/M1/Prefab/M1_HS002_Body.prefab		B_Hs	华山（男）校服T2·颜色2						M1_HS002_Body	1		235|234|255|134	1	36|52|99|96	1.18	251|164|245|157	1																		
+27007	Player/Characters/M1/Prefab/M1_HS002_Body.prefab		B_Hs	华山（男）校服T2·颜色3						M1_HS002_Body	1		240|240|243|55	1.25	41|41|41|255	1	159|132|98|255	1																		
+27008	Player/Characters/M1/Prefab/M1_HS002_Body.prefab		B_Hs	华山（男）校服T2·颜色4						M1_HS002_Body	1		247|196|131|113	1.11	247|247|247|61	1.08	17|111|142|255	1																		
+27009	Player/Characters/M1/Prefab/M1_HS003_Body.prefab		B_Hs	华山（男）校服T3·颜色1				1		M1_HS003_Body	0		255|255|255|39	1	255|255|255|46	1	255|255|255|112	1																		
+27010	Player/Characters/M1/Prefab/M1_HS003_Body.prefab		B_Hs	华山（男）校服T3·颜色2						M1_HS003_Body	1		236|185|130|39	1.48	41|101|161|80	1.42	219|210|203|123	1.74																		
+27011	Player/Characters/M1/Prefab/M1_HS003_Body.prefab		B_Hs	华山（男）校服T3·颜色3						M1_HS003_Body	1		245|246|255|55	1.38	232|229|215|67	1.07	101|17|39|134	1.93																		
+27012	Player/Characters/M1/Prefab/M1_HS003_Body.prefab		B_Hs	华山（男）校服T3·颜色4						M1_HS003_Body	1		247|182|132|53	1.38	215|215|215|40	1.22	232|232|232|50	1.57																		
+27013	Player/Characters/M1/Prefab/M1_HS001_Body.prefab		B_Hs	华山（男）校服T1·颜色5						M1_HS001_Body	1		243|237|215|66	1.34	42|69|133|110	1.5	76|60|17|86	1.29																		
+27014	Player/Characters/M1/Prefab/M1_HS002_Body.prefab		B_Hs	华山（男）校服T2·颜色5						M1_HS002_Body	1		255|243|219|113	1.11	59|59|59|121	1.16	213|77|108|166	1																		
+27015	Player/Characters/M1/Prefab/M1_HS003_Body.prefab		B_Hs	华山（男）校服T3·颜色5						M1_HS003_Body	1		253|222|184|39	1.38	148|30|105|102	1.22	232|232|232|50	1.67																		
+27016	Player/Characters/M1/Prefab/M1_HS004_Body.prefab		B_Hs	华山（男）校服T4·颜色1				1		M1_HS004_Body	0		255|255|255|18	1	255|255|255|31	1	255|255|255|109	1																		
+27017	Player/Characters/M1/Prefab/M1_HS004_Body.prefab		B_Hs	华山（男）校服T4·颜色2						M1_HS004_Body	1		61|61|61|141	0.94	253|247|236|51	1.47	232|178|136|96	1.38																		
+27018	Player/Characters/M1/Prefab/M1_HS004_Body.prefab		B_Hs	华山（男）校服T4·颜色3						M1_HS004_Body	1		74|35|35|110	1.06	74|69|64|215	1	238|235|225|90	2.06																		
+27019	Player/Characters/M1/Prefab/M1_HS004_Body.prefab		B_Hs	华山（男）校服T4·颜色4						M1_HS004_Body	1		200|223|213|50	1.13	84|176|199|94	1	137|218|245|74	1																		
+27020	Player/Characters/M1/Prefab/M1_HS004_Body.prefab		B_Hs	华山（男）校服T4·颜色5																																
+27501	Player/Characters/F2/Prefab/F2_HS001_Body.prefab		B_Hs	华山（女）校服T1·颜色1				1		F2_HS001_Body	0		255|255|255|64	1	255|255|255|51	1	255|255|255|50	1																		
+27502	Player/Characters/F2/Prefab/F2_HS001_Body.prefab		B_Hs	华山（女）校服T1·颜色2						F2_HS001_Body	1		255|252|213|64	1	143|177|243|32	1.42	153|96|223|82	1.4																		
+27503	Player/Characters/F2/Prefab/F2_HS001_Body.prefab		B_Hs	华山（女）校服T1·颜色3						F2_HS001_Body	1		255|229|163|64	1.16	247|202|210|16	1.26	179|51|80|82	1.4																		
+27504	Player/Characters/F2/Prefab/F2_HS001_Body.prefab		B_Hs	华山（女）校服T1·颜色4						F2_HS001_Body	1		255|248|230|64	1.16	228|158|82|56	1.26	48|54|54|128	1.4																		
+27505	Player/Characters/F2/Prefab/F2_HS002_Body.prefab		B_Hs	华山（女）校服T2·颜色1				1		F2_HS002_Body	0		255|255|255|80	1	255|255|255|42	0.81	255|255|255|80	1																		
+27506	Player/Characters/F2/Prefab/F2_HS002_Body.prefab		B_Hs	华山（女）校服T2·颜色2						F2_HS002_Body	1		255|212|121|190	1.35	33|27|27|142	1.18	228|33|33|70	1																		
+27507	Player/Characters/F2/Prefab/F2_HS002_Body.prefab		B_Hs	华山（女）校服T2·颜色3						F2_HS002_Body	1		141|222|249|90	1.01	255|230|246|24	1.15	255|97|192|99	1.15																		
+27508	Player/Characters/F2/Prefab/F2_HS002_Body.prefab		B_Hs	华山（女）校服T2·颜色4						F2_HS002_Body	1		153|217|255|53	1.35	217|217|217|56	1.18	249|211|89|61	1.13																		
+27509	Player/Characters/F2/Prefab/F2_HS003_Body.prefab		B_Hs	华山（女）校服T3·颜色1				1		F2_HS003_Body	0		255|255|255|96	1.33	213|255|236|107	1	255|255|255|0	1																		
+27510	Player/Characters/F2/Prefab/F2_HS003_Body.prefab		B_Hs	华山（女）校服T3·颜色2						F2_HS003_Body	1		249|255|215|70	1.27	119|143|255|166	1	251|252|255|0	1.05																		
+27511	Player/Characters/F2/Prefab/F2_HS003_Body.prefab		B_Hs	华山（女）校服T3·颜色3						F2_HS003_Body	1		205|234|249|64	1.6	255|78|118|158	1.39	255|227|217|33	1																		
+27512	Player/Characters/F2/Prefab/F2_HS003_Body.prefab		B_Hs	华山（女）校服T3·颜色4						F2_HS003_Body	1		217|239|255|201	1.33	249|201|97|61	1.29	54|48|41|74	1.23																		
+27513	Player/Characters/F2/Prefab/F2_HS001_Body.prefab		B_Hs	华山（女）校服T1·颜色5						F2_HS001_Body	1		238|252|255|64	1.16	198|45|45|56	1.26	50|47|47|137	1.4																		
+27514	Player/Characters/F2/Prefab/F2_HS002_Body.prefab		B_Hs	华山（女）校服T2·颜色5						F2_HS002_Body	1		255|221|149|53	1.35	217|217|217|56	1.18	89|170|249|61	1.13																		
+27515	Player/Characters/F2/Prefab/F2_HS003_Body.prefab		B_Hs	华山（女）校服T3·颜色5						F2_HS003_Body	1		255|231|195|109	1.33	61|61|61|112	1.29	35|148|170|74	1.23																		
+27516	Player/Characters/F2/Prefab/F2_HS004_Body.prefab		B_Hs	华山（女）校服T4·颜色1				1		F2_HS004_Body	0		255|255|255|64	1	255|255|255|51	1	255|255|255|31	1																		
+27517	Player/Characters/F2/Prefab/F2_HS004_Body.prefab		B_Hs	华山（女）校服T4·颜色2						F2_HS004_Body	1		173|229|253|96	1.2	151|37|111|157	1.56	255|168|231|31	1.32																		
+27518	Player/Characters/F2/Prefab/F2_HS004_Body.prefab		B_Hs	华山（女）校服T4·颜色3						F2_HS004_Body	1		255|215|112|96	1.08	48|48|48|169	1.56	127|27|37|106	1.32																		
+27519	Player/Characters/F2/Prefab/F2_HS004_Body.prefab		B_Hs	华山（女）校服T4·颜色4						F2_HS004_Body	1		148|255|255|101	1.08	202|173|80|110	1.56	255|254|247|43	0.98																		
+27520	Player/Characters/F2/Prefab/F2_HS004_Body.prefab		B_Hs	华山（女）校服T4·颜色5																																
+40001	Player/Characters/M1/Prefab/M1_VN_W001_Body.prefab		B_Hs	M1成男外装VN1·颜色1		越南外装																														
+40002	Player/Characters/M2/Prefab/M2_VN_W001_Body.prefab		B_Hs	M2壮男外装VN1·颜色1		越南外装																														
+40003	Player/Characters/F1/Prefab/F1_VN_W001_Body.prefab		B_Hs	F1萝莉外装VN1·颜色1		越南外装																														
+40004	Player/Characters/F2/Prefab/F2_VN_W001_Body.prefab		B_Hs	F2标女外装VN1·颜色1		越南外装																														

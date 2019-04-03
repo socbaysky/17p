@@ -1,0 +1,23 @@
+TimeFrame	AwardType	AwardValue1	AwardValue2	AwardValue3	RandRate	WorldNotify	KinNotify	Name
+OpenLevel39	item	785	1		15000			钥匙
+OpenLevel39	item	787	1		15000			藏宝图
+OpenLevel39	item	212	1		10000			白水晶
+OpenLevel39	item	222	1		15000			绿水晶
+OpenLevel39	item	213	1		15000			破损的神秘矿石
+OpenLevel39	Coin		2000		15000			2000银两
+OpenLevel39	item	1234	1		10000			玫瑰花
+OpenLevel39	item	1235	1		10000			幸运草
+OpenLevel129	item	785	1		15000			钥匙
+OpenLevel129	item	787	1		15000			藏宝图
+OpenLevel129	item	212	1		10000			白水晶
+OpenLevel129	item	222	1		15000			绿水晶
+OpenLevel129	item	213	1		15000			破损的神秘矿石
+OpenLevel129	Gold	10000			-1			10000元宝
+OpenLevel129	item	1234	1000		15000			玫瑰花
+OpenLevel129	item	1235	1		15000			幸运草
+OpenLevel149	item	785	1		15000			钥匙
+OpenLevel149	item	787	1		15000			藏宝图
+OpenLevel149	item	212	1		10000			白水晶
+OpenLevel149	item	222	1		15000			绿水晶
+OpenLevel149	item	213	1		10000			破损的神秘矿石
+OpenLevel149	Gold	10000			-1			10000元宝 

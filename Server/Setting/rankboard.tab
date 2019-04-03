@@ -1,0 +1,49 @@
+Key	ID	Name	Type	MaxNum	MaxSaveNum	TimeFrame	Tips	Sub	ActivityType
+kin	1	帮派	0	30	100		按帮派威望排名		
+FightPower	2	战力	0	500	500		根据角色的战力		
+qunyinghui	3	群英会	0	500	500	NotOpen	群英会的排名		
+Level	4	等级	0	500	500		根据角色等级		
+FightPower_1	5	天王	0	500	500		根据天王角色的战力	门派	
+FightPower_2	6	峨嵋	0	500	500		根据峨嵋角色的战力	门派	
+FightPower_3	7	桃花	0	500	500		根据桃花角色的战力	门派	
+FightPower_4	8	逍遥	0	500	500		根据逍遥角色的战力	门派	
+FightPower_5	9	武当	0	500	500		根据武当角色的战力	门派	
+FightPower_6	10	天忍	0	500	500		根据天忍角色的战力	门派	
+FightPower_Equip	11	装备基础	0	500	500		装备上随机属性的总战力值排名	装备	
+FightPower_Strengthen	12	强化	0	500	500		装备强化所加的总战力值排名	装备	
+FightPower_Stone	13	镶嵌	0	500	500		装备镶嵌所加的总战力值排名	装备	
+FightPower_Partner	14	同伴	0	500	500		所有上阵同伴加的总战力值排名		
+CardCollection_1	15	凌绝峰收集榜	0	500	10000	OpenLevel59	凌绝峰卡牌收集排行榜		
+LunJianRank	16	华山论剑	1	1000	10000	HuaShanLunJian	华山论剑		
+FightPower_7	17	少林	0	500	500		根据少林角色的战力	门派	
+FightPower_8	18	翠烟	0	500	500		根据翠烟角色的战力	门派	
+ZhongQiuJie	19	中秋节祭月榜	0	500	10000		中秋节祭月榜		ZhongQiuJie
+CardCollection_2	20	锦绣山河	0	500	10000		双十锦绣山河活动		JinXiuShanHe
+SendBless	21	普天同庆	0	100	10000		双十普天同庆活动		SendBlessAct
+FightPower_9	22	唐门	0	500	500		根据唐门角色的战力	门派	
+FightPower_10	23	昆仑	0	500	500		根据崑仑角色的战力	门派	
+FightPower_11	24	丐帮	0	500	500		根据丐帮角色的战力	门派	
+FightPower_12	25	五毒	0	500	500		根据五毒角色的战力	门派	
+House	26	家园基础	0	500	500	OpenDay15	根据家园舒适度	家园	
+FightPower_Horse	28	坐骑	0	500	500		坐骑和坐骑装备的总战力值排名	装备	
+FightPower_ZhenYuan	29	真元	0	500	500	OpenLevel69	真元的战力值排名	装备	
+WulinHonor	30	武林荣誉	0	500	500	OpenLevel69	武林荣誉		
+FightPower_13	31	藏剑	0	500	500		根据藏剑角色的战力	门派	
+FightPower_14	32	长歌	0	500	500		根据长歌角色的战力	门派	
+JingMai	33	经脉	0	500	500	OpenLevel79	根据经脉增加的战斗力		
+FightPower_15	34	天山	0	500	500		根据天山角色的战力	门派	
+Charm	35	魅力	0	500	500		根据角色魅力值排名		
+FightPower_ZhenFa	36	阵法	0	500	500	OpenLevel89	阵法相关		
+NewYearChris	37	许愿积分榜	0	500	10000		许愿符积分		NewYearChris
+FightPower_16	38	霸刀	0	500	500		根据霸刀角色的战力	门派	
+MedalFightAct	39	奖章争夺战	0	500	10000		奖章争夺战		MedalFightAct
+FightPower_MagicBowl	40	家园聚宝盆	0	500	500	OpenDay33	根据聚宝盆战力	家园	
+DanceAct	41	舞动江湖	0	500	10000		舞动江湖		DanceAct
+WorldCupAct	42	世界盃	0	500	10000		世界盃		WorldCupAct
+ActJueDi	43	绝地试炼	0	1000	10000		绝地试炼		ActJueDiHide
+FightPower_17	44	华山	0	500	500		根据华山角色的战力	门派	
+FightPower_SeriesStone	45	五行石	0	500	500	OpenDay720	装备五行石所加的总战力值排名	装备	
+AchievementPoint	47	成就	0	500	10000		根据已完成成就的总成就点排名		
+FightPower_Skill	48	技能点	0	500	500		技能点对应战力	技能	
+FightPower_SkillBook	49	秘笈	0	500	500		秘笈对应战力	技能	
+MaterialCollectAct	52	酿酒	0	1000	10000		酿酒排行		MaterialCollectAct

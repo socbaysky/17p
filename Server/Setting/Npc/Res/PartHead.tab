@@ -1,0 +1,1190 @@
+ResId	ResFile	ResAttribID	ResSlot	Desc	Scale	IsOrgColorValue	MinCastValue	SlotName1	SlotGray1	SlotMinCast1	Slot1Color1	Slot1Light1	Slot1Color2	Slot1Light2	Slot1Color3	Slot1Light3	SlotName2	SlotGray2	SlotMinCast2	Slot2Color1	Slot2Light1	Slot2Color2	Slot2Light2	Slot2Color3	Slot2Light3	SlotName3	SlotGray3	SlotMinCast3	Slot3Color1	Slot3Light1	Slot3Color2	Slot3Light2	Slot3Color3	Slot3Light3
+1	Player/Characters/M2/Prefab/M2_TW002_Head.prefab		head	天王新手-男																														
+2	Player/Characters/F2/Prefab/F2_EM001_Head.prefab		head	天王新手-女（暂无）																														
+3	Player/Characters/M1/Prefab/M1_XY001_Head.prefab		head	峨眉新手-男（暂无）																														
+4	Player/Characters/F2/Prefab/F2_EM001_Head.prefab		head	峨眉新手-女																														
+5	Player/Characters/M1/Prefab/M1_XY001_Head.prefab		head	桃花新手-男（暂无）																														
+6	Player/Characters/F1/Prefab/F1_TH001_Head.prefab		head	桃花新手-女																														
+7	Player/Characters/M1/Prefab/M1_XY001_Head.prefab		head	逍遥新手-男																														
+8	Player/Characters/F2/Prefab/F2_EM001_Head.prefab		head	逍遥新手-女（暂无）																														
+9	Player/Characters/M1/Prefab/M1_WD002_Head.prefab		head	武当新手-男																														
+10	Player/Characters/F2/Prefab/F2_WD002_Head.prefab		head	武当新手-女																														
+11	Player/Characters/M1/Prefab/M1_WD001_Head.prefab		head	天忍新手-男（暂无）																														
+12	Player/Characters/F2/Prefab/F2_EM001_Head.prefab		head	天忍新手-女																														
+13	Player/Characters/M2/Prefab/M2_SL001_Head.prefab		head	少林新手-男																														
+14	Player/Characters/F2/Prefab/F2_EM001_Head.prefab		head	少林新手-女（暂无）																														
+15	Player/Characters/M1/Prefab/M1_WD001_Head.prefab		head	翠烟新手-男（暂无）																														
+16	Player/Characters/F2/Prefab/F2_CY001_Head.prefab		head	翠烟新手-女																														
+17	Player/Characters/M1/Prefab/M1_TM002_Head.prefab		head	唐门新手-男																														
+18	Player/Characters/F2/Prefab/F2_EM001_Head.prefab		head	唐门新手-女（暂无）																														
+19	Player/Characters/M1/Prefab/M1_TM002_Head.prefab		head	昆仑新手-男（暂无）																														
+20	Player/Characters/F2/Prefab/F2_KL001_Head.prefab		head	昆仑新手-女																														
+21	Player/Characters/M2/Prefab/M2_GB001_Head.prefab		head	丐帮新手-男																														
+22	Player/Characters/F2/Prefab/F2_KL001_Head.prefab		head	丐帮新手-女（暂无）																														
+23	Player/Characters/M1/Prefab/M1_TM002_Head.prefab		head	五毒新手-男（暂无）																														
+24	Player/Characters/F1/Prefab/F1_WD001_Head.prefab		head	五毒新手-女																														
+25	Player/Characters/M1/Prefab/M1_XY001_Head.prefab		head	藏剑新手-男																														
+26	Player/Characters/F2/Prefab/F2_CY001_Head.prefab		head	藏剑新手-女（暂无）																														
+27	Player/Characters/M1/Prefab/M1_XY001_Head.prefab		head	长歌新手-男（暂无）																														
+28	Player/Characters/F2/Prefab/F2_EM001_Head.prefab		head	长歌新手-女																														
+29	Player/Characters/M1/Prefab/M1_TS001_Head.prefab		head	天山新手-男																														
+30	Player/Characters/F2/Prefab/F2_TS001_Head.prefab		head	天山新手-女																														
+31	Player/Characters/M2/Prefab/M2_BD001_Head.prefab		head	霸刀新手-男																														
+32	Player/Characters/F1/Prefab/F1_BD001_Head.prefab		head	霸刀新手-女																														
+1001	Player/Characters/M1/Prefab/M1_D001_Head.prefab	151001	head	M1标男等级装T1																														
+1002	Player/Characters/M1/Prefab/M1_D004_Head.prefab	151002	head	M1标男等级装T2																														
+1003	Player/Characters/M1/Prefab/M1_D003_Head.prefab	151003	head	M1标男等级装T3																														
+1004	Player/Characters/M1/Prefab/M1_D006_Head.prefab	151004	head	M1标男等级装T4																														
+1005	Player/Characters/M1/Prefab/M1_D011_Head.prefab	151005	head	M1标男等级装T5																														
+1006	Player/Characters/M1/Prefab/M1_D010_Head.prefab	151006	head	M1标男等级装T6																														
+1007	Player/Characters/M1/Prefab/M1_D009_Head.prefab	151007	head	M1标男等级装T7																														
+1008	Player/Characters/M1/Prefab/M1_D005_Head.prefab	151008	head	M1标男等级装T8																														
+1009	Player/Characters/M1/Prefab/M1_D012_Head.prefab	151009	head	M1标男等级装T9																														
+1010	Player/Characters/M1/Prefab/M1_D008_Head.prefab	151010	head	M1标男等级装T10																														
+1011	Player/Characters/M1/Prefab/M1_D002_Head.prefab	151011	head	M1标男等级装T11																														
+1012	Player/Characters/M1/Prefab/M1_D007_Head.prefab	151012	head	M1标男等级装T12																														
+1013	Player/Characters/M1/Prefab/M1_D013_Head.prefab	151013	head	M1标男等级装T13																														
+1014	Player/Characters/M1/Prefab/M1_D014_Head.prefab		head	M1标男等级装T14		1		M1_D014_Head	0		251|215|151|67	1	54|46|43|11	1	255|255|255|29	1																		
+1015	Player/Characters/M1/Prefab/M1_D015_Head.prefab		head	M1标男等级装T15				M1_D015_Head	1		255|230|157|0	1	63|50|46|45	1	255|255|255|117	1																		
+1101	Player/Characters/M1/Prefab/M1_D010_Head.prefab	151101	head	M1标男等级装T6·黄金装																														
+1102	Player/Characters/M1/Prefab/M1_D009_Head.prefab	151102	head	M1标男等级装T7·黄金装																														
+1103	Player/Characters/M1/Prefab/M1_D005_Head.prefab	151103	head	M1标男等级装T8·黄金装																														
+1104	Player/Characters/M1/Prefab/M1_D012_Head.prefab	151104	head	M1标男等级装T9·黄金装																														
+1105	Player/Characters/M1/Prefab/M1_D008_Head.prefab	151105	head	M1标男等级装T10·黄金装																														
+1106	Player/Characters/M1/Prefab/M1_D002_Head.prefab	151106	head	M1标男等级装T11·黄金装																														
+1107	Player/Characters/M1/Prefab/M1_D007_Head.prefab	151107	head	M1标男等级装T12·黄金装																														
+1108	Player/Characters/M1/Prefab/M1_D013_Head.prefab	151108	head	M1标男等级装T13·黄金装																														
+1109	Player/Characters/M1/Prefab/M1_D014_Head.prefab		head	M1标男等级装T14·黄金装						M1_D014_Head	1		224|225|206|40	1.07	28|22|22|90	1	157|114|0|26	1.14																
+1110	Player/Characters/M1/Prefab/M1_D015_Head.prefab		head	M1标男等级装T15·黄金装						M1_D015_Head	1		233|207|247|34	1.28	255|231|213|21	1.1	63|60|63|117	3.05																
+1201	Player/Characters/M1/Prefab/M1_D001_Head.prefab	151201	head	M1标男等级装T1·偏色1																														
+1202	Player/Characters/M1/Prefab/M1_D001_Head.prefab	151202	head	M1标男等级装T1·偏色2																														
+1203	Player/Characters/M1/Prefab/M1_D001_Head.prefab	151203	head	M1标男等级装T1·偏色3																														
+1204	Player/Characters/M1/Prefab/M1_D004_Head.prefab	151204	head	M1标男等级装T2·偏色1																														
+1205	Player/Characters/M1/Prefab/M1_D004_Head.prefab	151205	head	M1标男等级装T2·偏色2																														
+1206	Player/Characters/M1/Prefab/M1_D004_Head.prefab	151206	head	M1标男等级装T2·偏色3																														
+1207	Player/Characters/M1/Prefab/M1_D003_Head.prefab	151207	head	M1标男等级装T3·偏色1																														
+1208	Player/Characters/M1/Prefab/M1_D003_Head.prefab	151208	head	M1标男等级装T3·偏色2																														
+1209	Player/Characters/M1/Prefab/M1_D003_Head.prefab	151209	head	M1标男等级装T3·偏色3																														
+1210	Player/Characters/M1/Prefab/M1_D006_Head.prefab	151210	head	M1标男等级装T4·偏色1																														
+1211	Player/Characters/M1/Prefab/M1_D006_Head.prefab	151211	head	M1标男等级装T4·偏色2																														
+1212	Player/Characters/M1/Prefab/M1_D006_Head.prefab	151212	head	M1标男等级装T4·偏色3																														
+1213	Player/Characters/M1/Prefab/M1_D011_Head.prefab	151213	head	M1标男等级装T5·偏色1																														
+1214	Player/Characters/M1/Prefab/M1_D011_Head.prefab	151214	head	M1标男等级装T5·偏色2																														
+1215	Player/Characters/M1/Prefab/M1_D011_Head.prefab	151215	head	M1标男等级装T5·偏色3																														
+1216	Player/Characters/M1/Prefab/M1_D010_Head.prefab	151216	head	M1标男等级装T6·偏色1																														
+1217	Player/Characters/M1/Prefab/M1_D010_Head.prefab	151217	head	M1标男等级装T6·偏色2																														
+1218	Player/Characters/M1/Prefab/M1_D010_Head.prefab	151218	head	M1标男等级装T6·偏色3																														
+1219	Player/Characters/M1/Prefab/M1_D009_Head.prefab	151219	head	M1标男等级装T7·偏色1																														
+1220	Player/Characters/M1/Prefab/M1_D009_Head.prefab	151220	head	M1标男等级装T7·偏色2																														
+1221	Player/Characters/M1/Prefab/M1_D009_Head.prefab	151221	head	M1标男等级装T7·偏色3																														
+1222	Player/Characters/M1/Prefab/M1_D005_Head.prefab	151222	head	M1标男等级装T8·偏色1																														
+1223	Player/Characters/M1/Prefab/M1_D005_Head.prefab	151223	head	M1标男等级装T8·偏色2																														
+1224	Player/Characters/M1/Prefab/M1_D005_Head.prefab	151224	head	M1标男等级装T8·偏色3																														
+1225	Player/Characters/M1/Prefab/M1_D012_Head.prefab	151225	head	M1标男等级装T9·偏色1																														
+1226	Player/Characters/M1/Prefab/M1_D012_Head.prefab	151226	head	M1标男等级装T9·偏色2																														
+1227	Player/Characters/M1/Prefab/M1_D012_Head.prefab	151227	head	M1标男等级装T9·偏色3																														
+1228	Player/Characters/M1/Prefab/M1_D008_Head.prefab	151228	head	M1标男等级装T10·偏色1																														
+1229	Player/Characters/M1/Prefab/M1_D008_Head.prefab	151229	head	M1标男等级装T10·偏色2																														
+1230	Player/Characters/M1/Prefab/M1_D008_Head.prefab	151230	head	M1标男等级装T10·偏色3																														
+1231	Player/Characters/M1/Prefab/M1_D002_Head.prefab	151231	head	M1标男等级装T11·偏色1																														
+1232	Player/Characters/M1/Prefab/M1_D002_Head.prefab	151232	head	M1标男等级装T11·偏色2																														
+1233	Player/Characters/M1/Prefab/M1_D002_Head.prefab	151233	head	M1标男等级装T11·偏色3																														
+1234	Player/Characters/M1/Prefab/M1_D007_Head.prefab	151234	head	M1标男等级装T12·偏色1																														
+1235	Player/Characters/M1/Prefab/M1_D007_Head.prefab	151235	head	M1标男等级装T12·偏色2																														
+1236	Player/Characters/M1/Prefab/M1_D007_Head.prefab	151236	head	M1标男等级装T12·偏色3																														
+1237	Player/Characters/M1/Prefab/M1_D013_Head.prefab	151237	head	M1标男等级装T13·偏色1																														
+1238	Player/Characters/M1/Prefab/M1_D013_Head.prefab	151238	head	M1标男等级装T13·偏色2																														
+1239	Player/Characters/M1/Prefab/M1_D013_Head.prefab	151239	head	M1标男等级装T13·偏色3																														
+1241	Player/Characters/M1/Prefab/M1_D001_Head.prefab	151241	head	M1标男等级装T1·偏色4																														
+1242	Player/Characters/M1/Prefab/M1_D004_Head.prefab	151242	head	M1标男等级装T2·偏色4																														
+1243	Player/Characters/M1/Prefab/M1_D003_Head.prefab	151243	head	M1标男等级装T3·偏色4																														
+1244	Player/Characters/M1/Prefab/M1_D006_Head.prefab	151244	head	M1标男等级装T4·偏色4																														
+1245	Player/Characters/M1/Prefab/M1_D011_Head.prefab	151245	head	M1标男等级装T5·偏色4																														
+1246	Player/Characters/M1/Prefab/M1_D010_Head.prefab	151246	head	M1标男等级装T6·偏色4																														
+1247	Player/Characters/M1/Prefab/M1_D009_Head.prefab	151247	head	M1标男等级装T7·偏色4																														
+1248	Player/Characters/M1/Prefab/M1_D005_Head.prefab	151248	head	M1标男等级装T8·偏色4																														
+1249	Player/Characters/M1/Prefab/M1_D012_Head.prefab	151249	head	M1标男等级装T9·偏色4																														
+1250	Player/Characters/M1/Prefab/M1_D008_Head.prefab	151250	head	M1标男等级装T10·偏色4																														
+1251	Player/Characters/M1/Prefab/M1_D002_Head.prefab	151251	head	M1标男等级装T11·偏色4																														
+1252	Player/Characters/M1/Prefab/M1_D007_Head.prefab	151252	head	M1标男等级装T12·偏色4																														
+1253	Player/Characters/M1/Prefab/M1_D013_Head.prefab	151253	head	M1标男等级装T13·偏色4																														
+1261	Player/Characters/M1/Prefab/M1_D014_Head.prefab		head	M1标男等级装T14·偏色1				M1_D014_Head	1		234|192|117|67	1	28|22|22|90	1	48|48|48|52	1	135|34|36|0	1.36																
+1262	Player/Characters/M1/Prefab/M1_D014_Head.prefab		head	M1标男等级装T14·偏色2				M1_D014_Head	1		245|169|101|67	1	27|28|22|90	1	213|213|213|26	1	50|50|50|0	0.86																
+1263	Player/Characters/M1/Prefab/M1_D014_Head.prefab		head	M1标男等级装T14·偏色3				M1_D014_Head	1		224|225|206|40	1.07	22|23|28|90	1	119|124|219|26	1.14	232|232|232|0	1.22																
+1264	Player/Characters/M1/Prefab/M1_D015_Head.prefab		head	M1标男等级装T15·偏色1				M1_D015_Head	1		253|202|98|34	1	80|62|43|21	1	84|78|70|117	4.43	223|220|216|8	1.21																
+1265	Player/Characters/M1/Prefab/M1_D015_Head.prefab		head	M1标男等级装T15·偏色2				M1_D015_Head	1		253|208|98|34	1	63|47|43|21	1	14|101|61|117	3.05	217|211|201|8	1.21																
+1266	Player/Characters/M1/Prefab/M1_D015_Head.prefab		head	M1标男等级装T15·偏色3				M1_D015_Head	1		224|238|238|34	1.14	76|51|39|21	1.1	101|88|14|117	3.05	44|40|35|24	1.21																
+2001	Player/Characters/M2/Prefab/M2_D011_Head.prefab	152001	head	M2壮男等级装T1																														
+2002	Player/Characters/M2/Prefab/M2_D004_Head.prefab	152002	head	M2壮男等级装T2																														
+2003	Player/Characters/M2/Prefab/M2_D010_Head.prefab	152003	head	M2壮男等级装T3																														
+2004	Player/Characters/M2/Prefab/M2_D002_Head.prefab	152004	head	M2壮男等级装T4																														
+2005	Player/Characters/M2/Prefab/M2_D007_Head.prefab	152005	head	M2壮男等级装T5																														
+2006	Player/Characters/M2/Prefab/M2_D001_Head.prefab	152006	head	M2壮男等级装T6																														
+2007	Player/Characters/M2/Prefab/M2_D005_Head.prefab	152007	head	M2壮男等级装T7																														
+2008	Player/Characters/M2/Prefab/M2_D003_Head.prefab	152008	head	M2壮男等级装T8																														
+2009	Player/Characters/M2/Prefab/M2_D012_Head.prefab	152009	head	M2壮男等级装T9																														
+2010	Player/Characters/M2/Prefab/M2_D006_Head.prefab	152010	head	M2壮男等级装T10																														
+2011	Player/Characters/M2/Prefab/M2_D009_Head.prefab	152011	head	M2壮男等级装T11																														
+2012	Player/Characters/M2/Prefab/M2_D013_Head.prefab	152012	head	M2壮男等级装T12																														
+2013	Player/Characters/M2/Prefab/M2_D008_Head.prefab	152013	head	M2壮男等级装T13																														
+2014	Player/Characters/M2/Prefab/M2_D014_Head.prefab		head	M2壮男等级装T14		1		M2_D014_Head	0		255|255|255|50	1	30|25|22|65	1	64|46|32|0	1																		
+2015	Player/Characters/M2/Prefab/M2_D015_Head.prefab		head	M2壮男等级装T15				M2_D015_Head	1		255|255|255|41	1	60|47|47|23	1	255|255|255|66	1																		
+2101	Player/Characters/M2/Prefab/M2_D001_Head.prefab	152101	head	M2壮男等级装T6·黄金装																														
+2102	Player/Characters/M2/Prefab/M2_D005_Head.prefab	152102	head	M2壮男等级装T7·黄金装																														
+2103	Player/Characters/M2/Prefab/M2_D003_Head.prefab	152103	head	M2壮男等级装T8·黄金装																														
+2104	Player/Characters/M2/Prefab/M2_D012_Head.prefab	152104	head	M2壮男等级装T9·黄金装																														
+2105	Player/Characters/M2/Prefab/M2_D006_Head.prefab	152105	head	M2壮男等级装T10·黄金装																														
+2106	Player/Characters/M2/Prefab/M2_D009_Head.prefab	152106	head	M2壮男等级装T11·黄金装																														
+2107	Player/Characters/M2/Prefab/M2_D013_Head.prefab	152107	head	M2壮男等级装T12·黄金装																														
+2108	Player/Characters/M2/Prefab/M2_D008_Head.prefab	152108	head	M2壮男等级装T13·黄金装																														
+2109	Player/Characters/M2/Prefab/M2_D014_Head.prefab		head	M2壮男等级装T14·黄金装				1		M2_D014_Head	0		255|249|54|50	1.14	33|33|33|0	1.27	89|72|72|0	1																
+2110	Player/Characters/M2/Prefab/M2_D015_Head.prefab		head	M2壮男等级装T15·黄金装						M2_D015_Head	1		255|255|255|41	1	219|219|219|0	1	166|144|87|77	1																
+2201	Player/Characters/M2/Prefab/M2_D011_Head.prefab	152201	head	M2壮男等级装T1·偏色1																														
+2202	Player/Characters/M2/Prefab/M2_D011_Head.prefab	152202	head	M2壮男等级装T1·偏色2																														
+2203	Player/Characters/M2/Prefab/M2_D011_Head.prefab	152203	head	M2壮男等级装T1·偏色3																														
+2204	Player/Characters/M2/Prefab/M2_D004_Head.prefab	152204	head	M2壮男等级装T2·偏色1																														
+2205	Player/Characters/M2/Prefab/M2_D004_Head.prefab	152205	head	M2壮男等级装T2·偏色2																														
+2206	Player/Characters/M2/Prefab/M2_D004_Head.prefab	152206	head	M2壮男等级装T2·偏色3																														
+2207	Player/Characters/M2/Prefab/M2_D010_Head.prefab	152207	head	M2壮男等级装T3·偏色1																														
+2208	Player/Characters/M2/Prefab/M2_D010_Head.prefab	152208	head	M2壮男等级装T3·偏色2																														
+2209	Player/Characters/M2/Prefab/M2_D010_Head.prefab	152209	head	M2壮男等级装T3·偏色3																														
+2210	Player/Characters/M2/Prefab/M2_D002_Head.prefab	152210	head	M2壮男等级装T4·偏色1																														
+2211	Player/Characters/M2/Prefab/M2_D002_Head.prefab	152211	head	M2壮男等级装T4·偏色2																														
+2212	Player/Characters/M2/Prefab/M2_D002_Head.prefab	152212	head	M2壮男等级装T4·偏色3																														
+2213	Player/Characters/M2/Prefab/M2_D007_Head.prefab	152213	head	M2壮男等级装T5·偏色1																														
+2214	Player/Characters/M2/Prefab/M2_D007_Head.prefab	152214	head	M2壮男等级装T5·偏色2																														
+2215	Player/Characters/M2/Prefab/M2_D007_Head.prefab	152215	head	M2壮男等级装T5·偏色3																														
+2216	Player/Characters/M2/Prefab/M2_D001_Head.prefab	152216	head	M2壮男等级装T6·偏色1																														
+2217	Player/Characters/M2/Prefab/M2_D001_Head.prefab	152217	head	M2壮男等级装T6·偏色2																														
+2218	Player/Characters/M2/Prefab/M2_D001_Head.prefab	152218	head	M2壮男等级装T6·偏色3																														
+2219	Player/Characters/M2/Prefab/M2_D005_Head.prefab	152219	head	M2壮男等级装T7·偏色1																														
+2220	Player/Characters/M2/Prefab/M2_D005_Head.prefab	152220	head	M2壮男等级装T7·偏色2																														
+2221	Player/Characters/M2/Prefab/M2_D005_Head.prefab	152221	head	M2壮男等级装T7·偏色3																														
+2222	Player/Characters/M2/Prefab/M2_D003_Head.prefab	152222	head	M2壮男等级装T8·偏色1																														
+2223	Player/Characters/M2/Prefab/M2_D003_Head.prefab	152223	head	M2壮男等级装T8·偏色2																														
+2224	Player/Characters/M2/Prefab/M2_D003_Head.prefab	152224	head	M2壮男等级装T8·偏色3																														
+2225	Player/Characters/M2/Prefab/M2_D012_Head.prefab	152225	head	M2壮男等级装T9·偏色1																														
+2226	Player/Characters/M2/Prefab/M2_D012_Head.prefab	152226	head	M2壮男等级装T9·偏色2																														
+2227	Player/Characters/M2/Prefab/M2_D012_Head.prefab	152227	head	M2壮男等级装T9·偏色3																														
+2228	Player/Characters/M2/Prefab/M2_D006_Head.prefab	152228	head	M2壮男等级装T10·偏色1																														
+2229	Player/Characters/M2/Prefab/M2_D006_Head.prefab	152229	head	M2壮男等级装T10·偏色2																														
+2230	Player/Characters/M2/Prefab/M2_D006_Head.prefab	152230	head	M2壮男等级装T10·偏色3																														
+2231	Player/Characters/M2/Prefab/M2_D009_Head.prefab	152231	head	M2壮男等级装T11·偏色1																														
+2232	Player/Characters/M2/Prefab/M2_D009_Head.prefab	152232	head	M2壮男等级装T11·偏色2																														
+2233	Player/Characters/M2/Prefab/M2_D009_Head.prefab	152233	head	M2壮男等级装T11·偏色3																														
+2234	Player/Characters/M2/Prefab/M2_D013_Head.prefab	152234	head	M2壮男等级装T12·偏色1																														
+2235	Player/Characters/M2/Prefab/M2_D013_Head.prefab	152235	head	M2壮男等级装T12·偏色2																														
+2236	Player/Characters/M2/Prefab/M2_D013_Head.prefab	152236	head	M2壮男等级装T12·偏色3																														
+2237	Player/Characters/M2/Prefab/M2_D008_Head.prefab	152237	head	M2壮男等级装T13·偏色1																														
+2238	Player/Characters/M2/Prefab/M2_D008_Head.prefab	152238	head	M2壮男等级装T13·偏色2																														
+2239	Player/Characters/M2/Prefab/M2_D008_Head.prefab	152239	head	M2壮男等级装T13·偏色3																														
+2241	Player/Characters/M2/Prefab/M2_D011_Head.prefab	152241	head	M2壮男等级装T1·偏色4																														
+2242	Player/Characters/M2/Prefab/M2_D004_Head.prefab	152242	head	M2壮男等级装T2·偏色4																														
+2243	Player/Characters/M2/Prefab/M2_D010_Head.prefab	152243	head	M2壮男等级装T3·偏色4																														
+2244	Player/Characters/M2/Prefab/M2_D002_Head.prefab	152244	head	M2壮男等级装T4·偏色4																														
+2245	Player/Characters/M2/Prefab/M2_D007_Head.prefab	152245	head	M2壮男等级装T5·偏色4																														
+2246	Player/Characters/M2/Prefab/M2_D001_Head.prefab	152246	head	M2壮男等级装T6·偏色4																														
+2247	Player/Characters/M2/Prefab/M2_D005_Head.prefab	152247	head	M2壮男等级装T7·偏色4																														
+2248	Player/Characters/M2/Prefab/M2_D003_Head.prefab	152248	head	M2壮男等级装T8·偏色4																														
+2249	Player/Characters/M2/Prefab/M2_D012_Head.prefab	152249	head	M2壮男等级装T9·偏色4																														
+2250	Player/Characters/M2/Prefab/M2_D006_Head.prefab	152250	head	M2壮男等级装T10·偏色4																														
+2251	Player/Characters/M2/Prefab/M2_D009_Head.prefab	152251	head	M2壮男等级装T11·偏色4																														
+2252	Player/Characters/M2/Prefab/M2_D013_Head.prefab	152252	head	M2壮男等级装T12·偏色4																														
+2253	Player/Characters/M2/Prefab/M2_D008_Head.prefab	152253	head	M2壮男等级装T13·偏色4																														
+2261	Player/Characters/M2/Prefab/M2_D014_Head.prefab		head	M2壮男等级装T14·偏色1				M2_D014_Head	1		255|255|255|50	1.14	44|44|44|53	1.27	101|101|101|0	1																		
+2262	Player/Characters/M2/Prefab/M2_D014_Head.prefab		head	M2壮男等级装T14·偏色2		1		M2_D014_Head	0		91|93|255|50	1.14	33|33|33|0	1.27	59|59|59|141	1																		
+2263	Player/Characters/M2/Prefab/M2_D014_Head.prefab		head	M2壮男等级装T14·偏色3		1		M2_D014_Head	0		255|54|54|50	1.14	33|33|33|0	1.27	89|72|72|0	1																		
+2264	Player/Characters/M2/Prefab/M2_D015_Head.prefab		head	M2壮男等级装T15·偏色1				M2_D015_Head	1		255|255|255|41	1	43|35|56|23	1	198|124|225|66	1																		
+2265	Player/Characters/M2/Prefab/M2_D015_Head.prefab		head	M2壮男等级装T15·偏色2				M2_D015_Head	1		255|255|255|41	1	47|52|67|23	1	215|225|124|66	1																		
+2266	Player/Characters/M2/Prefab/M2_D015_Head.prefab		head	M2壮男等级装T15·偏色3				M2_D015_Head	1		255|255|255|41	1	61|33|33|23	1	215|225|124|66	1																		
+3001	Player/Characters/F1/Prefab/F1_D005_Head.prefab	153001	head	F1萝莉等级装T1																														
+3002	Player/Characters/F1/Prefab/F1_D009_Head.prefab	153002	head	F1萝莉等级装T2																														
+3003	Player/Characters/F1/Prefab/F1_D008_Head.prefab	153003	head	F1萝莉等级装T3																														
+3004	Player/Characters/F1/Prefab/F1_D012_Head.prefab	153004	head	F1萝莉等级装T4																														
+3005	Player/Characters/F1/Prefab/F1_D006_Head.prefab	153005	head	F1萝莉等级装T5																														
+3006	Player/Characters/F1/Prefab/F1_D011_Head.prefab	153006	head	F1萝莉等级装T6																														
+3007	Player/Characters/F1/Prefab/F1_D003_Head.prefab	153007	head	F1萝莉等级装T7																														
+3008	Player/Characters/F1/Prefab/F1_D007_Head.prefab	153008	head	F1萝莉等级装T8																														
+3009	Player/Characters/F1/Prefab/F1_D010_Head.prefab	153009	head	F1萝莉等级装T9																														
+3010	Player/Characters/F1/Prefab/F1_D004_Head.prefab	153010	head	F1萝莉等级装T10																														
+3011	Player/Characters/F1/Prefab/F1_D002_Head.prefab	153011	head	F1萝莉等级装T11																														
+3012	Player/Characters/F1/Prefab/F1_D013_Head.prefab	153012	head	F1萝莉等级装T12																														
+3013	Player/Characters/F1/Prefab/F1_D001_Head.prefab	153013	head	F1萝莉等级装T13																														
+3014	Player/Characters/F1/Prefab/F1_D014_Head.prefab		head	F1萝莉等级装T14		1		F1_D014_Head	0		255|255|255|93	1	59|60|60|255	1	255|106|106|46	1																		
+3015	Player/Characters/F1/Prefab/F1_D015_Head.prefab		head	F1萝莉等级装T15		1		F1_D015_Head	0		255|255|255|102	1	69|69|69|102	1	255|255|255|106	1																		
+3101	Player/Characters/F1/Prefab/F1_D011_Head.prefab	153101	head	F1萝莉等级装T6·黄金装																														
+3102	Player/Characters/F1/Prefab/F1_D003_Head.prefab	153102	head	F1萝莉等级装T7·黄金装																														
+3103	Player/Characters/F1/Prefab/F1_D007_Head.prefab	153103	head	F1萝莉等级装T8·黄金装																														
+3104	Player/Characters/F1/Prefab/F1_D010_Head.prefab	153104	head	F1萝莉等级装T9·黄金装																														
+3105	Player/Characters/F1/Prefab/F1_D004_Head.prefab	153105	head	F1萝莉等级装T10·黄金装																														
+3106	Player/Characters/F1/Prefab/F1_D002_Head.prefab	153106	head	F1萝莉等级装T11·黄金装																														
+3107	Player/Characters/F1/Prefab/F1_D013_Head.prefab	153107	head	F1萝莉等级装T12·黄金装																														
+3108	Player/Characters/F1/Prefab/F1_D001_Head.prefab	153108	head	F1萝莉等级装T13·黄金装																														
+3109	Player/Characters/F1/Prefab/F1_D014_Head.prefab		head	F1萝莉等级装T14·黄金装				1		F1_D014_Head	0		255|255|255|93	1	54|52|52|255	1	255|232|106|212	1																
+3110	Player/Characters/F1/Prefab/F1_D015_Head.prefab		head	F1萝莉等级装T15·黄金装						F1_D015_Head	1		255|255|255|102	1	255|255|255|102	1	255|205|0|106	1.56																
+3201	Player/Characters/F1/Prefab/F1_D005_Head.prefab	153201	head	F1萝莉等级装T1·偏色1																														
+3202	Player/Characters/F1/Prefab/F1_D005_Head.prefab	153202	head	F1萝莉等级装T1·偏色2																														
+3203	Player/Characters/F1/Prefab/F1_D005_Head.prefab	153203	head	F1萝莉等级装T1·偏色3																														
+3204	Player/Characters/F1/Prefab/F1_D009_Head.prefab	153204	head	F1萝莉等级装T2·偏色1																														
+3205	Player/Characters/F1/Prefab/F1_D009_Head.prefab	153205	head	F1萝莉等级装T2·偏色2																														
+3206	Player/Characters/F1/Prefab/F1_D009_Head.prefab	153206	head	F1萝莉等级装T2·偏色3																														
+3207	Player/Characters/F1/Prefab/F1_D008_Head.prefab	153207	head	F1萝莉等级装T3·偏色1																														
+3208	Player/Characters/F1/Prefab/F1_D008_Head.prefab	153208	head	F1萝莉等级装T3·偏色2																														
+3209	Player/Characters/F1/Prefab/F1_D008_Head.prefab	153209	head	F1萝莉等级装T3·偏色3																														
+3210	Player/Characters/F1/Prefab/F1_D012_Head.prefab	153210	head	F1萝莉等级装T4·偏色1																														
+3211	Player/Characters/F1/Prefab/F1_D012_Head.prefab	153211	head	F1萝莉等级装T4·偏色2																														
+3212	Player/Characters/F1/Prefab/F1_D012_Head.prefab	153212	head	F1萝莉等级装T4·偏色3																														
+3213	Player/Characters/F1/Prefab/F1_D006_Head.prefab	153213	head	F1萝莉等级装T5·偏色1																														
+3214	Player/Characters/F1/Prefab/F1_D006_Head.prefab	153214	head	F1萝莉等级装T5·偏色2																														
+3215	Player/Characters/F1/Prefab/F1_D006_Head.prefab	153215	head	F1萝莉等级装T5·偏色3																														
+3216	Player/Characters/F1/Prefab/F1_D011_Head.prefab	153216	head	F1萝莉等级装T6·偏色1																														
+3217	Player/Characters/F1/Prefab/F1_D011_Head.prefab	153217	head	F1萝莉等级装T6·偏色2																														
+3218	Player/Characters/F1/Prefab/F1_D011_Head.prefab	153218	head	F1萝莉等级装T6·偏色3																														
+3219	Player/Characters/F1/Prefab/F1_D003_Head.prefab	153219	head	F1萝莉等级装T7·偏色1																														
+3220	Player/Characters/F1/Prefab/F1_D003_Head.prefab	153220	head	F1萝莉等级装T7·偏色2																														
+3221	Player/Characters/F1/Prefab/F1_D003_Head.prefab	153221	head	F1萝莉等级装T7·偏色3																														
+3222	Player/Characters/F1/Prefab/F1_D007_Head.prefab	153222	head	F1萝莉等级装T8·偏色1																														
+3223	Player/Characters/F1/Prefab/F1_D007_Head.prefab	153223	head	F1萝莉等级装T8·偏色2																														
+3224	Player/Characters/F1/Prefab/F1_D007_Head.prefab	153224	head	F1萝莉等级装T8·偏色3																														
+3225	Player/Characters/F1/Prefab/F1_D010_Head.prefab	153225	head	F1萝莉等级装T9·偏色1																														
+3226	Player/Characters/F1/Prefab/F1_D010_Head.prefab	153226	head	F1萝莉等级装T9·偏色2																														
+3227	Player/Characters/F1/Prefab/F1_D010_Head.prefab	153227	head	F1萝莉等级装T9·偏色3																														
+3228	Player/Characters/F1/Prefab/F1_D004_Head.prefab	153228	head	F1萝莉等级装T10·偏色1																														
+3229	Player/Characters/F1/Prefab/F1_D004_Head.prefab	153229	head	F1萝莉等级装T10·偏色2																														
+3230	Player/Characters/F1/Prefab/F1_D004_Head.prefab	153230	head	F1萝莉等级装T10·偏色3																														
+3231	Player/Characters/F1/Prefab/F1_D002_Head.prefab	153231	head	F1萝莉等级装T11·偏色1																														
+3232	Player/Characters/F1/Prefab/F1_D002_Head.prefab	153232	head	F1萝莉等级装T11·偏色2																														
+3233	Player/Characters/F1/Prefab/F1_D002_Head.prefab	153233	head	F1萝莉等级装T11·偏色3																														
+3234	Player/Characters/F1/Prefab/F1_D013_Head.prefab	153234	head	F1萝莉等级装T12·偏色1																														
+3235	Player/Characters/F1/Prefab/F1_D013_Head.prefab	153235	head	F1萝莉等级装T12·偏色2																														
+3236	Player/Characters/F1/Prefab/F1_D013_Head.prefab	153236	head	F1萝莉等级装T12·偏色3																														
+3237	Player/Characters/F1/Prefab/F1_D001_Head.prefab	153237	head	F1萝莉等级装T13·偏色1																														
+3238	Player/Characters/F1/Prefab/F1_D001_Head.prefab	153238	head	F1萝莉等级装T13·偏色2																														
+3239	Player/Characters/F1/Prefab/F1_D001_Head.prefab	153239	head	F1萝莉等级装T13·偏色3																														
+3241	Player/Characters/F1/Prefab/F1_D005_Head.prefab	153241	head	F1萝莉等级装T1·偏色4																														
+3242	Player/Characters/F1/Prefab/F1_D009_Head.prefab	153242	head	F1萝莉等级装T2·偏色4																														
+3243	Player/Characters/F1/Prefab/F1_D008_Head.prefab	153243	head	F1萝莉等级装T3·偏色4																														
+3244	Player/Characters/F1/Prefab/F1_D012_Head.prefab	153244	head	F1萝莉等级装T4·偏色4																														
+3245	Player/Characters/F1/Prefab/F1_D006_Head.prefab	153245	head	F1萝莉等级装T5·偏色4																														
+3246	Player/Characters/F1/Prefab/F1_D011_Head.prefab	153246	head	F1萝莉等级装T6·偏色4																														
+3247	Player/Characters/F1/Prefab/F1_D003_Head.prefab	153247	head	F1萝莉等级装T7·偏色4																														
+3248	Player/Characters/F1/Prefab/F1_D007_Head.prefab	153248	head	F1萝莉等级装T8·偏色4																														
+3249	Player/Characters/F1/Prefab/F1_D010_Head.prefab	153249	head	F1萝莉等级装T9·偏色4																														
+3250	Player/Characters/F1/Prefab/F1_D004_Head.prefab	153250	head	F1萝莉等级装T10·偏色4																														
+3251	Player/Characters/F1/Prefab/F1_D002_Head.prefab	153251	head	F1萝莉等级装T11·偏色4																														
+3252	Player/Characters/F1/Prefab/F1_D013_Head.prefab	153252	head	F1萝莉等级装T12·偏色4																														
+3253	Player/Characters/F1/Prefab/F1_D001_Head.prefab	153253	head	F1萝莉等级装T13·偏色4																														
+3261	Player/Characters/F1/Prefab/F1_D014_Head.prefab		head	F1萝莉等级装T14·偏色1		1		F1_D014_Head	0		240|231|116|152	1	48|48|48|86	1	136|255|215|83	1.06																		
+3262	Player/Characters/F1/Prefab/F1_D014_Head.prefab		head	F1萝莉等级装T14·偏色2		1		F1_D014_Head	0		240|231|116|152	1	54|34|18|86	1	121|210|255|83	1.06																		
+3263	Player/Characters/F1/Prefab/F1_D014_Head.prefab		head	F1萝莉等级装T14·偏色3				F1_D014_Head	1		206|236|255|152	1.25	33|20|9|86	1	255|226|183|83	1.06																		
+3264	Player/Characters/F1/Prefab/F1_D015_Head.prefab		head	F1萝莉等级装T15·偏色1				F1_D015_Head	1		226|251|255|102	1.25	39|21|11|184	1	255|78|78|126	1.33																		
+3265	Player/Characters/F1/Prefab/F1_D015_Head.prefab		head	F1萝莉等级装T15·偏色2				F1_D015_Head	1		226|251|255|102	1.25	39|21|11|184	1	95|208|255|150	1.41																		
+3266	Player/Characters/F1/Prefab/F1_D015_Head.prefab		head	F1萝莉等级装T15·偏色3				F1_D015_Head	1		226|251|255|102	1.25	39|21|11|184	1	255|219|104|125	1.39																		
+4001	Player/Characters/F2/Prefab/F2_D013_Head.prefab	154001	head	F2标女等级装T1																														
+4002	Player/Characters/F2/Prefab/F2_D008_Head.prefab	154002	head	F2标女等级装T2																														
+4003	Player/Characters/F2/Prefab/F2_D011_Head.prefab	154003	head	F2标女等级装T3																														
+4004	Player/Characters/F2/Prefab/F2_D012_Head.prefab	154004	head	F2标女等级装T4																														
+4005	Player/Characters/F2/Prefab/F2_D004_Head.prefab	154005	head	F2标女等级装T5																														
+4006	Player/Characters/F2/Prefab/F2_D003_Head.prefab	154006	head	F2标女等级装T6																														
+4007	Player/Characters/F2/Prefab/F2_D009_Head.prefab	154007	head	F2标女等级装T7																														
+4008	Player/Characters/F2/Prefab/F2_D002_Head.prefab	154008	head	F2标女等级装T8																														
+4009	Player/Characters/F2/Prefab/F2_D005_Head.prefab	154009	head	F2标女等级装T9																														
+4010	Player/Characters/F2/Prefab/F2_D007_Head.prefab	154010	head	F2标女等级装T10																														
+4011	Player/Characters/F2/Prefab/F2_D010_Head.prefab	154011	head	F2标女等级装T11																														
+4012	Player/Characters/F2/Prefab/F2_D006_Head.prefab	154012	head	F2标女等级装T12																														
+4013	Player/Characters/F2/Prefab/F2_D001_Head.prefab	154013	head	F2标女等级装T13																														
+4014	Player/Characters/F2/Prefab/F2_D014_Head.prefab		head	F2标女等级装T14		1		F2_D014_Head	0		255|255|255|64	1	86|78|78|77	1	255|255|255|144	1																		
+4015	Player/Characters/F2/Prefab/F2_D015_Head.prefab		head	F2标女等级装T15		1		F2_D015_head	0		255|255|255|133	1	255|255|255|17	1	255|255|255|142	1																		
+4101	Player/Characters/F2/Prefab/F2_D003_Head.prefab	154101	head	F2标女等级装T6·黄金装																														
+4102	Player/Characters/F2/Prefab/F2_D009_Head.prefab	154102	head	F2标女等级装T7·黄金装																														
+4103	Player/Characters/F2/Prefab/F2_D002_Head.prefab	154103	head	F2标女等级装T8·黄金装																														
+4104	Player/Characters/F2/Prefab/F2_D005_Head.prefab	154104	head	F2标女等级装T9·黄金装																														
+4105	Player/Characters/F2/Prefab/F2_D007_Head.prefab	154105	head	F2标女等级装T10·黄金装																														
+4106	Player/Characters/F2/Prefab/F2_D010_Head.prefab	154106	head	F2标女等级装T11·黄金装																														
+4107	Player/Characters/F2/Prefab/F2_D006_Head.prefab	154107	head	F2标女等级装T12·黄金装																														
+4108	Player/Characters/F2/Prefab/F2_D001_Head.prefab	154108	head	F2标女等级装T13·黄金装																														
+4109	Player/Characters/F2/Prefab/F2_D014_Head.prefab		head	F2标女等级装T14·黄金装				1		F2_D014_Head	0		241|255|118|66	1	41|41|41|13	1	0|138|255|144	1																
+4110	Player/Characters/F2/Prefab/F2_D015_Head.prefab		head	F2标女等级装T15·黄金装						F2_D015_head	1		255|205|0|133	1.61	255|255|255|17	1	255|255|255|142	1																
+4201	Player/Characters/F2/Prefab/F2_D013_Head.prefab	154201	head	F2标女等级装T1·偏色1																														
+4202	Player/Characters/F2/Prefab/F2_D013_Head.prefab	154202	head	F2标女等级装T1·偏色2																														
+4203	Player/Characters/F2/Prefab/F2_D013_Head.prefab	154203	head	F2标女等级装T1·偏色3																														
+4204	Player/Characters/F2/Prefab/F2_D008_Head.prefab	154204	head	F2标女等级装T2·偏色1																														
+4205	Player/Characters/F2/Prefab/F2_D008_Head.prefab	154205	head	F2标女等级装T2·偏色2																														
+4206	Player/Characters/F2/Prefab/F2_D008_Head.prefab	154206	head	F2标女等级装T2·偏色3																														
+4207	Player/Characters/F2/Prefab/F2_D011_Head.prefab	154207	head	F2标女等级装T3·偏色1																														
+4208	Player/Characters/F2/Prefab/F2_D011_Head.prefab	154208	head	F2标女等级装T3·偏色2																														
+4209	Player/Characters/F2/Prefab/F2_D011_Head.prefab	154209	head	F2标女等级装T3·偏色3																														
+4210	Player/Characters/F2/Prefab/F2_D012_Head.prefab	154210	head	F2标女等级装T4·偏色1																														
+4211	Player/Characters/F2/Prefab/F2_D012_Head.prefab	154211	head	F2标女等级装T4·偏色2																														
+4212	Player/Characters/F2/Prefab/F2_D012_Head.prefab	154212	head	F2标女等级装T4·偏色3																														
+4213	Player/Characters/F2/Prefab/F2_D004_Head.prefab	154213	head	F2标女等级装T5·偏色1																														
+4214	Player/Characters/F2/Prefab/F2_D004_Head.prefab	154214	head	F2标女等级装T5·偏色2																														
+4215	Player/Characters/F2/Prefab/F2_D004_Head.prefab	154215	head	F2标女等级装T5·偏色3																														
+4216	Player/Characters/F2/Prefab/F2_D003_Head.prefab	154216	head	F2标女等级装T6·偏色1																														
+4217	Player/Characters/F2/Prefab/F2_D003_Head.prefab	154217	head	F2标女等级装T6·偏色2																														
+4218	Player/Characters/F2/Prefab/F2_D003_Head.prefab	154218	head	F2标女等级装T6·偏色3																														
+4219	Player/Characters/F2/Prefab/F2_D009_Head.prefab	154219	head	F2标女等级装T7·偏色1																														
+4220	Player/Characters/F2/Prefab/F2_D009_Head.prefab	154220	head	F2标女等级装T7·偏色2																														
+4221	Player/Characters/F2/Prefab/F2_D009_Head.prefab	154221	head	F2标女等级装T7·偏色3																														
+4222	Player/Characters/F2/Prefab/F2_D002_Head.prefab	154222	head	F2标女等级装T8·偏色1																														
+4223	Player/Characters/F2/Prefab/F2_D002_Head.prefab	154223	head	F2标女等级装T8·偏色2																														
+4224	Player/Characters/F2/Prefab/F2_D002_Head.prefab	154224	head	F2标女等级装T8·偏色3																														
+4225	Player/Characters/F2/Prefab/F2_D005_Head.prefab	154225	head	F2标女等级装T9·偏色1																														
+4226	Player/Characters/F2/Prefab/F2_D005_Head.prefab	154226	head	F2标女等级装T9·偏色2																														
+4227	Player/Characters/F2/Prefab/F2_D005_Head.prefab	154227	head	F2标女等级装T9·偏色3																														
+4228	Player/Characters/F2/Prefab/F2_D007_Head.prefab	154228	head	F2标女等级装T10·偏色1																														
+4229	Player/Characters/F2/Prefab/F2_D007_Head.prefab	154229	head	F2标女等级装T10·偏色2																														
+4230	Player/Characters/F2/Prefab/F2_D007_Head.prefab	154230	head	F2标女等级装T10·偏色3																														
+4231	Player/Characters/F2/Prefab/F2_D010_Head.prefab	154231	head	F2标女等级装T11·偏色1																														
+4232	Player/Characters/F2/Prefab/F2_D010_Head.prefab	154232	head	F2标女等级装T11·偏色2																														
+4233	Player/Characters/F2/Prefab/F2_D010_Head.prefab	154233	head	F2标女等级装T11·偏色3																														
+4234	Player/Characters/F2/Prefab/F2_D006_Head.prefab	154234	head	F2标女等级装T12·偏色1																														
+4235	Player/Characters/F2/Prefab/F2_D006_Head.prefab	154235	head	F2标女等级装T12·偏色2																														
+4236	Player/Characters/F2/Prefab/F2_D006_Head.prefab	154236	head	F2标女等级装T12·偏色3																														
+4237	Player/Characters/F2/Prefab/F2_D001_Head.prefab	154237	head	F2标女等级装T13·偏色1																														
+4238	Player/Characters/F2/Prefab/F2_D001_Head.prefab	154238	head	F2标女等级装T13·偏色2																														
+4239	Player/Characters/F2/Prefab/F2_D001_Head.prefab	154239	head	F2标女等级装T13·偏色3																														
+4241	Player/Characters/F2/Prefab/F2_D013_Head.prefab	154241	head	F2标女等级装T1·偏色4																														
+4242	Player/Characters/F2/Prefab/F2_D008_Head.prefab	154242	head	F2标女等级装T2·偏色4																														
+4243	Player/Characters/F2/Prefab/F2_D011_Head.prefab	154243	head	F2标女等级装T3·偏色4																														
+4244	Player/Characters/F2/Prefab/F2_D012_Head.prefab	154244	head	F2标女等级装T4·偏色4																														
+4245	Player/Characters/F2/Prefab/F2_D004_Head.prefab	154245	head	F2标女等级装T5·偏色4																														
+4246	Player/Characters/F2/Prefab/F2_D003_Head.prefab	154246	head	F2标女等级装T6·偏色4																														
+4247	Player/Characters/F2/Prefab/F2_D009_Head.prefab	154247	head	F2标女等级装T7·偏色4																														
+4248	Player/Characters/F2/Prefab/F2_D002_Head.prefab	154248	head	F2标女等级装T8·偏色4																														
+4249	Player/Characters/F2/Prefab/F2_D005_Head.prefab	154249	head	F2标女等级装T9·偏色4																														
+4250	Player/Characters/F2/Prefab/F2_D007_Head.prefab	154250	head	F2标女等级装T10·偏色4																														
+4251	Player/Characters/F2/Prefab/F2_D010_Head.prefab	154251	head	F2标女等级装T11·偏色4																														
+4252	Player/Characters/F2/Prefab/F2_D006_Head.prefab	154252	head	F2标女等级装T12·偏色4																														
+4253	Player/Characters/F2/Prefab/F2_D001_Head.prefab	154253	head	F2标女等级装T13·偏色4																														
+4261	Player/Characters/F2/Prefab/F2_D014_Head.prefab		head	F2标女等级装T14·偏色1		1		F2_D014_Head	0		255|255|255|66	1	255|255|255|13	1	255|255|255|144	1																		
+4262	Player/Characters/F2/Prefab/F2_D014_Head.prefab		head	F2标女等级装T14·偏色2		1		F2_D014_Head	0		99|132|255|64	1.67	86|78|78|77	1	255|255|255|144	1																		
+4263	Player/Characters/F2/Prefab/F2_D014_Head.prefab		head	F2标女等级装T14·偏色3				F2_D014_Head	1		104|205|255|64	1.53	86|78|78|77	1	255|255|255|144	1																		
+4264	Player/Characters/F2/Prefab/F2_D015_Head.prefab		head	F2标女等级装T15·偏色1				F2_D015_head	1		255|255|151|133	1	63|60|59|91	1	127|196|255|142	1.33																		
+4265	Player/Characters/F2/Prefab/F2_D015_Head.prefab		head	F2标女等级装T15·偏色2				F2_D015_head	1		255|255|157|133	1	63|60|59|91	1	255|231|135|142	1.33																		
+4266	Player/Characters/F2/Prefab/F2_D015_Head.prefab		head	F2标女等级装T15·偏色3				F2_D015_head	1		255|255|255|133	1	63|60|59|91	1	255|116|139|137	1.47																		
+6001	Player/Characters/M1/Prefab/M1_W001_Head.prefab	156001	head	M1标男头盔外装T1·颜色1																														
+6002	Player/Characters/M1/Prefab/M1_W001_Head.prefab	156002	head	M1标男头盔外装T1·颜色2																														
+6003	Player/Characters/M1/Prefab/M1_W001_Head.prefab	156003	head	M1标男头盔外装T1·颜色3																														
+6004	Player/Characters/M1/Prefab/M1_W001_Head.prefab	156004	head	M1标男头盔外装T1·颜色4																														
+6005	Player/Characters/M1/Prefab/M1_W002_Head.prefab	156005	head	M1标男头盔外装T2·颜色1																														
+6006	Player/Characters/M1/Prefab/M1_W002_Head.prefab	156006	head	M1标男头盔外装T2·颜色2																														
+6007	Player/Characters/M1/Prefab/M1_W002_Head.prefab	156007	head	M1标男头盔外装T2·颜色3																														
+6008	Player/Characters/M1/Prefab/M1_W002_Head.prefab	156008	head	M1标男头盔外装T2·颜色4																														
+6009	Player/Characters/M1/Prefab/M1_W002_Head.prefab	156009	head	M1标男头盔外装T2·颜色5																														
+6010	Player/Characters/M1/Prefab/M1_W002_Head.prefab	156010	head	M1标男头盔外装T2·颜色6																														
+6011	Player/Characters/M1/Prefab/M1_W002_Head.prefab	156011	head	M1标男头盔外装T2·颜色7																														
+6012	Player/Characters/M1/Prefab/M1_W002_Head.prefab	156012	head	M1标男头盔外装T2·颜色8																														
+6013	Player/Characters/M1/Prefab/M1_W003_Head.prefab	156013	head	M1标男头盔外装T3·颜色1																														
+6014	Player/Characters/M1/Prefab/M1_W003_Head.prefab	156014	head	M1标男头盔外装T3·颜色2																														
+6015	Player/Characters/M1/Prefab/M1_W003_Head.prefab	156015	head	M1标男头盔外装T3·颜色3																														
+6016	Player/Characters/M1/Prefab/M1_W003_Head.prefab	156016	head	M1标男头盔外装T3·颜色4																														
+6017	Player/Characters/M1/Prefab/M1_W004_Head.prefab	156017	head	M1标男头盔外装T4·颜色1																														
+6018	Player/Characters/M1/Prefab/M1_W004_Head.prefab	156018	head	M1标男头盔外装T4·颜色2																														
+6019	Player/Characters/M1/Prefab/M1_W004_Head.prefab	156019	head	M1标男头盔外装T4·颜色3																														
+6020	Player/Characters/M1/Prefab/M1_W004_Head.prefab	156020	head	M1标男头盔外装T4·颜色4																														
+6021	Player/Characters/M1/Prefab/M1_W004_Head.prefab	156021	head	M1标男头盔外装T4·颜色5																														
+6022	Player/Characters/M1/Prefab/M1_W005_Head.prefab	156022	head	M1标男头盔外装T5·颜色1																														
+6023	Player/Characters/M1/Prefab/M1_W005_Head.prefab	156023	head	M1标男头盔外装T5·颜色2																														
+6024	Player/Characters/M1/Prefab/M1_W005_Head.prefab	156024	head	M1标男头盔外装T5·颜色3																														
+6025	Player/Characters/M1/Prefab/M1_W005_Head.prefab	156025	head	M1标男头盔外装T5·颜色4																														
+6026	Player/Characters/M1/Prefab/M1_W005_Head.prefab	156026	head	M1标男头盔外装T5·颜色5																														
+6027	Player/Characters/M1/Prefab/M1_W006_Head.prefab	156027	head	M1标男头盔外装T6·颜色1																														
+6028	Player/Characters/M1/Prefab/M1_W006_Head.prefab	156028	head	M1标男头盔外装T6·颜色2																														
+6029	Player/Characters/M1/Prefab/M1_W006_Head.prefab	156029	head	M1标男头盔外装T6·颜色3																														
+6030	Player/Characters/M1/Prefab/M1_W006_Head.prefab	156030	head	M1标男头盔外装T6·颜色4																														
+6031	Player/Characters/M1/Prefab/M1_W006_Head.prefab	156031	head	M1标男头盔外装T6·颜色5																														
+6032	Player/Characters/M1/Prefab/M1_W007_Head.prefab	156032	head	M1标男头盔外装T7·颜色1																														
+6033	Player/Characters/M1/Prefab/M1_W007_Head.prefab	156033	head	M1标男头盔外装T7·颜色2																														
+6034	Player/Characters/M1/Prefab/M1_W007_Head.prefab	156034	head	M1标男头盔外装T7·颜色3																														
+6035	Player/Characters/M1/Prefab/M1_W007_Head.prefab	156035	head	M1标男头盔外装T7·颜色4																														
+6036	Player/Characters/M1/Prefab/M1_W008_Head.prefab	156036	head	M1标男头盔外装T8·颜色1																														
+6037	Player/Characters/M1/Prefab/M1_W008_Head.prefab	156037	head	M1标男头盔外装T8·颜色2																														
+6038	Player/Characters/M1/Prefab/M1_W008_Head.prefab	156038	head	M1标男头盔外装T8·颜色3																														
+6039	Player/Characters/M1/Prefab/M1_W008_Head.prefab	156039	head	M1标男头盔外装T8·颜色4																														
+6040	Player/Characters/M1/Prefab/M1_W009_Head.prefab	156040	head	M1标男头盔外装T9·颜色1																														
+6041	Player/Characters/M1/Prefab/M1_W009A_Head.prefab	156041	head	M1标男头盔外装T9·颜色2																														
+6042	Player/Characters/M1/Prefab/M1_W009B_Head.prefab	156042	head	M1标男头盔外装T9·颜色3																														
+6043	Player/Characters/M1/Prefab/M1_W009_Head.prefab	156043	head	M1标男头盔外装T9·颜色4																														
+6044	Player/Characters/M1/Prefab/M1_W001_Head.prefab	156044	head	M1标男头盔外装T1·颜色5																														
+6045	Player/Characters/M1/Prefab/M1_W003_Head.prefab	156045	head	M1标男头盔外装T3·颜色5																														
+6046	Player/Characters/M1/Prefab/M1_W007_Head.prefab	156046	head	M1标男头盔外装T7·颜色5																														
+6047	Player/Characters/M1/Prefab/M1_W008_Head.prefab	156047	head	M1标男头盔外装T8·颜色5																														
+6048	Player/Characters/M1/Prefab/M1_W010B_Head.prefab	156048	head	M1标男头盔外装T10·颜色1																														
+6049	Player/Characters/M1/Prefab/M1_W010B_Head.prefab	156049	head	M1标男头盔外装T10·颜色2																														
+6050	Player/Characters/M1/Prefab/M1_W010B_Head.prefab	156050	head	M1标男头盔外装T10·颜色3																														
+6051	Player/Characters/M1/Prefab/M1_W010B_Head.prefab	156051	head	M1标男头盔外装T10·颜色4																														
+6052	Player/Characters/M1/Prefab/M1_W010B_Head.prefab	156052	head	M1标男头盔外装T10·颜色5																														
+6053	Player/Characters/M1/Prefab/M1_W010C_Head.prefab	156053	head	M1标男头盔外装T10s·颜色1																														
+6054	Player/Characters/M1/Prefab/M1_W010C_Head.prefab	156054	head	M1标男头盔外装T10s·颜色2																														
+6055	Player/Characters/M1/Prefab/M1_W010C_Head.prefab	156055	head	M1标男头盔外装T10s·颜色3																														
+6056	Player/Characters/M1/Prefab/M1_W010C_Head.prefab	156056	head	M1标男头盔外装T10s·颜色4																														
+6057	Player/Characters/M1/Prefab/M1_W010_Head.prefab	156057	head	M1标男头盔外装T11·颜色1																														
+6058	Player/Characters/M1/Prefab/M1_W010_Head.prefab	156058	head	M1标男头盔外装T11·颜色2																														
+6059	Player/Characters/M1/Prefab/M1_W010_Head.prefab	156059	head	M1标男头盔外装T11·颜色3																														
+6060	Player/Characters/M1/Prefab/M1_W010_Head.prefab	156060	head	M1标男头盔外装T11·颜色4																														
+6061	Player/Characters/M1/Prefab/M1_W010_Head.prefab	156061	head	M1标男头盔外装T11·颜色5																														
+6062	Player/Characters/M1/Prefab/M1_W010_Head.prefab	156062	head	M1标男头盔外装T11·颜色6																														
+6063	Player/Characters/M1/Prefab/M1_W010A_Head.prefab	156063	head	M1标男头盔外装T11s·颜色1																														
+6064	Player/Characters/M1/Prefab/M1_W010A_Head.prefab	156064	head	M1标男头盔外装T11s·颜色2																														
+6065	Player/Characters/M1/Prefab/M1_W010A_Head.prefab	156065	head	M1标男头盔外装T11s·颜色3																														
+6066	Player/Characters/M1/Prefab/M1_W010A_Head.prefab	156066	head	M1标男头盔外装T11s·颜色4																														
+6067	Player/Characters/M1/Prefab/M1_W010A_Head.prefab	156067	head	M1标男头盔外装T11s·颜色5																														
+6068	Player/Characters/M1/Prefab/M1_W010A_Head.prefab	156068	head	M1标男头盔外装T11s·颜色6																														
+6069	Player/Characters/M1/Prefab/M1_W008_Head.prefab	156069	head	M1标男头盔外装T8·颜色6																														
+6070	Player/Characters/M1/Prefab/M1_W011_Head.prefab		head	M1成男外装T12·颜色1		1		M1_w01101	0		249|246|201|62	1	61|58|50|23	1	64|54|136|75	2.01																		
+6071	Player/Characters/M1/Prefab/M1_W011_Head.prefab		head	M1成男外装T12·颜色2				M1_w01101	1		245|217|126|80	1	54|46|37|23	1.24	200|198|184|75	2.01																		
+6072	Player/Characters/M1/Prefab/M1_W011_Head.prefab		head	M1成男外装T12·颜色3				M1_w01101	1		217|216|214|16	1	255|251|247|21	1	255|161|161|75	2.25																		
+6073	Player/Characters/M1/Prefab/M1_W011_Head.prefab		head	M1成男外装T12·颜色4				M1_w01101	1		217|216|214|80	1	43|19|26|23	1.24	131|2|2|75	2.25																		
+6074	Player/Characters/M1/Prefab/M1_W011_Head.prefab		head	M1成男外装T12·颜色5				M1_w01101	1		208|198|219|80	1	43|42|50|23	1.24	89|174|156|75	2.25																		
+6075	Player/Characters/M1/Prefab/M1_W011_Head.prefab		head	M1成男外装T12·颜色6				M1_w01101	1		210|168|80|34	1.35	54|46|37|23	1.24	16|8|5|75	2.01																		
+6076	Player/Characters/M1/Prefab/M1_W011A_Head.prefab		head	M1成男外装T12A·颜色1				M1_W011A_Head	1		223|196|126|35	1.24	56|56|56|18	1.14	225|219|173|43	2.72																		
+6077	Player/Characters/M1/Prefab/M1_W011A_Head.prefab		head	M1成男外装T12A·颜色2				M1_W011A_Head	1		251|212|108|35	1.24	43|38|32|46	1.14	44|83|159|67	2.72																		
+6078	Player/Characters/M1/Prefab/M1_W011A_Head.prefab		head	M1成男外装T12A·颜色3				M1_W011A_Head	1		240|216|243|24	1.24	255|255|255|7	1	133|28|39|62	2.72																		
+6079	Player/Characters/M1/Prefab/M1_W011A_Head.prefab		head	M1成男外装T12A·颜色4				M1_W011A_Head	1		240|216|243|24	1.24	43|43|43|40	1.33	52|52|52|62	2.72																		
+6080	Player/Characters/M1/Prefab/M1_W011A_Head.prefab		head	M1成男外装T12A·颜色5				M1_W011A_Head	1		240|216|243|24	1.24	43|43|43|40	1.33	183|183|183|62	2.72																		
+6081	Player/Characters/M1/Prefab/M1_W011A_Head.prefab		head	M1成男外装T12A·颜色6																														
+6082	Player/Characters/M1/Prefab/M1_W011_Head.prefab		head	M1成男外装T12·颜色6				M1_w01101	1		255|255|255|23	1.37	255|255|255|0	1.15	255|255|255|75	1.5																		
+6083	Player/Characters/M1/Prefab/M1_W011_Head.prefab		head	M1成男外装T12·颜色6				M1_w01101	1		217|19|31|34	1.35	54|46|37|23	1.24	16|8|5|75	2.01																		
+6084	Player/Characters/M1/Prefab/M1_W012A_Head.prefab		head	M1成男外装T4N·颜色1		1		M1_W012A_Head	0		255|255|255|255	1	50|40|40|255	1	255|255|255|255	1																		
+6085	Player/Characters/M1/Prefab/M1_W012A_Head.prefab		head	M1成男外装T4N·颜色2		1		M1_W012A_Head	0		255|255|255|255	1.27	198|167|111|180	1.18	255|255|255|255	1																		
+6086	Player/Characters/M1/Prefab/M1_W012A_Head.prefab		head	M1成男外装T4N·颜色3				M1_W012A_Head	1		255|230|176|255	1.34	65|32|14|255	1	129|129|129|255	1																		
+6087	Player/Characters/M1/Prefab/M1_W012A_Head.prefab		head	M1成男外装T4N·颜色4		1		M1_W012A_Head	0		255|255|255|255	1	255|255|255|255	1	44|40|40|255	1.38																		
+6088	Player/Characters/M1/Prefab/M1_W012_Head.prefab		head	M1成男外装T13·颜色1		1		M1_W012_Head	0		255|255|255|117	1	46|42|38|0	1	255|255|255|123	1																		
+6089	Player/Characters/M1/Prefab/M1_W012_Head.prefab		head	M1成男外装T13·颜色2				M1_W012_Head	1		25|96|195|126	1	48|41|36|0	1	81|253|246|255	1																		
+6090	Player/Characters/M1/Prefab/M1_W012_Head.prefab		head	M1成男外装T13·颜色3				M1_W012_Head	1		249|44|44|126	1	48|41|36|0	1	251|161|25|147	1.38																		
+6091	Player/Characters/M1/Prefab/M1_W012_Head.prefab		head	M1成男外装T13·颜色4				M1_W012_Head	1		255|228|140|126	1.21	48|41|36|0	1	35|243|157|255	1																		
+6092	Player/Characters/M1/Prefab/M1_W013A_Head.prefab		head	M1成男外装T5N·颜色1		1		M1_W013A_Head	0		255|255|255|77	1	50|40|36|0	1	255|255|255|43	1																		
+6093	Player/Characters/M1/Prefab/M1_W013A_Head.prefab		head	M1成男外装T5N·颜色2				M1_W013A_Head	1		111|195|245|62	1	50|40|36|0	1	243|198|78|34	1.56																		
+6094	Player/Characters/M1/Prefab/M1_W013A_Head.prefab		head	M1成男外装T5N·颜色3				M1_W013A_Head	1		234|152|243|69	1.38	50|40|36|0	1	255|56|56|34	1.37																		
+6095	Player/Characters/M1/Prefab/M1_W013A_Head.prefab		head	M1成男外装T5N·颜色4				M1_W013A_Head	1		245|166|93|48	1.38	50|40|36|0	1	56|205|255|34	1.37																		
+7001	Player/Characters/M2/Prefab/M2_W001_Head.prefab	157001	head	M2壮男头盔外装T1·颜色1																														
+7002	Player/Characters/M2/Prefab/M2_W001_Head.prefab	157002	head	M2壮男头盔外装T1·颜色2																														
+7003	Player/Characters/M2/Prefab/M2_W001_Head.prefab	157003	head	M2壮男头盔外装T1·颜色3																														
+7004	Player/Characters/M2/Prefab/M2_W001_Head.prefab	157004	head	M2壮男头盔外装T1·颜色4																														
+7005	Player/Characters/M2/Prefab/M2_W002_Head.prefab	157005	head	M2壮男头盔外装T2·颜色1																														
+7006	Player/Characters/M2/Prefab/M2_W002_Head.prefab	157006	head	M2壮男头盔外装T2·颜色2																														
+7007	Player/Characters/M2/Prefab/M2_W002_Head.prefab	157007	head	M2壮男头盔外装T2·颜色3																														
+7008	Player/Characters/M2/Prefab/M2_W002_Head.prefab	157008	head	M2壮男头盔外装T2·颜色4																														
+7009	Player/Characters/M2/Prefab/M2_W002_Head.prefab	157009	head	M2壮男头盔外装T2·颜色5																														
+7010	Player/Characters/M2/Prefab/M2_W002_Head.prefab	157010	head	M2壮男头盔外装T2·颜色6																														
+7011	Player/Characters/M2/Prefab/M2_W002_Head.prefab	157011	head	M2壮男头盔外装T2·颜色7																														
+7012	Player/Characters/M2/Prefab/M2_W002_Head.prefab	157012	head	M2壮男头盔外装T2·颜色8																														
+7013	Player/Characters/M2/Prefab/M2_W003_Head.prefab	157013	head	M2壮男头盔外装T3·颜色1																														
+7014	Player/Characters/M2/Prefab/M2_W003_Head.prefab	157014	head	M2壮男头盔外装T3·颜色2																														
+7015	Player/Characters/M2/Prefab/M2_W003_Head.prefab	157015	head	M2壮男头盔外装T3·颜色3																														
+7016	Player/Characters/M2/Prefab/M2_W003_Head.prefab	157016	head	M2壮男头盔外装T3·颜色4																														
+7017	Player/Characters/M2/Prefab/M2_W004_Head.prefab	157017	head	M2壮男头盔外装T4·颜色1																														
+7018	Player/Characters/M2/Prefab/M2_W004_Head.prefab	157018	head	M2壮男头盔外装T4·颜色2																														
+7019	Player/Characters/M2/Prefab/M2_W004_Head.prefab	157019	head	M2壮男头盔外装T4·颜色3																														
+7020	Player/Characters/M2/Prefab/M2_W004_Head.prefab	157020	head	M2壮男头盔外装T4·颜色4																														
+7021	Player/Characters/M2/Prefab/M2_W004_Head.prefab	157021	head	M2壮男头盔外装T4·颜色5																														
+7022	Player/Characters/M2/Prefab/M2_W005_Head.prefab	157022	head	M2壮男头盔外装T5·颜色1																														
+7023	Player/Characters/M2/Prefab/M2_W005_Head.prefab	157023	head	M2壮男头盔外装T5·颜色2																														
+7024	Player/Characters/M2/Prefab/M2_W005_Head.prefab	157024	head	M2壮男头盔外装T5·颜色3																														
+7025	Player/Characters/M2/Prefab/M2_W005_Head.prefab	157025	head	M2壮男头盔外装T5·颜色4																														
+7026	Player/Characters/M2/Prefab/M2_W005_Head.prefab	157026	head	M2壮男头盔外装T5·颜色5																														
+7027	Player/Characters/M2/Prefab/M2_W006_Head.prefab	157027	head	M2壮男头盔外装T6·颜色1																														
+7028	Player/Characters/M2/Prefab/M2_W006_Head.prefab	157028	head	M2壮男头盔外装T6·颜色2																														
+7029	Player/Characters/M2/Prefab/M2_W006_Head.prefab	157029	head	M2壮男头盔外装T6·颜色3																														
+7030	Player/Characters/M2/Prefab/M2_W006_Head.prefab	157030	head	M2壮男头盔外装T6·颜色4																														
+7031	Player/Characters/M2/Prefab/M2_W006_Head.prefab	157031	head	M2壮男头盔外装T6·颜色5																														
+7032	Player/Characters/M2/Prefab/M2_W007_Head.prefab	157032	head	M2壮男头盔外装T7·颜色1																														
+7033	Player/Characters/M2/Prefab/M2_W007_Head.prefab	157033	head	M2壮男头盔外装T7·颜色2																														
+7034	Player/Characters/M2/Prefab/M2_W007_Head.prefab	157034	head	M2壮男头盔外装T7·颜色3																														
+7035	Player/Characters/M2/Prefab/M2_W007_Head.prefab	157035	head	M2壮男头盔外装T7·颜色4																														
+7036	Player/Characters/M2/Prefab/M2_W008_Head.prefab	157036	head	M2壮男头盔外装T8·颜色1																														
+7037	Player/Characters/M2/Prefab/M2_W008_Head.prefab	157037	head	M2壮男头盔外装T8·颜色2																														
+7038	Player/Characters/M2/Prefab/M2_W008_Head.prefab	157038	head	M2壮男头盔外装T8·颜色3																														
+7039	Player/Characters/M2/Prefab/M2_W008_Head.prefab	157039	head	M2壮男头盔外装T8·颜色4																														
+7040	Player/Characters/M2/Prefab/M2_W009_Head.prefab	157040	head	M2壮男头盔外装T9·颜色1																														
+7041	Player/Characters/M2/Prefab/M2_W009_Head.prefab	157041	head	M2壮男头盔外装T9·颜色2																														
+7042	Player/Characters/M2/Prefab/M2_W009_Head.prefab	157042	head	M2壮男头盔外装T9·颜色3																														
+7043	Player/Characters/M2/Prefab/M2_W009_Head.prefab	157043	head	M2壮男头盔外装T9·颜色4																														
+7044	Player/Characters/M2/Prefab/M2_W001_Head.prefab	157044	head	M2壮男头盔外装T1·颜色5																														
+7045	Player/Characters/M2/Prefab/M2_W003_Head.prefab	157045	head	M2壮男头盔外装T3·颜色5																														
+7046	Player/Characters/M2/Prefab/M2_W007_Head.prefab	157046	head	M2壮男头盔外装T7·颜色5																														
+7047	Player/Characters/M2/Prefab/M2_W008_Head.prefab	157047	head	M2壮男头盔外装T8·颜色5																														
+7048	Player/Characters/M2/Prefab/M2_W010B_Head.prefab	157048	head	M2壮男头盔外装T10·颜色1																														
+7049	Player/Characters/M2/Prefab/M2_W010B_Head.prefab	157049	head	M2壮男头盔外装T10·颜色2																														
+7050	Player/Characters/M2/Prefab/M2_W010B_Head.prefab	157050	head	M2壮男头盔外装T10·颜色3																														
+7051	Player/Characters/M2/Prefab/M2_W010B_Head.prefab	157051	head	M2壮男头盔外装T10·颜色4																														
+7052	Player/Characters/M2/Prefab/M2_W010B_Head.prefab	157052	head	M2壮男头盔外装T10·颜色5																														
+7053	Player/Characters/M2/Prefab/M2_W010C_Head.prefab	157053	head	M2壮男头盔外装T10s·颜色1																														
+7054	Player/Characters/M2/Prefab/M2_W010C_Head.prefab	157054	head	M2壮男头盔外装T10s·颜色2																														
+7055	Player/Characters/M2/Prefab/M2_W010C_Head.prefab	157055	head	M2壮男头盔外装T10s·颜色3																														
+7056	Player/Characters/M2/Prefab/M2_W010C_Head.prefab	157056	head	M2壮男头盔外装T10s·颜色4																														
+7057	Player/Characters/M2/Prefab/M2_W010_Head.prefab	157057	head	M2壮男头盔外装T11·颜色1																														
+7058	Player/Characters/M2/Prefab/M2_W010_Head.prefab	157058	head	M2壮男头盔外装T11·颜色2																														
+7059	Player/Characters/M2/Prefab/M2_W010_Head.prefab	157059	head	M2壮男头盔外装T11·颜色3																														
+7060	Player/Characters/M2/Prefab/M2_W010_Head.prefab	157060	head	M2壮男头盔外装T11·颜色4																														
+7061	Player/Characters/M2/Prefab/M2_W010_Head.prefab	157061	head	M2壮男头盔外装T11·颜色5																														
+7062	Player/Characters/M2/Prefab/M2_W010_Head.prefab	157062	head	M2壮男头盔外装T11·颜色6																														
+7063	Player/Characters/M2/Prefab/M2_W010A_Head.prefab	157063	head	M2壮男头盔外装T11s·颜色1																														
+7064	Player/Characters/M2/Prefab/M2_W010A_Head.prefab	157064	head	M2壮男头盔外装T11s·颜色2																														
+7065	Player/Characters/M2/Prefab/M2_W010A_Head.prefab	157065	head	M2壮男头盔外装T11s·颜色3																														
+7066	Player/Characters/M2/Prefab/M2_W010A_Head.prefab	157066	head	M2壮男头盔外装T11s·颜色4																														
+7067	Player/Characters/M2/Prefab/M2_W010A_Head.prefab	157067	head	M2壮男头盔外装T11s·颜色5																														
+7068	Player/Characters/M2/Prefab/M2_W010A_Head.prefab	157068	head	M2壮男头盔外装T11s·颜色6																														
+7069	Player/Characters/M2/Prefab/M2_W008_Head.prefab	157069	head	M2壮男头盔外装T8·颜色6																														
+7070	Player/Characters/M2/Prefab/M2_W011_Head.prefab		head	M2壮男外装T12·颜色1		1		M2_W011_Head	0		74|74|74|255	1	35|35|35|0	1	82|59|59|255	1																		
+7071	Player/Characters/M2/Prefab/M2_W011_Head.prefab		head	M2壮男外装T12·颜色2		1		M2_W011_Head	0		246|215|150|90	1.24	31|31|31|0	1	118|62|42|255	1																		
+7072	Player/Characters/M2/Prefab/M2_W011_Head.prefab		head	M2壮男外装T12·颜色3		1		M2_W011_Head	0		255|219|221|90	1.24	253|253|253|0	1	255|249|247|77	1																		
+7073	Player/Characters/M2/Prefab/M2_W011_Head.prefab		head	M2壮男外装T12·颜色4		1		M2_W011_Head	0		155|0|0|196	1	35|35|35|0	1	82|59|59|255	1																		
+7074	Player/Characters/M2/Prefab/M2_W011_Head.prefab		head	M2壮男外装T12·颜色5		1		M2_W011_Head	0		110|251|216|196	1	35|35|35|0	1	82|59|59|255	1																		
+7075	Player/Characters/M2/Prefab/M2_W011_Head.prefab		head	M2壮男外装T12·颜色6		1		M2_W011_Head	0		96|96|74|196	1	255|235|151|0	1	255|185|110|53	1																		
+7076	Player/Characters/M2/Prefab/M2_W011A_Head.prefab		head	M2壮男外装T12A·颜色1		1		M2_W011A_Head	0		255|255|255|255	1	43|43|43|0	1	88|88|88|169	1																		
+7077	Player/Characters/M2/Prefab/M2_W011A_Head.prefab		head	M2壮男外装T12A·颜色2				M2_W011A_Head	1		252|255|88|255	2.34	43|43|43|0	1	126|70|135|169	1																		
+7078	Player/Characters/M2/Prefab/M2_W011A_Head.prefab		head	M2壮男外装T12A·颜色3				M2_W011A_Head	1		178|255|197|255	2.34	255|255|255|0	1	255|255|255|64	1.26																		
+7079	Player/Characters/M2/Prefab/M2_W011A_Head.prefab		head	M2壮男外装T12A·颜色4				M2_W011A_Head	1		54|84|89|255	2.34	43|43|43|0	1	88|88|88|169	1																		
+7080	Player/Characters/M2/Prefab/M2_W011A_Head.prefab		head	M2壮男外装T12A·颜色5				M2_W011A_Head	1		255|255|255|255	2.58	43|43|43|0	1	88|88|88|169	1																		
+7081	Player/Characters/M2/Prefab/M2_W011A_Head.prefab		head	M2壮男外装T12A·颜色6																														
+7082	Player/Characters/M2/Prefab/M2_W011_Head.prefab		head	M2壮男外装T12·颜色7		1		M2_W011_Head	0		255|255|255|67	1	255|255|255|0	1	181|180|180|23	1																		
+7083	Player/Characters/M2/Prefab/M2_W011_Head.prefab		head	M2壮男外装T12·颜色8		1		M2_W011_Head	0		67|19|19|196	1	43|31|31|0	1	82|59|59|255	1																		
+7084	Player/Characters/M2/Prefab/M2_W012A_Head.prefab		head	M2壮男外装T4N·颜色1		1		M2_W012A_Head	0		58|53|53|255	1.09	50|40|40|255	1.1	255|255|255|255	1																		
+7085	Player/Characters/M2/Prefab/M2_W012A_Head.prefab		head	M2壮男外装T4N·颜色2				M2_W012A_Head	1		58|53|53|255	1.08	46|30|21|255	1	148|148|148|245	1																		
+7086	Player/Characters/M2/Prefab/M2_W012A_Head.prefab		head	M2壮男外装T4N·颜色3		1		M2_W012A_Head	0		58|53|53|255	1.08	255|255|255|80	1	56|51|51|255	1.38																		
+7087	Player/Characters/M2/Prefab/M2_W012A_Head.prefab		head	M2壮男外装T4N·颜色4		1		M2_W012A_Head	0		58|53|53|255	1.08	219|184|125|255	1	255|255|255|255	1																		
+7088	Player/Characters/M2/Prefab/M2_W012_Head.prefab		head	M2壮男外装T13·颜色1		1		M2_W012_Head	0		255|236|236|106	1	255|233|176|97	1	46|40|34|0	1																		
+7089	Player/Characters/M2/Prefab/M2_W012_Head.prefab		head	M2壮男外装T13·颜色2				M2_W012_Head	1		96|243|207|123	1	246|251|168|97	1	41|31|17|31	1																		
+7090	Player/Characters/M2/Prefab/M2_W012_Head.prefab		head	M2壮男外装T13·颜色3				M2_W012_Head	1		240|35|56|120	1	239|251|129|97	1	41|34|27|31	1																		
+7091	Player/Characters/M2/Prefab/M2_W012_Head.prefab		head	M2壮男外装T13·颜色4				M2_W012_Head	1		253|248|212|255	1	239|251|129|97	1	43|34|27|31	1																		
+7092	Player/Characters/M2/Prefab/M2_W013A_Head.prefab		head	M2壮男外装T5N·颜色1		1		M2_W013A_Head	0		255|255|255|150	1	49|37|29|57	1	255|255|255|61	1.17																		
+7093	Player/Characters/M2/Prefab/M2_W013A_Head.prefab		head	M2壮男外装T5N·颜色2				M2_W013A_Head	1		142|190|245|59	1.47	49|37|29|57	1	255|229|71|11	1.61																		
+7094	Player/Characters/M2/Prefab/M2_W013A_Head.prefab		head	M2壮男外装T5N·颜色3				M2_W013A_Head	1		91|140|255|55	1.46	48|36|29|56	1	228|35|47|37	1.59																		
+7095	Player/Characters/M2/Prefab/M2_W013A_Head.prefab		head	M2壮男外装T5N·颜色4				M2_W013A_Head	1		255|158|54|29	1.5	49|37|29|57	1	86|187|221|59	1.83																		
+8001	Player/Characters/F1/Prefab/F1_W001_Head.prefab	158001	head	F1萝莉头盔外装T1·颜色1																														
+8002	Player/Characters/F1/Prefab/F1_W001_Head.prefab	158002	head	F1萝莉头盔外装T1·颜色2																														
+8003	Player/Characters/F1/Prefab/F1_W001_Head.prefab	158003	head	F1萝莉头盔外装T1·颜色3																														
+8004	Player/Characters/F1/Prefab/F1_W001_Head.prefab	158004	head	F1萝莉头盔外装T1·颜色4																														
+8005	Player/Characters/F1/Prefab/F1_W002_Head.prefab	158005	head	F1萝莉头盔外装T2·颜色1																														
+8006	Player/Characters/F1/Prefab/F1_W002_Head.prefab	158006	head	F1萝莉头盔外装T2·颜色2																														
+8007	Player/Characters/F1/Prefab/F1_W002_Head.prefab	158007	head	F1萝莉头盔外装T2·颜色3																														
+8008	Player/Characters/F1/Prefab/F1_W002_Head.prefab	158008	head	F1萝莉头盔外装T2·颜色4																														
+8009	Player/Characters/F1/Prefab/F1_W002_Head.prefab	158009	head	F1萝莉头盔外装T2·颜色5																														
+8010	Player/Characters/F1/Prefab/F1_W002_Head.prefab	158010	head	F1萝莉头盔外装T2·颜色6																														
+8011	Player/Characters/F1/Prefab/F1_W002_Head.prefab	158011	head	F1萝莉头盔外装T2·颜色7																														
+8012	Player/Characters/F1/Prefab/F1_W002_Head.prefab	158012	head	F1萝莉头盔外装T2·颜色8																														
+8013	Player/Characters/F1/Prefab/F1_W003_Head.prefab	158013	head	F1萝莉头盔外装T3·颜色1																														
+8014	Player/Characters/F1/Prefab/F1_W003_Head.prefab	158014	head	F1萝莉头盔外装T3·颜色2																														
+8015	Player/Characters/F1/Prefab/F1_W003_Head.prefab	158015	head	F1萝莉头盔外装T3·颜色3																														
+8016	Player/Characters/F1/Prefab/F1_W003_Head.prefab	158016	head	F1萝莉头盔外装T3·颜色4																														
+8017	Player/Characters/F1/Prefab/F1_W004_Head.prefab	158017	head	F1萝莉头盔外装T4·颜色1																														
+8018	Player/Characters/F1/Prefab/F1_W004_Head.prefab	158018	head	F1萝莉头盔外装T4·颜色2																														
+8019	Player/Characters/F1/Prefab/F1_W004_Head.prefab	158019	head	F1萝莉头盔外装T4·颜色3																														
+8020	Player/Characters/F1/Prefab/F1_W004_Head.prefab	158020	head	F1萝莉头盔外装T4·颜色4																														
+8021	Player/Characters/F1/Prefab/F1_W004_Head.prefab	158021	head	F1萝莉头盔外装T4·颜色5																														
+8022	Player/Characters/F1/Prefab/F1_W005_Head.prefab	158022	head	F1萝莉头盔外装T5·颜色1																														
+8023	Player/Characters/F1/Prefab/F1_W005_Head.prefab	158023	head	F1萝莉头盔外装T5·颜色2																														
+8024	Player/Characters/F1/Prefab/F1_W005_Head.prefab	158024	head	F1萝莉头盔外装T5·颜色3																														
+8025	Player/Characters/F1/Prefab/F1_W005_Head.prefab	158025	head	F1萝莉头盔外装T5·颜色4																														
+8026	Player/Characters/F1/Prefab/F1_W005_Head.prefab	158026	head	F1萝莉头盔外装T5·颜色5																														
+8027	Player/Characters/F1/Prefab/F1_W006_Head.prefab	158027	head	F1萝莉头盔外装T6·颜色1																														
+8028	Player/Characters/F1/Prefab/F1_W006_Head.prefab	158028	head	F1萝莉头盔外装T6·颜色2																														
+8029	Player/Characters/F1/Prefab/F1_W006_Head.prefab	158029	head	F1萝莉头盔外装T6·颜色3																														
+8030	Player/Characters/F1/Prefab/F1_W006_Head.prefab	158030	head	F1萝莉头盔外装T6·颜色4																														
+8031	Player/Characters/F1/Prefab/F1_W006_Head.prefab	158031	head	F1萝莉头盔外装T6·颜色5																														
+8032	Player/Characters/F1/Prefab/F1_W007_Head.prefab	158032	head	F1萝莉头盔外装T7·颜色1																														
+8033	Player/Characters/F1/Prefab/F1_W007_Head.prefab	158033	head	F1萝莉头盔外装T7·颜色2																														
+8034	Player/Characters/F1/Prefab/F1_W007_Head.prefab	158034	head	F1萝莉头盔外装T7·颜色3																														
+8035	Player/Characters/F1/Prefab/F1_W007_Head.prefab	158035	head	F1萝莉头盔外装T7·颜色4																														
+8036	Player/Characters/F1/Prefab/F1_W008_Head.prefab	158036	head	F1萝莉头盔外装T8·颜色1																														
+8037	Player/Characters/F1/Prefab/F1_W008_Head.prefab	158037	head	F1萝莉头盔外装T8·颜色2																														
+8038	Player/Characters/F1/Prefab/F1_W008_Head.prefab	158038	head	F1萝莉头盔外装T8·颜色3																														
+8039	Player/Characters/F1/Prefab/F1_W008_Head.prefab	158039	head	F1萝莉头盔外装T8·颜色4																														
+8040	Player/Characters/F1/Prefab/F1_W009_Head.prefab	158040	head	F1萝莉头盔外装T9·颜色1																														
+8041	Player/Characters/F1/Prefab/F1_W009A_Head.prefab	158041	head	F1萝莉头盔外装T9·颜色2																														
+8042	Player/Characters/F1/Prefab/F1_W009B_Head.prefab	158042	head	F1萝莉头盔外装T9·颜色3																														
+8043	Player/Characters/F1/Prefab/F1_W009_Head.prefab	158043	head	F1萝莉头盔外装T9·颜色4																														
+8044	Player/Characters/F1/Prefab/F1_W001_Head.prefab	158044	head	F1萝莉头盔外装T1·颜色5																														
+8045	Player/Characters/F1/Prefab/F1_W003_Head.prefab	158045	head	F1萝莉头盔外装T3·颜色5																														
+8046	Player/Characters/F1/Prefab/F1_W007_Head.prefab	158046	head	F1萝莉头盔外装T7·颜色5																														
+8047	Player/Characters/F1/Prefab/F1_W008_Head.prefab	158047	head	F1萝莉头盔外装T8·颜色5																														
+8048	Player/Characters/F1/Prefab/F1_W010B_Head.prefab	158048	head	F1萝莉头盔外装T10·颜色1																														
+8049	Player/Characters/F1/Prefab/F1_W010B_Head.prefab	158049	head	F1萝莉头盔外装T10·颜色2																														
+8050	Player/Characters/F1/Prefab/F1_W010B_Head.prefab	158050	head	F1萝莉头盔外装T10·颜色3																														
+8051	Player/Characters/F1/Prefab/F1_W010B_Head.prefab	158051	head	F1萝莉头盔外装T10·颜色4																														
+8052	Player/Characters/F1/Prefab/F1_W010B_Head.prefab	158052	head	F1萝莉头盔外装T10·颜色5																														
+8053	Player/Characters/F1/Prefab/F1_W010C_Head.prefab	158053	head	F1萝莉头盔外装T10s·颜色1																														
+8054	Player/Characters/F1/Prefab/F1_W010C_Head.prefab	158054	head	F1萝莉头盔外装T10s·颜色2																														
+8055	Player/Characters/F1/Prefab/F1_W010C_Head.prefab	158055	head	F1萝莉头盔外装T10s·颜色3																														
+8056	Player/Characters/F1/Prefab/F1_W010C_Head.prefab	158056	head	F1萝莉头盔外装T10s·颜色4																														
+8057	Player/Characters/F1/Prefab/F1_W010_Head.prefab	158057	head	F1萝莉头盔外装T11·颜色1																														
+8058	Player/Characters/F1/Prefab/F1_W010_Head.prefab	158058	head	F1萝莉头盔外装T11·颜色2																														
+8059	Player/Characters/F1/Prefab/F1_W010_Head.prefab	158059	head	F1萝莉头盔外装T11·颜色3																														
+8060	Player/Characters/F1/Prefab/F1_W010_Head.prefab	158060	head	F1萝莉头盔外装T11·颜色4																														
+8061	Player/Characters/F1/Prefab/F1_W010_Head.prefab	158061	head	F1萝莉头盔外装T11·颜色5																														
+8062	Player/Characters/F1/Prefab/F1_W010_Head.prefab	158062	head	F1萝莉头盔外装T11·颜色6																														
+8063	Player/Characters/F1/Prefab/F1_W010A_Head.prefab	158063	head	F1萝莉头盔外装T11s·颜色1																														
+8064	Player/Characters/F1/Prefab/F1_W010A_Head.prefab	158064	head	F1萝莉头盔外装T11s·颜色2																														
+8065	Player/Characters/F1/Prefab/F1_W010A_Head.prefab	158065	head	F1萝莉头盔外装T11s·颜色3																														
+8066	Player/Characters/F1/Prefab/F1_W010A_Head.prefab	158066	head	F1萝莉头盔外装T11s·颜色4																														
+8067	Player/Characters/F1/Prefab/F1_W010A_Head.prefab	158067	head	F1萝莉头盔外装T11s·颜色5																														
+8068	Player/Characters/F1/Prefab/F1_W010A_Head.prefab	158068	head	F1萝莉头盔外装T11s·颜色6																														
+8069	Player/Characters/F1/Prefab/F1_W008_Head.prefab	158069	head	F1萝莉头盔外装T8·颜色6																														
+8070	Player/Characters/F1/Prefab/F1_W011_Head.prefab		head	F1萝莉外装T12·颜色1				F1_W011_Head	1		255|213|142|66	1.25	82|62|50|171	1	146|201|255|196	1.1																		
+8071	Player/Characters/F1/Prefab/F1_W011_Head.prefab		head	F1萝莉外装T12·颜色2				F1_W011_Head	1		255|204|135|104	1.24	181|65|65|58	1	255|228|133|123	1.05																		
+8072	Player/Characters/F1/Prefab/F1_W011_Head.prefab		head	F1萝莉外装T12·颜色3				F1_W011_Head	1		255|204|135|104	1.24	181|65|65|58	1	247|90|90|169	1.05																		
+8073	Player/Characters/F1/Prefab/F1_W011_Head.prefab		head	F1萝莉外装T12·颜色4				F1_W011_Head	1		255|213|142|66	1.25	82|62|50|171	1	146|228|255|196	1.1																		
+8074	Player/Characters/F1/Prefab/F1_W011_Head.prefab		head	F1萝莉外装T12·颜色5		1		F1_W011_Head	0		255|255|255|27	1	255|255|255|28	1	255|255|255|67	1																		
+8075	Player/Characters/F1/Prefab/F1_W011_Head.prefab		head	F1萝莉外装T12·颜色6				F1_W011_Head	1		255|212|123|46	1.2	82|67|67|28	1	221|0|0|12	1.2																		
+8076	Player/Characters/F1/Prefab/F1_W011A_Head.prefab		head	F1萝莉外装T12A·颜色1		1		F1_W011A_Head	0		255|255|255|94	1	95|82|70|101	1	140|217|255|93	1																		
+8077	Player/Characters/F1/Prefab/F1_W011A_Head.prefab		head	F1萝莉外装T12A·颜色2		1		F1_W011A_Head	0		255|255|255|58	1	112|73|38|104	1	255|251|140|83	1.05																		
+8078	Player/Characters/F1/Prefab/F1_W011A_Head.prefab		head	F1萝莉外装T12A·颜色3		1		F1_W011A_Head	0		255|255|255|90	1	215|74|74|71	1	255|242|198|37	1																		
+8079	Player/Characters/F1/Prefab/F1_W011A_Head.prefab		head	F1萝莉外装T12A·颜色4		1		F1_W011A_Head	0		255|255|255|101	1	91|84|77|71	1	140|250|255|93	1.1																		
+8080	Player/Characters/F1/Prefab/F1_W011A_Head.prefab		head	F1萝莉外装T12A·颜色5		1		F1_W011A_Head	0		255|255|255|46	1	255|255|255|28	1	255|255|255|53	1																		
+8081	Player/Characters/F1/Prefab/F1_W011A_Head.prefab		head	F1萝莉外装T12A·颜色6																														
+8082	Player/Characters/F1/Prefab/F1_W011_Head.prefab		head	F1萝莉外装T12·颜色7				F1_W011_Head	1		255|255|255|27	1	69|50|50|28	1	189|157|255|12	1.2																		
+8083	Player/Characters/F1/Prefab/F1_W011_Head.prefab		head	F1萝莉外装T12·颜色8				F1_W011_Head	1		255|212|123|46	1.2	56|41|37|28	1	255|133|155|27	1.3																		
+8084	Player/Characters/F1/Prefab/F1_W012A_Head.prefab		head	F1萝莉外装T4N·颜色1		1		F1_W012A_Head	0		255|255|255|255	1	50|40|40|255	1	255|255|255|255	1																		
+8085	Player/Characters/F1/Prefab/F1_W012A_Head.prefab		head	F1萝莉外装T4N·颜色2				F1_W012A_Head	1		58|45|47|255	1.27	217|212|207|168	1.09	241|134|247|255	1.3																		
+8086	Player/Characters/F1/Prefab/F1_W012A_Head.prefab		head	F1萝莉外装T4N·颜色3				F1_W012A_Head	1		198|84|84|222	1.2	255|255|255|255	1	148|102|72|255	1.33																		
+8087	Player/Characters/F1/Prefab/F1_W012A_Head.prefab		head	F1萝莉外装T4N·颜色4				F1_W012A_Head	1		230|113|135|255	1.78	59|50|44|255	1	144|249|236|185	0.96																		
+8088	Player/Characters/F1/Prefab/F1_W012_Head.prefab		head	F1萝莉外装T13·颜色1				F1_W012_Head	1		238|50|50|90	1.47	52|42|42|0	1	247|216|85|24	1																		
+8089	Player/Characters/F1/Prefab/F1_W012_Head.prefab		head	F1萝莉外装T13·颜色2				F1_W012_Head	1		86|236|199|102	1	52|42|42|0	1	243|170|78|24	1.52																		
+8090	Player/Characters/F1/Prefab/F1_W012_Head.prefab		head	F1萝莉外装T13·颜色3				F1_W012_Head	1		117|99|255|34	1.55	52|42|42|0	1	228|240|255|24	1																		
+8091	Player/Characters/F1/Prefab/F1_W012_Head.prefab		head	F1萝莉外装T13·颜色4		1		F1_W012_Head	0		255|255|255|102	1	52|42|42|0	1	255|236|204|24	1																		
+8092	Player/Characters/F1/Prefab/F1_W013A_Head.prefab		head	F1萝莉外装T5N·颜色1		1		F1_W013A_Head	0		255|255|255|67	1	255|255|255|58	1	47|38|38|70	1																		
+8093	Player/Characters/F1/Prefab/F1_W013A_Head.prefab		head	F1萝莉外装T5N·颜色2				F1_W013A_Head	1		243|209|118|74	1.34	80|153|255|37	1.56	46|38|38|55	1																		
+8094	Player/Characters/F1/Prefab/F1_W013A_Head.prefab		head	F1萝莉外装T5N·颜色3				F1_W013A_Head	1		110|231|255|62	1.32	231|120|243|34	1.81	46|38|38|136	1																		
+8095	Player/Characters/F1/Prefab/F1_W013A_Head.prefab		head	F1萝莉外装T5N·颜色4				F1_W013A_Head	1		251|211|125|74	1.27	240|56|60|58	2	46|38|38|96	1																		
+9001	Player/Characters/F2/Prefab/F2_W001_Head.prefab	159001	head	F2标女头盔外装T1·颜色1																														
+9002	Player/Characters/F2/Prefab/F2_W001_Head.prefab	159002	head	F2标女头盔外装T1·颜色2																														
+9003	Player/Characters/F2/Prefab/F2_W001_Head.prefab	159003	head	F2标女头盔外装T1·颜色3																														
+9004	Player/Characters/F2/Prefab/F2_W001_Head.prefab	159004	head	F2标女头盔外装T1·颜色4																														
+9005	Player/Characters/F2/Prefab/F2_W002_Head.prefab	159005	head	F2标女头盔外装T2·颜色1																														
+9006	Player/Characters/F2/Prefab/F2_W002_Head.prefab	159006	head	F2标女头盔外装T2·颜色2																														
+9007	Player/Characters/F2/Prefab/F2_W002_Head.prefab	159007	head	F2标女头盔外装T2·颜色3																														
+9008	Player/Characters/F2/Prefab/F2_W002_Head.prefab	159008	head	F2标女头盔外装T2·颜色4																														
+9009	Player/Characters/F2/Prefab/F2_W002_Head.prefab	159009	head	F2标女头盔外装T2·颜色5																														
+9010	Player/Characters/F2/Prefab/F2_W002_Head.prefab	159010	head	F2标女头盔外装T2·颜色6																														
+9011	Player/Characters/F2/Prefab/F2_W002_Head.prefab	159011	head	F2标女头盔外装T2·颜色7																														
+9012	Player/Characters/F2/Prefab/F2_W002_Head.prefab	159012	head	F2标女头盔外装T2·颜色8																														
+9013	Player/Characters/F2/Prefab/F2_W003_Head.prefab	159013	head	F2标女头盔外装T3·颜色1																														
+9014	Player/Characters/F2/Prefab/F2_W003_Head.prefab	159014	head	F2标女头盔外装T3·颜色2																														
+9015	Player/Characters/F2/Prefab/F2_W003_Head.prefab	159015	head	F2标女头盔外装T3·颜色3																														
+9016	Player/Characters/F2/Prefab/F2_W003_Head.prefab	159016	head	F2标女头盔外装T3·颜色4																														
+9017	Player/Characters/F2/Prefab/F2_W004_Head.prefab	159017	head	F2标女头盔外装T4·颜色1																														
+9018	Player/Characters/F2/Prefab/F2_W004_Head.prefab	159018	head	F2标女头盔外装T4·颜色2																														
+9019	Player/Characters/F2/Prefab/F2_W004_Head.prefab	159019	head	F2标女头盔外装T4·颜色3																														
+9020	Player/Characters/F2/Prefab/F2_W004_Head.prefab	159020	head	F2标女头盔外装T4·颜色4																														
+9021	Player/Characters/F2/Prefab/F2_W004_Head.prefab	159021	head	F2标女头盔外装T4·颜色5																														
+9022	Player/Characters/F2/Prefab/F2_W005_Head.prefab	159022	head	F2标女头盔外装T5·颜色1																														
+9023	Player/Characters/F2/Prefab/F2_W005_Head.prefab	159023	head	F2标女头盔外装T5·颜色2																														
+9024	Player/Characters/F2/Prefab/F2_W005_Head.prefab	159024	head	F2标女头盔外装T5·颜色3																														
+9025	Player/Characters/F2/Prefab/F2_W005_Head.prefab	159025	head	F2标女头盔外装T5·颜色4																														
+9026	Player/Characters/F2/Prefab/F2_W005_Head.prefab	159026	head	F2标女头盔外装T5·颜色5																														
+9027	Player/Characters/F2/Prefab/F2_W006_Head.prefab	159027	head	F2标女头盔外装T6·颜色1																														
+9028	Player/Characters/F2/Prefab/F2_W006_Head.prefab	159028	head	F2标女头盔外装T6·颜色2																														
+9029	Player/Characters/F2/Prefab/F2_W006_Head.prefab	159029	head	F2标女头盔外装T6·颜色3																														
+9030	Player/Characters/F2/Prefab/F2_W006_Head.prefab	159030	head	F2标女头盔外装T6·颜色4																														
+9031	Player/Characters/F2/Prefab/F2_W006_Head.prefab	159031	head	F2标女头盔外装T6·颜色5																														
+9032	Player/Characters/F2/Prefab/F2_W007_Head.prefab	159032	head	F2标女头盔外装T7·颜色1																														
+9033	Player/Characters/F2/Prefab/F2_W007_Head.prefab	159033	head	F2标女头盔外装T7·颜色2																														
+9034	Player/Characters/F2/Prefab/F2_W007_Head.prefab	159034	head	F2标女头盔外装T7·颜色3																														
+9035	Player/Characters/F2/Prefab/F2_W007_Head.prefab	159035	head	F2标女头盔外装T7·颜色4																														
+9036	Player/Characters/F2/Prefab/F2_W008_Head.prefab	159036	head	F2标女头盔外装T8·颜色1																														
+9037	Player/Characters/F2/Prefab/F2_W008_Head.prefab	159037	head	F2标女头盔外装T8·颜色2																														
+9038	Player/Characters/F2/Prefab/F2_W008_Head.prefab	159038	head	F2标女头盔外装T8·颜色3																														
+9039	Player/Characters/F2/Prefab/F2_W008_Head.prefab	159039	head	F2标女头盔外装T8·颜色4																														
+9040	Player/Characters/F2/Prefab/F2_W009_Head.prefab	159040	head	F2标女头盔外装T9·颜色1																														
+9041	Player/Characters/F2/Prefab/F2_W009A_Head.prefab	159041	head	F2标女头盔外装T9·颜色2																														
+9042	Player/Characters/F2/Prefab/F2_W009B_Head.prefab	159042	head	F2标女头盔外装T9·颜色3																														
+9043	Player/Characters/F2/Prefab/F2_W009_Head.prefab	159043	head	F2标女头盔外装T9·颜色4																														
+9044	Player/Characters/F2/Prefab/F2_W001_Head.prefab	159044	head	F2标女头盔外装T1·颜色1																														
+9045	Player/Characters/F2/Prefab/F2_W003_Head.prefab	159045	head	F2标女头盔外装T3·颜色1																														
+9046	Player/Characters/F2/Prefab/F2_W007_Head.prefab	159046	head	F2标女头盔外装T7·颜色1																														
+9047	Player/Characters/F2/Prefab/F2_W008_Head.prefab	159047	head	F2标女头盔外装T8·颜色1																														
+9048	Player/Characters/F2/Prefab/F2_W010B_Head.prefab	159048	head	F2标女头盔外装T10·颜色1																														
+9049	Player/Characters/F2/Prefab/F2_W010B_Head.prefab	159049	head	F2标女头盔外装T10·颜色2																														
+9050	Player/Characters/F2/Prefab/F2_W010B_Head.prefab	159050	head	F2标女头盔外装T10·颜色3																														
+9051	Player/Characters/F2/Prefab/F2_W010B_Head.prefab	159051	head	F2标女头盔外装T10·颜色4																														
+9052	Player/Characters/F2/Prefab/F2_W010B_Head.prefab	159052	head	F2标女头盔外装T10·颜色5																														
+9053	Player/Characters/F2/Prefab/F2_W010C_Head.prefab	159053	head	F2标女头盔外装T10s·颜色1																														
+9054	Player/Characters/F2/Prefab/F2_W010C_Head.prefab	159054	head	F2标女头盔外装T10s·颜色2																														
+9055	Player/Characters/F2/Prefab/F2_W010C_Head.prefab	159055	head	F2标女头盔外装T10s·颜色3																														
+9056	Player/Characters/F2/Prefab/F2_W010C_Head.prefab	159056	head	F2标女头盔外装T10s·颜色4																														
+9057	Player/Characters/F2/Prefab/F2_W010_Head.prefab	159057	head	F2标女头盔外装T11·颜色1																														
+9058	Player/Characters/F2/Prefab/F2_W010_Head.prefab	159058	head	F2标女头盔外装T11·颜色2																														
+9059	Player/Characters/F2/Prefab/F2_W010_Head.prefab	159059	head	F2标女头盔外装T11·颜色3																														
+9060	Player/Characters/F2/Prefab/F2_W010_Head.prefab	159060	head	F2标女头盔外装T11·颜色4																														
+9061	Player/Characters/F2/Prefab/F2_W010_Head.prefab	159061	head	F2标女头盔外装T11·颜色5																														
+9062	Player/Characters/F2/Prefab/F2_W010_Head.prefab	159062	head	F2标女头盔外装T11·颜色6																														
+9063	Player/Characters/F2/Prefab/F2_W010A_Head.prefab	159063	head	F2标女头盔外装T11s·颜色1																														
+9064	Player/Characters/F2/Prefab/F2_W010A_Head.prefab	159064	head	F2标女头盔外装T11s·颜色2																														
+9065	Player/Characters/F2/Prefab/F2_W010A_Head.prefab	159065	head	F2标女头盔外装T11s·颜色3																														
+9066	Player/Characters/F2/Prefab/F2_W010A_Head.prefab	159066	head	F2标女头盔外装T11s·颜色4																														
+9067	Player/Characters/F2/Prefab/F2_W010A_Head.prefab	159067	head	F2标女头盔外装T11s·颜色5																														
+9068	Player/Characters/F2/Prefab/F2_W010A_Head.prefab	159068	head	F2标女头盔外装T11s·颜色6																														
+9069	Player/Characters/F2/Prefab/F2_W008_Head.prefab	159069	head	F2标女头盔外装T8·颜色6																														
+9070	Player/Characters/F2/Prefab/F2_W011_Head.prefab		head	F2标女外装T12·颜色1		1		F2_W011_Head	0		112|105|91|98	1	63|51|45|53	1	196|222|255|90	1																		
+9071	Player/Characters/F2/Prefab/F2_W011_Head.prefab		head	F2标女外装T12·颜色2				F2_W011_Head	1		140|136|125|40	1	74|71|68|40	1	222|255|159|41	1.32																		
+9072	Player/Characters/F2/Prefab/F2_W011_Head.prefab		head	F2标女外装T12·颜色3				F2_W011_Head	1		140|136|125|40	1	255|252|251|19	1	255|133|158|41	1.32																		
+9073	Player/Characters/F2/Prefab/F2_W011_Head.prefab		head	F2标女外装T12·颜色4				F2_W011_Head	1		140|136|125|40	1	74|71|68|40	1	255|46|46|39	1.35																		
+9074	Player/Characters/F2/Prefab/F2_W011_Head.prefab		head	F2标女外装T12·颜色5				F2_W011_Head	1		127|127|127|68	1	63|56|48|34	1	142|255|245|41	1.22																		
+9075	Player/Characters/F2/Prefab/F2_W011_Head.prefab		head	F2标女外装T12·颜色6				F2_W011_Head	1		127|127|127|68	1	63|56|48|34	1	112|0|0|41	1.22																		
+9076	Player/Characters/F2/Prefab/F2_W011A_Head.prefab		head	F2标女外装T12A·颜色1		1		F2_W011A_Head	0		255|255|255|59	1	63|55|55|152	1	255|255|255|0	1																		
+9077	Player/Characters/F2/Prefab/F2_W011A_Head.prefab		head	F2标女外装T12A·颜色2				F2_W011A_Head	1		114|103|83|91	1	61|52|42|198	1	255|245|166|34	1.05																		
+9078	Player/Characters/F2/Prefab/F2_W011A_Head.prefab		head	F2标女外装T12A·颜色3				F2_W011A_Head	1		114|103|83|91	1	243|238|238|61	1	255|133|165|27	1.05																		
+9079	Player/Characters/F2/Prefab/F2_W011A_Head.prefab		head	F2标女外装T12A·颜色4				F2_W011A_Head	1		114|103|83|91	1	61|52|42|198	1	255|61|61|42	1.05																		
+9080	Player/Characters/F2/Prefab/F2_W011A_Head.prefab		head	F2标女外装T12A·颜色5		1		F2_W011A_Head	0		114|103|83|91	1	61|52|42|198	1	255|227|153|89	1.05																		
+9081	Player/Characters/F2/Prefab/F2_W011A_Head.prefab		head	F2标女外装T12A·颜色6																														
+9082	Player/Characters/F2/Prefab/F2_W011_Head.prefab		head	F2标女外装T12·颜色7				F2_W011_Head	1		127|127|127|68	1	63|56|48|34	1	255|255|255|41	1.22																		
+9083	Player/Characters/F2/Prefab/F2_W011_Head.prefab		head	F2标女外装T12·颜色8				F2_W011_Head	1		127|127|127|68	1	69|59|59|19	1	160|123|255|120	1.22																		
+9084	Player/Characters/F2/Prefab/F2_W012A_Head.prefab		head	F2标女外装T4N·颜色1		1		F2_W012A_Head	0		255|255|255|255	1	50|40|40|255	1	255|255|255|255	1																		
+9085	Player/Characters/F2/Prefab/F2_W012A_Head.prefab		head	F2标女外装T4N·颜色2				F2_W012A_Head	1		191|103|119|255	1.78	62|53|48|255	1	127|205|195|255	1																		
+9086	Player/Characters/F2/Prefab/F2_W012A_Head.prefab		head	F2标女外装T4N·颜色3				F2_W012A_Head	1		61|52|54|255	1.27	255|255|255|174	1.09	199|119|204|255	1.3																		
+9087	Player/Characters/F2/Prefab/F2_W012A_Head.prefab		head	F2标女外装T4N·颜色4				F2_W012A_Head	1		193|85|85|255	1.2	255|255|255|255	1	175|141|119|255	1.33																		
+9088	Player/Characters/F2/Prefab/F2_W012_Head.prefab		head	F2标女外装T13·颜色1				F2_W012_Head	1		255|255|255|167	1.34	118|22|22|255	1.57	60|42|35|50	1																		
+9089	Player/Characters/F2/Prefab/F2_W012_Head.prefab		head	F2标女外装T13·颜色2				F2_W012_Head	1		255|255|255|125	1.34	120|200|247|88	1.15	59|41|35|138	1																		
+9090	Player/Characters/F2/Prefab/F2_W012_Head.prefab		head	F2标女外装T13·颜色3				F2_W012_Head	1		255|255|255|125	1.34	255|104|176|121	1.13	59|41|35|138	1																		
+9091	Player/Characters/F2/Prefab/F2_W012_Head.prefab		head	F2标女外装T13·颜色4				F2_W012_Head	1		255|255|255|125	1.34	255|192|80|78	1.07	59|41|35|138	1																		
+9092	Player/Characters/F2/Prefab/F2_W013A_Head.prefab		head	F2标女外装T5N·颜色1		1		F2_W013A_Head	0		255|255|255|10	1.13	45|40|36|77	1	255|255|255|56	1.25																		
+9093	Player/Characters/F2/Prefab/F2_W013A_Head.prefab		head	F2标女外装T5N·颜色2				F2_W013A_Head	1		255|196|91|55	1.17	44|37|33|51	1	99|158|255|69	1.66																		
+9094	Player/Characters/F2/Prefab/F2_W013A_Head.prefab		head	F2标女外装T5N·颜色3				F2_W013A_Head	1		97|241|200|73	1.21	44|39|36|61	1	253|121|255|72	1.34																		
+9095	Player/Characters/F2/Prefab/F2_W013A_Head.prefab		head	F2标女外装T5N·颜色4				F2_W013A_Head	1		196|133|76|96	1.54	44|37|33|91	1	255|76|76|113	1.58																		
+11001	Player/Characters/M2/Prefab/M2_TW002_Head.prefab	161001	head	天王（男）校服T1·颜色1																														
+11002	Player/Characters/M2/Prefab/M2_TW002_Head.prefab	161002	head	天王（男）校服T1·颜色2																														
+11003	Player/Characters/M2/Prefab/M2_TW002_Head.prefab	161003	head	天王（男）校服T1·颜色3																														
+11004	Player/Characters/M2/Prefab/M2_TW002_Head.prefab	161004	head	天王（男）校服T1·颜色4																														
+11005	Player/Characters/M2/Prefab/M2_TW001_Head.prefab	161005	head	天王（男）校服T2·颜色1																														
+11006	Player/Characters/M2/Prefab/M2_TW001_Head.prefab	161006	head	天王（男）校服T2·颜色2																														
+11007	Player/Characters/M2/Prefab/M2_TW001_Head.prefab	161007	head	天王（男）校服T2·颜色3																														
+11008	Player/Characters/M2/Prefab/M2_TW001_Head.prefab	161008	head	天王（男）校服T2·颜色4																														
+11009	Player/Characters/M2/Prefab/M2_TW003_Head.prefab	161009	head	天王（男）校服T3·颜色1																														
+11010	Player/Characters/M2/Prefab/M2_TW003_Head.prefab	161010	head	天王（男）校服T3·颜色2																														
+11011	Player/Characters/M2/Prefab/M2_TW003_Head.prefab	161011	head	天王（男）校服T3·颜色3																														
+11012	Player/Characters/M2/Prefab/M2_TW003_Head.prefab	161012	head	天王（男）校服T3·颜色4																														
+11013	Player/Characters/M2/Prefab/M2_TW002_Head.prefab	161013	head	天王（男）校服T1·颜色5																														
+11014	Player/Characters/M2/Prefab/M2_TW001_Head.prefab	161014	head	天王（男）校服T2·颜色5																														
+11015	Player/Characters/M2/Prefab/M2_TW003_Head.prefab	161015	head	天王（男）校服T3·颜色5																														
+11016	Player/Characters/M2/Prefab/M2_TW004_Head.prefab		head	天王（男）校服T4·颜色1				M2_TW004_Head	1		255|206|101|123	1	56|46|37|0	1	255|255|255|58	1																		
+11017	Player/Characters/M2/Prefab/M2_TW004_Head.prefab		head	天王（男）校服T4·颜色2				M2_TW004_Head	1		255|243|149|123	1	45|39|46|0	1	63|199|255|58	1																		
+11018	Player/Characters/M2/Prefab/M2_TW004_Head.prefab		head	天王（男）校服T4·颜色3				M2_TW004_Head	1		255|232|185|123	1	33|44|52|0	1	121|121|121|58	1																		
+11019	Player/Characters/M2/Prefab/M2_TW004_Head.prefab		head	天王（男）校服T4·颜色4				M2_TW004_Head	1		253|255|221|123	1	59|52|61|0	1	121|121|121|58	1																		
+11020	Player/Characters/M2/Prefab/M2_TW004_Head.prefab		head	天王（男）校服T4·颜色5																														
+12501	Player/Characters/F2/Prefab/F2_EM001_Head.prefab	162501	head	峨眉（女）校服T1·颜色1																														
+12502	Player/Characters/F2/Prefab/F2_EM001_Head.prefab	162502	head	峨眉（女）校服T1·颜色2																														
+12503	Player/Characters/F2/Prefab/F2_EM001_Head.prefab	162503	head	峨眉（女）校服T1·颜色3																														
+12504	Player/Characters/F2/Prefab/F2_EM001_Head.prefab	162504	head	峨眉（女）校服T1·颜色4																														
+12505	Player/Characters/F2/Prefab/F2_EM002_Head.prefab	162505	head	峨眉（女）校服T2·颜色1																														
+12506	Player/Characters/F2/Prefab/F2_EM002_Head.prefab	162506	head	峨眉（女）校服T2·颜色2																														
+12507	Player/Characters/F2/Prefab/F2_EM002_Head.prefab	162507	head	峨眉（女）校服T2·颜色3																														
+12508	Player/Characters/F2/Prefab/F2_EM002_Head.prefab	162508	head	峨眉（女）校服T2·颜色4																														
+12509	Player/Characters/F2/Prefab/F2_EM003_Head.prefab	162509	head	峨眉（女）校服T3·颜色1																														
+12510	Player/Characters/F2/Prefab/F2_EM003_Head.prefab	162510	head	峨眉（女）校服T3·颜色2																														
+12511	Player/Characters/F2/Prefab/F2_EM003_Head.prefab	162511	head	峨眉（女）校服T3·颜色3																														
+12512	Player/Characters/F2/Prefab/F2_EM003_Head.prefab	162512	head	峨眉（女）校服T3·颜色4																														
+12513	Player/Characters/F2/Prefab/F2_EM001_Head.prefab	162513	head	峨眉（女）校服T1·颜色5																														
+12514	Player/Characters/F2/Prefab/F2_EM002_Head.prefab	162514	head	峨眉（女）校服T2·颜色5																														
+12515	Player/Characters/F2/Prefab/F2_EM003_Head.prefab	162515	head	峨眉（女）校服T3·颜色5																														
+12516	Player/Characters/F2/Prefab/F2_EM004_Head.prefab		head	峨眉（女）校服T4·颜色1		1		F2_EM004_Head	0		255|249|249|38	1	255|255|255|27	1	255|255|255|0	1																		
+12517	Player/Characters/F2/Prefab/F2_EM004_Head.prefab		head	峨眉（女）校服T4·颜色2				F2_EM004_Head	1		255|207|93|120	1.16	61|59|58|88	1	103|167|255|0	1.98																		
+12518	Player/Characters/F2/Prefab/F2_EM004_Head.prefab		head	峨眉（女）校服T4·颜色3				F2_EM004_Head	1		255|206|93|125	1.16	61|59|58|27	1	255|136|212|0	1.74																		
+12519	Player/Characters/F2/Prefab/F2_EM004_Head.prefab		head	峨眉（女）校服T4·颜色4				F2_EM004_Head	1		255|204|97|137	1.1	61|59|58|27	1	255|251|116|0	1.41																		
+12520	Player/Characters/F2/Prefab/F2_EM004_Head.prefab		head	峨眉（女）校服T4·颜色5																														
+13501	Player/Characters/F1/Prefab/F1_TH001_Head.prefab	163501	head	桃花（女）校服T1·颜色1																														
+13502	Player/Characters/F1/Prefab/F1_TH001_Head.prefab	163502	head	桃花（女）校服T1·颜色2																														
+13503	Player/Characters/F1/Prefab/F1_TH001_Head.prefab	163503	head	桃花（女）校服T1·颜色3																														
+13504	Player/Characters/F1/Prefab/F1_TH001_Head.prefab	163504	head	桃花（女）校服T1·颜色4																														
+13505	Player/Characters/F1/Prefab/F1_TH002_Head.prefab	163505	head	桃花（女）校服T2·颜色1																														
+13506	Player/Characters/F1/Prefab/F1_TH002_Head.prefab	163506	head	桃花（女）校服T2·颜色2																														
+13507	Player/Characters/F1/Prefab/F1_TH002_Head.prefab	163507	head	桃花（女）校服T2·颜色3																														
+13508	Player/Characters/F1/Prefab/F1_TH002_Head.prefab	163508	head	桃花（女）校服T2·颜色4																														
+13509	Player/Characters/F1/Prefab/F1_TH003_Head.prefab	163509	head	桃花（女）校服T3·颜色1																														
+13510	Player/Characters/F1/Prefab/F1_TH003_Head.prefab	163510	head	桃花（女）校服T3·颜色2																														
+13511	Player/Characters/F1/Prefab/F1_TH003_Head.prefab	163511	head	桃花（女）校服T3·颜色3																														
+13512	Player/Characters/F1/Prefab/F1_TH003_Head.prefab	163512	head	桃花（女）校服T3·颜色4																														
+13513	Player/Characters/F1/Prefab/F1_TH001_Head.prefab	163513	head	桃花（女）校服T1·颜色5																														
+13514	Player/Characters/F1/Prefab/F1_TH002_Head.prefab	163514	head	桃花（女）校服T2·颜色5																														
+13515	Player/Characters/F1/Prefab/F1_TH003_Head.prefab	163515	head	桃花（女）校服T3·颜色5																														
+13516	Player/Characters/F1/Prefab/F1_TH004_Head.prefab		head	桃花（女）校服T4·颜色1		1		F1_TH004_Head	0		255|255|255|183	1	255|255|255|12	1	255|255|255|43	1																		
+13517	Player/Characters/F1/Prefab/F1_TH004_Head.prefab		head	桃花（女）校服T4·颜色2		1		F1_TH004_Head	0		255|255|255|183	1	82|77|74|97	1	163|247|105|58	1																		
+13518	Player/Characters/F1/Prefab/F1_TH004_Head.prefab		head	桃花（女）校服T4·颜色3		1		F1_TH004_Head	0		255|255|255|183	1	82|77|74|97	1	105|247|241|91	1																		
+13519	Player/Characters/F1/Prefab/F1_TH004_Head.prefab		head	桃花（女）校服T4·颜色4		1		F1_TH004_Head	0		255|255|255|183	1	82|77|74|97	1	255|50|50|45	1																		
+13520	Player/Characters/F1/Prefab/F1_TH004_Head.prefab		head	桃花（女）校服T4·颜色5																														
+14001	Player/Characters/M1/Prefab/M1_XY001_Head.prefab	164001	head	逍遥（男）校服T1·颜色1																														
+14002	Player/Characters/M1/Prefab/M1_XY001_Head.prefab	164002	head	逍遥（男）校服T1·颜色2																														
+14003	Player/Characters/M1/Prefab/M1_XY001_Head.prefab	164003	head	逍遥（男）校服T1·颜色3																														
+14004	Player/Characters/M1/Prefab/M1_XY001_Head.prefab	164004	head	逍遥（男）校服T1·颜色4																														
+14005	Player/Characters/M1/Prefab/M1_XY002_Head.prefab	164005	head	逍遥（男）校服T2·颜色1																														
+14006	Player/Characters/M1/Prefab/M1_XY002_Head.prefab	164006	head	逍遥（男）校服T2·颜色2																														
+14007	Player/Characters/M1/Prefab/M1_XY002_Head.prefab	164007	head	逍遥（男）校服T2·颜色3																														
+14008	Player/Characters/M1/Prefab/M1_XY002_Head.prefab	164008	head	逍遥（男）校服T2·颜色4																														
+14009	Player/Characters/M1/Prefab/M1_XY003_Head.prefab	164009	head	逍遥（男）校服T3·颜色1																														
+14010	Player/Characters/M1/Prefab/M1_XY003_Head.prefab	164010	head	逍遥（男）校服T3·颜色2																														
+14011	Player/Characters/M1/Prefab/M1_XY003_Head.prefab	164011	head	逍遥（男）校服T3·颜色3																														
+14012	Player/Characters/M1/Prefab/M1_XY003_Head.prefab	164012	head	逍遥（男）校服T3·颜色4																														
+14013	Player/Characters/M1/Prefab/M1_XY001_Head.prefab	164013	head	逍遥（男）校服T1·颜色5																														
+14014	Player/Characters/M1/Prefab/M1_XY002_Head.prefab	164014	head	逍遥（男）校服T2·颜色5																														
+14015	Player/Characters/M1/Prefab/M1_XY003_Head.prefab	164015	head	逍遥（男）校服T3·颜色5																														
+14016	Player/Characters/M1/Prefab/M1_XY004_Head.prefab		head	逍遥（男）校服T4·颜色1		1		M1_XY004_Head	0		255|255|255|73	1	41|38|35|40	1	137|240|218|136	2.05																		
+14017	Player/Characters/M1/Prefab/M1_XY004_Head.prefab		head	逍遥（男）校服T4·颜色2		1		M1_XY004_Head	0		255|255|255|69	1	61|61|61|41	1	198|32|32|147	1																		
+14018	Player/Characters/M1/Prefab/M1_XY004_Head.prefab		head	逍遥（男）校服T4·颜色3		1		M1_XY004_Head	0		203|219|232|69	1	26|20|28|41	1	63|71|238|147	2.71																		
+14019	Player/Characters/M1/Prefab/M1_XY004_Head.prefab		head	逍遥（男）校服T4·颜色4		1		M1_XY004_Head	0		249|235|210|73	1	44|38|32|88	1	255|160|99|137	2.43																		
+14020	Player/Characters/M1/Prefab/M1_XY004_Head.prefab		head	逍遥（男）校服T4·颜色5																														
+15001	Player/Characters/M1/Prefab/M1_WD002_Head.prefab	165001	head	武当（男）校服T1·颜色1																														
+15002	Player/Characters/M1/Prefab/M1_WD002_Head.prefab	165002	head	武当（男）校服T1·颜色2																														
+15003	Player/Characters/M1/Prefab/M1_WD002_Head.prefab	165003	head	武当（男）校服T1·颜色3																														
+15004	Player/Characters/M1/Prefab/M1_WD002_Head.prefab	165004	head	武当（男）校服T1·颜色4																														
+15005	Player/Characters/M1/Prefab/M1_WD001_Head.prefab	165005	head	武当（男）校服T2·颜色1																														
+15006	Player/Characters/M1/Prefab/M1_WD001_Head.prefab	165006	head	武当（男）校服T2·颜色2																														
+15007	Player/Characters/M1/Prefab/M1_WD001_Head.prefab	165007	head	武当（男）校服T2·颜色3																														
+15008	Player/Characters/M1/Prefab/M1_WD001_Head.prefab	165008	head	武当（男）校服T2·颜色4																														
+15009	Player/Characters/M1/Prefab/M1_WD003_Head.prefab	165009	head	武当（男）校服T3·颜色1																														
+15010	Player/Characters/M1/Prefab/M1_WD003_Head.prefab	165010	head	武当（男）校服T3·颜色2																														
+15011	Player/Characters/M1/Prefab/M1_WD003_Head.prefab	165011	head	武当（男）校服T3·颜色3																														
+15012	Player/Characters/M1/Prefab/M1_WD003_Head.prefab	165012	head	武当（男）校服T3·颜色4																														
+15013	Player/Characters/M1/Prefab/M1_WD002_Head.prefab	165013	head	武当（男）校服T1·颜色5																														
+15014	Player/Characters/M1/Prefab/M1_WD001_Head.prefab	165014	head	武当（男）校服T2·颜色5																														
+15015	Player/Characters/M1/Prefab/M1_WD003_Head.prefab	165015	head	武当（男）校服T3·颜色5																														
+15016	Player/Characters/M1/Prefab/M1_WD004_Head.prefab		head	武当（男）校服T4·颜色1		1		M1_WD004_Head	0		255|255|255|199	1	36|31|26|50	1	255|255|255|69	1																		
+15017	Player/Characters/M1/Prefab/M1_WD004_Head.prefab		head	武当（男）校服T4·颜色2				M1_WD004_Head	1		198|151|130|113	1.29	52|48|59|42	1	92|155|217|118	1																		
+15018	Player/Characters/M1/Prefab/M1_WD004_Head.prefab		head	武当（男）校服T4·颜色3				M1_WD004_Head	1		200|180|171|113	1.29	48|40|37|42	1	217|92|105|118	1.36																		
+15019	Player/Characters/M1/Prefab/M1_WD004_Head.prefab		head	武当（男）校服T4·颜色4				M1_WD004_Head	1		232|213|238|53	1.29	52|60|67|28	1	205|92|217|121	1.67																		
+15020	Player/Characters/M1/Prefab/M1_WD004_Head.prefab		head	武当（男）校服T4·颜色5																														
+15501	Player/Characters/F2/Prefab/F2_WD002_Head.prefab		head	武当（女）校服T1·颜色1		1		F2_WD002_Head	0		255|255|255|37	1	65|59|47|82	1	255|255|255|29	1																		
+15502	Player/Characters/F2/Prefab/F2_WD002_Head.prefab		head	武当（女）校服T1·颜色2				F2_WD002_Head	1		255|230|151|37	1	65|59|47|82	1	157|141|141|29	1																		
+15503	Player/Characters/F2/Prefab/F2_WD002_Head.prefab		head	武当（女）校服T1·颜色3				F2_WD002_Head	1		255|230|151|37	1	65|59|47|82	1	255|227|76|29	1.73																		
+15504	Player/Characters/F2/Prefab/F2_WD002_Head.prefab		head	武当（女）校服T1·颜色4				F2_WD002_Head	1		255|255|255|37	1	65|59|47|82	1	131|127|255|29	1.73																		
+15505	Player/Characters/F2/Prefab/F2_WD001_Head.prefab		head	武当（女）校服T2·颜色1		1		F2_WD001_Head	0		255|255|255|93	1	56|43|35|27	1	223|232|255|21	1																		
+15506	Player/Characters/F2/Prefab/F2_WD001_Head.prefab		head	武当（女）校服T2·颜色2				F2_WD001_Head	1		240|245|255|93	1	56|43|35|27	1	255|76|76|21	1																		
+15507	Player/Characters/F2/Prefab/F2_WD001_Head.prefab		head	武当（女）校服T2·颜色3				F2_WD001_Head	1		255|252|218|93	1	56|43|35|27	1	255|184|33|18	1.27																		
+15508	Player/Characters/F2/Prefab/F2_WD001_Head.prefab		head	武当（女）校服T2·颜色4		1		F2_WD001_Head	0		255|255|255|93	1	56|43|35|27	1	63|63|63|21	1																		
+15509	Player/Characters/F2/Prefab/F2_WD003_Head.prefab		head	武当（女）校服T3·颜色1		1		F2_WD003_Head	0		255|255|255|255	1	255|255|255|255	1	255|255|255|255	1																		
+15510	Player/Characters/F2/Prefab/F2_WD003_Head.prefab		head	武当（女）校服T3·颜色2		1		F2_WD003_Head	0		245|86|86|97	1	9|5|5|0	1	125|71|71|187	1																		
+15511	Player/Characters/F2/Prefab/F2_WD003_Head.prefab		head	武当（女）校服T3·颜色3				F2_WD003_Head	1		255|223|155|97	1.16	9|5|5|0	1	102|71|125|187	1																		
+15512	Player/Characters/F2/Prefab/F2_WD003_Head.prefab		head	武当（女）校服T3·颜色4				F2_WD003_Head	1		255|255|255|97	1.16	9|5|5|0	1	125|71|88|187	1																		
+15513	Player/Characters/F2/Prefab/F2_WD002_Head.prefab		head	武当（女）校服T1·颜色5				F2_WD002_Head	1		255|255|255|37	1	65|59|47|82	1	110|159|255|70	2.64																		
+15514	Player/Characters/F2/Prefab/F2_WD001_Head.prefab		head	武当（女）校服T2·颜色5		1		F2_WD001_Head	0		255|255|255|93	1	56|43|35|27	1	206|159|255|21	1.1																		
+15515	Player/Characters/F2/Prefab/F2_WD003_Head.prefab		head	武当（女）校服T3·颜色5				F2_WD003_Head	1		155|255|176|97	1.16	9|5|5|0	1	102|71|125|187	1																		
+15516	Player/Characters/F2/Prefab/F2_WD004_Head.prefab		head	武当（女）校服T4·颜色1		1		F2_WD004_Head	0		255|255|255|39	1	52|41|30|18	1	101|100|100|37	1																		
+15517	Player/Characters/F2/Prefab/F2_WD004_Head.prefab		head	武当（女）校服T4·颜色2		1		F2_WD004_Head	0		255|255|255|39	1	52|41|30|18	1	255|168|142|23	1.43																		
+15518	Player/Characters/F2/Prefab/F2_WD004_Head.prefab		head	武当（女）校服T4·颜色3				F2_WD004_Head	1		255|255|255|39	1	52|41|30|18	1	255|154|223|23	1.43																		
+15519	Player/Characters/F2/Prefab/F2_WD004_Head.prefab		head	武当（女）校服T4·颜色4		1		F2_WD004_Head	0		255|255|255|39	1	52|41|30|18	1	255|11|11|23	1.43																		
+16501	Player/Characters/F2/Prefab/F2_TR001_Head.prefab	166501	head	天忍（女）校服T1·颜色1																														
+16502	Player/Characters/F2/Prefab/F2_TR001_Head.prefab	166502	head	天忍（女）校服T1·颜色2																														
+16503	Player/Characters/F2/Prefab/F2_TR001_Head.prefab	166503	head	天忍（女）校服T1·颜色3																														
+16504	Player/Characters/F2/Prefab/F2_TR001_Head.prefab	166504	head	天忍（女）校服T1·颜色4																														
+16505	Player/Characters/F2/Prefab/F2_TR002_Head.prefab	166505	head	天忍（女）校服T2·颜色1																														
+16506	Player/Characters/F2/Prefab/F2_TR002_Head.prefab	166506	head	天忍（女）校服T2·颜色2																														
+16507	Player/Characters/F2/Prefab/F2_TR002_Head.prefab	166507	head	天忍（女）校服T2·颜色3																														
+16508	Player/Characters/F2/Prefab/F2_TR002_Head.prefab	166508	head	天忍（女）校服T2·颜色4																														
+16509	Player/Characters/F2/Prefab/F2_TR003_Head.prefab	166509	head	天忍（女）校服T3·颜色1																														
+16510	Player/Characters/F2/Prefab/F2_TR003_Head.prefab	166510	head	天忍（女）校服T3·颜色2																														
+16511	Player/Characters/F2/Prefab/F2_TR003_Head.prefab	166511	head	天忍（女）校服T3·颜色3																														
+16512	Player/Characters/F2/Prefab/F2_TR003_Head.prefab	166512	head	天忍（女）校服T3·颜色4																														
+16513	Player/Characters/F2/Prefab/F2_TR001_Head.prefab	166513	head	天忍（女）校服T1·颜色5																														
+16514	Player/Characters/F2/Prefab/F2_TR002_Head.prefab	166514	head	天忍（女）校服T2·颜色5																														
+16515	Player/Characters/F2/Prefab/F2_TR003_Head.prefab	166515	head	天忍（女）校服T3·颜色5																														
+16516	Player/Characters/F2/Prefab/F2_TR004_Head.prefab		head	天忍（女）校服T4·颜色1		1		F2_TR004_Head	0		255|235|181|20	1	255|255|255|0	1	59|67|73|189	1																		
+16517	Player/Characters/F2/Prefab/F2_TR004_Head.prefab		head	天忍（女）校服T4·颜色2		1		F2_TR004_Head	0		255|255|255|255	1	36|30|26|0	1	188|142|255|94	1.57																		
+16518	Player/Characters/F2/Prefab/F2_TR004_Head.prefab		head	天忍（女）校服T4·颜色3		1		F2_TR004_Head	0		255|255|255|134	1	61|61|61|0	1	204|49|72|94	1.57																		
+16519	Player/Characters/F2/Prefab/F2_TR004_Head.prefab		head	天忍（女）校服T4·颜色4				F2_TR004_Head	1		255|243|213|20	1	255|255|255|0	1	84|84|84|189	1																		
+16520	Player/Characters/F2/Prefab/F2_TR004_Head.prefab		head	天忍（女）校服T4·颜色5																														
+17001	Player/Characters/M2/Prefab/M2_SL001_Head.prefab	167001	head	少林（男）校服T1·颜色1																														
+17002	Player/Characters/M2/Prefab/M2_SL001_Head.prefab	167002	head	少林（男）校服T1·颜色2																														
+17003	Player/Characters/M2/Prefab/M2_SL001_Head.prefab	167003	head	少林（男）校服T1·颜色3																														
+17004	Player/Characters/M2/Prefab/M2_SL001_Head.prefab	167004	head	少林（男）校服T1·颜色4																														
+17005	Player/Characters/M2/Prefab/M2_SL002_Head.prefab	167005	head	少林（男）校服T2·颜色1																														
+17006	Player/Characters/M2/Prefab/M2_SL002_Head.prefab	167006	head	少林（男）校服T2·颜色2																														
+17007	Player/Characters/M2/Prefab/M2_SL002_Head.prefab	167007	head	少林（男）校服T2·颜色3																														
+17008	Player/Characters/M2/Prefab/M2_SL002_Head.prefab	167008	head	少林（男）校服T2·颜色4																														
+17009	Player/Characters/M2/Prefab/M2_SL003_Head.prefab	167009	head	少林（男）校服T3·颜色1																														
+17010	Player/Characters/M2/Prefab/M2_SL003_Head.prefab	167010	head	少林（男）校服T3·颜色2																														
+17011	Player/Characters/M2/Prefab/M2_SL003_Head.prefab	167011	head	少林（男）校服T3·颜色3																														
+17012	Player/Characters/M2/Prefab/M2_SL003_Head.prefab	167012	head	少林（男）校服T3·颜色4																														
+17013	Player/Characters/M2/Prefab/M2_SL001_Head.prefab	167013	head	少林（男）校服T1·颜色5																														
+17014	Player/Characters/M2/Prefab/M2_SL002_Head.prefab	167014	head	少林（男）校服T2·颜色5																														
+17015	Player/Characters/M2/Prefab/M2_SL003_Head.prefab	167015	head	少林（男）校服T3·颜色5																														
+17016	Player/Characters/M2/Prefab/M2_SL004_Head.prefab		head	少林（男）校服T4·颜色1				M2_SL004_Head	1		255|116|116|255	1	154|120|189|255	1	255|54|54|255	1.36																		
+17017	Player/Characters/M2/Prefab/M2_SL004_Head.prefab		head	少林（男）校服T4·颜色2				M2_SL004_Head	1		186|106|82|34	1	189|170|120|29	1	255|195|75|58	1.9																		
+17018	Player/Characters/M2/Prefab/M2_SL004_Head.prefab		head	少林（男）校服T4·颜色3		1		M2_SL004_Head	0		255|255|255|255	1	255|255|255|255	1	255|255|255|255	1																		
+17019	Player/Characters/M2/Prefab/M2_SL004_Head.prefab		head	少林（男）校服T4·颜色4				M2_SL004_Head	1		255|255|255|255	1	127|127|127|255	1.35	234|255|228|255	1.22																		
+17020	Player/Characters/M2/Prefab/M2_SL004_Head.prefab		head	少林（男）校服T4·颜色5																														
+18501	Player/Characters/F2/Prefab/F2_CY001_Head.prefab	168501	head	翠烟（女）校服T1·颜色1																														
+18502	Player/Characters/F2/Prefab/F2_CY001_Head.prefab	168502	head	翠烟（女）校服T1·颜色2																														
+18503	Player/Characters/F2/Prefab/F2_CY001_Head.prefab	168503	head	翠烟（女）校服T1·颜色3																														
+18504	Player/Characters/F2/Prefab/F2_CY001_Head.prefab	168504	head	翠烟（女）校服T1·颜色4																														
+18505	Player/Characters/F2/Prefab/F2_CY002_Head.prefab	168505	head	翠烟（女）校服T2·颜色1																														
+18506	Player/Characters/F2/Prefab/F2_CY002_Head.prefab	168506	head	翠烟（女）校服T2·颜色2																														
+18507	Player/Characters/F2/Prefab/F2_CY002_Head.prefab	168507	head	翠烟（女）校服T2·颜色3																														
+18508	Player/Characters/F2/Prefab/F2_CY002_Head.prefab	168508	head	翠烟（女）校服T2·颜色4																														
+18509	Player/Characters/F2/Prefab/F2_CY003_Head.prefab	168509	head	翠烟（女）校服T3·颜色1																														
+18510	Player/Characters/F2/Prefab/F2_CY003_Head.prefab	168510	head	翠烟（女）校服T3·颜色2																														
+18511	Player/Characters/F2/Prefab/F2_CY003_Head.prefab	168511	head	翠烟（女）校服T3·颜色3																														
+18512	Player/Characters/F2/Prefab/F2_CY003_Head.prefab	168512	head	翠烟（女）校服T3·颜色4																														
+18513	Player/Characters/F2/Prefab/F2_CY001_Head.prefab	168513	head	翠烟（女）校服T1·颜色5																														
+18514	Player/Characters/F2/Prefab/F2_CY002_Head.prefab	168514	head	翠烟（女）校服T2·颜色5																														
+18515	Player/Characters/F2/Prefab/F2_CY003_Head.prefab	168515	head	翠烟（女）校服T3·颜色5																														
+18516	Player/Characters/F2/Prefab/F2_CY004_Head.prefab		head	翠烟（女）校服T4·颜色1		1		F2_CY004_Head	0		255|255|255|41	1	84|67|67|176	1	208|255|163|26	1																		
+18517	Player/Characters/F2/Prefab/F2_CY004_Head.prefab		head	翠烟（女）校服T4·颜色2		1		F2_CY004_Head	0		255|255|255|41	1	84|67|67|176	1	103|223|255|26	1.25																		
+18518	Player/Characters/F2/Prefab/F2_CY004_Head.prefab		head	翠烟（女）校服T4·颜色3		1		F2_CY004_Head	0		255|255|255|41	1	84|67|67|176	1	150|136|255|26	1.41																		
+18519	Player/Characters/F2/Prefab/F2_CY004_Head.prefab		head	翠烟（女）校服T4·颜色4		1		F2_CY004_Head	0		255|255|255|41	1	84|67|67|176	1	243|136|255|26	1.41																		
+18520	Player/Characters/F2/Prefab/F2_CY004_Head.prefab		head	翠烟（女）校服T4·颜色5																														
+19001	Player/Characters/M1/Prefab/M1_TM002_Head.prefab	169001	head	唐门（男）校服T1·颜色1																														
+19002	Player/Characters/M1/Prefab/M1_TM002_Head.prefab	169002	head	唐门（男）校服T1·颜色2																														
+19003	Player/Characters/M1/Prefab/M1_TM002_Head.prefab	169003	head	唐门（男）校服T1·颜色3																														
+19004	Player/Characters/M1/Prefab/M1_TM002_Head.prefab	169004	head	唐门（男）校服T1·颜色4																														
+19005	Player/Characters/M1/Prefab/M1_TM001_Head.prefab	169005	head	唐门（男）校服T2·颜色1																														
+19006	Player/Characters/M1/Prefab/M1_TM001_Head.prefab	169006	head	唐门（男）校服T2·颜色2																														
+19007	Player/Characters/M1/Prefab/M1_TM001_Head.prefab	169007	head	唐门（男）校服T2·颜色3																														
+19008	Player/Characters/M1/Prefab/M1_TM001_Head.prefab	169008	head	唐门（男）校服T2·颜色4																														
+19009	Player/Characters/M1/Prefab/M1_TM003_Head.prefab	169009	head	唐门（男）校服T3·颜色1																														
+19010	Player/Characters/M1/Prefab/M1_TM003_Head.prefab	169010	head	唐门（男）校服T3·颜色2																														
+19011	Player/Characters/M1/Prefab/M1_TM003_Head.prefab	169011	head	唐门（男）校服T3·颜色3																														
+19012	Player/Characters/M1/Prefab/M1_TM003_Head.prefab	169012	head	唐门（男）校服T3·颜色4																														
+19013	Player/Characters/M1/Prefab/M1_TM002_Head.prefab	169013	head	唐门（男）校服T1·颜色5																														
+19014	Player/Characters/M1/Prefab/M1_TM001_Head.prefab	169014	head	唐门（男）校服T2·颜色5																														
+19015	Player/Characters/M1/Prefab/M1_TM003_Head.prefab	169015	head	唐门（男）校服T3·颜色5																														
+19016	Player/Characters/M1/Prefab/M1_TM004_Head.prefab		head	唐门（男）校服T4·颜色1		1		M1_TM004_Head	0		176|176|176|166	1	35|31|26|61	1	255|255|255|120	1																		
+19017	Player/Characters/M1/Prefab/M1_TM004_Head.prefab		head	唐门（男）校服T4·颜色2		1		M1_TM004_Head	0		238|224|204|134	1	36|31|26|39	1	251|73|73|180	1																		
+19018	Player/Characters/M1/Prefab/M1_TM004_Head.prefab		head	唐门（男）校服T4·颜色3				M1_TM004_Head	1		243|192|116|134	1	59|52|45|39	1	191|180|150|180	1																		
+19019	Player/Characters/M1/Prefab/M1_TM004_Head.prefab		head	唐门（男）校服T4·颜色4				M1_TM004_Head	1		205|218|232|134	1	52|40|30|48	1.17	117|217|113|180	1.19																		
+19020	Player/Characters/M1/Prefab/M1_TM004_Head.prefab		head	唐门（男）校服T4·颜色5																														
+20001	Player/Characters/M2/Prefab/M2_KL001_Head.prefab		head	昆仑（男）校服T1·颜色1		1		M2_KL001_Head	0		255|255|255|21	1	48|44|39|42	1	255|255|255|45	1																		
+20002	Player/Characters/M2/Prefab/M2_KL001_Head.prefab		head	昆仑（男）校服T1·颜色2				M2_KL001_Head	1		245|193|101|55	1	48|44|39|42	1	59|55|46|139	1																		
+20003	Player/Characters/M2/Prefab/M2_KL001_Head.prefab		head	昆仑（男）校服T1·颜色3				M2_KL001_Head	1		255|239|211|55	1	48|44|39|42	1	86|171|243|58	1																		
+20004	Player/Characters/M2/Prefab/M2_KL001_Head.prefab		head	昆仑（男）校服T1·颜色4				M2_KL001_Head	1		255|250|240|55	1	48|44|39|42	1	249|219|141|58	1																		
+20005	Player/Characters/M2/Prefab/M2_KL002_Head.prefab		head	昆仑（男）校服T2·颜色1		1		M2_KL002_Head	0		255|255|255|117	1	116|111|85|169	1	59|50|46|0	1																		
+20006	Player/Characters/M2/Prefab/M2_KL002_Head.prefab		head	昆仑（男）校服T2·颜色2				M2_KL002_Head	1		255|187|103|117	1	116|111|85|169	1	59|50|46|0	1																		
+20007	Player/Characters/M2/Prefab/M2_KL002_Head.prefab		head	昆仑（男）校服T2·颜色3				M2_KL002_Head	1		255|215|131|117	1	116|111|85|169	1	59|50|46|0	1																		
+20008	Player/Characters/M2/Prefab/M2_KL002_Head.prefab		head	昆仑（男）校服T2·颜色4				M2_KL002_Head	1		164|255|255|117	1	116|111|85|169	1	59|50|46|0	1																		
+20009	Player/Characters/M2/Prefab/M2_KL003_Head.prefab		head	昆仑（男）校服T3·颜色1		1		M2_KL003_Head	0		255|255|255|96	1	58|52|49|40	1	255|255|255|255	1																		
+20010	Player/Characters/M2/Prefab/M2_KL003_Head.prefab		head	昆仑（男）校服T3·颜色2				M2_KL003_Head	1		234|255|255|96	1	58|52|49|40	1	97|33|37|88	1																		
+20011	Player/Characters/M2/Prefab/M2_KL003_Head.prefab		head	昆仑（男）校服T3·颜色3				M2_KL003_Head	1		166|238|238|88	1	58|52|49|40	1	34|72|95|88	1																		
+20012	Player/Characters/M2/Prefab/M2_KL003_Head.prefab		head	昆仑（男）校服T3·颜色4				M2_KL003_Head	1		255|229|144|88	1	58|52|49|40	1	34|95|95|88	1																		
+20013	Player/Characters/M2/Prefab/M2_KL001_Head.prefab		head	昆仑（男）校服T1·颜色5				M2_KL001_Head	1		255|250|240|55	1	48|44|39|42	1	136|20|37|107	1																		
+20014	Player/Characters/M2/Prefab/M2_KL002_Head.prefab		head	昆仑（男）校服T2·颜色5				M2_KL002_Head	1		249|183|84|117	1	116|111|85|169	1	59|50|46|0	1																		
+20015	Player/Characters/M2/Prefab/M2_KL003_Head.prefab		head	昆仑（男）校服T3·颜色5				M2_KL003_Head	1		237|255|255|35	1	58|52|49|40	1	225|179|97|88	1																		
+20016	Player/Characters/M2/Prefab/M2_KL004_Head.prefab		head	昆仑（男）校服T4·颜色1		1		M2_KL004_Head	0		255|255|255|86	1	255|255|255|255	1	26|21|21|97	1																		
+20017	Player/Characters/M2/Prefab/M2_KL004_Head.prefab		head	昆仑（男）校服T4·颜色2				M2_KL004_Head	1		255|177|106|74	1	255|255|255|125	1	46|42|38|0	1																		
+20018	Player/Characters/M2/Prefab/M2_KL004_Head.prefab		head	昆仑（男）校服T4·颜色3				M2_KL004_Head	1		255|207|145|74	1	255|255|255|125	1	46|42|38|0	1																		
+20019	Player/Characters/M2/Prefab/M2_KL004_Head.prefab		head	昆仑（男）校服T4·颜色4				M2_KL004_Head	1		251|226|193|74	1	255|255|255|125	1	46|42|38|0	1																		
+20020	Player/Characters/M2/Prefab/M2_KL004_Head.prefab		head	昆仑（男）校服T4·颜色5																														
+20501	Player/Characters/F2/Prefab/F2_KL001_Head.prefab	170501	head	昆仑（女）校服T1·颜色1																														
+20502	Player/Characters/F2/Prefab/F2_KL001_Head.prefab	170502	head	昆仑（女）校服T1·颜色2																														
+20503	Player/Characters/F2/Prefab/F2_KL001_Head.prefab	170503	head	昆仑（女）校服T1·颜色3																														
+20504	Player/Characters/F2/Prefab/F2_KL001_Head.prefab	170504	head	昆仑（女）校服T1·颜色4																														
+20505	Player/Characters/F2/Prefab/F2_KL002_Head.prefab	170505	head	昆仑（女）校服T2·颜色1																														
+20506	Player/Characters/F2/Prefab/F2_KL002_Head.prefab	170506	head	昆仑（女）校服T2·颜色2																														
+20507	Player/Characters/F2/Prefab/F2_KL002_Head.prefab	170507	head	昆仑（女）校服T2·颜色3																														
+20508	Player/Characters/F2/Prefab/F2_KL002_Head.prefab	170508	head	昆仑（女）校服T2·颜色4																														
+20509	Player/Characters/F2/Prefab/F2_KL003_Head.prefab	170509	head	昆仑（女）校服T3·颜色1																														
+20510	Player/Characters/F2/Prefab/F2_KL003_Head.prefab	170510	head	昆仑（女）校服T3·颜色2																														
+20511	Player/Characters/F2/Prefab/F2_KL003_Head.prefab	170511	head	昆仑（女）校服T3·颜色3																														
+20512	Player/Characters/F2/Prefab/F2_KL003_Head.prefab	170512	head	昆仑（女）校服T3·颜色4																														
+20513	Player/Characters/F2/Prefab/F2_KL001_Head.prefab	170513	head	昆仑（女）校服T1·颜色5																														
+20514	Player/Characters/F2/Prefab/F2_KL002_Head.prefab	170514	head	昆仑（女）校服T2·颜色5																														
+20515	Player/Characters/F2/Prefab/F2_KL003_Head.prefab	170515	head	昆仑（女）校服T3·颜色5																														
+20516	Player/Characters/F2/Prefab/F2_KL004_Head.prefab		head	昆仑（女）校服T4·颜色1		1		F2_KL004_Head	0		255|255|255|105	1	255|255|255|39	1	255|255|255|0	1																		
+20517	Player/Characters/F2/Prefab/F2_KL004_Head.prefab		head	昆仑（女）校服T4·颜色2		1		F2_KL004_Head	0		232|127|255|239	1.41	61|61|61|117	1	255|255|255|101	1																		
+20518	Player/Characters/F2/Prefab/F2_KL004_Head.prefab		head	昆仑（女）校服T4·颜色3				F2_KL004_Head	1		255|255|255|239	1	61|61|61|117	1	255|255|255|101	1																		
+20519	Player/Characters/F2/Prefab/F2_KL004_Head.prefab		head	昆仑（女）校服T4·颜色4		1		F2_KL004_Head	0		238|255|161|239	1	61|61|61|117	1	255|255|255|101	1																		
+20520	Player/Characters/F2/Prefab/F2_KL004_Head.prefab		head	昆仑（女）校服T4·颜色5																														
+21001	Player/Characters/M2/Prefab/M2_GB001_Head.prefab	171001	head	丐帮（男）校服T1·颜色1																														
+21002	Player/Characters/M2/Prefab/M2_GB001_Head.prefab	171002	head	丐帮（男）校服T1·颜色2																														
+21003	Player/Characters/M2/Prefab/M2_GB001_Head.prefab	171003	head	丐帮（男）校服T1·颜色3																														
+21004	Player/Characters/M2/Prefab/M2_GB001_Head.prefab	171004	head	丐帮（男）校服T1·颜色4																														
+21005	Player/Characters/M2/Prefab/M2_GB002_Head.prefab	171005	head	丐帮（男）校服T2·颜色1																														
+21006	Player/Characters/M2/Prefab/M2_GB002_Head.prefab	171006	head	丐帮（男）校服T2·颜色2																														
+21007	Player/Characters/M2/Prefab/M2_GB002_Head.prefab	171007	head	丐帮（男）校服T2·颜色3																														
+21008	Player/Characters/M2/Prefab/M2_GB002_Head.prefab	171008	head	丐帮（男）校服T2·颜色4																														
+21009	Player/Characters/M2/Prefab/M2_GB003_Head.prefab	171009	head	丐帮（男）校服T3·颜色1																														
+21010	Player/Characters/M2/Prefab/M2_GB003_Head.prefab	171010	head	丐帮（男）校服T3·颜色2																														
+21011	Player/Characters/M2/Prefab/M2_GB003_Head.prefab	171011	head	丐帮（男）校服T3·颜色3																														
+21012	Player/Characters/M2/Prefab/M2_GB003_Head.prefab	171012	head	丐帮（男）校服T3·颜色4																														
+21013	Player/Characters/M2/Prefab/M2_GB001_Head.prefab	171013	head	丐帮（男）校服T1·颜色5																														
+21014	Player/Characters/M2/Prefab/M2_GB002_Head.prefab	171014	head	丐帮（男）校服T2·颜色5																														
+21015	Player/Characters/M2/Prefab/M2_GB003_Head.prefab	171015	head	丐帮（男）校服T3·颜色5																														
+21016	Player/Characters/M2/Prefab/M2_GB004_Head.prefab		head	丐帮（男）校服T4·颜色1		1		M2_GB004_Head	0		255|255|255|143	1	66|57|57|0	1	255|255|255|88	1																		
+21017	Player/Characters/M2/Prefab/M2_GB004_Head.prefab		head	丐帮（男）校服T4·颜色2		1		M2_GB004_Head	0		255|255|255|43	1	208|208|208|0	1	73|216|244|172	1																		
+21018	Player/Characters/M2/Prefab/M2_GB004_Head.prefab		head	丐帮（男）校服T4·颜色3				M2_GB004_Head	1		255|255|255|143	1	39|39|39|0	1	255|208|86|88	2.4																		
+21019	Player/Characters/M2/Prefab/M2_GB004_Head.prefab		head	丐帮（男）校服T4·颜色4				M2_GB004_Head	1		255|255|255|143	1	39|39|39|0	1	255|208|86|88	2.4																		
+21020	Player/Characters/M2/Prefab/M2_GB004_Head.prefab		head	丐帮（男）校服T4·颜色5																														
+22501	Player/Characters/F1/Prefab/F1_WD001_Head.prefab	172501	head	五毒（女）校服T1·颜色1																														
+22502	Player/Characters/F1/Prefab/F1_WD001_Head.prefab	172502	head	五毒（女）校服T1·颜色2																														
+22503	Player/Characters/F1/Prefab/F1_WD001_Head.prefab	172503	head	五毒（女）校服T1·颜色3																														
+22504	Player/Characters/F1/Prefab/F1_WD001_Head.prefab	172504	head	五毒（女）校服T1·颜色4																														
+22505	Player/Characters/F1/Prefab/F1_WD002_Head.prefab	172505	head	五毒（女）校服T2·颜色1																														
+22506	Player/Characters/F1/Prefab/F1_WD002_Head.prefab	172506	head	五毒（女）校服T2·颜色2																														
+22507	Player/Characters/F1/Prefab/F1_WD002_Head.prefab	172507	head	五毒（女）校服T2·颜色3																														
+22508	Player/Characters/F1/Prefab/F1_WD002_Head.prefab	172508	head	五毒（女）校服T2·颜色4																														
+22509	Player/Characters/F1/Prefab/F1_WD003_Head.prefab	172509	head	五毒（女）校服T3·颜色1																														
+22510	Player/Characters/F1/Prefab/F1_WD003_Head.prefab	172510	head	五毒（女）校服T3·颜色2																														
+22511	Player/Characters/F1/Prefab/F1_WD003_Head.prefab	172511	head	五毒（女）校服T3·颜色3																														
+22512	Player/Characters/F1/Prefab/F1_WD003_Head.prefab	172512	head	五毒（女）校服T3·颜色4																														
+22513	Player/Characters/F1/Prefab/F1_WD001_Head.prefab	172513	head	五毒（女）校服T1·颜色5																														
+22514	Player/Characters/F1/Prefab/F1_WD002_Head.prefab	172514	head	五毒（女）校服T2·颜色5																														
+22515	Player/Characters/F1/Prefab/F1_WD003_Head.prefab	172515	head	五毒（女）校服T3·颜色5																														
+22516	Player/Characters/F1/Prefab/F1_WD004_Head.prefab		head	五毒（女）校服T4·颜色1		1		F1_WD004_Head	0		255|255|255|24	1	36|30|26|0	1	255|255|255|121	1																		
+22517	Player/Characters/F1/Prefab/F1_WD004_Head.prefab		head	五毒（女）校服T4·颜色2				F1_WD004_Head	1		251|231|151|37	1	36|30|26|0	1	255|0|58|121	1																		
+22518	Player/Characters/F1/Prefab/F1_WD004_Head.prefab		head	五毒（女）校服T4·颜色3				F1_WD004_Head	1		255|226|178|37	1	36|30|26|0	1	93|0|255|121	2.51																		
+22519	Player/Characters/F1/Prefab/F1_WD004_Head.prefab		head	五毒（女）校服T4·颜色4				F1_WD004_Head	1		255|255|255|37	1	36|30|26|0	1	37|51|99|121	2.51																		
+22520	Player/Characters/F1/Prefab/F1_WD004_Head.prefab		head	五毒（女）校服T4·颜色5																														
+23001	Player/Characters/M1/Prefab/M1_CJ001_Head.prefab	173001	head	藏剑（男）校服T1·颜色1																														
+23002	Player/Characters/M1/Prefab/M1_CJ001_Head.prefab	173002	head	藏剑（男）校服T1·颜色2																														
+23003	Player/Characters/M1/Prefab/M1_CJ001_Head.prefab	173003	head	藏剑（男）校服T1·颜色3																														
+23004	Player/Characters/M1/Prefab/M1_CJ001_Head.prefab	173004	head	藏剑（男）校服T1·颜色4																														
+23005	Player/Characters/M1/Prefab/M1_CJ002_Head.prefab	173005	head	藏剑（男）校服T2·颜色1																														
+23006	Player/Characters/M1/Prefab/M1_CJ002_Head.prefab	173006	head	藏剑（男）校服T2·颜色2																														
+23007	Player/Characters/M1/Prefab/M1_CJ002_Head.prefab	173007	head	藏剑（男）校服T2·颜色3																														
+23008	Player/Characters/M1/Prefab/M1_CJ002_Head.prefab	173008	head	藏剑（男）校服T2·颜色4																														
+23009	Player/Characters/M1/Prefab/M1_CJ003_Head.prefab	173009	head	藏剑（男）校服T3·颜色1																														
+23010	Player/Characters/M1/Prefab/M1_CJ003_Head.prefab	173010	head	藏剑（男）校服T3·颜色2																														
+23011	Player/Characters/M1/Prefab/M1_CJ003_Head.prefab	173011	head	藏剑（男）校服T3·颜色3																														
+23012	Player/Characters/M1/Prefab/M1_CJ003_Head.prefab	173012	head	藏剑（男）校服T3·颜色4																														
+23013	Player/Characters/M1/Prefab/M1_CJ001_Head.prefab	173013	head	藏剑（男）校服T1·颜色5																														
+23014	Player/Characters/M1/Prefab/M1_CJ002_Head.prefab	173014	head	藏剑（男）校服T2·颜色5																														
+23015	Player/Characters/M1/Prefab/M1_CJ003_Head.prefab	173015	head	藏剑（男）校服T3·颜色5																														
+23016	Player/Characters/M1/Prefab/M1_CJ004_Head.prefab		head	藏剑（男）校服T4·颜色1		1		M1_CJ004_Head	0		255|255|255|72	1	243|203|166|45	1	48|39|34|45	1																		
+23017	Player/Characters/M1/Prefab/M1_CJ004_Head.prefab		head	藏剑（男）校服T4·颜色2				M1_CJ004_Head	1		163|141|101|78	1.32	228|126|102|45	1	58|55|56|45	1																		
+23018	Player/Characters/M1/Prefab/M1_CJ004_Head.prefab		head	藏剑（男）校服T4·颜色3				M1_CJ004_Head	1		206|189|159|50	1.32	102|119|228|45	1	58|58|58|5	1																		
+23019	Player/Characters/M1/Prefab/M1_CJ004_Head.prefab		head	藏剑（男）校服T4·颜色4				M1_CJ004_Head	1		93|168|187|50	1.32	102|119|228|45	1	63|59|52|5	1.26																		
+23020	Player/Characters/M1/Prefab/M1_CJ004_Head.prefab		head	藏剑（男）校服T4·颜色5																														
+24501	Player/Characters/F2/Prefab/F2_CG001_Head.prefab	174501	head	长歌（女）校服T1·颜色1																														
+24502	Player/Characters/F2/Prefab/F2_CG001_Head.prefab	174502	head	长歌（女）校服T1·颜色2																														
+24503	Player/Characters/F2/Prefab/F2_CG001_Head.prefab	174503	head	长歌（女）校服T1·颜色3																														
+24504	Player/Characters/F2/Prefab/F2_CG001_Head.prefab	174504	head	长歌（女）校服T1·颜色4																														
+24505	Player/Characters/F2/Prefab/F2_CG002_Head.prefab	174505	head	长歌（女）校服T2·颜色1																														
+24506	Player/Characters/F2/Prefab/F2_CG002_Head.prefab	174506	head	长歌（女）校服T2·颜色2																														
+24507	Player/Characters/F2/Prefab/F2_CG002_Head.prefab	174507	head	长歌（女）校服T2·颜色3																														
+24508	Player/Characters/F2/Prefab/F2_CG002_Head.prefab	174508	head	长歌（女）校服T2·颜色4																														
+24509	Player/Characters/F2/Prefab/F2_CG003_Head.prefab	174509	head	长歌（女）校服T3·颜色1																														
+24510	Player/Characters/F2/Prefab/F2_CG003_Head.prefab	174510	head	长歌（女）校服T3·颜色2																														
+24511	Player/Characters/F2/Prefab/F2_CG003_Head.prefab	174511	head	长歌（女）校服T3·颜色3																														
+24512	Player/Characters/F2/Prefab/F2_CG003_Head.prefab	174512	head	长歌（女）校服T3·颜色4																														
+24513	Player/Characters/F2/Prefab/F2_CG001_Head.prefab	174513	head	长歌（女）校服T1·颜色5																														
+24514	Player/Characters/F2/Prefab/F2_CG002_Head.prefab	174514	head	长歌（女）校服T2·颜色5																														
+24515	Player/Characters/F2/Prefab/F2_CG003_Head.prefab	174515	head	长歌（女）校服T3·颜色5																														
+24516	Player/Characters/F2/Prefab/F2_CG004_Head.prefab		head	长歌（女）校服T4·颜色1		1		F2_CG004_Head	0		255|255|255|21	1	78|78|78|106	1	255|255|255|59	1																		
+24517	Player/Characters/F2/Prefab/F2_CG004_Head.prefab		head	长歌（女）校服T4·颜色2		1		F2_CG004_Head	0		255|255|255|21	1	89|80|78|102	1	251|118|118|59	1																		
+24518	Player/Characters/F2/Prefab/F2_CG004_Head.prefab		head	长歌（女）校服T4·颜色3		1		F2_CG004_Head	0		255|255|255|21	1	89|80|78|102	1	112|243|255|59	1																		
+24519	Player/Characters/F2/Prefab/F2_CG004_Head.prefab		head	长歌（女）校服T4·颜色4		1		F2_CG004_Head	0		255|255|255|21	1	89|80|78|102	1	135|255|112|176	1.19																		
+24520	Player/Characters/F2/Prefab/F2_CG004_Head.prefab		head	长歌（女）校服T4·颜色5																														
+25001	Player/Characters/M1/Prefab/M1_TS003_Head.prefab	175001	head	天山（男）校服T1·颜色1																														
+25002	Player/Characters/M1/Prefab/M1_TS003_Head.prefab	175002	head	天山（男）校服T1·颜色2																														
+25003	Player/Characters/M1/Prefab/M1_TS003_Head.prefab	175003	head	天山（男）校服T1·颜色3																														
+25004	Player/Characters/M1/Prefab/M1_TS003_Head.prefab	175004	head	天山（男）校服T1·颜色4																														
+25005	Player/Characters/M1/Prefab/M1_TS002_Head.prefab	175005	head	天山（男）校服T2·颜色1																														
+25006	Player/Characters/M1/Prefab/M1_TS002_Head.prefab	175006	head	天山（男）校服T2·颜色2																														
+25007	Player/Characters/M1/Prefab/M1_TS002_Head.prefab	175007	head	天山（男）校服T2·颜色3																														
+25008	Player/Characters/M1/Prefab/M1_TS002_Head.prefab	175008	head	天山（男）校服T2·颜色4																														
+25009	Player/Characters/M1/Prefab/M1_TS001_Head.prefab	175009	head	天山（男）校服T3·颜色1																														
+25010	Player/Characters/M1/Prefab/M1_TS001_Head.prefab	175010	head	天山（男）校服T3·颜色2																														
+25011	Player/Characters/M1/Prefab/M1_TS001_Head.prefab	175011	head	天山（男）校服T3·颜色3																														
+25012	Player/Characters/M1/Prefab/M1_TS001_Head.prefab	175012	head	天山（男）校服T3·颜色4																														
+25013	Player/Characters/M1/Prefab/M1_TS003_Head.prefab	175013	head	天山（男）校服T1·颜色5																														
+25014	Player/Characters/M1/Prefab/M1_TS002_Head.prefab	175014	head	天山（男）校服T2·颜色5																														
+25015	Player/Characters/M1/Prefab/M1_TS001_Head.prefab	175015	head	天山（男）校服T3·颜色5																														
+25016	Player/Characters/M1/Prefab/M1_TS004_Head.prefab		head	天山（男）校服T4·颜色1		1		M1_TS004_Head	0		228|228|228|51	1	255|226|176|177	2.05	54|43|37|16	1.16																		
+25017	Player/Characters/M1/Prefab/M1_TS004_Head.prefab		head	天山（男）校服T4·颜色2		1		M1_TS004_Head	0		234|232|160|51	1.19	255|242|219|34	1.55	53|54|58|16	1.16																		
+25018	Player/Characters/M1/Prefab/M1_TS004_Head.prefab		head	天山（男）校服T4·颜色3		1		M1_TS004_Head	0		236|226|147|51	1	255|226|176|53	2.05	178|171|167|16	1.16																		
+25019	Player/Characters/M1/Prefab/M1_TS004_Head.prefab		head	天山（男）校服T4·颜色4		1		M1_TS004_Head	0		243|240|197|32	1.19	109|178|247|34	1.55	227|228|220|0	1.16																		
+25020	Player/Characters/M1/Prefab/M1_TS004_Head.prefab		head	天山（男）校服T4·颜色5																														
+25501	Player/Characters/F2/Prefab/F2_TS003_Head.prefab	175501	head	天山（女）校服T1·颜色1																														
+25502	Player/Characters/F2/Prefab/F2_TS003_Head.prefab	175502	head	天山（女）校服T1·颜色2																														
+25503	Player/Characters/F2/Prefab/F2_TS003_Head.prefab	175503	head	天山（女）校服T1·颜色3																														
+25504	Player/Characters/F2/Prefab/F2_TS003_Head.prefab	175504	head	天山（女）校服T1·颜色4																														
+25505	Player/Characters/F2/Prefab/F2_TS002_Head.prefab	175505	head	天山（女）校服T2·颜色1																														
+25506	Player/Characters/F2/Prefab/F2_TS002_Head.prefab	175506	head	天山（女）校服T2·颜色2																														
+25507	Player/Characters/F2/Prefab/F2_TS002_Head.prefab	175507	head	天山（女）校服T2·颜色3																														
+25508	Player/Characters/F2/Prefab/F2_TS002_Head.prefab	175508	head	天山（女）校服T2·颜色4																														
+25509	Player/Characters/F2/Prefab/F2_TS001_Head.prefab	175509	head	天山（女）校服T3·颜色1																														
+25510	Player/Characters/F2/Prefab/F2_TS001_Head.prefab	175510	head	天山（女）校服T3·颜色2																														
+25511	Player/Characters/F2/Prefab/F2_TS001_Head.prefab	175511	head	天山（女）校服T3·颜色3																														
+25512	Player/Characters/F2/Prefab/F2_TS001_Head.prefab	175512	head	天山（女）校服T3·颜色4																														
+25513	Player/Characters/F2/Prefab/F2_TS003_Head.prefab	175513	head	天山（女）校服T1·颜色5																														
+25514	Player/Characters/F2/Prefab/F2_TS002_Head.prefab	175514	head	天山（女）校服T2·颜色5																														
+25515	Player/Characters/F2/Prefab/F2_TS001_Head.prefab	175515	head	天山（女）校服T3·颜色5																														
+25516	Player/Characters/F2/Prefab/F2_TS004_Head.prefab		head	天山（女）校服T4·颜色1		1		F2_TS004_Head	0		255|255|255|255	1	58|55|53|93	1	208|225|255|255	1																		
+25517	Player/Characters/F2/Prefab/F2_TS004_Head.prefab		head	天山（女）校服T4·颜色2		1		F2_TS004_Head	0		255|255|255|255	1	35|19|10|255	1	255|202|213|255	1																		
+25518	Player/Characters/F2/Prefab/F2_TS004_Head.prefab		head	天山（女）校服T4·颜色3		1		F2_TS004_Head	0		219|247|255|255	1.25	41|16|16|255	1	255|246|210|255	1.1																		
+25519	Player/Characters/F2/Prefab/F2_TS004_Head.prefab		head	天山（女）校服T4·颜色4		1		F2_TS004_Head	0		219|247|255|255	1.25	52|21|21|255	1	255|255|255|255	1																		
+25520	Player/Characters/F2/Prefab/F2_TS004_Head.prefab		head	天山（女）校服T4·颜色5																														
+26001	Player/Characters/M2/Prefab/M2_BD001_Head.prefab		head	霸刀（男）校服T1·颜色1		1		M2_BD001_Head	0		255|255|255|255	1	255|255|255|0	1	221|221|221|97	1																		
+26002	Player/Characters/M2/Prefab/M2_BD001_Head.prefab		head	霸刀（男）校服T1·颜色2		1		M2_BD001_Head	0		255|112|112|255	1	20|18|18|0	1	104|85|73|97	1																		
+26003	Player/Characters/M2/Prefab/M2_BD001_Head.prefab		head	霸刀（男）校服T1·颜色3				M2_BD001_Head	1		133|133|133|255	1	20|18|18|0	1	73|87|104|97	1																		
+26004	Player/Characters/M2/Prefab/M2_BD001_Head.prefab		head	霸刀（男）校服T1·颜色4				M2_BD001_Head	1		206|142|255|255	1	255|255|255|0	1	221|221|221|97	1																		
+26005	Player/Characters/M2/Prefab/M2_BD002_Head.prefab		head	霸刀（男）校服T2·颜色1		1		M2_BD002_Head	0		255|255|255|255	1	255|255|255|0	1	255|255|255|255	1																		
+26006	Player/Characters/M2/Prefab/M2_BD002_Head.prefab		head	霸刀（男）校服T2·颜色2				M2_BD002_Head	1		255|174|0|255	1.43	41|41|41|0	1	255|119|119|91	1																		
+26007	Player/Characters/M2/Prefab/M2_BD002_Head.prefab		head	霸刀（男）校服T2·颜色3				M2_BD002_Head	1		82|83|255|255	1	255|255|255|0	1	255|255|255|255	1																		
+26008	Player/Characters/M2/Prefab/M2_BD002_Head.prefab		head	霸刀（男）校服T2·颜色4				M2_BD002_Head	1		255|82|82|255	1	255|255|255|0	1	255|255|255|255	1																		
+26009	Player/Characters/M2/Prefab/M2_BD003_Head.prefab		head	霸刀（男）校服T3·颜色1		1		M2_BD003_Head	0		255|255|255|255	1	255|255|255|0	1	255|255|255|125	1																		
+26010	Player/Characters/M2/Prefab/M2_BD003_Head.prefab		head	霸刀（男）校服T3·颜色2				M2_BD003_Head	1		39|165|255|255	1	46|46|46|24	1	41|51|65|190	1																		
+26011	Player/Characters/M2/Prefab/M2_BD003_Head.prefab		head	霸刀（男）校服T3·颜色3				M2_BD003_Head	1		75|118|84|255	1	46|46|46|24	1	44|28|28|190	1																		
+26012	Player/Characters/M2/Prefab/M2_BD003_Head.prefab		head	霸刀（男）校服T3·颜色4				M2_BD003_Head	1		255|0|0|255	1	255|255|255|24	1	255|255|255|0	1																		
+26013	Player/Characters/M2/Prefab/M2_BD001_Head.prefab		head	霸刀（男）校服T1·颜色5				M2_BD001_Head	1		112|148|255|255	2.13	28|28|28|0	1	95|89|127|97	1																		
+26014	Player/Characters/M2/Prefab/M2_BD002_Head.prefab		head	霸刀（男）校服T2·颜色5				M2_BD002_Head	1		93|99|0|255	1.43	41|41|41|0	1	174|174|174|91	1																		
+26015	Player/Characters/M2/Prefab/M2_BD003_Head.prefab		head	霸刀（男）校服T3·颜色5		1		M2_BD003_Head	0		48|48|48|255	1	255|255|255|0	1	255|255|255|125	1																		
+26016	Player/Characters/M2/Prefab/M2_BD004_Head.prefab		head	霸刀（男）校服T4·颜色1		1		M2_BD004_Head	0		255|255|255|255	1	255|255|255|0	1	255|255|255|171	1																		
+26017	Player/Characters/M2/Prefab/M2_BD004_Head.prefab		head	霸刀（男）校服T4·颜色2				M2_BD004_Head	1		129|220|228|255	1	39|39|39|0	1	168|79|39|171	1																		
+26018	Player/Characters/M2/Prefab/M2_BD004_Head.prefab		head	霸刀（男）校服T4·颜色3				M2_BD004_Head	1		58|173|255|255	1.41	39|39|39|0	1	168|79|39|171	1																		
+26019	Player/Characters/M2/Prefab/M2_BD004_Head.prefab		head	霸刀（男）校服T4·颜色4				M2_BD004_Head	1		138|58|255|255	1.41	39|39|39|0	1	168|79|39|171	1																		
+26501	Player/Characters/F1/Prefab/F1_BD001_Head.prefab		head	霸刀（女）校服T1·颜色1		1		F1_BD001_head	0		255|233|176|47	1.08	255|255|255|29	1	255|255|255|71	1																		
+26502	Player/Characters/F1/Prefab/F1_BD001_Head.prefab		head	霸刀（女）校服T1·颜色2		1		F1_BD001_head	0		255|255|255|72	1	74|63|56|104	1	255|255|255|71	1																		
+26503	Player/Characters/F1/Prefab/F1_BD001_Head.prefab		head	霸刀（女）校服T1·颜色3				F1_BD001_head	1		255|255|255|179	1	71|58|47|169	1	255|234|118|147	1.72																		
+26504	Player/Characters/F1/Prefab/F1_BD001_Head.prefab		head	霸刀（女）校服T1·颜色4				F1_BD001_head	1		255|211|0|88	1.41	78|73|72|137	1	255|101|193|130	1.91																		
+26505	Player/Characters/F1/Prefab/F1_BD002_Head.prefab		head	霸刀（女）校服T2·颜色1		1		F1_BD002_Head	0		255|255|255|45	1	255|255|255|97	1	255|255|255|142	1																		
+26506	Player/Characters/F1/Prefab/F1_BD002_Head.prefab		head	霸刀（女）校服T2·颜色2				F1_BD002_Head	1		78|73|71|141	1	255|255|255|97	1	255|218|65|225	1.29																		
+26507	Player/Characters/F1/Prefab/F1_BD002_Head.prefab		head	霸刀（女）校服T2·颜色3				F1_BD002_Head	1		78|73|71|141	1	255|255|255|97	1	95|89|255|225	1.29																		
+26508	Player/Characters/F1/Prefab/F1_BD002_Head.prefab		head	霸刀（女）校服T2·颜色4				F1_BD002_Head	1		78|73|71|141	1	255|255|255|97	1	255|110|155|225	1.29																		
+26509	Player/Characters/F1/Prefab/F1_BD003_Head.prefab		head	霸刀（女）校服T3·颜色1		1		F1_BD003_Head	0		255|255|255|187	1	255|255|255|48	1	255|255|255|134	1																		
+26510	Player/Characters/F1/Prefab/F1_BD003_Head.prefab		head	霸刀（女）校服T3·颜色2		1		F1_BD003_Head	0		255|255|255|129	1	74|65|63|106	1	255|255|255|134	1																		
+26511	Player/Characters/F1/Prefab/F1_BD003_Head.prefab		head	霸刀（女）校服T3·颜色3				F1_BD003_Head	1		255|240|127|129	1.14	82|76|72|106	1	255|255|255|134	1																		
+26512	Player/Characters/F1/Prefab/F1_BD003_Head.prefab		head	霸刀（女）校服T3·颜色4		1		F1_BD003_Head	0		255|255|255|129	1	74|65|63|106	1	255|255|255|134	1																		
+26513	Player/Characters/F1/Prefab/F1_BD001_Head.prefab		head	霸刀（女）校服T1·颜色5				F1_BD001_head	1		255|255|255|239	1	82|72|59|146	1	112|148|255|176	2.08																		
+26514	Player/Characters/F1/Prefab/F1_BD002_Head.prefab		head	霸刀（女）校服T2·颜色5				F1_BD002_Head	1		78|73|71|141	1	255|255|255|97	1	255|65|65|225	1.29																		
+26515	Player/Characters/F1/Prefab/F1_BD003_Head.prefab		head	霸刀（女）校服T3·颜色5		1		F1_BD003_Head	0		255|165|174|129	1.05	74|65|63|106	1	255|255|255|134	1																		
+26516	Player/Characters/F1/Prefab/F1_BD004_Head.prefab		head	霸刀（女）校服T4·颜色1		1		F1_BD004_Head	0		255|255|255|121	1	88|76|73|155	1	165|234|255|201	1.76																		
+26517	Player/Characters/F1/Prefab/F1_BD004_Head.prefab		head	霸刀（女）校服T4·颜色2				F1_BD004_Head	1		255|255|255|7	1	255|255|255|42	1	106|107|255|185	2																		
+26518	Player/Characters/F1/Prefab/F1_BD004_Head.prefab		head	霸刀（女）校服T4·颜色3				F1_BD004_Head	1		255|255|255|78	1	84|63|81|106	1	154|106|255|185	2.24																		
+26519	Player/Characters/F1/Prefab/F1_BD004_Head.prefab		head	霸刀（女）校服T4·颜色4				F1_BD004_Head	1		255|255|255|71	1	74|60|55|105	1	255|208|56|155	2.19																		
+27001	Player/Characters/M1/Prefab/M1_HS001_Head.prefab		head	华山（男）校服T1·颜色1		1		M1_HS001_Head	0		255|255|255|72	1	255|255|255|179	1	49|42|38|0	1																		
+27002	Player/Characters/M1/Prefab/M1_HS001_Head.prefab		head	华山（男）校服T1·颜色2				M1_HS001_Head	1		255|255|234|42	1	255|255|255|128	1	49|42|38|0	1																		
+27003	Player/Characters/M1/Prefab/M1_HS001_Head.prefab		head	华山（男）校服T1·颜色3				M1_HS001_Head	1		234|242|255|59	1	255|255|255|126	1	49|42|38|0	1																		
+27004	Player/Characters/M1/Prefab/M1_HS001_Head.prefab		head	华山（男）校服T1·颜色4				M1_HS001_Head	1		255|226|165|59	1	255|255|255|94	1	49|42|38|0	1																		
+27005	Player/Characters/M1/Prefab/M1_HS002_Head.prefab		head	华山（男）校服T2·颜色1		1		M1_HS002_Head	0		255|255|255|74	1	255|240|161|155	1	37|31|31|0	1																		
+27006	Player/Characters/M1/Prefab/M1_HS002_Head.prefab		head	华山（男）校服T2·颜色2				M1_HS002_Head	1		230|228|255|91	1	161|161|154|255	1	29|23|23|91	1																		
+27007	Player/Characters/M1/Prefab/M1_HS002_Head.prefab		head	华山（男）校服T2·颜色3				M1_HS002_Head	1		255|204|149|96	1	241|241|241|255	1	28|22|22|72	1																		
+27008	Player/Characters/M1/Prefab/M1_HS002_Head.prefab		head	华山（男）校服T2·颜色4				M1_HS002_Head	1		47|129|178|75	1	255|255|255|109	1	28|24|24|93	1																		
+27009	Player/Characters/M1/Prefab/M1_HS003_Head.prefab		head	华山（男）校服T3·颜色1		1		M1_HS003_Head	0		255|255|255|137	1	247|239|212|110	1	65|55|48|11	1																		
+27010	Player/Characters/M1/Prefab/M1_HS003_Head.prefab		head	华山（男）校服T3·颜色2				M1_HS003_Head	1		251|194|133|102	1.19	247|239|212|110	1	65|55|48|11	1																		
+27011	Player/Characters/M1/Prefab/M1_HS003_Head.prefab		head	华山（男）校服T3·颜色3				M1_HS003_Head	1		253|255|254|31	1.23	247|239|212|110	1	65|55|48|11	1																		
+27012	Player/Characters/M1/Prefab/M1_HS003_Head.prefab		head	华山（男）校服T3·颜色4				M1_HS003_Head	1		213|160|125|69	1.57	247|239|212|110	1	65|55|48|11	1																		
+27013	Player/Characters/M1/Prefab/M1_HS001_Head.prefab		head	华山（男）校服T1·颜色5				M1_HS001_Head	1		255|244|221|51	1	255|255|255|94	1	49|42|38|0	1																		
+27014	Player/Characters/M1/Prefab/M1_HS002_Head.prefab		head	华山（男）校服T2·颜色5				M1_HS002_Head	1		211|46|104|75	1	255|255|255|109	1	28|24|24|93	1																		
+27015	Player/Characters/M1/Prefab/M1_HS003_Head.prefab		head	华山（男）校服T3·颜色5				M1_HS003_Head	1		238|216|194|24	1.42	247|239|212|110	1	65|55|48|11	1																		
+27016	Player/Characters/M1/Prefab/M1_HS004_Head.prefab		head	华山（男）校服T4·颜色1				M1_HS004_Head	1		219|216|211|255	0.75	223|157|75|131	1.04	29|24|21|51	1.4																		
+27017	Player/Characters/M1/Prefab/M1_HS004_Head.prefab		head	华山（男）校服T4·颜色2				M1_HS004_Head	1		168|132|86|110	1.43	223|157|75|131	1	29|24|21|51	1																		
+27018	Player/Characters/M1/Prefab/M1_HS004_Head.prefab		head	华山（男）校服T4·颜色3				M1_HS004_Head	1		255|248|221|136	1	223|157|75|131	1	29|24|21|51	1																		
+27019	Player/Characters/M1/Prefab/M1_HS004_Head.prefab		head	华山（男）校服T4·颜色4				M1_HS004_Head	1		87|201|217|133	1.1	223|157|75|131	1	29|24|21|51	1																		
+27020	Player/Characters/M1/Prefab/M1_HS004_Head.prefab		head	华山（男）校服T4·颜色5																														
+27501	Player/Characters/F2/Prefab/F2_HS001_Head.prefab		head	华山（女）校服T1·颜色1		1		F2_HS001_Head	0		255|240|159|88	1	255|255|255|185	1	54|45|33|0	1																		
+27502	Player/Characters/F2/Prefab/F2_HS001_Head.prefab		head	华山（女）校服T1·颜色2				F2_HS001_Head	1		255|244|183|88	1	255|255|255|185	1	54|45|33|0	1																		
+27503	Player/Characters/F2/Prefab/F2_HS001_Head.prefab		head	华山（女）校服T1·颜色3				F2_HS001_Head	1		255|240|159|88	1	255|255|255|185	1	54|45|33|0	1																		
+27504	Player/Characters/F2/Prefab/F2_HS001_Head.prefab		head	华山（女）校服T1·颜色4				F2_HS001_Head	1		255|252|240|88	1	255|255|255|185	1	54|45|33|0	1																		
+27505	Player/Characters/F2/Prefab/F2_HS002_Head.prefab		head	华山（女）校服T2·颜色1		1		F2_HS002_Head	0		255|232|232|96	1	61|51|47|11	1	255|255|255|255	1																		
+27506	Player/Characters/F2/Prefab/F2_HS002_Head.prefab		head	华山（女）校服T2·颜色2		1		F2_HS002_Head	0		255|232|232|104	1	61|51|47|11	1	255|255|255|255	1																		
+27507	Player/Characters/F2/Prefab/F2_HS002_Head.prefab		head	华山（女）校服T2·颜色3				F2_HS002_Head	1		153|230|251|88	1	61|51|47|11	1	255|255|255|255	1																		
+27508	Player/Characters/F2/Prefab/F2_HS002_Head.prefab		head	华山（女）校服T2·颜色4				F2_HS002_Head	1		179|245|255|118	1	61|51|47|11	1	255|255|255|255	1																		
+27509	Player/Characters/F2/Prefab/F2_HS003_Head.prefab		head	华山（女）校服T3·颜色1		1		F2_HS003_Head	0		255|255|255|18	1	255|255|255|131	1	44|41|36|39	1																		
+27510	Player/Characters/F2/Prefab/F2_HS003_Head.prefab		head	华山（女）校服T3·颜色2				F2_HS003_Head	1		251|255|187|18	1	255|255|255|131	1	44|41|36|39	1																		
+27511	Player/Characters/F2/Prefab/F2_HS003_Head.prefab		head	华山（女）校服T3·颜色3				F2_HS003_Head	1		200|250|255|58	1	255|255|255|131	1	44|41|36|39	1																		
+27512	Player/Characters/F2/Prefab/F2_HS003_Head.prefab		head	华山（女）校服T3·颜色4				F2_HS003_Head	1		230|246|255|102	1	255|255|255|131	1	44|41|36|39	1																		
+27513	Player/Characters/F2/Prefab/F2_HS001_Head.prefab		head	华山（女）校服T1·颜色5				F2_HS001_Head	1		240|255|254|88	1	255|255|255|185	1	54|45|33|0	1																		
+27514	Player/Characters/F2/Prefab/F2_HS002_Head.prefab		head	华山（女）校服T2·颜色5				F2_HS002_Head	1		255|230|165|118	1.03	61|51|47|11	1	255|255|255|255	1																		
+27515	Player/Characters/F2/Prefab/F2_HS003_Head.prefab		head	华山（女）校服T3·颜色5				F2_HS003_Head	1		255|226|189|102	1	255|255|255|131	1	44|41|36|39	1																		
+27516	Player/Characters/F2/Prefab/F2_HS004_Head.prefab		head	华山（女）校服T4·颜色1		1		F2_HS004_Head	0		255|253|240|155	1	41|34|31|23	1	255|255|255|120	1																		
+27517	Player/Characters/F2/Prefab/F2_HS004_Head.prefab		head	华山（女）校服T4·颜色2				F2_HS004_Head	1		168|244|255|155	1	41|34|31|23	1	241|67|193|120	1																		
+27518	Player/Characters/F2/Prefab/F2_HS004_Head.prefab		head	华山（女）校服T4·颜色3				F2_HS004_Head	1		255|228|118|155	1.19	41|34|31|23	1	240|60|104|120	1																		
+27519	Player/Characters/F2/Prefab/F2_HS004_Head.prefab		head	华山（女）校服T4·颜色4				F2_HS004_Head	1		118|255|243|155	1.19	41|34|31|23	1	255|225|61|120	1.08																		
+27520	Player/Characters/F2/Prefab/F2_HS004_Head.prefab		head	华山（女）校服T4·颜色5																														
+30001	Player/Characters/F1/Prefab/F1_W014A_Head.prefab		head	萝莉绿帽外装																														
+30002	Player/Characters/F2/Prefab/F2_W014A_Head.prefab		head	标女绿帽外装																														
+30003	Player/Characters/M1/Prefab/M1_W014A_Head.prefab		head	标男绿帽外装																														
+30004	Player/Characters/M2/Prefab/M2_W014A_Head.prefab		head	壮男绿帽外装																														
+40001	Player/Characters/M1/Prefab/M1_VN_W001_Head.prefab		head	M1成男外装VN1·颜色1		越南外装																												
+40002	Player/Characters/M2/Prefab/M2_VN_W001_Head.prefab		head	M2壮男外装VN1·颜色1		越南外装																												
+40003	Player/Characters/F1/Prefab/F1_VN_W001_Head.prefab		head	F1萝莉外装VN1·颜色1		越南外装																												
+40004	Player/Characters/F2/Prefab/F2_VN_W001_Head.prefab		head	F2标女外装VN1·颜色1		越南外装																												

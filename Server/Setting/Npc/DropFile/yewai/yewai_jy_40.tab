@@ -1,0 +1,11 @@
+TimeFrame	AwardType	AwardValue1	AwardValue2	AwardValue3	RandRate	WorldNotify	KinNotify	Name
+OpenLevel39	item	785	1		6250			钥匙
+OpenLevel39	item	787	1		12500			藏宝图
+OpenLevel39	Gold	10000			-1			10000元宝
+OpenLevel39	item	1234	1		2000			玫瑰花
+OpenLevel39	item	1235	1		2000			幸运草
+OpenLevel59	item	785	1		6250			钥匙
+OpenLevel59	item	787	1		12500			藏宝图
+OpenLevel59	Gold	10000			-1			10000元宝
+OpenLevel59	item	1234	1		2000			玫瑰花
+OpenLevel59	item	1235	1		2000			幸运草 

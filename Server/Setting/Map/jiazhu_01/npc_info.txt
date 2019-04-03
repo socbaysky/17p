@@ -1,0 +1,15 @@
+Index	NpcName	TitleID	NpcTemplateId	WalkNearLength	CanAutoPath	NpcLevel	XPos	YPos	StandDir	Quantity	NpcType	NpcCamp	NpcDroprate	NpcSeriesAuto	NpcSeriesMetal	NpcSeriesWood	NpcSeriesWater	NpcSeriesFire	NpcSeriesEarth	Removewhendeath	ChangeColorScheme
+Kin_Manager	幫派總管		266	250	1	99	5055	3442	62	-1	0	0		0	0	0	0	0	0	0	0
+KinTask_np1	小和尚	300	672	250	1	99	8071	6807	62	-1	0	0		0	0	0	0	0	0	0	0
+shengdanshu	聖誕樹		2124	250		99	4549	3132	62	-1	0	0		0	0	0	0	0	0	0	0
+shengdanshu	聖誕樹		2124	250		99	5547	3124	62	-1	0	0		0	0	0	0	0	0	0	0
+shengdanshu	聖誕樹		2124	250		99	6639	3644	62	-1	0	0		0	0	0	0	0	0	0	0
+shengdanshu	聖誕樹		2124	250		99	4656	6120	62	-1	0	0		0	0	0	0	0	0	0	0
+shengdanshu	聖誕樹		2124	250		99	5403	6120	62	-1	0	0		0	0	0	0	0	0	0	0
+shengdanshu	聖誕樹		2124	250		99	6683	4366	62	-1	0	0		0	0	0	0	0	0	0	0
+shengdanshu	聖誕樹		2124	250		99	4698	3906	62	-1	0	0		0	0	0	0	0	0	0	0
+shengdanshu	聖誕樹		2124	250		99	5412	4613	62	-1	0	0		0	0	0	0	0	0	0	0
+shengdanshu	聖誕樹		2124	250		99	4698	4627	62	-1	0	0		0	0	0	0	0	0	0	0
+shengdanshu	聖誕樹		2124	250		99	3210	4351	62	-1	0	0		0	0	0	0	0	0	0	0
+shengdanshu	聖誕樹		2124	250		99	3207	3703	62	-1	0	0		0	0	0	0	0	0	0	0
+shengdanshu	聖誕樹		2124	250		99	5402	3924	62	-1	0	0		0	0	0	0	0	0	0	0

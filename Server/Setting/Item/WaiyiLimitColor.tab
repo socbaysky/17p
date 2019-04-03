@@ -1,0 +1,4 @@
+LimitColorItem	OrgColorItem	Position		
+6833	3886	1	LimitColorItem	限制显示的偏色
+7382	6643	1	OrgColorItem	原始外装
+			Position	存储位置（1~32），同一原始外装的位置必须不同

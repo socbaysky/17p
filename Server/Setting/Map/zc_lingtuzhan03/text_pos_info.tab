@@ -1,0 +1,14 @@
+Index	XPos	YPos	Text	Color	FontSize
+NpcTrapToAttack	18692	11131	臨安王城	White	16
+ZY_GateB	11624	9405	北城門	Gold	16
+ZY_GateN	11648	5092	南城門	Gold	16
+ZY_Longzhu_Z	13159	7279	中龍柱	Gold	16
+ZY_Longzhu_B	14861	10191	北龍柱	Gold	16
+ZY_Longzhu_N	14863	4967	南龍柱	Gold	16
+YD_attack1	4719	10048	征戰營地	Gold	18
+YD_attack2	4328	3979	征戰營地	Gold	18
+DES_GateB	11624	8905	（擊破）	White	14
+DES_GateN	11648	4590	（擊破）	White	14
+OCC_Longzhu_Z	13159	6780	（幫派佔據）	White	10
+OCC_Longzhu_B	14861	9690	（幫派佔據）	White	10
+OCC_Longzhu_N	14863	4470	（幫派佔據）	White	10

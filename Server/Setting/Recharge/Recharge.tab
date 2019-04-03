@@ -1,0 +1,294 @@
+ProductId	szDesc	szServiceCode	nLastingDay	nMoney	szMoneyType	nNeedVipLevel	szAward	szFirstAward	szThirdAward	szFourthAward	szFifthAward	szGroup	nGroupIndex	szVersion	nEndTimeKey	nBuyDayKey	szSprite	szFirstDesc	szNoromalDesc	Plat
+com.tencent.jxqy.money60	60元宝		0	600	RMB		Gold|5	Gold|60				BuyGold	1	version_tx			Recharge_00	另送60元宝，限购1次	60元宝(赠送5元宝)	
+com.tencent.jxqy.money300	300元宝			3000	RMB		Gold|30	Gold|300				BuyGold	2	version_tx			Recharge_02	另送300元宝，限购1次	300元宝(赠送30元宝)	
+com.tencent.jxqy.money980	980元宝			9800	RMB		Gold|150	Gold|980				BuyGold	3	version_tx			Recharge_03	另送980元宝，限购1次	980元宝(赠送150元宝)	
+com.tencent.jxqy.money1980	1980元宝			19800	RMB		Gold|400	Gold|1980				BuyGold	4	version_tx			Recharge_04	另送1980元宝，限购1次	1980元宝(赠送400元宝)	
+com.tencent.jxqy.money3280	3280元宝			32800	RMB		Gold|850	Gold|3280				BuyGold	5	version_tx			Recharge_05	另送3280元宝，限购1次	3280元宝(赠送850元宝)	
+com.tencent.jxqy.money6480	6480元宝			64800	RMB		Gold|2000	Gold|6480				BuyGold	6	version_tx			Recharge_06	另送6480元宝，限购1次	6480元宝(赠送2000元宝)	
+com.tencent.jxqy.gift18	7日礼包	weekcard	7	1800	RMB		Gold|180					DaysCard	1	version_tx	7		Recharge_09		7日礼包	
+com.tencent.jxqy.gift30	30日礼包	monthcard	30	3000	RMB		Gold|300					DaysCard	2	version_tx	2		Recharge_10		30日礼包	
+com.tencent.jxqy.supergift40	至尊7日礼包	weekcard40	7	4000	RMB		Gold|400					DaysCard	3	version_tx	82		Recharge_11		至尊7日礼包	
+com.tencent.jxqy.giftlevel	一本万利	invest	999999	8800	RMB							GrowInvest	1	version_tx					$12.99成长基金	
+com.tencent.jxqy.giftlevel2	一本万利·贰	invest2	999999	9800	RMB							GrowInvest	2	version_tx					$12.99成长基金	
+com.tencent.jxqy.giftlevel3	一本万利·三	invest3	999999	10800	RMB							GrowInvest	3	version_tx					成长基金	
+com.tencent.jxqy.giftlevel108	一本万利·国庆	investGQ	30	10800	RMB							GrowInvest	4	version_tx					108元国庆基金	
+com.tencent.jxqy.giftlevel4	一本万利·肆	invest4	999999	10800	RMB							GrowInvest	5	version_tx					成长基金	
+com.tencent.jxqy.giftlevel5	一本万利·伍	invest5	999999	10800	RMB							GrowInvest	6	version_tx					成长基金	
+com.tencent.jxqy.return108	一本万利·回归	investRT	999999	10800	RMB	5						GrowInvest	7	version_tx					成长基金	
+com.tencent.jxqy.giftlevel6	一本万利·陆	invest6	999999	10800	RMB							GrowInvest	8	version_tx					成长基金	
+com.tencent.jxqy.giftlevel7	一本万利·柒	invest7	999999	10800	RMB							GrowInvest	9	version_tx					成长基金	
+com.tencent.jxqy.giftlevel8	一本万利·捌	invest8	999999	10800	RMB							GrowInvest	10	version_tx					成长基金	
+com.tencent.jxqy.gift1	白银礼包	daycard	1	100	RMB	1	item|1242|1;Gold|10					DayGift	1	version_tx	11	13			$0.99购买	
+com.tencent.jxqy.gift3	黄金礼包	daycard3	1	300	RMB	3	item|2518|1;Gold|30					DayGift	2	version_tx	16	14			$1.99购买	
+com.tencent.jxqy.gift6	钻石礼包	daycard6	1	600	RMB	5	item|2519|1;Gold|60					DayGift	3	version_tx	17	15			$2.99购买	
+com.tencent.jxqy.gift60	每日礼包合集（7天）	daycard60	7	6000	RMB	5						DayGiftPlus	1	version_tx	61				7日136礼包	
+com.tencent.jxqy.discountpack30	30元豪华礼包	dispack30	1	3000	RMB		item|9559|1	item|9560|1	item|9561|1	item|9563|1	item|9563|1	YearGift	1	version_tx	40	41			价值30美金礼包	
+com.tencent.jxqy.discountpack98	98元豪华礼包	dispack98	1	9800	RMB		item|9555|1	item|9556|1	item|9557|1	item|9558|1	item|9558|1	YearGift	2	version_tx	42	43			价值80美金礼包	
+com.tencent.jxqy.discountpack298	298元豪华礼包	dispack298	15	29800	RMB		item|9551|1	item|9552|1	item|9553|1	item|9554|1	item|9554|1	YearGift	3	version_tx	44	45			价值250美金礼包	
+com.tencent.jxqy.discountpack648	648元豪华礼包	dispack648	15	64800	RMB		item|9547|1	item|9548|1	item|9549|1	item|9550|1	item|9562|1	YearGift	4	version_tx	46	47			价值250美金礼包	
+com.tencent.jxqy.enhancegift30	直强20	enhance30	2	3000	RMB		item|3922|1					DirectEnhance	1	version_tx	52			$4.99购买	价值290元礼包	
+com.tencent.jxqy.enhancegift98	直强30	enhance98	2	9800	RMB		item|3923|1					DirectEnhance	2	version_tx	53			98元购买	价值737元礼包	
+com.tencent.jxqy.enhancegift198	直强40	enhance198	2	19800	RMB		item|3924|1					DirectEnhance	3	version_tx	54			198元购买	价值1451元礼包	
+com.tencent.jxqy.enhancegift388	直强50	enhance388	2	38800	RMB		item|3925|1					DirectEnhance	4	version_tx	73			388元购买	价值3600元礼包	
+com.tencent.jxqy.return480	0.99$回归元宝礼包	return480	1	600	RMB		Gold|480					BackGift	1	version_tx	67				价值48元礼包	
+com.tencent.jxqy.return4800	3.99$回归元宝礼包	return4800	1	3000	RMB		Gold|4800					BackGift	2	version_tx	68				价值480元礼包	
+com.tencent.jxqy.return1	0.99$超值回归礼包	return1	1	600	RMB		item|1242|6;Gold|60					BackGift	3	version_tx	69				价值60元礼包	
+com.tencent.jxqy.return6	0.99$超值福利礼包	return6	1	600	RMB		item|2518|2;Gold|60					BackGift	4	version_tx	70				价值36元礼包	
+com.tencent.jxqy.return30	3.99$超值豪华礼包	return30	1	3000	RMB		item|2519|5;Gold|300					BackGift	5	version_tx	71				价值150元礼包	
+com.vng.jxm.item1	80元宝			200	VND		Gold|80	Gold|160				BuyGold	1	version_vn			Recharge_00	另送80元宝，限购1次	80元宝	
+com.vng.jxm.item2	200元宝			500	VND		Gold|200	Gold|400				BuyGold	2	version_vn			Recharge_02	另送200元宝，限购1次	200元宝	
+com.vng.jxm.item3	400元宝			1000	VND		Gold|400	Gold|800				BuyGold	3	version_vn			Recharge_03	另送400元宝，限购1次	400元宝	
+com.vng.jxm.item4	2000元宝			5000	VND		Gold|2000	Gold|4000				BuyGold	4	version_vn			Recharge_04	另送2000元宝，限购1次	2000元宝	
+com.vng.jxm.item5	4000元宝			10000	VND		Gold|4000	Gold|8000				BuyGold	5	version_vn			Recharge_05	另送4000元宝，限购1次	4000元宝	
+com.vng.jxm.item6	6000元宝			15000	VND		Gold|6000	Gold|12000				BuyGold	6	version_vn			Recharge_06	另送6000元宝，限购1次	6000元宝	
+com.vng.jxm.item14	20000元宝服务端			50000	VND		Gold|20000	Gold|20000				BuyGoldServer	1	version_vn						
+com.vng.jxm.item15	40000元宝服务端			100000	VND		Gold|40000	Gold|40000				BuyGoldServer	2	version_vn						
+com.vng.jxm.item7	7日礼包		7	500	VND		Gold|180					DaysCard	1	version_vn	7		Recharge_09		7日礼包	
+com.vng.jxm.item8	30日礼包		30	1000	VND		Gold|400					DaysCard	2	version_vn	2		Recharge_10		30日礼包	
+com.vng.jxm.item201	至尊7日礼包		7	1000	VND		Gold|400					DaysCard	3	version_vn	82		Recharge_11		至尊7日礼包	
+com.vng.jxm.item9	一本万利		999999	2000	VND							GrowInvest	1	version_vn					$12.99成长基金	
+com.vng.jxm.item16	65级一本万利		999999	2000	VND							GrowInvest	2	version_vn					$12.99成长基金	
+com.vng.jxm.item17	90级一本万利		999999	2000	VND							GrowInvest	3	version_vn					$12.99成长基金	
+com.vng.jxm.item105	一本万利·资料片		999999	2000	VND							GrowInvest	4	version_vn					$12.99成长基金	
+com.vng.jxm.item18	一本万利·肆		999999	2000	VND							GrowInvest	5	version_vn					$12.99成长基金	
+com.vng.jxm.item19	一本万利·伍		999999	2000	VND							GrowInvest	6	version_vn					$12.99成长基金	
+com.vng.jxm.item86	一本万利·回归		999999	2000	VND	5						GrowInvest	7	version_vn					成长基金	
+com.vng.jxm.item20	一本万利·陆		999999	2000	VND							GrowInvest	8	version_vn					$12.99成长基金	
+com.vng.jxm.item50	一本万利·柒		999999	2000	VND							GrowInvest	9	version_vn					$12.99成长基金	
+com.vng.jxm.item21	白银礼包		1	50	VND	1	item|1242|1;Gold|20					DayGift	1	version_vn	16	14			$0.99购买	
+com.vng.jxm.item22	黄金礼包		1	100	VND	3	item|2518|1;Gold|40					DayGift	2	version_vn	17	15			$1.99购买	
+com.vng.jxm.item10	钻石礼包		1	200	VND	5	item|2519|1;Gold|80					DayGift	3	version_vn	11	13			$2.99购买	
+com.vng.jxm.item23	十元礼包		1	350	VND	5						DayGiftSet	1	version_vn	55	56			10元购买	ANDROID
+com.vng.jxm.item24	每日礼包合集（7天）		7	2000	VND	5						DayGiftPlus	1	version_vn	61				7日136礼包	
+com.vng.jxm.item63	800黎饰			2000	VND		SilverBoard|800					DressMoney	1	version_vn						
+com.vng.jxm.item61	2000黎饰			5000	VND		SilverBoard|2000					DressMoney	2	version_vn						
+com.vng.jxm.item65	8000黎饰			20000	VND		SilverBoard|8000					DressMoney	3	version_vn						
+com.vng.jxm.item101	30元豪华礼包		1	1000	VND		item|7064|1	item|7065|1	item|7066|1	item|7066|1		YearGift	1	version_vn	40	41			价值600000VND礼包	
+com.vng.jxm.item102	98元豪华礼包		30	3000	VND		item|7061|1	item|7062|1	item|7063|1	item|7063|1		YearGift	2	version_vn	42	43			价值1200000VND礼包	
+com.vng.jxm.item103	298元豪华礼包		30	10000	VND		item|7058|1	item|7059|1	item|7060|1	item|7060|1		YearGift	3	version_vn	44	45			价值2500000VND礼包	
+com.vng.jxm.item104	648元豪华礼包		30	20000	VND		item|7055|1	item|7056|1	item|7056|1	item|7057|1		YearGift	4	version_vn	46	47			价值5000000VND礼包	
+com.vng.jxm.item30	直强20		2	1000	VND		item|3922|1					DirectEnhance	1	version_vn	52			100000VND购买	价值290元礼包	
+com.vng.jxm.item31	直强30		2	3000	VND		item|3923|1					DirectEnhance	2	version_vn	53			300000VND购买	价值737元礼包	
+com.vng.jxm.item32	直强40		2	5000	VND		item|3924|1					DirectEnhance	3	version_vn	54			500000VND购买	价值1451元礼包	
+com.vng.jxm.item33	直强50		2	10000	VND		item|3925|1					DirectEnhance	4	version_vn	73			1000000VND购买	价值3600元礼包	
+com.vng.jxm.item81	0.99$回归元宝礼包		1	200	VND		Gold|480					BackGift	1	version_vn	67				价值48元礼包	
+com.vng.jxm.item82	3.99$回归元宝礼包		1	1000	VND		Gold|4800					BackGift	2	version_vn	68				价值480元礼包	
+com.vng.jxm.item83	0.99$超值回归礼包		1	200	VND		item|1242|6;Gold|60					BackGift	3	version_vn	69				价值60元礼包	
+com.vng.jxm.item84	0.99$超值福利礼包		1	200	VND		item|2518|2;Gold|60					BackGift	4	version_vn	70				价值36元礼包	
+com.vng.jxm.item85	3.99$超值豪华礼包		1	1000	VND		item|2519|5;Gold|300					BackGift	5	version_vn	71				价值150元礼包	
+hk.jxqy.2usd	135元宝		0	199	USD		Gold|135	Gold|270				BuyGold	1	version_hk			Recharge_00	另送135元宝，限购1次	135元宝	
+hk.jxqy.5usd	340元宝			499	USD		Gold|340	Gold|680				BuyGold	2	version_hk			Recharge_02	另送340元宝，限购1次	340元宝	
+hk.jxqy.20usd	1360元宝			1999	USD		Gold|1360	Gold|2720				BuyGold	3	version_hk			Recharge_03	另送1360元宝，限购1次	1360元宝	
+hk.jxqy.30usd	2040元宝			2999	USD		Gold|2040	Gold|4080				BuyGold	4	version_hk			Recharge_04	另送2040元宝，限购1次	2040元宝	
+hk.jxqy.50usd	3400元宝			4999	USD		Gold|3400	Gold|6800				BuyGold	5	version_hk			Recharge_05	另送3400元宝，限购1次	3400元宝	
+hk.jxqy.100usd	6800元宝			9999	USD		Gold|6800	Gold|13600				BuyGold	6	version_hk			Recharge_06	另送6800元宝，限购1次	6800元宝	
+hk.jxqy.3usd.wc	周卡		7	299	USD		Gold|200					DaysCard	1	version_hk	7		Recharge_09		7日礼包	
+hk.jxqy.5usd.mc	月卡		30	499	USD		Gold|300					DaysCard	2	version_hk	2		Recharge_10		30日礼包	
+hk.jxqy.5usd.zzzk	至尊7日礼包		7	499	USD		Gold|400					DaysCard	3	version_hk	82		Recharge_11		至尊7日礼包	
+hk.jxqy.13usd.ybwl	25级一本万利		999999	1299	USD							GrowInvest	1	version_hk					$12.99成长基金	
+hk.jxqy.15usd.ybwl2	65级一本万利		999999	1499	USD							GrowInvest	2	version_hk					14.99美元成长基金	
+hk.jxqy.16usd.ybwl3	90级一本万利		999999	1599	USD							GrowInvest	3	version_hk					15.99美元成长基金	
+hk.jxqy.8usd.tbjj	通宝基金		30	799	USD							GrowInvest	4	version_hk					7.99美元通宝基金	
+hk.jxqy.16usd.ybwl4.fix	100级一本万利		999999	1599	USD							GrowInvest	5	version_hk					15.99美元成长基金	
+hk.jxqy.16usd.ybwl5	110级一本万利		999999	1599	USD							GrowInvest	6	version_hk					15.99美元成长基金	
+hk.jxqy.15usd.hgyb	一本万利·回归		999999	1499	USD	5						GrowInvest	7	version_hk					成长基金	
+hk.jxqy.16usd.ybwl6	120级一本万利		999999	1599	USD							GrowInvest	8	version_hk					15.99美元成长基金	
+hk.jxqy.16usd.ybwl7	130级一本万利		999999	1599	USD							GrowInvest	9	version_hk					15.99美元成长基金	
+hk.jxqy.16usd.ybwl8	140级一本万利		999999	1599	USD							GrowInvest	10	version_hk					15.99美元成长基金	
+web.jxqy.1usd.bylb	一元礼包服务端		1	99	USD		item|2821|1;Gold|68					DayGift	1	version_hk	11	13			$0.99购买	
+hk.jxqy.1usd.bylb	白银礼包		1	99	USD		item|1242|1;Gold|68					DayGift	1	version_hk	11	13			$0.99购买	
+hk.jxqy.2usd.hjlb	黄金礼包		1	199	USD		item|2518|1;Gold|136					DayGift	2	version_hk	16	14			$1.99购买	
+hk.jxqy.3usd.zslb	钻石礼包		1	299	USD		item|2519|1;Gold|204					DayGift	3	version_hk	17	15			$2.99购买	
+hk.jxqy.5usd.palb	普天同庆礼包		1	499	USD		item|8518|1	item|8519|1	item|8520|1	item|8520|1		YearGift	1	version_hk	40	41			价值30美元礼包	
+hk.jxqy.15usd.zflb	迎夏快乐礼包		30	1499	USD		item|8514|1	item|8515|1	item|8516|1	item|8517|1		YearGift	2	version_hk	42	43			价值80美元礼包	
+hk.jxqy.45usd.sdlb	恭喜发财礼包		30	4499	USD		item|8510|1	item|8511|1	item|8512|1	item|8513|1		YearGift	3	version_hk	44	45			价值100美元礼包	
+hk.jxqy.100usd.khlb	鷄年大吉礼包		30	9999	USD		item|8506|1	item|8509|1	item|8507|1	item|8508|1		YearGift	4	version_hk	46	47			价值240美元礼包	
+hk.jxqy.14usd.xblsb	1000黎饰			1399	USD		SilverBoard|1000					DressMoney	1	version_hk						
+hk.jxqy.42usd.zbls	3100黎饰			4199	USD		SilverBoard|3100					DressMoney	2	version_hk						
+hk.jxqy.84usd.dbls	6900黎饰			8399	USD		SilverBoard|6900					DressMoney	3	version_hk						
+hk.jxqy.1usd.hgth	0.99$回归元宝礼包		1	99	USD		Gold|480					BackGift	1	version_hk	67				价值48元礼包	
+hk.jxqy.4usd.hgcz	3.99$回归元宝礼包		1	399	USD		Gold|4800					BackGift	2	version_hk	68				价值480元礼包	
+hk.jxqy.1usd.hgby	0.99$超值回归礼包		1	99	USD		item|1242|6					BackGift	3	version_hk	69				价值60元礼包	
+hk.jxqy.1usd.hghj	0.99$超值福利礼包		1	99	USD		item|2518|2					BackGift	4	version_hk	70				价值36元礼包	
+hk.jxqy.4usd.hgzs	3.99$超值豪华礼包		1	399	USD		item|2519|5					BackGift	5	version_hk	71				价值150元礼包	
+tw.jxqy.2usd	135元宝		0	199	USD		Gold|135	Gold|270				BuyGold	1	version_tw			Recharge_00	另送135元宝，限购1次	135元宝	
+tw.jxqy.5usd	340元宝			499	USD		Gold|340	Gold|680				BuyGold	2	version_tw			Recharge_02	另送340元宝，限购1次	340元宝	
+tw.jxqy.20usd	1360元宝			1999	USD		Gold|1360	Gold|2720				BuyGold	3	version_tw			Recharge_03	另送1360元宝，限购1次	1360元宝	
+tw.jxqy.30usd	2040元宝			2999	USD		Gold|2040	Gold|4080				BuyGold	4	version_tw			Recharge_04	另送2040元宝，限购1次	2040元宝	
+tw.jxqy.50usd	3400元宝			4999	USD		Gold|3400	Gold|6800				BuyGold	5	version_tw			Recharge_05	另送3400元宝，限购1次	3400元宝	
+tw.jxqy.100usd	6800元宝			9999	USD		Gold|6800	Gold|13600				BuyGold	6	version_tw			Recharge_06	另送6800元宝，限购1次	6800元宝	
+tw.jxqy.3usd.wc	周卡		7	299	USD		Gold|200					DaysCard	1	version_tw	7		Recharge_09		7日礼包	
+tw.jxqy.5usd.mc	月卡		30	499	USD		Gold|300					DaysCard	2	version_tw	2		Recharge_10		30日礼包	
+tw.jxqy.5usd.zzzk	至尊7日礼包		7	499	USD		Gold|400					DaysCard	3	version_tw	82		Recharge_11		至尊7日礼包	
+tw.jxqy.13usd.fund	一本万利服务端		999999	1299	USD							GrowInvest	1	version_tw					$12.99成长基金	
+tw.jxqy.13usd.ybwl	25级一本万利		999999	1299	USD							GrowInvest	1	version_tw					$12.99成长基金	
+tw.jxqy.15usd.ybwl2	65级一本万利		999999	1499	USD							GrowInvest	2	version_tw					14.99美元成长基金	
+tw.jxqy.16usd.ybwl3	90级一本万利		999999	1599	USD							GrowInvest	3	version_tw					15.99美元成长基金	
+tw.jxqy.8usd.tbjj	通宝基金		30	799	USD							GrowInvest	4	version_tw					7.99美元通宝基金	
+tw.jxqy.16usd.ybwl4.fix	100级一本万利		999999	1599	USD							GrowInvest	5	version_tw					15.99美元成长基金	
+tw.jxqy.16usd.ybwl5	110级一本万利		999999	1599	USD							GrowInvest	6	version_tw					15.99美元成长基金	
+tw.jxqy.15usd.hgyb	一本万利·回归		999999	1499	USD	5						GrowInvest	7	version_tw					成长基金	
+tw.jxqy.16usd.ybwl6	120级一本万利		999999	1599	USD							GrowInvest	8	version_tw					15.99美元成长基金	
+tw.jxqy.16usd.ybwl7	130级一本万利		999999	1599	USD							GrowInvest	9	version_tw					15.99美元成长基金	
+tw.jxqy.16usd.ybwl8	140级一本万利		999999	1599	USD							GrowInvest	10	version_tw					15.99美元成长基金	
+web.jxqy.1usd.bylb	一元礼包服务端		1	99	USD		item|2821|1;Gold|68					DayGift	1	version_tw	11	13			$0.99购买	
+tw.jxqy.1usd.bylb	白银礼包		1	99	USD		item|1242|1;Gold|68					DayGift	1	version_tw	11	13			$0.99购买	
+tw.jxqy.2usd.hjlb	黄金礼包		1	199	USD		item|2518|1;Gold|136					DayGift	2	version_tw	16	14			$1.99购买	
+tw.jxqy.3usd.zslb	钻石礼包		1	299	USD		item|2519|1;Gold|204					DayGift	3	version_tw	17	15			$2.99购买	
+tw.jxqy.5usd.aplb	普天同庆礼包		1	499	USD		item|8518|1	item|8519|1	item|8520|1	item|8520|1		YearGift	1	version_tw	40	41			价值30美元礼包	
+tw.jxqy.15usd.zflb	迎夏快乐礼包		30	1499	USD		item|8514|1	item|8515|1	item|8516|1	item|8517|1		YearGift	2	version_tw	42	43			价值80美元礼包	
+tw.jxqy.45usd.sdlb	恭喜发财礼包		30	4499	USD		item|8510|1	item|8511|1	item|8512|1	item|8513|1		YearGift	3	version_tw	44	45			价值100美元礼包	
+tw.jxqy.100usd.khlb	鷄年大吉礼包		30	9999	USD		item|8506|1	item|8509|1	item|8507|1	item|8508|1		YearGift	4	version_tw	46	47			价值240美元礼包	
+tw.jxqy.14usd.xblsb	1000黎饰			1399	USD		SilverBoard|1000					DressMoney	1	version_tw						
+tw.jxqy.42usd.zbls	3100黎饰			4199	USD		SilverBoard|3100					DressMoney	2	version_tw						
+tw.jxqy.84usd.dbls	6900黎饰			8399	USD		SilverBoard|6900					DressMoney	3	version_tw						
+tw.jxqy.1usd.hgth	0.99$回归元宝礼包		1	99	USD		Gold|480					BackGift	1	version_tw	67				价值48元礼包	
+tw.jxqy.4usd.hgcz	3.99$回归元宝礼包		1	399	USD		Gold|4800					BackGift	2	version_tw	68				价值480元礼包	
+tw.jxqy.1usd.hgby	0.99$超值回归礼包		1	99	USD		item|1242|6					BackGift	3	version_tw	69				价值60元礼包	
+tw.jxqy.1usd.hghj	0.99$超值福利礼包		1	99	USD		item|2518|2					BackGift	4	version_tw	70				价值36元礼包	
+tw.jxqy.4usd.hgzs	3.99$超值豪华礼包		1	399	USD		item|2519|5					BackGift	5	version_tw	71				价值150元礼包	
+se.jq.1usd	50000黎饰+元宝		0	100	USD		Gold|50000	Gold|270				BuyGold	1	version_xm			Recharge_00	充值满100元，送20元	50000黎饰+元宝
+se.jq.5usd	250000黎饰+元宝			500	USD		Gold|250000	Gold|680				BuyGold	2	version_xm			Recharge_02	充值满200元，送50元	250000黎饰+元宝
+se.jq.10usd	500000黎饰+元宝			1000	USD		Gold|500000	Gold|2720				BuyGold	3	version_xm			Recharge_03	充值满300元，送100元	500000黎饰+元宝
+se.jq.20usd	1000000黎饰+元宝			2000	USD		Gold|1000000	Gold|4080				BuyGold	4	version_xm			Recharge_04	充值满500元，送200元	1000000黎饰+元宝
+se.jq.50usd	2500000黎饰+元宝			5000	USD		Gold|2500000	Gold|6800				BuyGold	5	version_xm			Recharge_05	充值满1000元，送500元	2500000黎饰+元宝
+se.jq.100usd	5000000黎饰+元宝			10000	USD		Gold|5000000	Gold|13600				BuyGold	6	version_xm			Recharge_06	充值满2000元，送1200元	5000000黎饰+元宝
+se.jq.3usd.wc	周卡		7	299	USD		Gold|10000					DaysCard	1	version_xm	7		Recharge_09		7日礼包
+se.jq.5usd.mc	月卡		30	499	USD		Gold|10000					DaysCard	2	version_xm	2		Recharge_10		30日礼包	
+se.jq.6usd.zzwc	至尊7日礼包		7	599	USD		Gold|400					DaysCard	3	version_xm	82		Recharge_11		至尊7日礼包	
+se.jq.13usd.czjj	一本万利		999999	1299	USD							GrowInvest	1	version_xm					$12.99成长基金	
+se.jq.14usd.czjj	65级一本万利		999999	1399	USD							GrowInvest	2	version_xm					$14.99成长基金	
+se.jq.15usd.czjj	90级一本万利		999999	1499	USD							GrowInvest	3	version_xm					$15.99成长基金	
+se.jq.14usd.ybwl.sx	一本万利·盛夏		999999	1399	USD							GrowInvest	4	version_xm					$13.99盛夏基金	
+se.jq.15usd.czjj4	一本万利·肆		999999	1499	USD							GrowInvest	5	version_xm					$15.99成长基金	
+se.jq.15usd.czjj5	一本万利·伍		999999	1499	USD							GrowInvest	6	version_xm					$15.99成长基金	
+se.jq.15usd.hgybwl	一本万利·回归		999999	1499	USD	5						GrowInvest	7	version_xm					$14.99回归成长基金	
+se.jq.15usd.czjj6	一本万利·陆		999999	1499	USD							GrowInvest	8	version_xm					$15.99成长基金	
+se.jq.15usd.czjj7	一本万利·柒		999999	1499	USD							GrowInvest	9	version_xm					$15.99成长基金	
+se.jq.15usd.czjj8	一本万利·捌		999999	1499	USD							GrowInvest	10	version_xm					$15.99成长基金	
+se.jq.1usd.lb	0.99美元礼包		1	99	USD	1	item|2897|1					DayGift	1	version_xm	11	13			0.99美元购买	
+se.jq.2usd.lb	1.99美元礼包		1	199	USD	3	item|2898|1					DayGift	2	version_xm	16	14			1.99美元购买	
+se.jq.3usd.lb	2.99美元礼包		1	299	USD	5	item|2899|1					DayGift	3	version_xm	17	15			2.99美元购买	
+se.jq.5usd.palb	4.99美元礼包		1	499	USD		item|7337|1	item|7338|1	item|7339|1	item|7339|1		YearGift	1	version_xm	40	41			价值25美元礼包	
+se.jq.14usd.hllb	29.99美元礼包		1	1399	USD		item|7334|1	item|7335|1	item|7336|1	item|7336|1		YearGift	2	version_xm	42	43			价值50美元礼包	
+se.jq.50usd.jxlb	99.99美元礼包		30	4999	USD		item|7330|1	item|7331|1	item|7332|1	item|7332|1		YearGift	3	version_xm	44	45			价值100美元礼包	
+se.jq.100usd.wxlb	99.99美元礼包		30	9999	USD		item|7326|1	item|7327|1	item|7328|1	item|7329|1		YearGift	4	version_xm	46	47			价值200美元礼包	
+se.jq.14usd.ls	1000黎饰			1399	USD		SilverBoard|1000					DressMoney	1	version_xm						
+se.jq.50usd.ls	3600黎饰			4999	USD		SilverBoard|3600					DressMoney	2	version_xm						
+se.jq.100usd.ls	7500黎饰			9999	USD		SilverBoard|7500					DressMoney	3	version_xm						
+se.jq.1usd.lwjhg	0.99$回归元宝礼包		1	99	USD		Gold|480					BackGift	1	version_xm	67				价值48元礼包	
+se.jq.5usd.lwjhg	3.99$回归元宝礼包		1	499	USD		Gold|4800					BackGift	2	version_xm	68				价值480元礼包	
+se.jq.6usd.lwjhg	0.99$超值回归礼包		1	599	USD		item|2897|6					BackGift	3	version_xm	69				价值60元礼包	
+se.jq.4usd.lwjhg	0.99$超值福利礼包		1	399	USD		item|2898|2					BackGift	4	version_xm	70				价值36元礼包	
+se.jq.15usd.lwjhg	3.99$超值豪华礼包		1	1499	USD		item|2899|5					BackGift	5	version_xm	71				价值150元礼包	
+jx.th.code1_69.THB	150元宝			6900	THB		Gold|150	Gold|300				BuyGold	1	version_th			Recharge_00	另送150元宝，限购1次	150元宝	
+jx.th.code2_179.THB	375元宝			17900	THB		Gold|375	Gold|750				BuyGold	2	version_th			Recharge_02	另送375元宝，限购1次	375元宝	
+jx.th.code3_349.THB	750元宝			34900	THB		Gold|750	Gold|1500				BuyGold	3	version_th			Recharge_03	另送750元宝，限购1次	750元宝	
+jx.th.code4_529.THB	1125元宝			52900	THB		Gold|1125	Gold|2250				BuyGold	4	version_th			Recharge_04	另送1125元宝，限购1次	1125元宝	
+jx.th.code5_879.THB	1875元宝			87900	THB		Gold|1875	Gold|3750				BuyGold	5	version_th			Recharge_05	另送1875元宝，限购1次	1875元宝	
+jx.th.code6_1750.THB	3750元宝			175000	THB		Gold|3750	Gold|7500				BuyGold	6	version_th			Recharge_06	另送3750元宝，限购1次	3750元宝	
+jx.th.code7_3500.THB	7500元宝			350000	THB		Gold|7500	Gold|15000				BuyGold	7	version_th			Recharge_06	另送7500元宝，限购1次	7500元宝	
+jxwp.th.code12_99.THB	周卡		7	9900	THB		Gold|225					DaysCard	1	version_th	7		Recharge_09		7日礼包	
+jxmp.th.code13_209.THB	月卡		30	20900	THB		Gold|450					DaysCard	2	version_th	2		Recharge_10		30日礼包	
+jxswp.th.code40_209.THB	至尊周卡		7	20900	THB		Gold|450					DaysCard	3	version_th	82		Recharge_11		至尊7日礼包	
+jxgf.th.code11_459.THB	基金		999999	45900	THB							GrowInvest	1	version_th					459泰铢成长基金	
+jxgf2.th.code15_529.THB	基金二		999999	52900	THB							GrowInvest	2	version_th					529泰铢成长基金	
+jxgf3.th.code16_559.THB	基金三		999999	55900	THB							GrowInvest	3	version_th					559泰铢成长基金	
+xxx	基金新年占位		999999	55900	THB							GrowInvest	4	version_th					559泰铢成长基金	
+jxgf4.th.code17_559.THB	基金四		999999	55900	THB							GrowInvest	5	version_th					559泰铢成长基金	
+jxgf5.th.code30_559.THB	基金五		999999	55900	THB							GrowInvest	6	version_th					559泰铢成长基金	
+jxwp.th.code25_559.THB	基金·回归		999999	55900	THB	5						GrowInvest	7	version_th					559泰铢成长基金	
+jxgf6.th.code31_559.THB	基金六		999999	55900	THB							GrowInvest	8	version_th					559泰铢成长基金	
+jxgf7.th.code32_559.THB	基金七		999999	55900	THB							GrowInvest	9	version_th					559泰铢成长基金	
+jxgf8.th.code38_559.THB	基金八		999999	55900	THB							GrowInvest	10	version_th					559泰铢成长基金	
+jxpv1.th.code8_19.THB	白银礼包		1	1900	THB	1	item|1242|1;Gold|37					DayGift	1	version_th	11	13			19泰铢购买	
+jxpv3.th.code9_35.THB	黄金礼包		1	3500	THB	3	item|2518|1;Gold|75					DayGift	2	version_th	16	14			35泰铢购买	
+jxpv5.th.code10_69.THB	钻石礼包		1	6900	THB	5	item|2519|1;Gold|150					DayGift	3	version_th	17	15			69泰铢购买	
+jxfp.th.code14_459.THB	1000黎饰			45900	THB		SilverBoard|1000					DressMoney	1	version_th						
+jxfp2.th.code49_1400.THB	3100黎饰			140000	THB		SilverBoard|3100					DressMoney	2	version_th						
+jxfp3.th.code50_3000.THB	6900黎饰			300000	THB		SilverBoard|6900					DressMoney	3	version_th						
+jxlsp1.th.code45_139.THB	30元豪华礼包		1	13900	THB		item|7667|1	item|7668|1	item|7669|1	item|7669|1		YearGift	1	version_th	40	41			价值900泰铢	
+jxlsp2.th.code46_559.THB	98元豪华礼包		1	55900	THB		item|7664|1	item|7665|1	item|7666|1	item|7666|1		YearGift	2	version_th	42	43			价值1500泰铢	
+jxlsp3.th.code47_1500.THB	恭喜发财礼包		15	150000	THB		item|7661|1	item|7662|1	item|7663|1	item|7663|1		YearGift	3	version_th	44	45			价值3500泰铢	
+jxlsp4.th.code48_3500.THB	鷄年大吉礼包		15	350000	THB		item|7657|1	item|7658|1	item|7659|1	item|7660|1		YearGift	4	version_th	46	47			价值7500泰铢	
+jxwb1.th.code20_69.THB	0.99$回归元宝礼包		1	6900	THB		Gold|480					BackGift	1	version_th	67				价值48元礼包	
+jxwb2.th.code21_349.THB	3.99$回归元宝礼包		1	34900	THB		Gold|4800					BackGift	2	version_th	68				价值480元礼包	
+jxwv1.th.code22_69.THB	0.99$超值回归礼包		1	6900	THB		item|1242|6					BackGift	3	version_th	69				价值60元礼包	
+jxwv3.th.code23_69.THB	0.99$超值福利礼包		1	6900	THB		item|2518|2					BackGift	4	version_th	70				价值36元礼包	
+jxwv5.th.code24_349.THB	3.99$超值豪华礼包		1	34900	THB		item|2519|5					BackGift	5	version_th	71				价值150元礼包	
+com.kingsoftgame.jxqykr.120	120元宝			219	USD		Gold|130	Gold|240				BuyGold	1	version_kor			Recharge_00	另送120元宝，限购1次	120元宝(赠送10元宝)	
+com.kingsoftgame.jxqykr.300	300元宝			549	USD		Gold|330	Gold|600				BuyGold	2	version_kor			Recharge_02	另送300元宝，限购1次	300元宝(赠送30元宝)	
+com.kingsoftgame.jxqykr.1200	1200元宝			2199	USD		Gold|1350	Gold|2400				BuyGold	3	version_kor			Recharge_03	另送1200元宝，限购1次	1200元宝(赠送150元宝)	
+com.kingsoftgame.jxqykr.1800	1800元宝			3299	USD		Gold|2200	Gold|3600				BuyGold	4	version_kor			Recharge_04	另送1800元宝，限购1次	1800元宝(赠送400元宝)	
+com.kingsoftgame.jxqykr.3000	3000元宝			5499	USD		Gold|3800	Gold|6000				BuyGold	5	version_kor			Recharge_05	另送3000元宝，限购1次	3000元宝(赠送800元宝)	
+com.kingsoftgame.jxqykr.6000	6000元宝			10999	USD		Gold|7800	Gold|12000				BuyGold	6	version_kor			Recharge_06	另送6000元宝，限购1次	6000元宝(赠送1800元宝)	
+com.kingsoftgame.jxqykr.week180	周卡		7	329	USD		Gold|180					DaysCard	1	version_kor	7		Recharge_09		7日礼包	
+com.kingsoftgame.jxqykr.month300	月卡		30	549	USD		Gold|300					DaysCard	2	version_kor	2		Recharge_10		30日礼包	
+com.kingsoftgame.jxqykr.week400	至尊7日礼包		7	659	USD		Gold|400					DaysCard	3	version_kor	82		Recharge_11		至尊7日礼包	
+com.kingsoftgame.jxqykr.day60	白银礼包		1	109	USD	1	item|1242|1;Gold|60					DayGift	1	version_kor	11	13			1.09美元购买	
+com.kingsoftgame.jxqykr.day120	黄金礼包		1	219	USD	3	item|2518|1;Gold|120					DayGift	2	version_kor	16	14			2.19美元购买	
+com.kingsoftgame.jxqykr.day180	钻石礼包		1	329	USD	5	item|2519|1;Gold|180					DayGift	3	version_kor	17	15			3.29美元购买	
+com.kingsoftgame.jxqykr.gift5	每日礼包合集（7天）		7	3959	USD	5						DayGiftPlus	1	version_kor	61				7日136礼包	
+com.kingsoftgame.jxqykr.ls1000	1000黎饰			1649	USD		SilverBoard|1000					DressMoney	1	version_kor						
+com.kingsoftgame.jxqykr.ls3100	3100黎饰			5499	USD		SilverBoard|3100					DressMoney	2	version_kor						
+com.kingsoftgame.jxqykr.ls6900	6900黎饰			10999	USD		SilverBoard|6900					DressMoney	3	version_kor						
+com.kingsoftgame.jxqykr.invest1340	一本万利		999999	1429	USD							GrowInvest	1	version_kor					14.29美金成长基金	
+com.kingsoftgame.jxqykr.invest1700	65级一本万利		999999	1649	USD							GrowInvest	2	version_kor					16.49美金成长基金	
+com.kingsoftgame.jxqykr.invest2180	90级一本万利		999999	1759	USD							GrowInvest	3	version_kor					17.59美金成长基金	
+com.kingsoftgame.jxqykr.investspring	一本万利·通宝		30	1759	USD							GrowInvest	4	version_kor					17.59美金成长基金	
+com.kingsoftgame.jxqykr.invest100	一本万利·肆		999999	1759	USD							GrowInvest	5	version_kor					17.59美金成长基金	
+com.kingsoftgame.jxqykr.invest110	一本万利·伍		999999	1759	USD							GrowInvest	6	version_kor					17.59美金成长基金	
+com.kingsoftgame.jxqykr.return1	一本万利·回归		999999	1759	USD	5						GrowInvest	7	version_kor					成长基金	
+com.kingsoftgame.jxqykr.invest120	一本万利·陆		999999	1759	USD							GrowInvest	8	version_kor					17.59美金成长基金	
+com.kingsoftgame.jxqykr.invest130	一本万利·柒		999999	1759	USD							GrowInvest	9	version_kor					17.59美金成长基金	
+com.kingsoftgame.jxqykr.invest140	一本万利·捌		999999	1759	USD							GrowInvest	10	version_kor					17.59美金成长基金	
+com.kingsoftgame.jxqykr.gift1	30元豪华礼包		1	549	USD		item|7667|1	item|7668|1	item|7669|1	item|7669|1		YearGift	1	version_kor	40	41			价值30美金礼包	
+com.kingsoftgame.jxqykr.gift2	98元豪华礼包		30	1649	USD		item|7664|1	item|7665|1	item|7666|1	item|7666|1		YearGift	2	version_kor	42	43			价值80美金礼包	
+com.kingsoftgame.jxqykr.gift3	298元豪华礼包		30	5169	USD		item|7661|1	item|7662|1	item|7663|1	item|7663|1		YearGift	3	version_kor	44	45			价值250美金礼包	
+com.kingsoftgame.jxqykr.gift4	648元豪华礼包		30	10999	USD		item|7657|1	item|7658|1	item|7659|1	item|7660|1		YearGift	4	version_kor	46	47			价值250美金礼包	
+com.kingsoftgame.jxqykr.return2	0.99$回归元宝礼包		1	109	USD		Gold|480					BackGift	1	version_kor	67				价值48元礼包	
+com.kingsoftgame.jxqykr.return3	3.99$回归元宝礼包		1	549	USD		Gold|4800					BackGift	2	version_kor	68				价值480元礼包	
+com.kingsoftgame.jxqykr.return4	0.99$超值回归礼包		1	659	USD		item|1242|6;Gold|360					BackGift	3	version_kor	69				价值60元礼包	
+com.kingsoftgame.jxqykr.return5	0.99$超值福利礼包		1	439	USD		item|2518|2;Gold|240					BackGift	4	version_kor	70				价值36元礼包	
+com.kingsoftgame.jxqykr.return6	3.99$超值豪华礼包		1	1649	USD		item|2519|5;Gold|900					BackGift	5	version_kor	71				价值150元礼包	
+com.kingsoftgame.jxqykr.enhance20	直强20		2	549	USD		item|3922|1					DirectEnhance	1	version_kor	52			$5.49购买	价值290元礼包	
+com.kingsoftgame.jxqykr.enhance30	直强30		2	1649	USD		item|3923|1					DirectEnhance	2	version_kor	53			$16.49购买	价值737元礼包	
+com.kingsoftgame.jxqykr.enhance40	直强40		2	3299	USD		item|3924|1					DirectEnhance	3	version_kor	54			$32.99购买	价值1451元礼包	
+com.seasungames.jxqykr.120	120元宝			264000	KRW		Gold|130	Gold|240				BuyGold	1	version_kor			Recharge_00	另送120元宝，限购1次	120元宝(赠送10元宝)	ANDROID
+com.seasungames.jxqykr.300	300元宝			660000	KRW		Gold|330	Gold|600				BuyGold	2	version_kor			Recharge_02	另送300元宝，限购1次	300元宝(赠送30元宝)	ANDROID
+com.seasungames.jxqykr.1200	1200元宝			2640000	KRW		Gold|1350	Gold|2400				BuyGold	3	version_kor			Recharge_03	另送1200元宝，限购1次	1200元宝(赠送150元宝)	ANDROID
+com.seasungames.jxqykr.1800	1800元宝			3960000	KRW		Gold|2200	Gold|3600				BuyGold	4	version_kor			Recharge_04	另送1800元宝，限购1次	1800元宝(赠送400元宝)	ANDROID
+com.seasungames.jxqykr.3000	3000元宝			6600000	KRW		Gold|3800	Gold|6000				BuyGold	5	version_kor			Recharge_05	另送3000元宝，限购1次	3000元宝(赠送800元宝)	ANDROID
+com.seasungames.jxqykr.6000	6000元宝			13200000	KRW		Gold|7800	Gold|12000				BuyGold	6	version_kor			Recharge_06	另送6000元宝，限购1次	6000元宝(赠送1800元宝)	ANDROID
+com.seasungames.jxqykr.week180	周卡		7	396000	KRW		Gold|180					DaysCard	1	version_kor	7		Recharge_09		7日礼包	ANDROID
+com.seasungames.jxqykr.month300	月卡		30	660000	KRW		Gold|300					DaysCard	2	version_kor	2		Recharge_10		30日礼包	ANDROID
+com.seasungames.jxqykr.week400	至尊7日礼包		7	770000	KRW		Gold|400					DaysCard	3	version_kor	82		Recharge_11		至尊7日礼包	ANDROID
+com.seasungames.jxqykr.day60	白银礼包		1	132000	KRW	1	item|1242|1;Gold|60					DayGift	1	version_kor	11	13			1320韩币购买	ANDROID
+com.seasungames.jxqykr.day120	黄金礼包		1	264000	KRW	3	item|2518|1;Gold|120					DayGift	2	version_kor	16	14			2640韩币购买	ANDROID
+com.seasungames.jxqykr.day180	钻石礼包		1	396000	KRW	5	item|2519|1;Gold|180					DayGift	3	version_kor	17	15			3960韩币购买	ANDROID
+com.seasungames.jxqykr.gift5	每日礼包合集（7天）		7	4752000	KRW	5						DayGiftPlus	1	version_kor	61				7日136礼包	ANDROID
+com.seasungames.jxqykr.ls1000	1000黎饰			1980000	KRW		SilverBoard|1000					DressMoney	1	version_kor						ANDROID
+com.seasungames.jxqykr.ls3100	3100黎饰			6600000	KRW		SilverBoard|3100					DressMoney	2	version_kor						ANDROID
+com.seasungames.jxqykr.ls6900	6900黎饰			13200000	KRW		SilverBoard|6900					DressMoney	3	version_kor						ANDROID
+com.seasungames.jxqykr.invest1340	一本万利		999999	1716000	KRW							GrowInvest	1	version_kor					17160韩币成长基金	ANDROID
+com.seasungames.jxqykr.invest1700	65级一本万利		999999	1980000	KRW							GrowInvest	2	version_kor					19800韩币成长基金	ANDROID
+com.seasungames.jxqykr.invest2180	90级一本万利		999999	2112000	KRW							GrowInvest	3	version_kor					21120韩币成长基金	ANDROID
+com.seasungames.jxqykr.investspring	一本万利·通宝		30	2112000	KRW							GrowInvest	4	version_kor					21120韩币成长基金	ANDROID
+com.seasungames.jxqykr.invest100	一本万利·肆		999999	2112000	KRW							GrowInvest	5	version_kor					21120韩币成长基金	ANDROID
+com.seasungames.jxqykr.invest110	一本万利·伍		999999	2112000	KRW							GrowInvest	6	version_kor					21120韩币成长基金	ANDROID
+com.seasungames.jxqykr.return1	一本万利·回归		999999	2112000	KRW	5						GrowInvest	7	version_kor					成长基金	ANDROID
+com.seasungames.jxqykr.invest120	一本万利·陆		999999	2112000	KRW							GrowInvest	8	version_kor					21120韩币成长基金	ANDROID
+com.seasungames.jxqykr.invest130	一本万利·柒		999999	2112000	KRW							GrowInvest	9	version_kor					21120韩币成长基金	ANDROID
+com.seasungames.jxqykr.invest140	一本万利·捌		999999	2112000	KRW							GrowInvest	10	version_kor					21120韩币成长基金	ANDROID
+com.seasungames.jxqykr.gift1	30元豪华礼包	gift30	1	660000	KRW		item|7667|1	item|7668|1	item|7669|1	item|7669|1		YearGift	1	version_kor	40	41			价值30美金礼包	ANDROID
+com.seasungames.jxqykr.gift2	98元豪华礼包	gift98	30	1980000	KRW		item|7664|1	item|7665|1	item|7666|1	item|7666|1		YearGift	2	version_kor	42	43			价值80美金礼包	ANDROID
+com.seasungames.jxqykr.gift3	298元豪华礼包	gift298	30	6204000	KRW		item|7661|1	item|7662|1	item|7663|1	item|7663|1		YearGift	3	version_kor	44	45			价值250美金礼包	ANDROID
+com.seasungames.jxqykr.gift4	648元豪华礼包	gift648	30	13200000	KRW		item|7657|1	item|7658|1	item|7659|1	item|7660|1		YearGift	4	version_kor	46	47			价值250美金礼包	ANDROID
+com.seasungames.jxqykr.return2	0.99$回归元宝礼包		1	132000	KRW		Gold|480					BackGift	1	version_kor	67				价值48元礼包	ANDROID
+com.seasungames.jxqykr.return3	3.99$回归元宝礼包		1	660000	KRW		Gold|4800					BackGift	2	version_kor	68				价值480元礼包	ANDROID
+com.seasungames.jxqykr.return4	0.99$超值回归礼包		1	792000	KRW		item|1242|6;Gold|360					BackGift	3	version_kor	69				价值60元礼包	ANDROID
+com.seasungames.jxqykr.return5	0.99$超值福利礼包		1	528000	KRW		item|2518|2;Gold|240					BackGift	4	version_kor	70				价值36元礼包	ANDROID
+com.seasungames.jxqykr.return6	3.99$超值豪华礼包		1	1980000	KRW		item|2519|5;Gold|900					BackGift	5	version_kor	71				价值150元礼包	ANDROID
+com.seasungames.jxqykr.enhance20	直强20		2	660000	KRW		item|3922|1					DirectEnhance	1	version_kor	52			6600韩币购买	价值290元礼包	ANDROID
+com.seasungames.jxqykr.enhance30	直强30		2	1980000	KRW		item|3923|1					DirectEnhance	2	version_kor	53			19800韩币购买	价值737元礼包	ANDROID
+com.seasungames.jxqykr.enhance40	直强40		2	3960000	KRW		item|3924|1					DirectEnhance	3	version_kor	54			39600韩币购买	价值1451元礼包	ANDROID

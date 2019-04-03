@@ -1,0 +1,8 @@
+nGoodsId	nTemplateId	Name	nPrice	nLimitNum	szMoneyType	szShopType	nSort	nDiscount	szTimeFrame	szCloseTimeFrame	szOpenTime	szCloseTime
+72002	7677	【苍澜花间】衣服外观	1388	100	SilverBoard	Dress	3				2018.9.4 04:00:00	2018.9.11 23:59:59
+72003	7678	【苍澜花间】头饰外观	588	100	SilverBoard	Dress	4				2018.9.4 04:00:00	2018.9.11 23:59:59
+10000	2682	天剑令	1500	1	Gold	Treasure	1	3			2018.9.4 04:00:00	2018.9.11 23:59:59
+10001	2682	天剑令	1500	1	SilverBoard	Dress	1	3			2018.9.4 04:00:00	2018.9.30 23:59:59
+10002	2682	天剑令	3000	1	SilverBoard	Dress	2	6			2018.9.4 04:00:00	2018.9.30 23:59:59
+70051	6872	【浮光若梦】系列外装	1880	3	SilverBoard	Dress	5				2018.10.01 4:0:0	2018.10.05 23:59:59
+70052	7031	T7时装（浮光）过度道具	880	3	SilverBoard	Dress	6				2018.10.01 4:0:0	2018.10.05 23:59:59

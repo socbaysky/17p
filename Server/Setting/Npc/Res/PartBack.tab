@@ -1,0 +1,19 @@
+ResId	ResFile	ResAttribID	ResSlot	Desc	Scale	IsOrgColorValue	MinCastValue	SlotName1	SlotGray1	SlotMinCast1	Slot1Color1	Slot1Light1	Slot1Color2	Slot1Light2	Slot1Color3	Slot1Light3	SlotName2	SlotGray2	SlotMinCast2	Slot2Color1	Slot2Light1	Slot2Color2	Slot2Light2	Slot2Color3	Slot2Light3	SlotName3	SlotGray3	SlotMinCast3	Slot3Color1	Slot3Light1	Slot3Color2	Slot3Light2	Slot3Color3	Slot3Light3
+1	Player/Doodads/Back/Prefabs/Back001.prefab		back	狗篮子	0.8	1		Back001	0		228|223|223|255		255|255|255|255		255|255|255|255																			
+2	Player/Doodads/Back/Prefabs/Back001.prefab		back	狗篮子	0.8			Back001	1		48|203|255|34		48|39|39|255		230|159|127|182																			
+3	Player/Doodads/Back/Prefabs/Back001.prefab		back	狗篮子	0.8			Back001	1		255|203|69|18		159|108|69|157		131|179|127|164																			
+4	Player/Doodads/Back/Prefabs/Back001.prefab		back	狗篮子	0.8			Back001	1		253|98|165|59		123|123|123|157		143|214|232|164																			
+5	Player/Doodads/Back/Prefabs/Back001.prefab		back	狗篮子	0.8			Back001	1		71|198|98|5		93|58|35|157		226|202|138|169																			
+11	Player/Doodads/Back/Prefabs/Back001.prefab		back	狗篮子	0.6	1		Back001	0		228|223|223|255		255|255|255|255		255|255|255|255																			
+12	Player/Doodads/Back/Prefabs/Back001.prefab		back	狗篮子	0.6			Back001	1		48|203|255|34		48|39|39|255		230|159|127|182																			
+13	Player/Doodads/Back/Prefabs/Back001.prefab		back	狗篮子	0.6			Back001	1		255|203|69|18		159|108|69|157		131|179|127|164																			
+14	Player/Doodads/Back/Prefabs/Back001.prefab		back	狗篮子	0.6			Back001	1		253|98|165|59		123|123|123|157		143|214|232|164																			
+15	Player/Doodads/Back/Prefabs/Back001.prefab		back	狗篮子	0.6			Back001	1		71|198|98|5		93|58|35|157		226|202|138|169																			
+21	Player/Doodads/Back/Prefabs/Back002.prefab		back	兔篮子	0.8	1		Back002	0		219|201|190|255		255|255|255|255		255|255|255|255																			
+22	Player/Doodads/Back/Prefabs/Back002.prefab		back	兔篮子	0.8			Back002	1		42|169|221|0		61|64|82|255		236|155|119|255																			
+23	Player/Doodads/Back/Prefabs/Back002.prefab		back	兔篮子	0.8			Back002	1		221|171|42|0		203|142|77|179		160|215|144|255																			
+24	Player/Doodads/Back/Prefabs/Back002.prefab		back	兔篮子	0.8			Back002	1		241|98|161|19		255|204|197|217		187|168|130|105																			
+31	Player/Doodads/Back/Prefabs/Back002.prefab		back	兔篮子	0.6	1		Back002	0		219|201|190|255		255|255|255|255		255|255|255|255																			
+32	Player/Doodads/Back/Prefabs/Back002.prefab		back	兔篮子	0.6			Back002	1		42|169|221|0		61|64|82|255		236|155|119|255																			
+33	Player/Doodads/Back/Prefabs/Back002.prefab		back	兔篮子	0.6			Back002	1		221|171|42|0		203|142|77|179		160|215|144|255																			
+34	Player/Doodads/Back/Prefabs/Back002.prefab		back	兔篮子	0.6			Back002	1		241|98|161|19		255|204|197|217		187|168|130|105																			

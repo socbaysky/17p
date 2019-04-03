@@ -1,0 +1,75 @@
+ActId	ActName	Des	HideWeapon	OrgRideName
+1	bq01	打招呼|结婚：打招呼		
+2	bq02	大笑|结婚：大笑		
+3	bq03	愤怒|结婚：跪拜		
+4	bq04	跪拜过程|结婚：跪拜待机		
+5	bq05	喜酒|结婚：喝酒		
+6	bq06	哭泣|结婚：跳舞		
+7	bq07	跳舞|结婚：作揖		
+8	bq08	保持跪拜		
+9	dance	高级外装跳舞		
+10	dance01	夏威夷舞蹈		
+21	m1baost	标男-抱起站立	1	
+22	m1baowlk	标男-抱起走动	1	
+23	m1bbaost	标男-被抱站立	1	
+24	m1bbaowlk	标男-被抱走动	1	
+25	m1qst	标男-牵手站立	1	
+26	m1qwlk	标男-牵手走动	1	
+27	m1bqst	标男-被牵站立	1	
+28	m1bqwlk	标男-被牵走动	1	
+29	m1hst	标男-双人同骑站立1	1	hst
+30	m1hrun	标男-双人同骑跑1	1	hrun
+31	m1hst01	标男-双人同骑站立2	1	hst
+32	m1hrun01	标男-双人同骑跑2	1	hrun
+33	m1yb	标男-拥抱	1	
+34	m1ybst	标男-拥抱站立	1	
+35	m1yb01	标男-被拥抱	1	
+36	m1ybst01	标男-被拥抱站立	1	
+41	m2baost	壮男-抱起站立	1	
+42	m2baowlk	壮男-抱起走动	1	
+43	m2bbaost	壮男-被抱站立	1	
+44	m2bbaowlk	壮男-被抱走动	1	
+45	m2qst	壮男-牵手站立	1	
+46	m2qwlk	壮男-牵手走动	1	
+47	m2bqst	壮男-被牵站立	1	
+48	m2bqwlk	壮男-被牵走动	1	
+49	m2hst	壮男-双人同骑站立1	1	hst
+50	m2hrun	壮男-双人同骑跑1	1	hrun
+51	m2hst01	壮男-双人同骑站立2	1	hst
+52	m2hrun01	壮男-双人同骑跑2	1	hrun
+53	m2yb	壮男-拥抱	1	
+54	m2ybst	壮男-拥抱站立	1	
+55	m2yb01	壮男-被拥抱	1	
+56	m2ybst01	壮男-被拥抱站立	1	
+61	f1baost	萝莉-抱起站立	1	
+62	f1baowlk	萝莉-抱起走动	1	
+63	f1bbaost	萝莉-被抱站立	1	
+64	f1bbaowlk	萝莉-被抱走动	1	
+65	f1qst	萝莉-牵手站立	1	
+66	f1qwlk	萝莉-牵手走动	1	
+67	f1bqst	萝莉-被牵站立	1	
+68	f1bqwlk	萝莉-被牵走动	1	
+69	f1hst	萝莉-双人同骑站立1	1	hst
+70	f1hrun	萝莉-双人同骑跑1	1	hrun
+71	f1hst01	萝莉-双人同骑站立2	1	hst
+72	f1hrun01	萝莉-双人同骑跑2	1	hrun
+73	f1yb	萝莉-拥抱	1	
+74	f1ybst	萝莉-拥抱站立	1	
+75	f1yb01	萝莉-被拥抱	1	
+76	f1ybst01	萝莉-被拥抱站立	1	
+81	f2baost	标女-抱起站立	1	
+82	f2baowlk	标女-抱起走动	1	
+83	f2bbaost	标女-被抱站立	1	
+84	f2bbaowlk	标女-被抱走动	1	
+85	f2qst	标女-牵手站立	1	
+86	f2qwlk	标女-牵手走动	1	
+87	f2bqst	标女-被牵站立	1	
+88	f2bqwlk	标女-被牵走动	1	
+89	f2hst	标女-双人同骑站立1	1	hst
+90	f2hrun	标女-双人同骑跑1	1	hrun
+91	f2hst01	标女-双人同骑站立2	1	hst
+92	f2hrun01	标女-双人同骑跑2	1	hrun
+93	f2yb	标女-拥抱	1	
+94	f2ybst	标女-拥抱站立	1	
+95	f2yb01	标女-被拥抱	1	
+96	f2ybst01	标女-被拥抱站立	1	

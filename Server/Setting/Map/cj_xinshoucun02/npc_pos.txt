@@ -1,0 +1,15 @@
+qinggong1	6052	1770
+qinggong1	6741	2636
+qinggong1	7200	3167
+qinggong2	6651	2648
+qinggong2	5989	1808
+qinggong2	5474	2275
+taskqg1	2520	6863
+taskqg1	2244	7477
+taskqg1	2662	8095
+taskqg2	2965	6837
+taskqg2	3406	6158
+Npc_qg	5584	2130
+Npc_qg	2489	7725
+Npc_qg	3269	6271
+Npc_qg	7087	3084

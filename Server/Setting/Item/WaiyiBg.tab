@@ -1,0 +1,6 @@
+BgId	BgName	BgTipsPic	BgTexture	ViewBgTexture	RequirementText	Desc
+1	主题·明月夜	DressBgBig1	UI/Textures/DressBg.png	UI/Textures/OthersDetailBg1.jpg	预设主题	BgId必填且不可重复，存档资料，目前最大只支援到32
+2	主题·春意闹	DressBgBig2	UI/Textures/DressBg2.png	UI/Textures/OthersDetailBg2.jpg	魅力值达到2000可解锁	
+3	主题·枫林晚	DressBgBig3	UI/Textures/DressBg3.png	UI/Textures/OthersDetailBg3.jpg	魅力值达到5000可解锁	
+4	主题·花未稀	DressBgBig4	UI/Textures/DressBg4.png	UI/Textures/OthersDetailBg4.jpg	魅力值达到20000可解锁	
+5	主题·共婵娟	DressBgBig5	UI/Textures/DressBg5.png	UI/Textures/OthersDetailBg5.jpg	中秋祭月活动排名前三可解锁	

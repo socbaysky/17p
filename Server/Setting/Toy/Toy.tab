@@ -1,0 +1,11 @@
+nId	szName	szClass	szIcon	szAtlas	szFrameColor	szNameColor	szDesc	szOutput	nSort
+1	小风车	ToyWindmill	Toys_xiaofengche	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	民间小童喜爱之物，可吹出多彩气泡	[FFFE0D]第8日登入领奖[-]获取	1
+2	迎客小童	ToyChild	Toys_yingkexiaotong	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	神奇的玩偶，锣鼓喧天迎贵客	[FFFE0D]成就·功成名就[-]获取	2
+3	琉璃灯	ToyLight	Toys_liulideng	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	集万众目光於一身	[FFFE0D]剑侠尊享10礼包[-]获取	3
+4	化骨散	ToyFreeze	Toys_huagusan	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	杀人无形，但是好像过期了	[FFFE0D]成就·十项全能[-]获取	4
+5	青风	ToyHat	Toys_qingfeng	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	春意常伴，春风袭人	[FFFE0D]成就·虽远必诛[-]获取	5
+6	天魔笛	ToyDance	Toys_tianmodi	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	西域传来的魔笛，可影响他人心志	[FFFE0D]成就·样样精通[-]获取	6
+7	笑春风	ToyLaugh	Toys_xiaochunfeng	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	伸手不打笑脸人，来给大爷笑一个	[FFFE0D]成就·礼尚往来[-]获取	7
+8	面具	ToyMask	Toys_mianju	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	我们不是外貌协会，戴上面具寻佳人	[FFFE0D]剑意风流任务[-]获取	8
+9	上上大吉签	ToyLabel	Toys_shangshangqian	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	街边算卦的大师遗落的宝物，似有一股灵气	[FFFE0D]成就·倒楣透顶[-]获取	9
+10	剑侠志	ToyBook	Toys_jianxiazhi	UI/Atlas/Item/Item/Item17.prefab	itemframeBlue	Blue	以此纪念我们走过的江湖，或许某日可以打开	[FFFE0D]成就·剑心不老[-]获取	10
