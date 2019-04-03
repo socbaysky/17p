@@ -31,25 +31,25 @@ Battle.tbRevieBuff = {1008, 1, 5} --复活时5秒加速buff
 Battle.STATE_TRANS =  --战场流程控制
 {
 	{	--元帅，杀戮，跨服,百人
-		{nSeconds = 10,   	szFunc = "StartFight",  szDesc = "准备阶段"}, --30秒后执行StartFight todo
-		{nSeconds = 60*12, 	 szFunc = "StopFight",   szDesc = "战斗阶段"}, --进入结算时间
-		{nSeconds = 10,   	szFunc = "CloseBattle", szDesc = "结算阶段"},
+		{nSeconds = 10,   	szFunc = "StartFight",  szDesc = "Chuẩn bị "}, --30秒后执行StartFight todo
+		{nSeconds = 60*12, 	 szFunc = "StopFight",   szDesc = "Chiến đấu "}, --进入结算时间
+		{nSeconds = 10,   	szFunc = "CloseBattle", szDesc = "Tổng kết "},
 	},
 	{
 		--新手战场
-		{nSeconds = 5,   		szFunc = "StartFight",    szDesc = "准备阶段"},
-		{nSeconds = 60*3,   	szFunc = "StopFight",   szDesc = "战斗阶段"},
-		{nSeconds = 10,   		szFunc = "CloseBattle", szDesc = "结算阶段"},
+		{nSeconds = 5,   		szFunc = "StartFight",    szDesc = "Chuẩn bị "},
+		{nSeconds = 60*3,   	szFunc = "StopFight",   szDesc = "Chiến đấu "},
+		{nSeconds = 10,   		szFunc = "CloseBattle", szDesc = "Tổng kết "},
 	},
 	{
-		{nSeconds = 5,   	szFunc = "StartFight",  szDesc = "准备阶段"},
-		{nSeconds = 60*12,  szFunc = "StopFight",   szDesc = "战斗阶段"},
-		{nSeconds = 10,   	szFunc = "CloseBattle", szDesc = "结算阶段"},
+		{nSeconds = 5,   	szFunc = "StartFight",  szDesc = "Chuẩn bị "},
+		{nSeconds = 60*12,  szFunc = "StopFight",   szDesc = "Chiến đấu "},
+		{nSeconds = 10,   	szFunc = "CloseBattle", szDesc = "Tổng kết "},
 	},
 	{	--6v6
-		{nSeconds = 10,   	szFunc = "StartFight",  szDesc = "准备阶段"},
-		{nSeconds = 60*12, 	 szFunc = "StopFight",   szDesc = "战斗阶段"},
-		{nSeconds = 10,   	szFunc = "CloseBattle", szDesc = "结算阶段"},
+		{nSeconds = 10,   	szFunc = "StartFight",  szDesc = "Chuẩn bị "},
+		{nSeconds = 60*12, 	 szFunc = "StopFight",   szDesc = "Chiến đấu "},
+		{nSeconds = 10,   	szFunc = "CloseBattle", szDesc = "Tổng kết "},
 	},
 }
 
@@ -59,26 +59,26 @@ Battle.Second_StateTrans =
 	[2] =  --对应 新手战场的nUseSchedule
 	{
 		[1] = { --第一个state
-				[3] = {szFunc = "ShowReadyInfo", szDesc = "提示倒数计时"}, --剩3s时
+				[3] = {szFunc = "ShowReadyInfo", szDesc = "Gợi ý còn"}, --剩3s时
 			  },
 		[2] = {
-				[10]= {szFunc = "ShowMsg", tbParam = { "本场战场将在10秒后结束"}, szDesc = "结束前倒计时"},
-				[5] = {szFunc = "ShowMsg", tbParam = { "本场战场将在5秒后结束" }, szDesc = "结束前倒计时"},
-				[3] = {szFunc = "ShowMsg", tbParam = { "本场战场将在3秒后结束" }, szDesc = "结束前倒计时"},
-				[2] = {szFunc = "ShowMsg", tbParam = { "本场战场将在2秒后结束" }, szDesc = "结束前倒计时"},
-				[1] = {szFunc = "ShowMsg", tbParam = { "本场战场将在1秒后结束" }, szDesc = "结束前倒计时"},
+				[10]= {szFunc = "ShowMsg", tbParam = { "Chiến trường kết thúc sau 10 giây"}, szDesc = "Kết thúc còn"},
+				[5] = {szFunc = "ShowMsg", tbParam = { "Chiến trường kết thúc sau 5 giây" }, szDesc = "Kết thúc còn"},
+				[3] = {szFunc = "ShowMsg", tbParam = { "Chiến trường kết thúc sau 3 giây" }, szDesc = "Kết thúc còn"},
+				[2] = {szFunc = "ShowMsg", tbParam = { "Chiến trường kết thúc sau 2 giây" }, szDesc = "Kết thúc còn"},
+				[1] = {szFunc = "ShowMsg", tbParam = { "Chiến trường kết thúc sau 1 giây" }, szDesc = "Kết thúc còn"},
 			  },
 	},
 
 	--阵营攻防战
 	[4] = {
 		[1] = {
-			[8] = {szFunc = "ShowReportUi", szDesc = "显示对阵图"}, --剩3s时
-			[7] = {szFunc = "ShowReportUi", szDesc = "显示对阵图"}, --剩3s时
-			[2] = {szFunc = "CloseReportUi", szDesc = "关闭对阵图"};
+			[8] = {szFunc = "ShowReportUi", szDesc = "Hiển thị hình thi đấu"}, --剩3s时
+			[7] = {szFunc = "ShowReportUi", szDesc = "Hiển thị hình thi đấu"}, --剩3s时
+			[2] = {szFunc = "CloseReportUi", szDesc = "Đóng hình thi đấu"};
 		  },
 		[2] = {
-			[0] = {szFunc = "CloseReportUi", szDesc = "关闭对阵图"}; --切状态时也执行
+			[0] = {szFunc = "CloseReportUi", szDesc = "Đóng hình thi đấu"}; --切状态时也执行
 		}
 	};
 
@@ -100,13 +100,13 @@ Battle.READY_MAP_POS = { --准备地图出生点
 Battle.tbAllBattleSetting = {
 	["BattleKill"] =
 	{
-		szName 			= "杀戮战场",
+		szName 			= "Chiến Trường PK",
 		nMapTemplateId  = 1010,
 		bCanLowerZone   = true; --可以是低阶战场
 		nCalendarType   = 1;
 		nShowLevel  	= 1; --同时出现多个战场时的优先级别，越高优先级越高,同时在Battle.tbMapSetting的配置就在前面
 		nMinLevel 		= 24, 			--参加最小等级
-		nPlayerMinNum 	= 2, 		 	--开启战场的最小人数
+		nPlayerMinNum 	= 12, 		 	--开启战场的最小人数
 		nPlayerMaxNum 	= 40,  	 		--开启战场的最大人数
 		szLogicClass 	= "BattleKill",
 		tbPos  			= {
@@ -120,7 +120,7 @@ Battle.tbAllBattleSetting = {
 						  },
 		tbAwardSetBig	= "BattleAward1",
 		tbAwardSetSmall	= "BattleAward1",
-		tbTeamNames		= {"宋方", "金方"},
+		tbTeamNames		= {"Tống", "Kim"},
 		tbInitDir 	  	= {18, 49},
 		tbCamVal 		= {Npc.CampTypeDef.camp_type_song, Npc.CampTypeDef.camp_type_jin},
 		nUseSchedule	= 1, --使用哪一套流程控制
@@ -133,13 +133,13 @@ Battle.tbAllBattleSetting = {
 
 	["BattleDota"] =
 	{
-		szName 			= "元帅保卫战场",
+		szName 			= "Bảo Vệ Nguyên Soái",
 		nMapTemplateId 	= 1002, 		--是可以同地图模版的
 		bCanLowerZone   = true; --可以是低阶战场
 		nCalendarType   = 1;
 		nShowLevel  	= 1;
 		nMinLevel 		= 24,
-		nPlayerMinNum 	= 2,
+		nPlayerMinNum 	= 12,
 		nPlayerMaxNum 	= 40,
 		szLogicClass 	= "BattleDota",
 		tbPos  			= {
@@ -153,7 +153,7 @@ Battle.tbAllBattleSetting = {
 						  },
 		tbAwardSetBig	= "BattleAward1",
 		tbAwardSetSmall	= "BattleAward1",
-		tbTeamNames 	= {"宋方", "金方"},
+		tbTeamNames 	= {"Tống", "Kim"},
 		tbNpcTimeFrame 	= {
 							{"OpenLevel39", 40 };
 							{"OpenDay10", 	45 };
@@ -177,7 +177,7 @@ Battle.tbAllBattleSetting = {
 
 	["BattleCross"] =
 	{
-		szName 			= "跨服战场",
+		szName 			= "Chiến Trường Liên SV",
 		bZone 			= true;--是否只是跨服开
 		bShowName  		= true; --对应叹号和滚屏会显示其名字而不是宋金战场；
 		nShowLevel  	= 2;
@@ -200,7 +200,7 @@ Battle.tbAllBattleSetting = {
 		tbAwardSetBig	= "BattleAwardCross",
 		tbAwardSetSmall	= "BattleAwardCross",
 		tbAwardDifferentInLevel = { 90, "BattleAwardCross_2" };
-		tbTeamNames		= {"宋方", "金方"},
+		tbTeamNames		= {"Tống", "Kim"},
 		tbInitDir 	  	= {18, 49},
 		tbCamVal 		= {Npc.CampTypeDef.camp_type_song, Npc.CampTypeDef.camp_type_jin},
 		nUseSchedule	= 1, --使用哪一套流程控制
@@ -213,7 +213,7 @@ Battle.tbAllBattleSetting = {
 
 	["BattleHundred"] =
 	{
-		szName 			= "百人战场",
+		szName 			= "Chiến Trường Bách Nhân",
 		bZone 			= true;
 		bShowName  		= true; --对应叹号和滚屏会显示其名字而不是宋金战场；
 		nShowLevel  	= 3;
@@ -236,7 +236,7 @@ Battle.tbAllBattleSetting = {
 		tbAwardSetBig	= "BattleAwardHundred",
 		tbAwardSetSmall	= "BattleAwardHundred",
 		tbAwardDifferentInLevel = { 90, "BattleAwardHundred_2" };
-		tbTeamNames		= {"宋方", "金方"},
+		tbTeamNames		= {"Tống", "Kim"},
 		tbInitDir 	  	= {18, 49},
 		tbCamVal 		= {Npc.CampTypeDef.camp_type_song, Npc.CampTypeDef.camp_type_jin},
 		nUseSchedule	= 1, --使用哪一套流程控制
@@ -248,7 +248,7 @@ Battle.tbAllBattleSetting = {
 
 	["BattleMonth"] =
 	{
-		szName 			= "月度战场",
+		szName 			= "Chiến Trường Tháng",
 		bZone 			= true;
 		bShowName  		= true; --对应叹号和滚屏会显示其名字而不是宋金战场；
 		nShowLevel  	= 4;
@@ -269,7 +269,7 @@ Battle.tbAllBattleSetting = {
 						  },
 		tbAwardSetBig	= "BattleAwardMonth",
 		tbAwardSetSmall	= "BattleAwardMonth",
-		tbTeamNames		= {"宋方", "金方"},
+		tbTeamNames		= {"Tống", "Kim"},
 		tbInitDir 	  	= {18, 49},
 		tbCamVal 		= {Npc.CampTypeDef.camp_type_song, Npc.CampTypeDef.camp_type_jin},
 		nUseSchedule	= 1, --使用哪一套流程控制
@@ -284,14 +284,14 @@ Battle.tbAllBattleSetting = {
 		fnGetQualifyMatchTime = "GetQualifyMatchTimeMonth";
 		ChechConditionFunc = "IsQualifyInMonthBattle";
 		tbRankNotify = {
-			{nRankEnd = 1, szKinNotify = "恭喜本帮派的%s获得了月度战场的第%d名", szWorldNotify = "恭喜%s获得了月度战场的第%d名"}; --排名对应的家族，世界公告
-			{nRankEnd = 3, szKinNotify = "恭喜本帮派的%s获得了月度战场的第%d名", };
+			{nRankEnd = 1, szKinNotify = "%s của bang đoạt hạng %d của Chiến Trường Tháng", szWorldNotify = "%s đoạt hạng %d của Chiến Trường Tháng"}; --排名对应的家族，世界公告
+			{nRankEnd = 3, szKinNotify = "%s của bang đoạt hạng %d của Chiến Trường Tháng", };
 		};
 	},
 
 	["BattleSeason"] =
 	{
-		szName 			= "季度战场",
+		szName 			= "Chiến Trường Quý",
 		bZone 			= true;
 		bShowName  		= true; --对应叹号和滚屏会显示其名字而不是宋金战场；
 		nShowLevel  	= 5;
@@ -312,7 +312,7 @@ Battle.tbAllBattleSetting = {
 						  },
 		tbAwardSetBig	= "BattleAwardSeason",
 		tbAwardSetSmall	= "BattleAwardSeason",
-		tbTeamNames		= {"宋方", "金方"},
+		tbTeamNames		= {"Tống", "Kim"},
 		tbInitDir 	  	= {18, 49},
 		tbCamVal 		= {Npc.CampTypeDef.camp_type_song, Npc.CampTypeDef.camp_type_jin},
 		nUseSchedule	= 1, --使用哪一套流程控制
@@ -321,20 +321,20 @@ Battle.tbAllBattleSetting = {
 		nKeyQualifyTime = 6; --获取季度战场的时间
 		nQualifyMinRank = 20;
 		nQualifyTitleId = 217; --获取资格时获得的称号id
-		szQUalifyNotifyMsg = "恭喜您获得本季度的季度战场资格"; --获取资格时的提示文字
+		szQUalifyNotifyMsg = "Đại hiệp nhận được quyền tham gia Chiến Trường Quý của quý này"; --获取资格时的提示文字
 		szQualifyType = "Season";
 		-- szQualifyBattleLogic = "BattleYear";
 		fnGetQualifyMatchTime = "GetQualifyMatchTimeSeason";
 		ChechConditionFunc = "IsQualifyInSeasonBattle";
 		tbRankNotify = {
-			{nRankEnd = 1, szKinNotify = "恭喜%s获得了季度战场的第%d名", szWorldNotify = "恭喜%s获得了季度战场的第%d名"}; --排名对应的家族，世界公告
-			{nRankEnd = 3, szKinNotify = "恭喜%s获得了季度战场的第%d名", };
+			{nRankEnd = 1, szKinNotify = "%s đoạt hạng %d của Chiến Trường Tháng", szWorldNotify = "%s đoạt hạng %d của Chiến Trường Tháng"}; --排名对应的家族，世界公告
+			{nRankEnd = 3, szKinNotify = "%s đoạt hạng %d của Chiến Trường Tháng", };
 		};
 	},
 
 	["BattleMoba"] =
 	{
-		szName 			= "宋金攻防战",
+		szName 			= "Công Phòng Chiến",
 		nShowLevel  	= 4;
 		bShowName  		= true; --对应叹号和滚屏会显示其名字而不是宋金战场；
 		OpenTimeFrame 	= "OpenLevel99";
@@ -379,10 +379,10 @@ Battle.tbAllBattleSetting = {
 							[Env.LogRound_FAIL]    =  {{"BasicExp", 60}, {"Item", 6111, 2} };
 						  },
 		tbAwardMsg  	= {
-							[Env.LogRound_SUCCESS] = "    恭喜，本次阵营攻防战中，本方[FFFE0D]（%s）[-]获胜！附件是%s后勤准备的些许奖励，以资鼓励！";
-							[Env.LogRound_FAIL] = "    很遗憾，本次阵营攻防战中，本方[FFFE0D]（%s）[-]惜败！附件是%s后勤准备的些许奖励，以资鼓励！";
+							[Env.LogRound_SUCCESS] = "    Chúc mừng, phe [FFFE0D]%s[-] đã chiến thắng, nhận được phần thưởng %s!";
+							[Env.LogRound_FAIL] = "    Rất tiếc, phe [FFFE0D]%s[-] đã thất bại, nhận được phần thưởng %s!";
 						  };
-		tbTeamNames		= {"宋方", "金方"},
+		tbTeamNames		= {"Tống", "Kim"},
 		tbInitDir 	  	= {18, 49},
 		tbCamVal 		= {Npc.CampTypeDef.camp_type_song, Npc.CampTypeDef.camp_type_jin},
 		nUseSchedule	= 4, --使用哪一套流程控制
@@ -394,13 +394,13 @@ Battle.tbAllBattleSetting = {
 	{
 		szLogicClass 	= "BattleAlone",
 		nShowLevel  	= 0;
-		szName 			= "新手战场",
+		szName 			= "Chiến Trường Tân Thủ",
 		nMapTemplateId 	= 1020, 		--是可以同地图模版的
 		tbPos  			= {
 							{{1281,  3232},{1347,  3519},{1289,  2862},{1632,  3211},{1539,  3466},{1498,  2850},},
 							{{9980, 3211},{9912,  3396},{9546,  3379},{9552,  3211},{9627,  2920},{9918,  2908},},
 						  },
-		tbTeamNames 	= {"宋方", "金方"},
+		tbTeamNames 	= {"Tống", "Kim"},
 		tbCamVal 		= {Npc.CampTypeDef.camp_type_song, Npc.CampTypeDef.camp_type_jin},
 		nUseSchedule	= 2, --流程控制
 		nUseScheduleSecond	= 1,
@@ -465,7 +465,7 @@ Battle.tbAllBattleSetting = {
 
 	["BattleYear"] = 
 	{
-		szName 			= "年度战场",
+		szName 			= "Chiến Trường Năm",
 		bZone 			= true;
 		bShowName  		= true; --对应叹号和滚屏会显示其名字而不是宋金战场；
 		nShowLevel  	= 6;
@@ -486,7 +486,7 @@ Battle.tbAllBattleSetting = {
 						  },
 		tbAwardSetBig	= "BattleAwardYear",
 		tbAwardSetSmall	= "BattleAwardYear",
-		tbTeamNames		= {"宋方", "金方"},
+		tbTeamNames		= {"Tống", "Kim"},
 		tbInitDir 	  	= {18, 49},
 		tbCamVal 		= {Npc.CampTypeDef.camp_type_song, Npc.CampTypeDef.camp_type_jin},
 		nUseSchedule	= 1, --使用哪一套流程控制
@@ -494,14 +494,14 @@ Battle.tbAllBattleSetting = {
 
 		nKeyQualifyTime = 7; --获取年度赛资格的时间
 		nQualifyTitleId = 218; --获取资格时获得的称号id
-		szQUalifyNotifyMsg = "恭喜您获得明年一月份的年度战场资格"; --获取资格时的提示文字
+		szQUalifyNotifyMsg = "Đại hiệp nhận được quyền tham gia Chiến Trường Năm của tháng 1 năm sau"; --获取资格时的提示文字
 		szQualifyType = "Year";
 		fnGetQualifyMatchTime = "GetQualifyMatchTimeYear";
 		ChechConditionFunc = "IsQualifyInYearBattle";
 
 		tbRankNotify = {
-			{nRankEnd = 1, szKinNotify = "恭喜本帮派的%s获得了月度战场的第%d名", szWorldNotify = "恭喜%s获得了月度战场的第%d名"}; --排名对应的家族，世界公告
-			{nRankEnd = 3, szKinNotify = "恭喜本帮派的%s获得了月度战场的第%d名", };
+			{nRankEnd = 1, szKinNotify = "%s của bang đoạt hạng %d của Chiến Trường Tháng", szWorldNotify = "%s đoạt hạng %d của Chiến Trường Tháng"}; --排名对应的家族，世界公告
+			{nRankEnd = 3, szKinNotify = "%s của bang đoạt hạng %d của Chiến Trường Tháng", };
 		};
 	};
 }
@@ -608,12 +608,12 @@ Battle.tbTitleLevelSet = {
 Battle.tbComboLevelSet =
 {
 	{nComboCount = 0,   																			},
-	{nComboCount = 3,	szKilledNotify = "%s终结了%s的勇冠三军",  szNotify = "%s已经勇冠三军！",	},
-	{nComboCount = 5,	szKilledNotify = "%s终结了%s的接近暴走",  szNotify = "%s已经接近暴走！",	},
-	{nComboCount = 10,	szKilledNotify = "%s终结了%s的无人可挡",  szNotify = "%s已经无人可挡！",	},
-	{nComboCount = 15,	szKilledNotify = "%s终结了%s的主宰比赛",  szNotify = "%s已经主宰比赛！",	},
-	{nComboCount = 20,	szKilledNotify = "%s终结了%s的接近神",    szNotify = "%s已经接近神了！",	},
-	{nComboCount = 30,	szKilledNotify = "%s终结了%s的超神",      szNotify = "%s已经超神！",		},
+	{nComboCount = 3,	szKilledNotify = "%s đã kết liễu %s",  szNotify = "%s đã rất anh dũng!",	},
+	{nComboCount = 5,	szKilledNotify = "%s đã kết thúc Bạo Tẩu của %s",  szNotify = "%s đã đạt đến Bạo Tẩu!",	},
+	{nComboCount = 10,	szKilledNotify = "%s đã kết thúc Vô Địch của %s",  szNotify = "%s đã đạt đến Vô Địch!",	},
+	{nComboCount = 15,	szKilledNotify = "%s đã kết thúc Thống Trị của %s",  szNotify = "%s đã Thống Trị trận đấu!",	},
+	{nComboCount = 20,	szKilledNotify = "%s đã kết thúc Như Thần của %s",    szNotify = "%s đã đạt đến Như Thần!",	},
+	{nComboCount = 30,	szKilledNotify = "%s đã kết thúc Siêu Thần của %s",      szNotify = "%s đã đạt đến Siêu Thần!",		},
 }
 
 
@@ -626,8 +626,8 @@ Battle.tbComboLevelSet =
 Battle.tbAllAwardSet = {
 	tbExChangeBoxInfo =
 	{
-		{755, 1000, "黄金宝箱"}, --荣誉兑换的黄金宝箱id, 所需要的荣誉
-		{2148, 500, "白银宝箱"} , --白银宝箱Id，需要荣誉
+		{755, 1000, "Rương Hoàng Kim"}, --荣誉兑换的黄金宝箱id, 所需要的荣誉
+		{2148, 500, "Rương Bạch Ngân"} , --白银宝箱Id，需要荣誉
 	},
 	tbExChangeBoxInfo2 = --跨服百人90级以后兑换的宝箱
 	{
@@ -781,7 +781,7 @@ local fnSetIndex = function ()
 	local szExchangeTip = ""
 	local tbExChangeBoxInfo = Battle.tbAllAwardSet.tbExChangeBoxInfo
 	for i, v in ipairs(tbExChangeBoxInfo) do
-		szExchangeTip = szExchangeTip .. string.format(", 每%d荣誉兑换1个%s", v[2], v[3])
+		szExchangeTip = szExchangeTip .. string.format(", mỗi %d Vinh Dự đổi 1 %s", v[2], v[3])
 	end
 	szExchangeTip = string.sub(szExchangeTip, 2)
 	Battle.szBoxExchangeTip = szExchangeTip
@@ -793,7 +793,7 @@ fnSetIndex();
 function Battle:CheckCanSignUp(pPlayer, tbBattleSetting)
 	if self.LegalMap[pPlayer.nMapTemplateId] ~= 1 then
 		if Map:GetClassDesc(pPlayer.nMapTemplateId) ~= "fight" or pPlayer.nFightMode ~= 0 then
-			return false, "您目前所在地不能被传入战场"
+			return false, "Nơi hiện tại không thể truyền tống vào Chiến Trường"
 		end
 	end
 
@@ -814,11 +814,11 @@ function Battle:CheckCanSignUp(pPlayer, tbBattleSetting)
 					RemoteServer.BuyCount("Battle", nBuyCount) --self.szRefreshUi
 				end
 
-				Ui:OpenWindow("MessageBox", string.format("次数不足，确定购买 [FFFE0D]%d次[-] 次数吗", nBuyCount),
-					{ {fnConfirmBuy}  }, {"确定", "取消"})
+				Ui:OpenWindow("MessageBox", string.format("Số lần không đủ, mua [FFFE0D]%d lần[-]?", nBuyCount),
+					{ {fnConfirmBuy}  }, {"Đồng ý", "Hủy"})
 			end
 		end
-		return false, "您的次数不足"
+		return false, "Số lần không đủ"
 	end
 
 	--其他条件 todo

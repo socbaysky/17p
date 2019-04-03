@@ -266,7 +266,7 @@ end
 function Achievement:GetPushMsg(szMainKind, nLevel)
     local tbLevelInfo = self:GetLevelInfo(szMainKind, nLevel) or {}
     if tbLevelInfo.NeedPush == 1 then
-        local szMsg = string.format("达成了<成就：%s>", tbLevelInfo.Title)
+        local szMsg = string.format(" đã đạt <Thành Tựu：%s>", tbLevelInfo.Title)
         return szMsg
     end
 end
